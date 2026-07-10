@@ -48,8 +48,13 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore: update postings ($(date -u +%Y-%m-%dT%H:%MZ))"
-            git push
+            echo "No changes to commit."; exit 0
           fi
+          git commit -m "chore: update postings ($(date -u +%Y-%m-%dT%H:%MZ))"
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              exit 0
+            fi
+            echo "push attempt $i failed (non-fast-forward?); retrying..."; sleep 3
+          done
+          echo "push failed after retries"; exit 1

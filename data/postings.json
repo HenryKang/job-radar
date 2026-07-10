@@ -1,21 +1,39 @@
 [
   {
-    "id": "4fb40e3b386dda97",
-    "company": "Optiver",
-    "title": "Quantitative Intern (Summer 2027)",
+    "id": "080e66fa3edf026d",
+    "company": "Point72",
+    "title": "Quantitative Developer Intern",
     "locations": [
-      "Chicago, Illinois, United States"
+      "New York, NY"
     ],
-    "url": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
-    "season": "",
-    "source": "ats:greenhouse:optiverus",
+    "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1776617698,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'jobexpired'"
+  },
+  {
+    "id": "f3416bc9f3f1faae",
+    "company": "Point72",
+    "title": "Quantitative Researcher Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783700937,
-    "date_found": 1783712343,
+    "sponsorship": "Other",
+    "date_posted": 1776617702,
+    "date_found": 1783712787,
     "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (phd candidate)"
   },
   {
     "id": "535b6a005c164668",
@@ -30,7 +48,154 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776715588,
-    "date_found": 1783712343,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7e4212a11107ad93",
+    "company": "Fiserv",
+    "title": "Technology Intern",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1776727395,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 410"
+  },
+  {
+    "id": "6a575b05c16859bd",
+    "company": "TETRAMEM",
+    "title": "Software Engineer Intern, Embedded",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1776727513,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c60633b52315b288",
+    "company": "Intercontinental Exchange, Inc.",
+    "title": "Artificial Intelligence, Data & Machine Learning Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1776727516,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "397b1755664797fc",
+    "company": "Ether.fi",
+    "title": "GTM Engineer Intern",
+    "locations": [
+      "Cayman",
+      "Denver",
+      "New York"
+    ],
+    "url": "https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1776914894,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8495d27f0afc2846",
+    "company": "H&CO",
+    "title": "Software Development Intern",
+    "locations": [
+      "Coral Gables, FL"
+    ],
+    "url": "https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1776914902,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "d680bc838f4bfff6",
+    "company": "Al Warren Oil Company",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Bensenville, IL"
+    ],
+    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1777071076,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f0fe279704fd2e59",
+    "company": "TikTok",
+    "title": "LLM Post-training Engineer Intern, Research & Product",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7631599293708126517",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1777084447,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "1289601f76ddec63",
+    "company": "Homebase",
+    "title": "Forward Deployed Engineering Intern, AI-Native",
+    "locations": [
+      "Houston, TX",
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1777366779,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -52,691 +217,477 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778311144,
-    "date_found": 1783712343,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "workday gone (http 403)"
+  },
+  {
+    "id": "8518abf8a19ddc6c",
+    "company": "Veeam Software",
+    "title": "Software Engineering Intern, Platform, Security & AI",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1778312442,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
   },
   {
-    "id": "a719049d40c58abf",
-    "company": "Optiver",
-    "title": "Software Engineer Intern (Summer 2027 - Austin)",
+    "id": "d97b08e00ffdf9e7",
+    "company": "Veeam Software",
+    "title": "Software Engineering Intern, Policy Engineering",
     "locations": [
-      "Austin, Texas, United States"
+      "San Jose, CA"
     ],
-    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
-    "season": "",
-    "source": "ats:greenhouse:optiverus",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783700937,
-    "date_found": 1783709278,
+    "sponsorship": "Other",
+    "date_posted": 1778312558,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8785141e5ce37e8d",
+    "company": "Dedalus Labs",
+    "title": "Forward Deployed Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.workatastartup.com/jobs/94400",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1778324469,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "05c2596e64621a19",
+    "company": "DimeHealth AI",
+    "title": "Forward Deployed Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.workatastartup.com/jobs/94211",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1778324474,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f39e627926f9a869",
+    "company": "General Astronautics",
+    "title": "Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.workatastartup.com/jobs/94206",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1778324484,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "dda37e0fa40c0a14",
+    "company": "Paragon",
+    "title": "Forward Deployed Engineer (FDE) Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.workatastartup.com/jobs/93642",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1778324488,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6833ce3d250e0eb8",
+    "company": "Apex Technology, Inc.",
+    "title": "Software Engineering Intern, Embedded Systems",
+    "locations": [
+      "Los Angeles"
+    ],
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1778525954,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "41dbd5f57a46565a",
+    "company": "WSP",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1778578835,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "20ab789763093b8b",
+    "company": "Terranox AI",
+    "title": "Summer Intern - AI/ML Engineering",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.workatastartup.com/jobs/94631",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1778752850,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e470efe9b5b2c6da",
+    "company": "Abundant",
+    "title": "Software Engineering Intern, Research Focused",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.workatastartup.com/jobs/94634",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1778752853,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cb37692db0251264",
+    "company": "Naïve",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA",
+      "Remote"
+    ],
+    "url": "https://www.workatastartup.com/jobs/94647",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1778752855,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "562d701982680518",
+    "company": "StarSling",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://www.workatastartup.com/jobs/95003",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1779203170,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5e10d95f8d930bea",
+    "company": "Nash",
+    "title": "Full Stack Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.workatastartup.com/jobs/94993",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1779203174,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "57bf687aae37d811",
+    "company": "Podium",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Lehi, UT"
+    ],
+    "url": "https://job-boards.greenhouse.io/podium81/jobs/7939921",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1779204617,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
   },
   {
-    "id": "d954e5cc5c9fbe19",
-    "company": "Optiver",
-    "title": "Software Engineer Intern (Summer 2027 - Chicago)",
+    "id": "17325ce9ad5aa95c",
+    "company": "Susquehanna",
+    "title": "Trading System Engineering Intern",
     "locations": [
-      "Chicago, Illinois, United States"
+      "Bala Cynwyd, PA"
     ],
-    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
-    "season": "",
-    "source": "ats:greenhouse:optiverus",
+    "url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783700937,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1779484585,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
   },
   {
-    "id": "9d0956447ae05571",
-    "company": "Jump Trading",
-    "title": "Campus AI Research Engineer - Deep Learning (Intern)",
+    "id": "2509a6802b093081",
+    "company": "LiveRamp",
+    "title": "Software Engineer Intern, Pixel Serving",
     "locations": [
-      "Chicago; New York"
+      "New York, NY"
     ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
+    "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783546640,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
+    "sponsorship": "Other",
+    "date_posted": 1779486020,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "workday gone (http 403)"
   },
   {
-    "id": "9cc30c108d4c77b3",
-    "company": "Jump Trading",
-    "title": "Campus AI Research Engineer (Intern)",
+    "id": "4e3eb36355d463b1",
+    "company": "Kudu Dynamics",
+    "title": "Software Engineer Intern",
     "locations": [
-      "Chicago; New York"
+      "Chantilly, VA"
     ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783643987,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
+    "sponsorship": "Other",
+    "date_posted": 1779486105,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "workday gone (http 404)"
   },
   {
-    "id": "95e253354baaa745",
-    "company": "Jump Trading",
-    "title": "Campus AI Research Engineer – Research Automation (Intern)",
+    "id": "0bea9b3ea38f603e",
+    "company": "Kudu Dynamics",
+    "title": "Software Engineer Intern",
     "locations": [
-      "Chicago; New York"
+      "Chantilly, VA"
     ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783546670,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
+    "sponsorship": "Other",
+    "date_posted": 1779486107,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "workday gone (http 404)"
   },
   {
-    "id": "9026ece91c9d8ec7",
-    "company": "Jump Trading",
-    "title": "Campus Data Engineer (Intern)",
+    "id": "4f773111bd5e11d6",
+    "company": "Kudu Dynamics",
+    "title": "Software Engineer Intern",
     "locations": [
-      "Chicago"
+      "Chantilly, VA"
     ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783643551,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
+    "sponsorship": "Other",
+    "date_posted": 1779486110,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "workday gone (http 404)"
   },
   {
-    "id": "14686cc28c92bb88",
-    "company": "Jump Trading",
-    "title": "Campus FPGA Engineer (Intern)",
+    "id": "ff1626caff8766a6",
+    "company": "Apple",
+    "title": "Software Engineering Intern, Masters",
     "locations": [
-      "Chicago"
+      "United States"
     ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
+    "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783546573,
-    "date_found": 1783709278,
+    "sponsorship": "Other",
+    "date_posted": 1779486118,
+    "date_found": 1783712787,
     "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
-    "id": "ef283f51c664da57",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Researcher, UG/MS (Intern)",
+    "id": "f93d921c26f67ffc",
+    "company": "Apple",
+    "title": "Software Engineer Intern, Undergrad",
     "locations": [
-      "Chicago; New York"
+      "United States"
     ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783546558,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "96cf8c01f96b598d",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Trader (Intern)",
-    "locations": [
-      "Chicago; New York"
-    ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783546547,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "e1be00dfd2e4a0ca",
-    "company": "Jump Trading",
-    "title": "Campus Software Engineer (Intern)",
-    "locations": [
-      "Chicago"
-    ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
+    "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783546532,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
+    "sponsorship": "Other",
+    "date_posted": 1779486282,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
   },
   {
-    "id": "0860f44d58d78ea2",
-    "company": "Jump Trading",
-    "title": "Campus Systems Engineer (Intern)",
-    "locations": [
-      "Chicago"
-    ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783641147,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "17b7fd34f9b46d9d",
-    "company": "Jump Trading",
-    "title": "Campus UI Software Engineer (Intern)",
-    "locations": [
-      "Chicago"
-    ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783546513,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "e2117bb2f7a44380",
-    "company": "IMC Trading",
-    "title": "2027 - Quant Research Intern - IIT Bombay",
-    "locations": [
-      "Amsterdam, Netherlands; Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860277101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783430009,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "241cccb65c81611e",
-    "company": "IMC Trading",
-    "title": "2027 - Quant Research Intern - IIT Delhi",
-    "locations": [
-      "Amsterdam, Netherlands; Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917441101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783430009,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "3d3b5a8fb7e15ed0",
-    "company": "IMC Trading",
-    "title": "2027 - Quant Research Intern - IIT Kharagpur",
-    "locations": [
-      "Amsterdam, Netherlands; Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917442101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783430011,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "e715c7f036d8d789",
-    "company": "IMC Trading",
-    "title": "2027 - Quant Research Intern - IIT Madras",
-    "locations": [
-      "Amsterdam, Netherlands; Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917439101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783430012,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "2745b505a2636992",
-    "company": "IMC Trading",
-    "title": "2027 - Software Engineering Intern - BITS Pilani",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783431231,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "28f07fd2e1c87c21",
-    "company": "IMC Trading",
-    "title": "2027 - Software Engineering Intern - IIT Bombay",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860319101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783431283,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "18c34d75a1ff8631",
-    "company": "IMC Trading",
-    "title": "2027 - Software Engineering Intern - IIT Delhi",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783431312,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "355f4ad532e12c60",
-    "company": "IMC Trading",
-    "title": "2027 - Software Engineering Intern - IIT Guwahati",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917542101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783431340,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "52bada2265f27c2f",
-    "company": "IMC Trading",
-    "title": "2027 - Software Engineering Intern - IIT Kharagpur",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917545101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783431359,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "2ea6d19797dcca66",
-    "company": "IMC Trading",
-    "title": "2027 - Software Engineering Intern - IIT Madras",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917547101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783431400,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "582d64f91e4cfb6c",
-    "company": "IMC Trading",
-    "title": "Hardware Engineer Intern - Summer 2027",
-    "locations": [
-      "Chicago, United States"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1782925823,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "ddddfe1d91b4a14b",
-    "company": "IMC Trading",
-    "title": "Machine Learning Research Intern - Summer 2027 - Amsterdam",
-    "locations": [
-      "Amsterdam, Netherlands"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "ml_data",
-    "sponsorship": "",
-    "date_posted": 1783524931,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "d6532dc12fc33500",
-    "company": "IMC Trading",
-    "title": "Machine Learning Research Intern - Summer 2027 - Chicago",
-    "locations": [
-      "Chicago, United States"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "ml_data",
-    "sponsorship": "",
-    "date_posted": 1783524921,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "phd_only",
-    "elig_reason": "phd signal (pursuing a phd)"
-  },
-  {
-    "id": "6ec23f7f1df7ec6d",
-    "company": "IMC Trading",
-    "title": "Quantitative Research Intern (BS/MS) - Summer 2027",
-    "locations": [
-      "Chicago, United States"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783524968,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "8dc08eac954aa0cb",
-    "company": "IMC Trading",
-    "title": "Quantitative Trader Intern - Summer 2027",
-    "locations": [
-      "Chicago, United States"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1782925872,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "33e33fdf24cab9e1",
-    "company": "IMC Trading",
-    "title": "Software Engineer Intern - Summer 2027",
-    "locations": [
-      "Chicago, United States"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1782925914,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "b1d4f884c3fab382",
-    "company": "Point72",
-    "title": "Machine Learning Researcher - Intern",
-    "locations": [
-      "New York"
-    ],
-    "url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
-    "season": "",
-    "source": "ats:greenhouse:point72",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "phd_only",
-    "elig_reason": "phd signal (enrolled in a phd)"
-  },
-  {
-    "id": "ad88c06def3df394",
-    "company": "Point72",
+    "id": "23041ff8578be988",
+    "company": "Voloridge Investment Management",
     "title": "Quantitative Developer Intern",
     "locations": [
-      "New York"
+      "Jupiter, FL"
     ],
-    "url": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
-    "season": "",
-    "source": "ats:greenhouse:point72",
+    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
+    "sponsorship": "Other",
+    "date_posted": 1779501421,
+    "date_found": 1783712787,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
   },
   {
-    "id": "de48e90869de0880",
-    "company": "Point72",
-    "title": "Quantitative Researcher Intern",
+    "id": "1402e7805cf45fd8",
+    "company": "Aquatic Capital",
+    "title": "Software Engineer Intern",
     "locations": [
-      "New York"
+      "Chicago, IL"
     ],
-    "url": "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002",
-    "season": "",
-    "source": "ats:greenhouse:point72",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783709278,
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1779501433,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "phd_only",
-    "elig_reason": "phd signal (phd candidate)"
+    "elig_reason": "phd signal (phd in )"
   },
   {
-    "id": "122e8bddc1f1b89d",
-    "company": "Point72",
-    "title": "Quantitative Researcher - Intern",
+    "id": "0bc2ba7cc7b59789",
+    "company": "Stoke Space",
+    "title": "Software Engineer Intern",
     "locations": [
-      "London, Paris, Hong Kong, Tokyo"
+      "Kent, WA"
     ],
-    "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
-    "season": "",
-    "source": "ats:greenhouse:point72",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "0e28fea6b9c13162",
-    "company": "Point72",
-    "title": "Quantitative Research Intern",
-    "locations": [
-      "New York, Seattle"
-    ],
-    "url": "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002",
-    "season": "",
-    "source": "ats:greenhouse:point72",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "phd_only",
-    "elig_reason": "phd signal (phd candidate)"
-  },
-  {
-    "id": "880b860aee042440",
-    "company": "Point72",
-    "title": "Quantitative Research Intern (NLP)",
-    "locations": [
-      "New York"
-    ],
-    "url": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
-    "season": "",
-    "source": "ats:greenhouse:point72",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "64caf993aee48877",
-    "company": "Point72",
-    "title": "Quantitative Software Developer Intern",
-    "locations": [
-      "New York, London, or Paris"
-    ],
-    "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
-    "season": "",
-    "source": "ats:greenhouse:point72",
+    "url": "https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
     "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "fd5aaa749f4fc985",
-    "company": "Point72",
-    "title": "Summer 2027 Quantitative Research Internship",
-    "locations": [
-      "New York"
-    ],
-    "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
-    "season": "",
-    "source": "ats:greenhouse:point72",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783709278,
-    "alive": true,
-    "eligibility": "phd_only",
-    "elig_reason": "phd signal (phd candidate)"
-  },
-  {
-    "id": "02ce99a910c8df39",
-    "company": "Tower Research",
-    "title": "Quantitative Developer Intern - Summer 2027",
-    "locations": [
-      "New York, Chicago"
-    ],
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
-    "season": "",
-    "source": "ats:greenhouse:towerresearchcapital",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783288101,
-    "date_found": 1783709278,
+    "sponsorship": "Other",
+    "date_posted": 1779504071,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
   },
   {
-    "id": "b31837305a5c576e",
-    "company": "Tower Research",
-    "title": "Quantitative Trader Intern - Summer 2027",
+    "id": "de12e310c445bf3a",
+    "company": "Cubist Systematic Strategies",
+    "title": "Quantitative Developer Intern",
     "locations": [
-      "New York, Chicago"
+      "New York, NY"
     ],
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
-    "season": "",
-    "source": "ats:greenhouse:towerresearchcapital",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783288104,
-    "date_found": 1783709278,
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1779504102,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fd0e962549131832",
+    "company": "Tower Research",
+    "title": "Quantitative Developer Intern",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "url": "https://tower-research.com/open-positions/?gh_jid=8044334",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1783425669,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -757,660 +708,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425771,
-    "date_found": 1783708789,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "080e66fa3edf026d",
-    "company": "Point72",
-    "title": "Quantitative Developer Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1776617698,
-    "date_found": 1783708500,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'jobexpired'"
-  },
-  {
-    "id": "f3416bc9f3f1faae",
-    "company": "Point72",
-    "title": "Quantitative Researcher Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "quant",
-    "sponsorship": "Other",
-    "date_posted": 1776617702,
-    "date_found": 1783708500,
-    "alive": true,
-    "eligibility": "phd_only",
-    "elig_reason": "phd signal (phd candidate)"
-  },
-  {
-    "id": "7e4212a11107ad93",
-    "company": "Fiserv",
-    "title": "Technology Intern",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Does Not Offer Sponsorship",
-    "date_posted": 1776727395,
-    "date_found": 1783708338,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 410"
-  },
-  {
-    "id": "6a575b05c16859bd",
-    "company": "TETRAMEM",
-    "title": "Software Engineer Intern, Embedded",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1776727513,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "c60633b52315b288",
-    "company": "Intercontinental Exchange, Inc.",
-    "title": "Artificial Intelligence, Data & Machine Learning Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "ml_data",
-    "sponsorship": "Other",
-    "date_posted": 1776727516,
-    "date_found": 1783708338,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
-  },
-  {
-    "id": "397b1755664797fc",
-    "company": "Ether.fi",
-    "title": "GTM Engineer Intern",
-    "locations": [
-      "Cayman",
-      "Denver",
-      "New York"
-    ],
-    "url": "https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1776914894,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "8495d27f0afc2846",
-    "company": "H&CO",
-    "title": "Software Development Intern",
-    "locations": [
-      "Coral Gables, FL"
-    ],
-    "url": "https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1776914902,
-    "date_found": 1783708338,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
-  },
-  {
-    "id": "d680bc838f4bfff6",
-    "company": "Al Warren Oil Company",
-    "title": "Software Developer Intern",
-    "locations": [
-      "Bensenville, IL"
-    ],
-    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1777071076,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "f0fe279704fd2e59",
-    "company": "TikTok",
-    "title": "LLM Post-training Engineer Intern, Research & Product",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://lifeattiktok.com/search/7631599293708126517",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1777084447,
-    "date_found": 1783708338,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'page not found'"
-  },
-  {
-    "id": "1289601f76ddec63",
-    "company": "Homebase",
-    "title": "Forward Deployed Engineering Intern, AI-Native",
-    "locations": [
-      "Houston, TX",
-      "San Francisco, CA"
-    ],
-    "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1777366779,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "8518abf8a19ddc6c",
-    "company": "Veeam Software",
-    "title": "Software Engineering Intern, Platform, Security & AI",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1778312442,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "d97b08e00ffdf9e7",
-    "company": "Veeam Software",
-    "title": "Software Engineering Intern, Policy Engineering",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1778312558,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "8785141e5ce37e8d",
-    "company": "Dedalus Labs",
-    "title": "Forward Deployed Engineer Intern",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.workatastartup.com/jobs/94400",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1778324469,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "05c2596e64621a19",
-    "company": "DimeHealth AI",
-    "title": "Forward Deployed Engineering Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://www.workatastartup.com/jobs/94211",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Offers Sponsorship",
-    "date_posted": 1778324474,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "f39e627926f9a869",
-    "company": "General Astronautics",
-    "title": "Engineering Intern",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.workatastartup.com/jobs/94206",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1778324484,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "dda37e0fa40c0a14",
-    "company": "Paragon",
-    "title": "Forward Deployed Engineer (FDE) Intern",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.workatastartup.com/jobs/93642",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1778324488,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "6833ce3d250e0eb8",
-    "company": "Apex Technology, Inc.",
-    "title": "Software Engineering Intern, Embedded Systems",
-    "locations": [
-      "Los Angeles"
-    ],
-    "url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1778525954,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "41dbd5f57a46565a",
-    "company": "WSP",
-    "title": "Software Developer Intern",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1778578835,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "20ab789763093b8b",
-    "company": "Terranox AI",
-    "title": "Summer Intern - AI/ML Engineering",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.workatastartup.com/jobs/94631",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1778752850,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "e470efe9b5b2c6da",
-    "company": "Abundant",
-    "title": "Software Engineering Intern, Research Focused",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.workatastartup.com/jobs/94634",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1778752853,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "cb37692db0251264",
-    "company": "Naïve",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "San Francisco, CA",
-      "Remote"
-    ],
-    "url": "https://www.workatastartup.com/jobs/94647",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1778752855,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "562d701982680518",
-    "company": "StarSling",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "url": "https://www.workatastartup.com/jobs/95003",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1779203170,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "5e10d95f8d930bea",
-    "company": "Nash",
-    "title": "Full Stack Engineering Intern",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://www.workatastartup.com/jobs/94993",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1779203174,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "57bf687aae37d811",
-    "company": "Podium",
-    "title": "Software Engineering Intern",
-    "locations": [
-      "Lehi, UT"
-    ],
-    "url": "https://job-boards.greenhouse.io/podium81/jobs/7939921",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779204617,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "17325ce9ad5aa95c",
-    "company": "Susquehanna",
-    "title": "Trading System Engineering Intern",
-    "locations": [
-      "Bala Cynwyd, PA"
-    ],
-    "url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Offers Sponsorship",
-    "date_posted": 1779484585,
-    "date_found": 1783708338,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
-  },
-  {
-    "id": "2509a6802b093081",
-    "company": "LiveRamp",
-    "title": "Software Engineer Intern, Pixel Serving",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779486020,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "4e3eb36355d463b1",
-    "company": "Kudu Dynamics",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "Chantilly, VA"
-    ],
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779486105,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "0bea9b3ea38f603e",
-    "company": "Kudu Dynamics",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "Chantilly, VA"
-    ],
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779486107,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "4f773111bd5e11d6",
-    "company": "Kudu Dynamics",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "Chantilly, VA"
-    ],
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779486110,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "ff1626caff8766a6",
-    "company": "Apple",
-    "title": "Software Engineering Intern, Masters",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779486118,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "grad_only",
-    "elig_reason": "grad-level title"
-  },
-  {
-    "id": "f93d921c26f67ffc",
-    "company": "Apple",
-    "title": "Software Engineer Intern, Undergrad",
-    "locations": [
-      "United States"
-    ],
-    "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779486282,
-    "date_found": 1783708338,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
-  },
-  {
-    "id": "23041ff8578be988",
-    "company": "Voloridge Investment Management",
-    "title": "Quantitative Developer Intern",
-    "locations": [
-      "Jupiter, FL"
-    ],
-    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779501421,
-    "date_found": 1783708338,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
-  },
-  {
-    "id": "1402e7805cf45fd8",
-    "company": "Aquatic Capital",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779501433,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "phd_only",
-    "elig_reason": "phd signal (phd in )"
-  },
-  {
-    "id": "0bc2ba7cc7b59789",
-    "company": "Stoke Space",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "Kent, WA"
-    ],
-    "url": "https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779504071,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "de12e310c445bf3a",
-    "company": "Cubist Systematic Strategies",
-    "title": "Quantitative Developer Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779504102,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "fd0e962549131832",
-    "company": "Tower Research",
-    "title": "Quantitative Developer Intern",
-    "locations": [
-      "Chicago, IL",
-      "New York, NY"
-    ],
-    "url": "https://tower-research.com/open-positions/?gh_jid=8044334",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1783425669,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1428,7 +726,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425885,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -1446,7 +744,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425923,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: \"we couldn't find\""
@@ -1464,7 +762,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783426662,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1482,7 +780,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783427123,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (phd in )"
@@ -1500,7 +798,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783427706,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1523,7 +821,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783427800,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1541,7 +839,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783428054,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1559,7 +857,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783638043,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1578,7 +876,7 @@
     "category": "quant",
     "sponsorship": "Other",
     "date_posted": 1783638143,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1596,7 +894,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783638501,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1614,7 +912,7 @@
     "category": "swe",
     "sponsorship": "Offers Sponsorship",
     "date_posted": 1783638615,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1632,7 +930,709 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783642975,
-    "date_found": 1783708338,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4fb40e3b386dda97",
+    "company": "Optiver",
+    "title": "Quantitative Intern (Summer 2027)",
+    "locations": [
+      "Chicago, Illinois, United States"
+    ],
+    "url": "https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002",
+    "season": "",
+    "source": "ats:greenhouse:optiverus",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783700937,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a719049d40c58abf",
+    "company": "Optiver",
+    "title": "Software Engineer Intern (Summer 2027 - Austin)",
+    "locations": [
+      "Austin, Texas, United States"
+    ],
+    "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002",
+    "season": "",
+    "source": "ats:greenhouse:optiverus",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783700937,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d954e5cc5c9fbe19",
+    "company": "Optiver",
+    "title": "Software Engineer Intern (Summer 2027 - Chicago)",
+    "locations": [
+      "Chicago, Illinois, United States"
+    ],
+    "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002",
+    "season": "",
+    "source": "ats:greenhouse:optiverus",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783700937,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9d0956447ae05571",
+    "company": "Jump Trading",
+    "title": "Campus AI Research Engineer - Deep Learning (Intern)",
+    "locations": [
+      "Chicago; New York"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783546640,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9cc30c108d4c77b3",
+    "company": "Jump Trading",
+    "title": "Campus AI Research Engineer (Intern)",
+    "locations": [
+      "Chicago; New York"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783643987,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "95e253354baaa745",
+    "company": "Jump Trading",
+    "title": "Campus AI Research Engineer – Research Automation (Intern)",
+    "locations": [
+      "Chicago; New York"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783546670,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9026ece91c9d8ec7",
+    "company": "Jump Trading",
+    "title": "Campus Data Engineer (Intern)",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783643551,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "14686cc28c92bb88",
+    "company": "Jump Trading",
+    "title": "Campus FPGA Engineer (Intern)",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783546573,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ef283f51c664da57",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Researcher, UG/MS (Intern)",
+    "locations": [
+      "Chicago; New York"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783546558,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "96cf8c01f96b598d",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Trader (Intern)",
+    "locations": [
+      "Chicago; New York"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783546547,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e1be00dfd2e4a0ca",
+    "company": "Jump Trading",
+    "title": "Campus Software Engineer (Intern)",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8002989",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783546532,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0860f44d58d78ea2",
+    "company": "Jump Trading",
+    "title": "Campus Systems Engineer (Intern)",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783641147,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "17b7fd34f9b46d9d",
+    "company": "Jump Trading",
+    "title": "Campus UI Software Engineer (Intern)",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783546513,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e2117bb2f7a44380",
+    "company": "IMC Trading",
+    "title": "2027 - Quant Research Intern - IIT Bombay",
+    "locations": [
+      "Amsterdam, Netherlands; Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860277101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783430009,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "241cccb65c81611e",
+    "company": "IMC Trading",
+    "title": "2027 - Quant Research Intern - IIT Delhi",
+    "locations": [
+      "Amsterdam, Netherlands; Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917441101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783430009,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3d3b5a8fb7e15ed0",
+    "company": "IMC Trading",
+    "title": "2027 - Quant Research Intern - IIT Kharagpur",
+    "locations": [
+      "Amsterdam, Netherlands; Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917442101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783430011,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e715c7f036d8d789",
+    "company": "IMC Trading",
+    "title": "2027 - Quant Research Intern - IIT Madras",
+    "locations": [
+      "Amsterdam, Netherlands; Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917439101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783430012,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2745b505a2636992",
+    "company": "IMC Trading",
+    "title": "2027 - Software Engineering Intern - BITS Pilani",
+    "locations": [
+      "Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783431231,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "28f07fd2e1c87c21",
+    "company": "IMC Trading",
+    "title": "2027 - Software Engineering Intern - IIT Bombay",
+    "locations": [
+      "Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860319101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783431283,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "18c34d75a1ff8631",
+    "company": "IMC Trading",
+    "title": "2027 - Software Engineering Intern - IIT Delhi",
+    "locations": [
+      "Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917535101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783431312,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "355f4ad532e12c60",
+    "company": "IMC Trading",
+    "title": "2027 - Software Engineering Intern - IIT Guwahati",
+    "locations": [
+      "Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917542101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783431340,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "52bada2265f27c2f",
+    "company": "IMC Trading",
+    "title": "2027 - Software Engineering Intern - IIT Kharagpur",
+    "locations": [
+      "Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917545101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783431359,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2ea6d19797dcca66",
+    "company": "IMC Trading",
+    "title": "2027 - Software Engineering Intern - IIT Madras",
+    "locations": [
+      "Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917547101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783431400,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "582d64f91e4cfb6c",
+    "company": "IMC Trading",
+    "title": "Hardware Engineer Intern - Summer 2027",
+    "locations": [
+      "Chicago, United States"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1782925823,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ddddfe1d91b4a14b",
+    "company": "IMC Trading",
+    "title": "Machine Learning Research Intern - Summer 2027 - Amsterdam",
+    "locations": [
+      "Amsterdam, Netherlands"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1783524931,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d6532dc12fc33500",
+    "company": "IMC Trading",
+    "title": "Machine Learning Research Intern - Summer 2027 - Chicago",
+    "locations": [
+      "Chicago, United States"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1783524921,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (pursuing a phd)"
+  },
+  {
+    "id": "6ec23f7f1df7ec6d",
+    "company": "IMC Trading",
+    "title": "Quantitative Research Intern (BS/MS) - Summer 2027",
+    "locations": [
+      "Chicago, United States"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783524968,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8dc08eac954aa0cb",
+    "company": "IMC Trading",
+    "title": "Quantitative Trader Intern - Summer 2027",
+    "locations": [
+      "Chicago, United States"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1782925872,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "33e33fdf24cab9e1",
+    "company": "IMC Trading",
+    "title": "Software Engineer Intern - Summer 2027",
+    "locations": [
+      "Chicago, United States"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1782925914,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b1d4f884c3fab382",
+    "company": "Point72",
+    "title": "Machine Learning Researcher - Intern",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
+    "season": "",
+    "source": "ats:greenhouse:point72",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1782440025,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (enrolled in a phd)"
+  },
+  {
+    "id": "ad88c06def3df394",
+    "company": "Point72",
+    "title": "Quantitative Developer Intern",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
+    "season": "",
+    "source": "ats:greenhouse:point72",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1782440025,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "de48e90869de0880",
+    "company": "Point72",
+    "title": "Quantitative Researcher Intern",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002",
+    "season": "",
+    "source": "ats:greenhouse:point72",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1782440025,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (phd candidate)"
+  },
+  {
+    "id": "122e8bddc1f1b89d",
+    "company": "Point72",
+    "title": "Quantitative Researcher - Intern",
+    "locations": [
+      "London, Paris, Hong Kong, Tokyo"
+    ],
+    "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
+    "season": "",
+    "source": "ats:greenhouse:point72",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1782440025,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0e28fea6b9c13162",
+    "company": "Point72",
+    "title": "Quantitative Research Intern",
+    "locations": [
+      "New York, Seattle"
+    ],
+    "url": "https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002",
+    "season": "",
+    "source": "ats:greenhouse:point72",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1782440025,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (phd candidate)"
+  },
+  {
+    "id": "880b860aee042440",
+    "company": "Point72",
+    "title": "Quantitative Research Intern (NLP)",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
+    "season": "",
+    "source": "ats:greenhouse:point72",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1782440025,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "64caf993aee48877",
+    "company": "Point72",
+    "title": "Quantitative Software Developer Intern",
+    "locations": [
+      "New York, London, or Paris"
+    ],
+    "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+    "season": "",
+    "source": "ats:greenhouse:point72",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1782440025,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "fd5aaa749f4fc985",
+    "company": "Point72",
+    "title": "Summer 2027 Quantitative Research Internship",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
+    "season": "",
+    "source": "ats:greenhouse:point72",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1782440025,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (phd candidate)"
+  },
+  {
+    "id": "02ce99a910c8df39",
+    "company": "Tower Research",
+    "title": "Quantitative Developer Intern - Summer 2027",
+    "locations": [
+      "New York, Chicago"
+    ],
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+    "season": "",
+    "source": "ats:greenhouse:towerresearchcapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783288101,
+    "date_found": 1783712787,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b31837305a5c576e",
+    "company": "Tower Research",
+    "title": "Quantitative Trader Intern - Summer 2027",
+    "locations": [
+      "New York, Chicago"
+    ],
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
+    "season": "",
+    "source": "ats:greenhouse:towerresearchcapital",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783288104,
+    "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"

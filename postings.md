@@ -1,9 +1,43 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-10 18:39 UTC · 37 live & eligible postings (showing 37); 14 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-10 18:47 UTC · 71 live & eligible postings (showing 71); 19 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-10 | Optiver | Quantitative Intern (Summer 2027) | Chicago, Illinois, United States | — | quant | ok | [apply](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) |
+| 2026-07-10 | Optiver | Software Engineer Intern (Summer 2027 - Austin) | Austin, Texas, United States | — | swe | ok | [apply](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) |
+| 2026-07-10 | Optiver | Software Engineer Intern (Summer 2027 - Chicago) | Chicago, Illinois, United States | — | swe | ok | [apply](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) |
+| 2026-07-10 | Jump Trading | Campus AI Research Engineer - Deep Learning (Intern) | Chicago; New York | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052338) |
+| 2026-07-10 | Jump Trading | Campus AI Research Engineer (Intern) | Chicago; New York | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
+| 2026-07-10 | Jump Trading | Campus AI Research Engineer – Research Automation (Intern) | Chicago; New York | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
+| 2026-07-10 | Jump Trading | Campus Data Engineer (Intern) | Chicago | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8002998) |
+| 2026-07-10 | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
+| 2026-07-10 | Jump Trading | Campus Quantitative Researcher, UG/MS (Intern) | Chicago; New York | — | quant | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=7982648) |
+| 2026-07-10 | Jump Trading | Campus Quantitative Trader (Intern) | Chicago; New York | — | quant | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=7848371) |
+| 2026-07-10 | Jump Trading | Campus Software Engineer (Intern) | Chicago | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8002989) |
+| 2026-07-10 | Jump Trading | Campus Systems Engineer (Intern) | Chicago | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
+| 2026-07-10 | Jump Trading | Campus UI Software Engineer (Intern) | Chicago | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
+| 2026-07-10 | IMC Trading | 2027 - Quant Research Intern - IIT Bombay | Amsterdam, Netherlands; Mumbai, India | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4860277101) |
+| 2026-07-10 | IMC Trading | 2027 - Quant Research Intern - IIT Delhi | Amsterdam, Netherlands; Mumbai, India | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917441101) |
+| 2026-07-10 | IMC Trading | 2027 - Quant Research Intern - IIT Kharagpur | Amsterdam, Netherlands; Mumbai, India | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917442101) |
+| 2026-07-10 | IMC Trading | 2027 - Quant Research Intern - IIT Madras | Amsterdam, Netherlands; Mumbai, India | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917439101) |
+| 2026-07-10 | IMC Trading | 2027 - Software Engineering Intern - BITS Pilani | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) |
+| 2026-07-10 | IMC Trading | 2027 - Software Engineering Intern - IIT Bombay | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) |
+| 2026-07-10 | IMC Trading | 2027 - Software Engineering Intern - IIT Delhi | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) |
+| 2026-07-10 | IMC Trading | 2027 - Software Engineering Intern - IIT Guwahati | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917542101) |
+| 2026-07-10 | IMC Trading | 2027 - Software Engineering Intern - IIT Kharagpur | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917545101) |
+| 2026-07-10 | IMC Trading | 2027 - Software Engineering Intern - IIT Madras | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917547101) |
+| 2026-07-10 | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
+| 2026-07-10 | IMC Trading | Machine Learning Research Intern - Summer 2027 - Amsterdam | Amsterdam, Netherlands | — | ml_data | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
+| 2026-07-10 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
+| 2026-07-10 | IMC Trading | Quantitative Trader Intern - Summer 2027 | Chicago, United States | — | quant | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
+| 2026-07-10 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
+| 2026-07-10 | Point72 | Quantitative Developer Intern | New York | — | swe | ok | [apply](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) |
+| 2026-07-10 | Point72 | Quantitative Researcher - Intern | London, Paris, Hong Kong, Tokyo | — | quant | ok | [apply](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) |
+| 2026-07-10 | Point72 | Quantitative Research Intern (NLP) | New York | — | quant | ok | [apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
+| 2026-07-10 | Point72 | Quantitative Software Developer Intern | New York, London, or Paris | — | swe | ok | [apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
+| 2026-07-10 | Tower Research | Quantitative Developer Intern - Summer 2027 | New York, Chicago | — | swe | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
+| 2026-07-10 | Tower Research | Quantitative Trader Intern - Summer 2027 | New York, Chicago | — | quant | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | 2026-07-10 | Citadel | Software Engineer Intern | New York, NY, Greenwich, CT, Miami, FL, Houston, TX | Summer | swe | unknown | [apply](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
 | 2026-07-10 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
 | 2026-07-10 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Summer | swe | unknown | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |

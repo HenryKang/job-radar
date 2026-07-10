@@ -1,5 +1,26 @@
 [
   {
+    "id": "cd66e73bf4adf304",
+    "company": "Citadel",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "New York, NY",
+      "Greenwich, CT",
+      "Miami, FL",
+      "Houston, TX"
+    ],
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1783425771,
+    "date_found": 1783708789,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "080e66fa3edf026d",
     "company": "Point72",
     "title": "Quantitative Developer Intern",
@@ -34,27 +55,6 @@
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (phd candidate)"
-  },
-  {
-    "id": "cd66e73bf4adf304",
-    "company": "Citadel",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "New York, NY",
-      "Greenwich, CT",
-      "Miami, FL",
-      "Houston, TX"
-    ],
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1783425771,
-    "date_found": 1783708500,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "535b6a005c164668",

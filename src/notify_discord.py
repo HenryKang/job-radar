@@ -10,10 +10,17 @@ import os
 import re
 import sys
 from collections import defaultdict
+from datetime import datetime, timezone
 
 import requests
 
 _COLOR = 0x5865F2  # Discord blurple
+
+
+def _fmt_date(ts) -> str:
+    if not ts:
+        return "—"
+    return datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d")
 
 
 def _embed(p: dict) -> dict:
@@ -24,6 +31,7 @@ def _embed(p: dict) -> dict:
         "color": _COLOR,
         "fields": [
             {"name": "Location", "value": loc[:1000], "inline": True},
+            {"name": "Posted", "value": _fmt_date(p.get("date_posted")), "inline": True},
             {"name": "Season", "value": p.get("season") or "—", "inline": True},
             {"name": "Category", "value": p.get("category") or "—", "inline": True},
         ],

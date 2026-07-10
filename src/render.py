@@ -60,8 +60,8 @@ def write_markdown(path: str, archive: list[dict]) -> None:
         f"_Last updated: {now} · {total_shown} live & eligible postings "
         f"(showing {len(rows)}); {hidden} hidden (dead links / PhD / grad / underclassmen)._",
         "",
-        "| Found | Company | Role | Location | Season | Category | Fit | Apply |",
-        "| --- | --- | --- | --- | --- | --- | --- | --- |",
+        "| Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
     for p in rows:
         loc = _esc(", ".join(p.get("locations", []))) or "—"
@@ -69,6 +69,7 @@ def write_markdown(path: str, archive: list[dict]) -> None:
         fit = (p.get("eligibility") or "unknown")
         lines.append(
             f"| {_fmt_date(p.get('date_found'))} "
+            f"| {_fmt_date(p.get('date_posted'))} "
             f"| {_esc(p.get('company'))} "
             f"| {_esc(p.get('title'))} "
             f"| {loc} "

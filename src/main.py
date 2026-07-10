@@ -45,6 +45,8 @@ def run_eligibility(postings: list[dict], cfg: dict) -> None:
             p["alive"], p["eligibility"], p["elig_reason"] = (
                 res["alive"], res["eligibility"], res["reason"],
             )
+            if res.get("date_posted"):  # more accurate source (e.g. Workday)
+                p["date_posted"] = res["date_posted"]
     for p in postings[cfg.get("max_checks", 150):]:  # over the cap -> keep, unchecked
         p["alive"], p["eligibility"], p["elig_reason"] = True, "unknown", "over max_checks"
 

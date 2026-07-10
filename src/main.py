@@ -120,20 +120,28 @@ def main() -> int:
         print("\n[dry-run] no files written, no alerts sent.")
         return 0
 
-    # 4) Persist archive + human-readable table + seen state.
+    # 4) Persist archive + human-readable table.
     now = int(time.time())
     for p in new:
         p["date_found"] = now
     archive = merge_archive(load_archive(ARCHIVE_PATH), new)
     save_archive(ARCHIVE_PATH, archive)
     write_markdown(MD_PATH, archive)
-    save_seen(SEEN_PATH, seen | {p["id"] for p in relevant})
 
     # 5) Alert — but never on the seeding run.
     if first_run or args.seed:
         print(f"[seed] recorded {len(alertable)} eligible postings silently (no alerts).")
+        alert_ok = True
     else:
-        send_discord(alertable)
+        alert_ok = send_discord(alertable)
+
+    # 6) Update seen. If delivery failed, keep the undelivered ones unseen so
+    #    they retry next run (never silently drop an alert).
+    newly_seen = {p["id"] for p in relevant}
+    if not alert_ok:
+        newly_seen -= {p["id"] for p in alertable}
+        print(f"[warn] delivery failed; {len(alertable)} posting(s) kept unseen to retry.")
+    save_seen(SEEN_PATH, seen | newly_seen)
 
     return 0
 

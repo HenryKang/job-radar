@@ -30,24 +30,36 @@ def _embed(p: dict) -> dict:
 
 
 def send_discord(postings: list[dict], webhook: str | None = None,
-                 mention: str | None = None) -> None:
+                 mention: str | None = None) -> bool:
+    """Send alerts. Returns True if delivery is considered complete.
+
+    Never raises — a Discord outage/bad webhook must not crash the crawler.
+    Returns False only when a webhook IS configured but a POST failed, so the
+    caller can keep those postings unseen and retry them next run.
+    """
     webhook = webhook or os.environ.get("DISCORD_WEBHOOK_URL")
     mention = mention or os.environ.get("DISCORD_MENTION_USER_ID")
     if not postings:
-        return
+        return True
     if not webhook:
         print("[warn] DISCORD_WEBHOOK_URL not set — skipping alerts")
-        return
+        return True  # nothing configured; don't block state/retries forever
 
+    ok = True
     for i in range(0, len(postings), 10):
         batch = postings[i : i + 10]
         payload: dict = {"embeds": [_embed(p) for p in batch]}
         if mention:
             payload["content"] = f"<@{mention}> {len(batch)} new internship posting(s) 🚨"
             payload["allowed_mentions"] = {"users": [mention]}
-        r = requests.post(webhook, json=payload, timeout=30)
-        r.raise_for_status()
-    print(f"[discord] sent {len(postings)} alert(s)")
+        try:
+            r = requests.post(webhook, json=payload, timeout=30)
+            r.raise_for_status()
+        except Exception as e:  # noqa: BLE001
+            print(f"[error] discord send failed for batch {i // 10}: {e}")
+            ok = False
+    print(f"[discord] {'sent' if ok else 'attempted'} {len(postings)} alert(s); ok={ok}")
+    return ok
 
 
 def _test() -> None:

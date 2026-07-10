@@ -1,0 +1,40 @@
+# Data sources for intern-radar.
+#
+# aggregators: community-maintained internship repos that publish a structured
+#   listings.json (SimplifyJobs / vanshb03 schema). Broad coverage, ~hours lag.
+# ats_targets: poll a company's own ATS JSON API directly. Fast + precise, but
+#   only covers companies you list here. Verify each `slug` before enabling —
+#   a wrong slug 404s (the fetcher skips it gracefully).
+
+aggregators:
+  - name: vanshb03-summer2027
+    type: listings_json
+    listings_url: https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json
+    enabled: true
+
+  # SimplifyJobs currently maintains Summer2026; enable when the 2027 repo lands.
+  - name: simplify-summer2027
+    type: listings_json
+    listings_url: https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json
+    enabled: false
+
+ats_targets:
+  # ---- Verified live ----
+  - { company: "Jane Street", ats: greenhouse, slug: janestreet, enabled: true }
+
+  # ---- Curated quant / target list: VERIFY slug, then flip enabled: true ----
+  # Greenhouse slug = the name in boards.greenhouse.io/<slug>. Check by opening
+  #   https://boards-api.greenhouse.io/v1/boards/<slug>/jobs  (should return JSON).
+  - { company: "Citadel",               ats: greenhouse, slug: citadel,                    enabled: false }
+  - { company: "Hudson River Trading",  ats: greenhouse, slug: wearehrt,                   enabled: false }
+  - { company: "Two Sigma",             ats: greenhouse, slug: twosigma,                   enabled: false }
+  - { company: "Optiver",               ats: greenhouse, slug: optiver,                    enabled: false }
+  - { company: "DRW",                   ats: greenhouse, slug: drweng,                     enabled: false }
+  - { company: "Jump Trading",          ats: greenhouse, slug: jumptrading,                enabled: false }
+  - { company: "IMC Trading",           ats: greenhouse, slug: imc,                        enabled: false }
+  - { company: "SIG",                   ats: greenhouse, slug: susquehannainternational,   enabled: false }
+  - { company: "Akuna Capital",         ats: greenhouse, slug: akunacapital,               enabled: false }
+  # Lever example: check https://api.lever.co/v0/postings/<slug>?mode=json
+  # - { company: "Example",             ats: lever,      slug: example,                    enabled: false }
+  # Ashby example: check https://api.ashbyhq.com/posting-api/job-board/<slug>
+  # - { company: "Example",             ats: ashby,      slug: example,                    enabled: false }

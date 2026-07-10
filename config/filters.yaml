@@ -1,0 +1,163 @@
+# Filtering rules. Tune these freely — they decide what counts as a relevant
+# posting and therefore what triggers a Discord alert.
+#
+# Design bias: it is far worse to MISS a real posting than to get an extra
+# alert, so location/season checks are lenient (unknown => keep).
+
+# Which seasons to keep (matches the aggregator `season` field).
+seasons:
+  - Summer
+include_off_season: false   # set true to also keep Fall/Winter/Spring
+
+# For raw ATS results (which return ALL jobs), the title must contain one of
+# these to be considered an internship. Aggregators are already intern-only,
+# so this is only enforced on ATS sources.
+title_include_any:
+  - intern
+  - internship
+  - co-op
+  - coop
+
+# Drop anything whose title contains these (senior / non-student roles).
+title_exclude_any:
+  - senior
+  - staff
+  - principal
+  - director
+  - manager
+  - phd
+
+# A posting is kept only if its title matches one of these categories.
+# The matched category is stored on the posting.
+category_keywords:
+  swe:
+    - software
+    - swe
+    - engineer          # also matches "engineering"
+    - developer
+    - programming
+    - technology
+  quant:
+    - quant             # also matches "quantitative"
+    - trading
+    - trader
+    - researcher
+  ml_data:
+    - machine learning
+    - deep learning
+    - artificial intelligence
+    - data scien        # data science / data scientist
+    - data engineer
+
+# For ATS postings (no season field): drop if the title clearly names an old
+# cycle year and does NOT mention 2027.
+target_year: "2027"
+stale_years:
+  - "2024"
+  - "2025"
+  - "2026"
+
+locations:
+  us_only: true
+  allow_remote: true    # keep "Remote" postings even under us_only
+  us_markers:
+    - United States
+    - USA
+    - U.S.
+    - Remote
+  # US state suffixes, e.g. "New York, NY".
+  us_state_markers:
+    - ", AL"
+    - ", AK"
+    - ", AZ"
+    - ", AR"
+    - ", CA"
+    - ", CO"
+    - ", CT"
+    - ", DE"
+    - ", FL"
+    - ", GA"
+    - ", HI"
+    - ", ID"
+    - ", IL"
+    - ", IN"
+    - ", IA"
+    - ", KS"
+    - ", KY"
+    - ", LA"
+    - ", ME"
+    - ", MD"
+    - ", MA"
+    - ", MI"
+    - ", MN"
+    - ", MS"
+    - ", MO"
+    - ", MT"
+    - ", NE"
+    - ", NV"
+    - ", NH"
+    - ", NJ"
+    - ", NM"
+    - ", NY"
+    - ", NC"
+    - ", ND"
+    - ", OH"
+    - ", OK"
+    - ", OR"
+    - ", PA"
+    - ", RI"
+    - ", SC"
+    - ", SD"
+    - ", TN"
+    - ", TX"
+    - ", UT"
+    - ", VT"
+    - ", VA"
+    - ", WA"
+    - ", WV"
+    - ", WI"
+    - ", WY"
+    - ", DC"
+  # If ALL locations clearly match one of these (and none look US), drop it.
+  non_us_markers:
+    - India
+    - London
+    - United Kingdom
+    - " UK"
+    - Canada
+    - Toronto
+    - Ontario
+    - Vancouver
+    - Ireland
+    - Dublin
+    - Germany
+    - Berlin
+    - Munich
+    - France
+    - Paris
+    - Netherlands
+    - Amsterdam
+    - Singapore
+    - China
+    - Shanghai
+    - Beijing
+    - Shenzhen
+    - Hong Kong
+    - Japan
+    - Tokyo
+    - Australia
+    - Sydney
+    - Israel
+    - Tel Aviv
+    - Poland
+    - Warsaw
+    - Spain
+    - Madrid
+    - Switzerland
+    - Zurich
+    - Sweden
+    - Stockholm
+    - Korea
+    - Seoul
+    - Brazil
+    - Mexico

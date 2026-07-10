@@ -1,6 +1,6 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-10 17:09 UTC · 51 postings tracked (showing 51 most recent)._
+_Last updated: 2026-07-10 18:15 UTC · 51 postings tracked (showing 51 most recent)._
 
 | Found | Company | Role | Location | Season | Category | Apply |
 | --- | --- | --- | --- | --- | --- | --- |

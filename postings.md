@@ -1,11 +1,12 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-10 19:47 UTC · 66 live & eligible postings (showing 66); 24 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-10 19:49 UTC · 66 live & eligible postings (showing 66); 24 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026-07-10 | 2026-04-20 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
 | 2026-07-10 | 2026-04-20 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Summer | swe | unknown | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |
+| 2026-07-10 | 2026-05-23 | Cubist Systematic Strategies | Quantitative Developer Intern | New York, NY | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) |
+| 2026-07-10 | 2026-04-20 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
 | 2026-07-10 | 2026-04-23 | Ether.fi | GTM Engineer Intern | Cayman, Denver, New York | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb) |
 | 2026-07-10 | 2026-04-24 | Al Warren Oil Company | Software Developer Intern | Bensenville, IL | Summer | swe | unknown | [apply](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) |
 | 2026-07-10 | 2026-04-28 | Homebase | Forward Deployed Engineering Intern, AI-Native | Houston, TX, San Francisco, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) |
@@ -24,7 +25,6 @@ _Last updated: 2026-07-10 19:47 UTC · 66 live & eligible postings (showing 66);
 | 2026-07-10 | 2026-05-19 | Nash | Full Stack Engineering Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://www.workatastartup.com/jobs/94993) |
 | 2026-07-10 | 2026-05-19 | Podium | Software Engineering Intern | Lehi, UT | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/podium81/jobs/7939921) |
 | 2026-07-10 | 2026-05-23 | Stoke Space | Software Engineer Intern | Kent, WA | Summer | swe | unknown | [apply](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c) |
-| 2026-07-10 | 2026-05-23 | Cubist Systematic Strategies | Quantitative Developer Intern | New York, NY | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) |
 | 2026-07-10 | 2026-07-07 | Tower Research | Quantitative Developer Intern | Chicago, IL, New York, NY | Summer | swe | unknown | [apply](https://tower-research.com/open-positions/?gh_jid=8044334) |
 | 2026-07-10 | 2026-07-07 | Citadel | Software Engineer Intern | New York, NY, Greenwich, CT, Miami, FL, Houston, TX | Summer | swe | unknown | [apply](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
 | 2026-07-10 | 2026-07-07 | Optiver | Software Engineer Intern | Austin, TX | Summer | swe | ok | [apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) |

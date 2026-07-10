@@ -1,5 +1,41 @@
 [
   {
+    "id": "6a575b05c16859bd",
+    "company": "TETRAMEM",
+    "title": "Software Engineer Intern, Embedded",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1776727513,
+    "date_found": 1783712977,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de12e310c445bf3a",
+    "company": "Cubist Systematic Strategies",
+    "title": "Quantitative Developer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1779504102,
+    "date_found": 1783712977,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "080e66fa3edf026d",
     "company": "Point72",
     "title": "Quantitative Developer Intern",
@@ -70,24 +106,6 @@
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
-  },
-  {
-    "id": "6a575b05c16859bd",
-    "company": "TETRAMEM",
-    "title": "Software Engineer Intern, Embedded",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1776727513,
-    "date_found": 1783712787,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "c60633b52315b288",
@@ -650,24 +668,6 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779504071,
-    "date_found": 1783712787,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "de12e310c445bf3a",
-    "company": "Cubist Systematic Strategies",
-    "title": "Quantitative Developer Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779504102,
     "date_found": 1783712787,
     "alive": true,
     "eligibility": "unknown",

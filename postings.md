@@ -1,24 +1,21 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-10 16:24 UTC · 54 postings tracked (showing 54 most recent)._
+_Last updated: 2026-07-10 17:09 UTC · 51 postings tracked (showing 51 most recent)._
 
 | Found | Company | Role | Location | Season | Category | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026-07-10 | Point72 | Quantitative Developer Intern | New York, NY | Summer | swe | [apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) |
 | 2026-07-10 | Point72 | Quantitative Researcher Intern | New York, NY | Summer | quant | [apply](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) |
 | 2026-07-10 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
-| 2026-07-10 | ABC News | Product Management and Engineering Intern | New York, NY | Summer | swe | [apply](https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896) |
 | 2026-07-10 | Fiserv | Technology Intern | Columbus, OH | Summer | swe | [apply](https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b) |
 | 2026-07-10 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Summer | swe | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |
 | 2026-07-10 | Intercontinental Exchange, Inc. | Artificial Intelligence, Data & Machine Learning Intern | New York, NY | Summer | ml_data | [apply](https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9) |
-| 2026-07-10 | Avanade | Software Engineering Intern | Los Angeles, CA, Seattle, WA | Summer | swe | [apply](https://accenture.wd103.myworkdayjobs.com/en-GB/AvanadeCareers/job/Los-Angeles-6181-W-Centinela-Ave-Corp/Intern--Software-Engineering---June-2026_R00319370?jr_id=69e6a556f8fa2f3ec32a3173) |
 | 2026-07-10 | Ether.fi | GTM Engineer Intern | Cayman, Denver, New York | Summer | swe | [apply](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb) |
 | 2026-07-10 | H&CO | Software Development Intern | Coral Gables, FL | Summer | swe | [apply](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) |
 | 2026-07-10 | Al Warren Oil Company | Software Developer Intern | Bensenville, IL | Summer | swe | [apply](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) |
 | 2026-07-10 | TikTok | LLM Post-training Engineer Intern, Research & Product | San Jose, CA | Summer | swe | [apply](https://lifeattiktok.com/search/7631599293708126517) |
 | 2026-07-10 | Homebase | Forward Deployed Engineering Intern, AI-Native | Houston, TX, San Francisco, CA | Summer | swe | [apply](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) |
 | 2026-07-10 | Salesforce | Software Engineer Intern(Futureforce Summer 2027) | San Francisco, CA, Palo Alto, CA, New York, NY, Seattle, WA, Burlington, MA | Summer | swe | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
-| 2026-07-10 | Amazon | Robotics - Software Development Engineer Intern/Co-op | Sunnyvale, CA, North Reading, MA, Westboro, MA, Nashville, TN, Austin, TX, Arlington, VA, Bellevue, WA, Seattle, WA | Summer | swe | [apply](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) |
 | 2026-07-10 | Veeam Software | Software Engineering Intern, Platform, Security & AI | San Jose, CA | Summer | swe | [apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) |
 | 2026-07-10 | Veeam Software | Software Engineering Intern, Policy Engineering | San Jose, CA | Summer | swe | [apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101) |
 | 2026-07-10 | Dedalus Labs | Forward Deployed Engineer Intern | San Francisco, CA | Summer | swe | [apply](https://www.workatastartup.com/jobs/94400) |

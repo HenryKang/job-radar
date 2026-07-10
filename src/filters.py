@@ -47,15 +47,20 @@ def _season_ok_aggregator(season: str, cfg: dict) -> bool:
     return season.strip().lower() in [s.lower() for s in cfg["seasons"]]
 
 
-def _season_ok_ats(title: str, cfg: dict) -> bool:
-    t = title.lower()
+def _year_ok(blob: str, cfg: dict) -> bool:
+    """Reject a posting that explicitly names an old cycle year and not the target.
+
+    `blob` should include both title and url (aggregators leak the year in URLs).
+    No year mentioned -> keep (the source repo is already target-year scoped).
+    """
+    b = blob.lower()
     target = str(cfg.get("target_year", "")).lower()
-    if target and target in t:
+    if target and target in b:
         return True
     for old in cfg.get("stale_years", []):
-        if str(old) in t:
+        if str(old) in b:
             return False  # names an old cycle, not the target year
-    return True  # no year mentioned -> keep
+    return True
 
 
 def classify_and_filter(postings: list[dict], cfg: dict) -> list[dict]:
@@ -80,12 +85,12 @@ def classify_and_filter(postings: list[dict], cfg: dict) -> list[dict]:
             continue
         p["category"] = cat
 
-        if is_ats:
-            if not _season_ok_ats(title, cfg):
-                continue
-        else:
-            if not _season_ok_aggregator(p["season"], cfg):
-                continue
+        # Drop anything explicitly tagged to an old cycle (checks title + url).
+        if not _year_ok(f"{p['title']} {p['url']}", cfg):
+            continue
+        # Aggregators also carry a season field; enforce the target season.
+        if not is_ats and not _season_ok_aggregator(p["season"], cfg):
+            continue
 
         if us_only and not _looks_us(p["locations"], cfg):
             continue

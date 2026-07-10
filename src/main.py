@@ -24,7 +24,7 @@ from dedupe import dedupe_within_run, load_seen, save_seen, split_new  # noqa: E
 from fetch_aggregators import fetch_aggregators  # noqa: E402
 from fetch_ats import fetch_ats  # noqa: E402
 from filters import classify_and_filter  # noqa: E402
-from notify_discord import send_discord  # noqa: E402
+import notify_discord  # noqa: E402
 from render import load_archive, merge_archive, save_archive, write_markdown  # noqa: E402
 
 
@@ -80,6 +80,8 @@ def main() -> int:
 
     sources = _load_yaml("sources.yaml")
     filters_cfg = _load_yaml("filters.yaml")
+    routing_path = os.path.join(CONFIG_DIR, "routing.yaml")
+    routing_cfg = _load_yaml("routing.yaml") if os.path.exists(routing_path) else None
 
     # 1) Fetch everything.
     raw = fetch_aggregators(sources.get("aggregators", []))
@@ -133,7 +135,7 @@ def main() -> int:
         print(f"[seed] recorded {len(alertable)} eligible postings silently (no alerts).")
         alert_ok = True
     else:
-        alert_ok = send_discord(alertable)
+        alert_ok = notify_discord.send(alertable, routing_cfg)
 
     # 6) Update seen. If delivery failed, keep the undelivered ones unseen so
     #    they retry next run (never silently drop an alert).

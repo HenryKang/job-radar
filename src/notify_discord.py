@@ -7,7 +7,9 @@ Env:
 from __future__ import annotations
 
 import os
+import re
 import sys
+from collections import defaultdict
 
 import requests
 
@@ -29,35 +31,86 @@ def _embed(p: dict) -> dict:
     }
 
 
+def _match(company_low: str, names) -> bool:
+    for n in names or []:
+        n = str(n).lower().strip()
+        if n and re.search(rf"\b{re.escape(n)}\b", company_low):
+            return True
+    return False
+
+
+def route(p: dict, cfg: dict | None) -> str:
+    """Pick a channel for a posting: quant -> faang -> fallback."""
+    if not cfg:
+        return "other"
+    company = (p.get("company") or "").lower()
+    if _match(company, cfg.get("quant_companies")) or p.get("category") == "quant":
+        return "quant"
+    if _match(company, cfg.get("faang_companies")):
+        return "faang"
+    return cfg.get("fallback", "other")
+
+
+def _post_batches(postings: list[dict], webhook: str, mention: str | None, label: str) -> bool:
+    ok = True
+    for i in range(0, len(postings), 10):
+        batch = postings[i : i + 10]
+        payload: dict = {"embeds": [_embed(p) for p in batch]}
+        if mention:
+            tag = f"{label} " if label else ""
+            payload["content"] = f"<@{mention}> {len(batch)} new {tag}posting(s) 🚨"
+            payload["allowed_mentions"] = {"users": [mention]}
+        try:
+            r = requests.post(webhook, json=payload, timeout=30)
+            r.raise_for_status()
+        except Exception as e:  # noqa: BLE001
+            print(f"[error] discord send failed ({label} batch {i // 10}): {e}")
+            ok = False
+    return ok
+
+
+def send(postings: list[dict], routing_cfg: dict | None = None,
+         mention: str | None = None, default_env: str = "DISCORD_WEBHOOK_URL") -> bool:
+    """Route postings to per-channel webhooks; fall back to DISCORD_WEBHOOK_URL.
+
+    Never raises. Returns False if any configured webhook POST failed, so the
+    caller keeps those postings unseen to retry.
+    """
+    mention = mention or os.environ.get("DISCORD_MENTION_USER_ID")
+    if not postings:
+        return True
+
+    groups: dict[str, list] = defaultdict(list)
+    for p in postings:
+        groups[route(p, routing_cfg)].append(p)
+
+    default_hook = os.environ.get(default_env)
+    channels = (routing_cfg or {}).get("channels", {})
+    ok = True
+    for channel, items in groups.items():
+        env = channels.get(channel, {}).get("webhook_env")
+        hook = (os.environ.get(env) if env else None) or default_hook
+        if not hook:
+            print(f"[warn] no webhook for channel '{channel}' and no {default_env}; "
+                  f"skipping {len(items)} posting(s)")
+            continue
+        ok = _post_batches(items, hook, mention, channel) and ok
+    print(f"[discord] routed {len(postings)} posting(s) -> "
+          f"{ {c: len(v) for c, v in groups.items()} }; ok={ok}")
+    return ok
+
+
 def send_discord(postings: list[dict], webhook: str | None = None,
                  mention: str | None = None) -> bool:
-    """Send alerts. Returns True if delivery is considered complete.
-
-    Never raises — a Discord outage/bad webhook must not crash the crawler.
-    Returns False only when a webhook IS configured but a POST failed, so the
-    caller can keep those postings unseen and retry them next run.
-    """
+    """Single-webhook send (used by --test)."""
     webhook = webhook or os.environ.get("DISCORD_WEBHOOK_URL")
     mention = mention or os.environ.get("DISCORD_MENTION_USER_ID")
     if not postings:
         return True
     if not webhook:
         print("[warn] DISCORD_WEBHOOK_URL not set — skipping alerts")
-        return True  # nothing configured; don't block state/retries forever
-
-    ok = True
-    for i in range(0, len(postings), 10):
-        batch = postings[i : i + 10]
-        payload: dict = {"embeds": [_embed(p) for p in batch]}
-        if mention:
-            payload["content"] = f"<@{mention}> {len(batch)} new internship posting(s) 🚨"
-            payload["allowed_mentions"] = {"users": [mention]}
-        try:
-            r = requests.post(webhook, json=payload, timeout=30)
-            r.raise_for_status()
-        except Exception as e:  # noqa: BLE001
-            print(f"[error] discord send failed for batch {i // 10}: {e}")
-            ok = False
+        return True
+    ok = _post_batches(postings, webhook, mention, "")
     print(f"[discord] {'sent' if ok else 'attempted'} {len(postings)} alert(s); ok={ok}")
     return ok
 

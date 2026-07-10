@@ -1,0 +1,107 @@
+# Per-channel Discord routing. Each new posting is sent to ONE channel based on
+# its company. Precedence: quant -> faang -> other (catch-all).
+#
+# Each channel maps to an env var holding a Discord webhook URL (set as repo
+# secrets). If a channel's webhook is unset, that channel's postings fall back
+# to DISCORD_WEBHOOK_URL, so you can roll this out one channel at a time.
+
+channels:
+  quant: { webhook_env: DISCORD_WEBHOOK_QUANT }
+  faang: { webhook_env: DISCORD_WEBHOOK_FAANG }
+  other: { webhook_env: DISCORD_WEBHOOK_OTHER }
+
+fallback: other   # anything matching no rule goes here
+
+# Matched (whole-word, case-insensitive) against the posting's company name.
+quant_companies:
+  - jane street
+  - citadel
+  - citadel securities
+  - hudson river trading
+  - hrt
+  - two sigma
+  - optiver
+  - imc
+  - drw
+  - jump trading
+  - sig
+  - susquehanna
+  - de shaw
+  - d. e. shaw
+  - point72
+  - cubist
+  - tower research
+  - akuna
+  - five rings
+  - radix
+  - xtx
+  - virtu
+  - flow traders
+  - old mission
+  - wolverine
+  - chicago trading
+  - ctc
+  - peak6
+  - squarepoint
+  - aquatic
+  - voleon
+  - qube
+  - marshall wace
+  - millennium
+  - balyasny
+  - schonfeld
+  - headlands
+  - quantlab
+  - pdt partners
+  - group one
+
+# Curated FAANG+/big-tech. Edit freely — anything not here (and not quant) -> other.
+faang_companies:
+  - google
+  - alphabet
+  - youtube
+  - meta
+  - facebook
+  - instagram
+  - amazon
+  - aws
+  - apple
+  - microsoft
+  - netflix
+  - nvidia
+  - openai
+  - anthropic
+  - tesla
+  - uber
+  - airbnb
+  - linkedin
+  - salesforce
+  - adobe
+  - oracle
+  - tiktok
+  - bytedance
+  - databricks
+  - stripe
+  - snap
+  - snapchat
+  - pinterest
+  - spotify
+  - dropbox
+  - palantir
+  - roblox
+  - doordash
+  - robinhood
+  - coinbase
+  - reddit
+  - snowflake
+  - datadog
+  - cloudflare
+  - atlassian
+  - twilio
+  - block
+  - paypal
+  - nvidia
+  - amd
+  - intel
+  - qualcomm
+  - cisco

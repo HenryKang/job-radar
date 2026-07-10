@@ -57,6 +57,15 @@ stale_years:
   - "2025"
   - "2026"
 
+# Eligibility / liveness pre-check: fetch each NEW posting's page and drop dead
+# links + roles that don't fit an undergraduate junior (PhD-only, master's-only,
+# underclassmen-only). "unknown" (unfetchable / no clear signal) is KEPT.
+eligibility:
+  enabled: true
+  keep_unknown: true    # keep postings we can't positively classify (don't-miss)
+  max_checks: 150       # cap page fetches per run (protects CI runtime)
+  timeout: 15           # per-request seconds
+
 locations:
   us_only: true
   allow_remote: true    # keep "Remote" postings even under us_only

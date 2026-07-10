@@ -39,24 +39,34 @@ def _esc(s: str) -> str:
     return (s or "").replace("|", "\\|").replace("\n", " ").strip()
 
 
+def _shown(p: dict) -> bool:
+    """Only live postings that fit an undergrad (ok/unknown eligibility)."""
+    if p.get("alive") is False:
+        return False
+    return (p.get("eligibility") or "unknown") in ("ok", "unknown")
+
+
 def write_markdown(path: str, archive: list[dict]) -> None:
-    rows = sorted(archive, key=lambda p: p.get("date_found") or 0, reverse=True)
-    total = len(rows)
+    shown = [p for p in archive if _shown(p)]
+    rows = sorted(shown, key=lambda p: p.get("date_found") or 0, reverse=True)
+    total_shown = len(rows)
+    hidden = len(archive) - total_shown
     rows = rows[:_MD_LIMIT]
     now = datetime.now(tz=timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     lines = [
         "# 📡 intern-radar — tracked postings",
         "",
-        f"_Last updated: {now} · {total} postings tracked "
-        f"(showing {len(rows)} most recent)._",
+        f"_Last updated: {now} · {total_shown} live & eligible postings "
+        f"(showing {len(rows)}); {hidden} hidden (dead links / PhD / grad / underclassmen)._",
         "",
-        "| Found | Company | Role | Location | Season | Category | Apply |",
-        "| --- | --- | --- | --- | --- | --- | --- |",
+        "| Found | Company | Role | Location | Season | Category | Fit | Apply |",
+        "| --- | --- | --- | --- | --- | --- | --- | --- |",
     ]
     for p in rows:
         loc = _esc(", ".join(p.get("locations", []))) or "—"
         apply = f"[apply]({p['url']})" if p.get("url") else "—"
+        fit = (p.get("eligibility") or "unknown")
         lines.append(
             f"| {_fmt_date(p.get('date_found'))} "
             f"| {_esc(p.get('company'))} "
@@ -64,6 +74,7 @@ def write_markdown(path: str, archive: list[dict]) -> None:
             f"| {loc} "
             f"| {_esc(p.get('season')) or '—'} "
             f"| {_esc(p.get('category')) or '—'} "
+            f"| {fit} "
             f"| {apply} |"
         )
     lines.append("")

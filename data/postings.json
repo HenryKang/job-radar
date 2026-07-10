@@ -12,7 +12,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1776617698,
-    "date_found": 1783707341
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'jobexpired'"
   },
   {
     "id": "f3416bc9f3f1faae",
@@ -27,7 +30,10 @@
     "category": "quant",
     "sponsorship": "Other",
     "date_posted": 1776617702,
-    "date_found": 1783707341
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (phd candidate)"
   },
   {
     "id": "535b6a005c164668",
@@ -42,7 +48,10 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776715588,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "7e4212a11107ad93",
@@ -57,7 +66,10 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 410"
   },
   {
     "id": "6a575b05c16859bd",
@@ -72,7 +84,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1776727513,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "c60633b52315b288",
@@ -87,7 +102,10 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
   },
   {
     "id": "397b1755664797fc",
@@ -104,7 +122,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1776914894,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "8495d27f0afc2846",
@@ -119,7 +140,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1776914902,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
   },
   {
     "id": "d680bc838f4bfff6",
@@ -134,7 +158,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1777071076,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "f0fe279704fd2e59",
@@ -149,7 +176,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1777084447,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
   },
   {
     "id": "1289601f76ddec63",
@@ -165,7 +195,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1777366779,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "6b0bb4e7640ff21e",
@@ -184,7 +217,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778311144,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "8518abf8a19ddc6c",
@@ -199,7 +235,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778312442,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "d97b08e00ffdf9e7",
@@ -214,7 +253,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778312558,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "8785141e5ce37e8d",
@@ -229,7 +271,10 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778324469,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "05c2596e64621a19",
@@ -244,7 +289,10 @@
     "category": "swe",
     "sponsorship": "Offers Sponsorship",
     "date_posted": 1778324474,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "f39e627926f9a869",
@@ -259,7 +307,10 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778324484,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "dda37e0fa40c0a14",
@@ -274,7 +325,10 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778324488,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "6833ce3d250e0eb8",
@@ -289,7 +343,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778525954,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "41dbd5f57a46565a",
@@ -304,7 +361,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778578835,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "20ab789763093b8b",
@@ -319,7 +379,10 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778752850,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "e470efe9b5b2c6da",
@@ -334,7 +397,10 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778752853,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "cb37692db0251264",
@@ -350,7 +416,10 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778752855,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "562d701982680518",
@@ -365,7 +434,10 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1779203170,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "5e10d95f8d930bea",
@@ -380,7 +452,10 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1779203174,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "57bf687aae37d811",
@@ -395,7 +470,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779204617,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "17325ce9ad5aa95c",
@@ -410,7 +488,10 @@
     "category": "swe",
     "sponsorship": "Offers Sponsorship",
     "date_posted": 1779484585,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
   },
   {
     "id": "2509a6802b093081",
@@ -425,7 +506,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486020,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "4e3eb36355d463b1",
@@ -440,7 +524,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486105,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "0bea9b3ea38f603e",
@@ -455,7 +542,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486107,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "4f773111bd5e11d6",
@@ -470,7 +560,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486110,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "ff1626caff8766a6",
@@ -485,7 +578,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486118,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
     "id": "f93d921c26f67ffc",
@@ -500,7 +596,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486282,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
   },
   {
     "id": "23041ff8578be988",
@@ -515,7 +614,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
   },
   {
     "id": "1402e7805cf45fd8",
@@ -530,7 +632,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501433,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (phd in )"
   },
   {
     "id": "0bc2ba7cc7b59789",
@@ -545,7 +650,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779504071,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "de12e310c445bf3a",
@@ -560,7 +668,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779504102,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "fd0e962549131832",
@@ -576,7 +687,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425669,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "cd66e73bf4adf304",
@@ -594,7 +708,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425771,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "3d8221b4262cbff7",
@@ -609,7 +726,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425885,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
   },
   {
     "id": "55b6a5a8939584bf",
@@ -624,7 +744,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425923,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: \"we couldn't find\""
   },
   {
     "id": "ca2d6ab05d9748ca",
@@ -639,7 +762,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783426662,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "f0c735a093bcfebf",
@@ -654,7 +780,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783427123,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (phd in )"
   },
   {
     "id": "354124c336b6624c",
@@ -669,7 +798,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783427706,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "d6b2fe56484129f5",
@@ -689,7 +821,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783427800,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "0a5e0713892985a6",
@@ -704,7 +839,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783428054,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "b086cf48410b04cb",
@@ -719,7 +857,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783638043,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "d7bc6c37c45716e2",
@@ -735,7 +876,10 @@
     "category": "quant",
     "sponsorship": "Other",
     "date_posted": 1783638143,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "263200cfb899d144",
@@ -750,7 +894,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783638501,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "6a89f262d47d5ce2",
@@ -765,7 +912,10 @@
     "category": "swe",
     "sponsorship": "Offers Sponsorship",
     "date_posted": 1783638615,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "36897ec89317b522",
@@ -780,6 +930,9 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783642975,
-    "date_found": 1783703398
+    "date_found": 1783708338,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   }
 ]

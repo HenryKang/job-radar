@@ -13,17 +13,51 @@ import argparse
 import os
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 
 import yaml
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+import eligibility  # noqa: E402
 from dedupe import dedupe_within_run, load_seen, save_seen, split_new  # noqa: E402
 from fetch_aggregators import fetch_aggregators  # noqa: E402
 from fetch_ats import fetch_ats  # noqa: E402
 from filters import classify_and_filter  # noqa: E402
 from notify_discord import send_discord  # noqa: E402
 from render import load_archive, merge_archive, save_archive, write_markdown  # noqa: E402
+
+
+def run_eligibility(postings: list[dict], cfg: dict) -> None:
+    """Fetch each posting's page and annotate alive/eligibility in place."""
+    if not cfg.get("enabled", True) or not postings:
+        for p in postings:
+            p["alive"], p["eligibility"], p["elig_reason"] = True, "unknown", "check disabled"
+        return
+    timeout = cfg.get("timeout", 15)
+    to_check = postings[: cfg.get("max_checks", 150)]
+
+    def _one(p):
+        return p, eligibility.check(p["url"], p["title"], timeout=timeout)
+
+    with ThreadPoolExecutor(max_workers=10) as ex:
+        for p, res in ex.map(_one, to_check):
+            p["alive"], p["eligibility"], p["elig_reason"] = (
+                res["alive"], res["eligibility"], res["reason"],
+            )
+    for p in postings[cfg.get("max_checks", 150):]:  # over the cap -> keep, unchecked
+        p["alive"], p["eligibility"], p["elig_reason"] = True, "unknown", "over max_checks"
+
+
+def is_alertable(p: dict, cfg: dict) -> bool:
+    if not p.get("alive", True):
+        return False
+    elig = p.get("eligibility") or "unknown"
+    if elig == "ok":
+        return True
+    if elig == "unknown":
+        return cfg.get("keep_unknown", True)
+    return False  # phd_only / grad_only / underclass_only
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_DIR = os.path.join(ROOT, "config")
@@ -60,15 +94,27 @@ def main() -> int:
     seen = load_seen(SEEN_PATH)
     new = split_new(relevant, seen)
 
+    # 3b) Eligibility + liveness check on the new postings (drops dead links and
+    #     PhD/master's/underclassmen-only roles; keeps undergrad + unknown).
+    elig_cfg = filters_cfg.get("eligibility", {})
+    run_eligibility(new, elig_cfg)
+    alertable = [p for p in new if is_alertable(p, elig_cfg)]
+    alert_ids = {id(p) for p in alertable}
+    suppressed = [p for p in new if id(p) not in alert_ids]
+    from collections import Counter
+    reasons = Counter(("dead" if not p.get("alive", True) else p["eligibility"]) for p in suppressed)
+
     print(
         f"\n== summary ==\n"
-        f"fetched(raw)={len(raw)}  candidates={len(candidates)}  "
-        f"relevant={len(relevant)}  new={len(new)}  first_run={first_run}"
+        f"fetched(raw)={len(raw)}  candidates={len(candidates)}  relevant={len(relevant)}  "
+        f"new={len(new)}  alertable={len(alertable)}  "
+        f"suppressed={len(suppressed)}{' ' + str(dict(reasons)) if suppressed else ''}  "
+        f"first_run={first_run}"
     )
-    for p in new[:25]:
+    for p in alertable[:25]:
         print(f"  + {p['company']} | {p['title']} | {', '.join(p['locations']) or '—'}")
-    if len(new) > 25:
-        print(f"  ... and {len(new) - 25} more")
+    if len(alertable) > 25:
+        print(f"  ... and {len(alertable) - 25} more")
 
     if args.dry_run:
         print("\n[dry-run] no files written, no alerts sent.")
@@ -85,9 +131,9 @@ def main() -> int:
 
     # 5) Alert — but never on the seeding run.
     if first_run or args.seed:
-        print(f"[seed] recorded {len(new)} postings silently (no alerts).")
+        print(f"[seed] recorded {len(alertable)} eligible postings silently (no alerts).")
     else:
-        send_discord(new)
+        send_discord(alertable)
 
     return 0
 

@@ -61,4 +61,7 @@ def make_posting(
         "sponsorship": (sponsorship or "").strip(),
         "date_posted": parse_ts(date_posted),
         "date_found": None,       # filled in by main when first seen
+        "alive": None,            # filled in by the eligibility step
+        "eligibility": "",        # ok | unknown | phd_only | grad_only | underclass_only
+        "elig_reason": "",
     }

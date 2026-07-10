@@ -34,6 +34,9 @@ jobs:
 
       - name: Run crawler
         env:
+          DISCORD_WEBHOOK_QUANT: ${{ secrets.DISCORD_WEBHOOK_QUANT }}
+          DISCORD_WEBHOOK_FAANG: ${{ secrets.DISCORD_WEBHOOK_FAANG }}
+          DISCORD_WEBHOOK_OTHER: ${{ secrets.DISCORD_WEBHOOK_OTHER }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_MENTION_USER_ID: ${{ secrets.DISCORD_MENTION_USER_ID }}
         run: |

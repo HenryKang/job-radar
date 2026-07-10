@@ -1,10 +1,12 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-10 18:47 UTC · 71 live & eligible postings (showing 71); 19 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-10 19:31 UTC · 71 live & eligible postings (showing 71); 19 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2026-07-10 | Optiver | Quantitative Intern (Summer 2027) | Chicago, Illinois, United States | — | quant | ok | [apply](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) |
+| 2026-07-10 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
+| 2026-07-10 | Salesforce | Software Engineer Intern(Futureforce Summer 2027) | San Francisco, CA, Palo Alto, CA, New York, NY, Seattle, WA, Burlington, MA | Summer | swe | unknown | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | 2026-07-10 | Optiver | Software Engineer Intern (Summer 2027 - Austin) | Austin, Texas, United States | — | swe | ok | [apply](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) |
 | 2026-07-10 | Optiver | Software Engineer Intern (Summer 2027 - Chicago) | Chicago, Illinois, United States | — | swe | ok | [apply](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) |
 | 2026-07-10 | Jump Trading | Campus AI Research Engineer - Deep Learning (Intern) | Chicago; New York | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052338) |
@@ -39,12 +41,10 @@ _Last updated: 2026-07-10 18:47 UTC · 71 live & eligible postings (showing 71);
 | 2026-07-10 | Tower Research | Quantitative Developer Intern - Summer 2027 | New York, Chicago | — | swe | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
 | 2026-07-10 | Tower Research | Quantitative Trader Intern - Summer 2027 | New York, Chicago | — | quant | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | 2026-07-10 | Citadel | Software Engineer Intern | New York, NY, Greenwich, CT, Miami, FL, Houston, TX | Summer | swe | unknown | [apply](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
-| 2026-07-10 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
 | 2026-07-10 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Summer | swe | unknown | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |
 | 2026-07-10 | Ether.fi | GTM Engineer Intern | Cayman, Denver, New York | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb) |
 | 2026-07-10 | Al Warren Oil Company | Software Developer Intern | Bensenville, IL | Summer | swe | unknown | [apply](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/) |
 | 2026-07-10 | Homebase | Forward Deployed Engineering Intern, AI-Native | Houston, TX, San Francisco, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2) |
-| 2026-07-10 | Salesforce | Software Engineer Intern(Futureforce Summer 2027) | San Francisco, CA, Palo Alto, CA, New York, NY, Seattle, WA, Burlington, MA | Summer | swe | unknown | [apply](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) |
 | 2026-07-10 | Veeam Software | Software Engineering Intern, Platform, Security & AI | San Jose, CA | Summer | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) |
 | 2026-07-10 | Veeam Software | Software Engineering Intern, Policy Engineering | San Jose, CA | Summer | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101) |
 | 2026-07-10 | Dedalus Labs | Forward Deployed Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://www.workatastartup.com/jobs/94400) |

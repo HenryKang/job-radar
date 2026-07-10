@@ -12,10 +12,50 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1783700937,
-    "date_found": 1783709278,
+    "date_found": 1783711886,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "535b6a005c164668",
+    "company": "Poshmark",
+    "title": "Cloud Platform Engineer Intern, Growth",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1776715588,
+    "date_found": 1783711886,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6b0bb4e7640ff21e",
+    "company": "Salesforce",
+    "title": "Software Engineer Intern(Futureforce Summer 2027)",
+    "locations": [
+      "San Francisco, CA",
+      "Palo Alto, CA",
+      "New York, NY",
+      "Seattle, WA",
+      "Burlington, MA"
+    ],
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1778311144,
+    "date_found": 1783711886,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "a719049d40c58abf",
@@ -759,24 +799,6 @@
     "elig_reason": "phd signal (phd candidate)"
   },
   {
-    "id": "535b6a005c164668",
-    "company": "Poshmark",
-    "title": "Cloud Platform Engineer Intern, Growth",
-    "locations": [
-      "Redwood City, CA"
-    ],
-    "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Does Not Offer Sponsorship",
-    "date_posted": 1776715588,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
     "id": "7e4212a11107ad93",
     "company": "Fiserv",
     "title": "Technology Intern",
@@ -918,28 +940,6 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1777366779,
-    "date_found": 1783708338,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "6b0bb4e7640ff21e",
-    "company": "Salesforce",
-    "title": "Software Engineer Intern(Futureforce Summer 2027)",
-    "locations": [
-      "San Francisco, CA",
-      "Palo Alto, CA",
-      "New York, NY",
-      "Seattle, WA",
-      "Burlington, MA"
-    ],
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1778311144,
     "date_found": 1783708338,
     "alive": true,
     "eligibility": "unknown",

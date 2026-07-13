@@ -1,9 +1,11 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-13 10:57 UTC · 66 live & eligible postings (showing 66); 24 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-13 14:30 UTC · 68 live & eligible postings (showing 68); 24 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-13 | 2026-07-13 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
+| 2026-07-13 | 2026-07-13 | DRW | Software Developer Intern | Chicago | — | swe | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7992936) |
 | 2026-07-10 | 2026-04-20 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Summer | swe | unknown | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |
 | 2026-07-10 | 2026-05-23 | Cubist Systematic Strategies | Quantitative Developer Intern | New York, NY | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) |
 | 2026-07-10 | 2026-04-20 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |

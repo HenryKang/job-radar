@@ -1,5 +1,41 @@
 [
   {
+    "id": "c12296e3cdb3c328",
+    "company": "Jump Trading",
+    "title": "Campus ASIC Engineer (Intern)",
+    "locations": [
+      "Bristol"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7974837",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783946254,
+    "date_found": 1783953059,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6f391ceee6efe150",
+    "company": "DRW",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+    "season": "",
+    "source": "ats:greenhouse:drweng",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783951744,
+    "date_found": 1783953059,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "6a575b05c16859bd",
     "company": "TETRAMEM",
     "title": "Software Engineer Intern, Embedded",

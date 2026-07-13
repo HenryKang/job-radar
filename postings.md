@@ -1,9 +1,17 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-13 17:52 UTC · 71 live & eligible postings (showing 71); 24 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-13 19:19 UTC · 79 live & eligible postings (showing 79); 24 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-13 | 2026-07-13 | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
+| 2026-07-13 | 2026-07-13 | Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
+| 2026-07-13 | 2026-07-13 | Akuna Capital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | — | quant | ok | [apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
+| 2026-07-13 | 2026-07-13 | Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | — | quant | ok | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| 2026-07-13 | 2026-07-13 | Akuna Capital | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
+| 2026-07-13 | 2026-07-13 | Akuna Capital | Software Engineer Intern - C++, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
+| 2026-07-13 | 2026-07-13 | Akuna Capital | Software Engineer Intern - Full Stack Web, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
+| 2026-07-13 | 2026-07-13 | Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
 | 2026-07-13 | 2026-07-13 | DRW | Quantitative Research Intern | Chicago, New York City | — | quant | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | 2026-07-13 | 2026-07-13 | DRW | Quantitative Trading Analyst Intern | Chicago, Illinois | — | quant | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7668776) |
 | 2026-07-13 | 2026-07-13 | DRW | Software Developer Intern | Montreal | — | swe | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7991196) |

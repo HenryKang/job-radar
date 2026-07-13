@@ -1,5 +1,149 @@
 [
   {
+    "id": "f6d9a3c994021b00",
+    "company": "Akuna Capital",
+    "title": "Hardware Engineer Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783966907,
+    "date_found": 1783970372,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4a5baf804ba2980b",
+    "company": "Akuna Capital",
+    "title": "Platform Engineer Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783966912,
+    "date_found": 1783970372,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0f810dc05ce7f2be",
+    "company": "Akuna Capital",
+    "title": "Quantitative Development & Strategy Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783967360,
+    "date_found": 1783970372,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8332bbdb380ed0d4",
+    "company": "Akuna Capital",
+    "title": "Quantitative Research Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783967325,
+    "date_found": 1783970372,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7ac9c8e529a3a8bf",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783966888,
+    "date_found": 1783970372,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c18f63ca0168fb13",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - C++, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783968080,
+    "date_found": 1783970372,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ca51d83d6ee46033",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783966894,
+    "date_found": 1783970372,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "cddaa0cfafaef114",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - Python, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783966899,
+    "date_found": 1783970372,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "f52dc260d5c6df6f",
     "company": "DRW",
     "title": "Quantitative Research Intern",

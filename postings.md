@@ -1,9 +1,12 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-13 14:30 UTC · 68 live & eligible postings (showing 68); 24 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-13 17:52 UTC · 71 live & eligible postings (showing 71); 24 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-13 | 2026-07-13 | DRW | Quantitative Research Intern | Chicago, New York City | — | quant | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
+| 2026-07-13 | 2026-07-13 | DRW | Quantitative Trading Analyst Intern | Chicago, Illinois | — | quant | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7668776) |
+| 2026-07-13 | 2026-07-13 | DRW | Software Developer Intern | Montreal | — | swe | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
 | 2026-07-13 | 2026-07-13 | Jump Trading | Campus ASIC Engineer (Intern) | Bristol | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=7974837) |
 | 2026-07-13 | 2026-07-13 | DRW | Software Developer Intern | Chicago | — | swe | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7992936) |
 | 2026-07-10 | 2026-04-20 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Summer | swe | unknown | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |

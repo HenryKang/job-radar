@@ -6,7 +6,18 @@ the rest of the pipeline (filter -> dedupe -> render -> notify) is source-agnost
 from __future__ import annotations
 
 import hashlib
+import re
 from datetime import datetime
+
+_SEASON_RE = re.compile(r"\b(summer|fall|spring|winter)\b.*?(20\d\d)", re.IGNORECASE)
+
+
+def infer_season(title: str) -> str:
+    """Extract season from title, e.g. 'Summer Intern 2027 - SWE' -> 'Summer 2027'."""
+    m = _SEASON_RE.search(title or "")
+    if m:
+        return f"{m.group(1).capitalize()} {m.group(2)}"
+    return ""
 
 
 def make_id(company: str, title: str, url: str) -> str:
@@ -55,7 +66,7 @@ def make_posting(
         "title": title,
         "locations": locations,
         "url": url,
-        "season": (season or "").strip(),
+        "season": (season or "").strip() or infer_season(title),
         "source": source,
         "category": "",           # filled in by the filter step
         "sponsorship": (sponsorship or "").strip(),

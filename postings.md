@@ -1,6 +1,6 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-14 23:21 UTC · 78 live & eligible postings (showing 78); 24 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-14 23:22 UTC · 78 live & eligible postings (showing 78); 24 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ _Last updated: 2026-07-14 23:21 UTC · 78 live & eligible postings (showing 78);
 | 2026-07-14 | 2026-05-23 | Stoke Space | Software Engineer Intern | Kent, WA | Summer | swe | unknown | [apply](https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c) |
 | 2026-07-14 | 2026-05-23 | Cubist Systematic Strategies | Quantitative Developer Intern | New York, NY | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002) |
 | 2026-07-14 | 2026-07-07 | Tower Research | Quantitative Developer Intern | Chicago, IL, New York, NY | Summer | swe | unknown | [apply](https://tower-research.com/open-positions/?gh_jid=8044334) |
-| 2026-07-14 | 2026-07-07 | Citadel | Software Engineer Intern | New York, NY, Greenwich, CT, Miami, FL, Houston, TX | Summer | swe | unknown | [apply](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
+| 2026-07-14 | 2026-07-07 | Citadel | Software Engineer Intern | New York, NY, Greenwich, CT, Miami, FL, Houston, TX | Summer | swe | ok | [apply](https://www.citadel.com/careers/details/software-engineer-intern-us/) |
 | 2026-07-14 | 2026-07-07 | Optiver | Software Engineer Intern | Austin, TX | Summer | swe | ok | [apply](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) |
 | 2026-07-14 | 2026-07-07 | DE Shaw | Software Developer Intern | New York, NY | Summer | swe | unknown | [apply](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | 2026-07-14 | 2026-07-07 | Anduril | Software Engineer Intern | Atlanta, GA, Boston, MA, Costa Mesa, CA, Irvine, CA, Reston, VA, Seattle, WA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
@@ -36,9 +36,9 @@ _Last updated: 2026-07-14 23:21 UTC · 78 live & eligible postings (showing 78);
 | 2026-07-14 | 2026-07-09 | Jump Trading | Software Engineer Intern | Chicago, IL | Summer | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8002989) |
 | 2026-07-14 | 2026-07-09 | Jump Trading Group | Campus UI Software Engineer Intern | Chicago, IL | Summer | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8003019) |
 | 2026-07-14 | 2026-07-10 | Jump Trading | Campus Systems Engineer Intern | Chicago, IL | Summer | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
-| 2026-07-14 | 2026-07-10 | Optiver | Quantitative Intern (Summer 2027) | Chicago, Illinois, United States | — | quant | ok | [apply](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) |
-| 2026-07-14 | 2026-07-10 | Optiver | Software Engineer Intern (Summer 2027 - Austin) | Austin, Texas, United States | — | swe | ok | [apply](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) |
-| 2026-07-14 | 2026-07-10 | Optiver | Software Engineer Intern (Summer 2027 - Chicago) | Chicago, Illinois, United States | — | swe | ok | [apply](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) |
+| 2026-07-14 | 2026-07-10 | Optiver | Quantitative Intern (Summer 2027) | Chicago, Illinois, United States | Summer 2027 | quant | ok | [apply](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) |
+| 2026-07-14 | 2026-07-10 | Optiver | Software Engineer Intern (Summer 2027 - Austin) | Austin, Texas, United States | Summer 2027 | swe | ok | [apply](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) |
+| 2026-07-14 | 2026-07-10 | Optiver | Software Engineer Intern (Summer 2027 - Chicago) | Chicago, Illinois, United States | Summer 2027 | swe | ok | [apply](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) |
 | 2026-07-14 | 2026-07-08 | Jump Trading | Campus AI Research Engineer - Deep Learning (Intern) | Chicago; New York | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052338) |
 | 2026-07-14 | 2026-07-10 | Jump Trading | Campus AI Research Engineer (Intern) | Chicago; New York | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
 | 2026-07-14 | 2026-07-08 | Jump Trading | Campus AI Research Engineer – Research Automation (Intern) | Chicago; New York | — | swe | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
@@ -57,28 +57,28 @@ _Last updated: 2026-07-14 23:21 UTC · 78 live & eligible postings (showing 78);
 | 2026-07-14 | 2026-07-07 | IMC Trading | 2027 - Software Engineering Intern - IIT Bombay | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4860319101) |
 | 2026-07-14 | 2026-07-07 | IMC Trading | 2027 - Software Engineering Intern - IIT Delhi | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) |
 | 2026-07-14 | 2026-07-07 | IMC Trading | 2027 - Software Engineering Intern - IIT Madras | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917547101) |
-| 2026-07-14 | 2026-07-01 | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
-| 2026-07-14 | 2026-07-08 | IMC Trading | Machine Learning Research Intern - Summer 2027 - Amsterdam | Amsterdam, Netherlands | — | ml_data | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
-| 2026-07-14 | 2026-07-08 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
-| 2026-07-14 | 2026-07-01 | IMC Trading | Quantitative Trader Intern - Summer 2027 | Chicago, United States | — | quant | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
-| 2026-07-14 | 2026-07-01 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
+| 2026-07-14 | 2026-07-01 | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
+| 2026-07-14 | 2026-07-08 | IMC Trading | Machine Learning Research Intern - Summer 2027 - Amsterdam | Amsterdam, Netherlands | Summer 2027 | ml_data | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
+| 2026-07-14 | 2026-07-08 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | Summer 2027 | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
+| 2026-07-14 | 2026-07-01 | IMC Trading | Quantitative Trader Intern - Summer 2027 | Chicago, United States | Summer 2027 | quant | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
+| 2026-07-14 | 2026-07-01 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
 | 2026-07-14 | 2026-07-13 | Point72 | Quantitative Developer Intern | New York | — | swe | ok | [apply](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) |
 | 2026-07-14 | 2026-07-13 | Point72 | Quantitative Researcher - Intern | London, Paris, Hong Kong, Tokyo | — | quant | ok | [apply](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) |
 | 2026-07-14 | 2026-07-13 | Point72 | Quantitative Research Intern (NLP) | New York | — | quant | ok | [apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
 | 2026-07-14 | 2026-07-13 | Point72 | Quantitative Software Developer Intern | New York, London, or Paris | — | swe | ok | [apply](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
-| 2026-07-14 | 2026-07-05 | Tower Research | Quantitative Developer Intern - Summer 2027 | New York, Chicago | — | swe | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
-| 2026-07-14 | 2026-07-05 | Tower Research | Quantitative Trader Intern - Summer 2027 | New York, Chicago | — | quant | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
-| 2026-07-14 | 2026-07-14 | Five Rings | Summer Intern 2027 - Quantitative Trader | New York | — | quant | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
-| 2026-07-14 | 2026-07-14 | Five Rings | Summer Intern 2027 - Software Developer | New York | — | swe | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
+| 2026-07-14 | 2026-07-05 | Tower Research | Quantitative Developer Intern - Summer 2027 | New York, Chicago | Summer 2027 | swe | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
+| 2026-07-14 | 2026-07-05 | Tower Research | Quantitative Trader Intern - Summer 2027 | New York, Chicago | Summer 2027 | quant | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
+| 2026-07-14 | 2026-07-14 | Five Rings | Summer Intern 2027 - Quantitative Trader | New York | Summer 2027 | quant | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
+| 2026-07-14 | 2026-07-14 | Five Rings | Summer Intern 2027 - Software Developer | New York | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
 | 2026-07-14 | 2026-07-13 | DRW | Quantitative Research Intern | Chicago, New York City | — | quant | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | 2026-07-14 | 2026-07-13 | DRW | Quantitative Trading Analyst Intern | Chicago, Illinois | — | quant | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7668776) |
 | 2026-07-14 | 2026-07-14 | DRW | Software Developer Intern | Chicago | — | swe | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7992936) |
 | 2026-07-14 | 2026-07-13 | DRW | Software Developer Intern | Montreal | — | swe | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7991196) |
-| 2026-07-14 | 2026-07-14 | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
-| 2026-07-14 | 2026-07-14 | Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
-| 2026-07-14 | 2026-07-14 | Akuna Capital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | — | quant | ok | [apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
-| 2026-07-14 | 2026-07-14 | Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | — | quant | ok | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
-| 2026-07-14 | 2026-07-14 | Akuna Capital | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
-| 2026-07-14 | 2026-07-14 | Akuna Capital | Software Engineer Intern - C++, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
-| 2026-07-14 | 2026-07-14 | Akuna Capital | Software Engineer Intern - Full Stack Web, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
-| 2026-07-14 | 2026-07-14 | Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
+| 2026-07-14 | 2026-07-14 | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
+| 2026-07-14 | 2026-07-14 | Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
+| 2026-07-14 | 2026-07-14 | Akuna Capital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | Summer 2027 | quant | ok | [apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
+| 2026-07-14 | 2026-07-14 | Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | Summer 2027 | quant | ok | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| 2026-07-14 | 2026-07-14 | Akuna Capital | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
+| 2026-07-14 | 2026-07-14 | Akuna Capital | Software Engineer Intern - C++, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
+| 2026-07-14 | 2026-07-14 | Akuna Capital | Software Engineer Intern - Full Stack Web, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
+| 2026-07-14 | 2026-07-14 | Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |

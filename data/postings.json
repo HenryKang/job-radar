@@ -1,311 +1,5 @@
 [
   {
-    "id": "53235f6238afa043",
-    "company": "Five Rings",
-    "title": "Summer Intern 2027 - Quantitative Trader",
-    "locations": [
-      "New York"
-    ],
-    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
-    "season": "",
-    "source": "ats:greenhouse:fiveringsllc",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1784051851,
-    "date_found": 1784070987,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "0a866654db60263a",
-    "company": "Five Rings",
-    "title": "Summer Intern 2027 - Software Developer",
-    "locations": [
-      "New York"
-    ],
-    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-    "season": "",
-    "source": "ats:greenhouse:fiveringsllc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784061601,
-    "date_found": 1784070987,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "f6d9a3c994021b00",
-    "company": "Akuna Capital",
-    "title": "Hardware Engineer Intern, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783966907,
-    "date_found": 1783970372,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "4a5baf804ba2980b",
-    "company": "Akuna Capital",
-    "title": "Platform Engineer Intern, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783966912,
-    "date_found": 1783970372,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "0f810dc05ce7f2be",
-    "company": "Akuna Capital",
-    "title": "Quantitative Development & Strategy Intern, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783967360,
-    "date_found": 1783970372,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "8332bbdb380ed0d4",
-    "company": "Akuna Capital",
-    "title": "Quantitative Research Intern, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783967325,
-    "date_found": 1783970372,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "7ac9c8e529a3a8bf",
-    "company": "Akuna Capital",
-    "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783966888,
-    "date_found": 1783970372,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "c18f63ca0168fb13",
-    "company": "Akuna Capital",
-    "title": "Software Engineer Intern - C++, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783968080,
-    "date_found": 1783970372,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "ca51d83d6ee46033",
-    "company": "Akuna Capital",
-    "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783966894,
-    "date_found": 1783970372,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "cddaa0cfafaef114",
-    "company": "Akuna Capital",
-    "title": "Software Engineer Intern - Python, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783966899,
-    "date_found": 1783970372,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "f52dc260d5c6df6f",
-    "company": "DRW",
-    "title": "Quantitative Research Intern",
-    "locations": [
-      "Chicago, New York City"
-    ],
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
-    "season": "",
-    "source": "ats:greenhouse:drweng",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783953134,
-    "date_found": 1783965153,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "6009962e978e06d2",
-    "company": "DRW",
-    "title": "Quantitative Trading Analyst Intern",
-    "locations": [
-      "Chicago, Illinois"
-    ],
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
-    "season": "",
-    "source": "ats:greenhouse:drweng",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783953296,
-    "date_found": 1783965153,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "c042331e766e03f0",
-    "company": "DRW",
-    "title": "Software Developer Intern",
-    "locations": [
-      "Montreal"
-    ],
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
-    "season": "",
-    "source": "ats:greenhouse:drweng",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783954815,
-    "date_found": 1783965153,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "c12296e3cdb3c328",
-    "company": "Jump Trading",
-    "title": "Campus ASIC Engineer (Intern)",
-    "locations": [
-      "Bristol"
-    ],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7974837",
-    "season": "",
-    "source": "ats:greenhouse:jumptrading",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783946254,
-    "date_found": 1783953059,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "6f391ceee6efe150",
-    "company": "DRW",
-    "title": "Software Developer Intern",
-    "locations": [
-      "Chicago"
-    ],
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-    "season": "",
-    "source": "ats:greenhouse:drweng",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783951744,
-    "date_found": 1783953059,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "6a575b05c16859bd",
-    "company": "TETRAMEM",
-    "title": "Software Engineer Intern, Embedded",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1776727513,
-    "date_found": 1783712977,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "de12e310c445bf3a",
-    "company": "Cubist Systematic Strategies",
-    "title": "Quantitative Developer Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779504102,
-    "date_found": 1783712977,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
     "id": "080e66fa3edf026d",
     "company": "Point72",
     "title": "Quantitative Developer Intern",
@@ -318,7 +12,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1776617698,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'jobexpired'"
@@ -336,7 +30,7 @@
     "category": "quant",
     "sponsorship": "Other",
     "date_posted": 1776617702,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (phd candidate)"
@@ -354,7 +48,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776715588,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -372,10 +66,28 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
+  },
+  {
+    "id": "6a575b05c16859bd",
+    "company": "TETRAMEM",
+    "title": "Software Engineer Intern, Embedded",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1776727513,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "c60633b52315b288",
@@ -390,7 +102,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -410,7 +122,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1776914894,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -428,7 +140,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1776914902,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -446,7 +158,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1777071076,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -464,7 +176,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1777084447,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'page not found'"
@@ -483,7 +195,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1777366779,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -505,7 +217,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778311144,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
@@ -523,7 +235,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778312442,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -541,7 +253,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778312558,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -559,7 +271,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778324469,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -577,7 +289,7 @@
     "category": "swe",
     "sponsorship": "Offers Sponsorship",
     "date_posted": 1778324474,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -595,7 +307,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778324484,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -613,7 +325,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778324488,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -631,7 +343,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778525954,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -649,7 +361,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1778578835,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -667,7 +379,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778752850,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -685,7 +397,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778752853,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -704,7 +416,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1778752855,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -722,7 +434,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1779203170,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -740,7 +452,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1779203174,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -758,10 +470,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779204617,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "17325ce9ad5aa95c",
@@ -776,7 +488,7 @@
     "category": "swe",
     "sponsorship": "Offers Sponsorship",
     "date_posted": 1779484585,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -794,7 +506,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486020,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
@@ -812,7 +524,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486105,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 404)"
@@ -830,7 +542,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486107,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 404)"
@@ -848,7 +560,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486110,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 404)"
@@ -866,7 +578,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486118,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "grad_only",
     "elig_reason": "grad-level title"
@@ -884,7 +596,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779486282,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -902,7 +614,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -920,7 +632,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501433,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (phd in )"
@@ -938,7 +650,25 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779504071,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de12e310c445bf3a",
+    "company": "Cubist Systematic Strategies",
+    "title": "Quantitative Developer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/embed/job_app?for=point72&jr_id=6a07069024dcb03739f1ec72&token=7297613002",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1779504102,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -957,7 +687,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425669,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -978,7 +708,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425771,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -996,7 +726,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425885,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -1014,7 +744,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783425923,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: \"we couldn't find\""
@@ -1032,7 +762,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783426662,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1050,7 +780,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783427123,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (phd in )"
@@ -1068,7 +798,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783427706,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1091,7 +821,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783427800,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1109,7 +839,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783428054,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1127,7 +857,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783638043,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1146,7 +876,7 @@
     "category": "quant",
     "sponsorship": "Other",
     "date_posted": 1783638143,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1164,7 +894,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783638501,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1182,7 +912,7 @@
     "category": "swe",
     "sponsorship": "Offers Sponsorship",
     "date_posted": 1783638615,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1200,7 +930,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1783642975,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1218,7 +948,7 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1783700937,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1236,7 +966,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783700937,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1254,7 +984,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783700937,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1272,7 +1002,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783546640,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1290,7 +1020,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783643987,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1308,7 +1038,25 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783546670,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c12296e3cdb3c328",
+    "company": "Jump Trading",
+    "title": "Campus ASIC Engineer (Intern)",
+    "locations": [
+      "Bristol"
+    ],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7974837",
+    "season": "",
+    "source": "ats:greenhouse:jumptrading",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783946254,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1326,7 +1074,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783643551,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1344,7 +1092,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783546573,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1362,7 +1110,7 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1783546558,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1380,7 +1128,7 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1783546547,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1398,7 +1146,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783546532,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1416,7 +1164,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783641147,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1434,7 +1182,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783546513,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1452,7 +1200,7 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1783430009,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1470,25 +1218,7 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1783430009,
-    "date_found": 1783712787,
-    "alive": true,
-    "eligibility": "ok",
-    "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "3d3b5a8fb7e15ed0",
-    "company": "IMC Trading",
-    "title": "2027 - Quant Research Intern - IIT Kharagpur",
-    "locations": [
-      "Amsterdam, Netherlands; Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917442101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1783430011,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1506,7 +1236,7 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1783430012,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1524,7 +1254,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783431231,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1542,7 +1272,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783431283,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1560,43 +1290,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783431312,
-    "date_found": 1783712787,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "355f4ad532e12c60",
-    "company": "IMC Trading",
-    "title": "2027 - Software Engineering Intern - IIT Guwahati",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917542101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783431340,
-    "date_found": 1783712787,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "52bada2265f27c2f",
-    "company": "IMC Trading",
-    "title": "2027 - Software Engineering Intern - IIT Kharagpur",
-    "locations": [
-      "Mumbai, India"
-    ],
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917545101",
-    "season": "",
-    "source": "ats:greenhouse:imc",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1783431359,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1614,7 +1308,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783431400,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1632,7 +1326,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1782925823,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1650,7 +1344,7 @@
     "category": "ml_data",
     "sponsorship": "",
     "date_posted": 1783524931,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1668,7 +1362,7 @@
     "category": "ml_data",
     "sponsorship": "",
     "date_posted": 1783524921,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (pursuing a phd)"
@@ -1686,7 +1380,7 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1783524968,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1704,7 +1398,7 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1782925872,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1722,7 +1416,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1782925914,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1739,8 +1433,8 @@
     "source": "ats:greenhouse:point72",
     "category": "quant",
     "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783712787,
+    "date_posted": 1783984964,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (enrolled in a phd)"
@@ -1757,8 +1451,8 @@
     "source": "ats:greenhouse:point72",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783712787,
+    "date_posted": 1783984964,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1775,8 +1469,8 @@
     "source": "ats:greenhouse:point72",
     "category": "quant",
     "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783712787,
+    "date_posted": 1783984964,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (phd candidate)"
@@ -1793,8 +1487,8 @@
     "source": "ats:greenhouse:point72",
     "category": "quant",
     "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783712787,
+    "date_posted": 1783984964,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1811,8 +1505,8 @@
     "source": "ats:greenhouse:point72",
     "category": "quant",
     "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783712787,
+    "date_posted": 1783984964,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (phd candidate)"
@@ -1829,8 +1523,8 @@
     "source": "ats:greenhouse:point72",
     "category": "quant",
     "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783712787,
+    "date_posted": 1783984964,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1847,8 +1541,8 @@
     "source": "ats:greenhouse:point72",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783712787,
+    "date_posted": 1783984964,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
@@ -1865,8 +1559,8 @@
     "source": "ats:greenhouse:point72",
     "category": "quant",
     "sponsorship": "",
-    "date_posted": 1782440025,
-    "date_found": 1783712787,
+    "date_posted": 1783984964,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "phd_only",
     "elig_reason": "phd signal (phd candidate)"
@@ -1884,7 +1578,7 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783288101,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
@@ -1902,9 +1596,261 @@
     "category": "quant",
     "sponsorship": "",
     "date_posted": 1783288104,
-    "date_found": 1783712787,
+    "date_found": 1784071259,
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "53235f6238afa043",
+    "company": "Five Rings",
+    "title": "Summer Intern 2027 - Quantitative Trader",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+    "season": "",
+    "source": "ats:greenhouse:fiveringsllc",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784051851,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0a866654db60263a",
+    "company": "Five Rings",
+    "title": "Summer Intern 2027 - Software Developer",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "season": "",
+    "source": "ats:greenhouse:fiveringsllc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784061601,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f52dc260d5c6df6f",
+    "company": "DRW",
+    "title": "Quantitative Research Intern",
+    "locations": [
+      "Chicago, New York City"
+    ],
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
+    "season": "",
+    "source": "ats:greenhouse:drweng",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783953134,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6009962e978e06d2",
+    "company": "DRW",
+    "title": "Quantitative Trading Analyst Intern",
+    "locations": [
+      "Chicago, Illinois"
+    ],
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
+    "season": "",
+    "source": "ats:greenhouse:drweng",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1783953296,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6f391ceee6efe150",
+    "company": "DRW",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+    "season": "",
+    "source": "ats:greenhouse:drweng",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784051213,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c042331e766e03f0",
+    "company": "DRW",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Montreal"
+    ],
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
+    "season": "",
+    "source": "ats:greenhouse:drweng",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783971021,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f6d9a3c994021b00",
+    "company": "Akuna Capital",
+    "title": "Hardware Engineer Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053713,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4a5baf804ba2980b",
+    "company": "Akuna Capital",
+    "title": "Platform Engineer Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053732,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0f810dc05ce7f2be",
+    "company": "Akuna Capital",
+    "title": "Quantitative Development & Strategy Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784051776,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8332bbdb380ed0d4",
+    "company": "Akuna Capital",
+    "title": "Quantitative Research Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784053760,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7ac9c8e529a3a8bf",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053791,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c18f63ca0168fb13",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - C++, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053813,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ca51d83d6ee46033",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053828,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "cddaa0cfafaef114",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - Python, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784054274,
+    "date_found": 1784071259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   }
 ]

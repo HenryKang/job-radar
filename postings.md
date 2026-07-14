@@ -1,6 +1,6 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-14 17:11 UTC · 79 live & eligible postings (showing 79); 24 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-14 19:14 UTC · 79 live & eligible postings (showing 79); 24 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

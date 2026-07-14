@@ -1,5 +1,41 @@
 [
   {
+    "id": "53235f6238afa043",
+    "company": "Five Rings",
+    "title": "Summer Intern 2027 - Quantitative Trader",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+    "season": "",
+    "source": "ats:greenhouse:fiveringsllc",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784051851,
+    "date_found": 1784070987,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0a866654db60263a",
+    "company": "Five Rings",
+    "title": "Summer Intern 2027 - Software Developer",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "season": "",
+    "source": "ats:greenhouse:fiveringsllc",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784061601,
+    "date_found": 1784070987,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "f6d9a3c994021b00",
     "company": "Akuna Capital",
     "title": "Hardware Engineer Intern, Summer 2027",

@@ -1,9 +1,11 @@
 # 📡 intern-radar — tracked postings
 
-_Last updated: 2026-07-14 22:55 UTC · 79 live & eligible postings (showing 79); 24 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-14 23:16 UTC · 81 live & eligible postings (showing 81); 24 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-14 | 2026-07-14 | Five Rings | Summer Intern 2027 - Quantitative Trader | New York | — | quant | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
+| 2026-07-14 | 2026-07-14 | Five Rings | Summer Intern 2027 - Software Developer | New York | — | swe | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
 | 2026-07-13 | 2026-07-13 | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | 2026-07-13 | 2026-07-13 | Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
 | 2026-07-13 | 2026-07-13 | Akuna Capital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | — | quant | ok | [apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |

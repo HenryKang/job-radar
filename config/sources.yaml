@@ -26,6 +26,7 @@ ats_targets:
   - { company: "IMC Trading",    ats: greenhouse, slug: imc,                   enabled: true }
   - { company: "Point72",        ats: greenhouse, slug: point72,               enabled: true }
   - { company: "Tower Research", ats: greenhouse, slug: towerresearchcapital,  enabled: true }
+  - { company: "Five Rings",     ats: greenhouse, slug: fiveringsllc,          enabled: true }
   # ---- Verified board, no intern reqs open right now (kept on to catch future) ----
   - { company: "DRW",            ats: greenhouse, slug: drweng,                enabled: true }
   - { company: "Akuna Capital",  ats: greenhouse, slug: akunacapital,          enabled: true }

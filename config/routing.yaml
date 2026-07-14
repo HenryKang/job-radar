@@ -6,9 +6,12 @@
 # to DISCORD_WEBHOOK_URL, so you can roll this out one channel at a time.
 
 channels:
-  quant: { webhook_env: DISCORD_WEBHOOK_QUANT }
-  faang: { webhook_env: DISCORD_WEBHOOK_FAANG }
-  other: { webhook_env: DISCORD_WEBHOOK_OTHER }
+  # webhook_env can be a single env var name OR a list of env var names.
+  # Every set env var in the list receives the alert (fan-out).
+  # Example multi-server: [DISCORD_WEBHOOK_QUANT, DISCORD_WEBHOOK_QUANT_SERVER2]
+  quant: { webhook_env: [DISCORD_WEBHOOK_QUANT] }
+  faang: { webhook_env: [DISCORD_WEBHOOK_FAANG] }
+  other: { webhook_env: [DISCORD_WEBHOOK_OTHER] }
 
 fallback: other   # anything matching no rule goes here
 

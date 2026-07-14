@@ -96,13 +96,18 @@ def send(postings: list[dict], routing_cfg: dict | None = None,
     channels = (routing_cfg or {}).get("channels", {})
     ok = True
     for channel, items in groups.items():
-        env = channels.get(channel, {}).get("webhook_env")
-        hook = (os.environ.get(env) if env else None) or default_hook
-        if not hook:
+        env_cfg = channels.get(channel, {}).get("webhook_env") or []
+        # accept either a single string or a list
+        envs = [env_cfg] if isinstance(env_cfg, str) else list(env_cfg)
+        hooks = [os.environ.get(e) for e in envs if os.environ.get(e)]
+        if not hooks:
+            hooks = [default_hook] if default_hook else []
+        if not hooks:
             print(f"[warn] no webhook for channel '{channel}' and no {default_env}; "
                   f"skipping {len(items)} posting(s)")
             continue
-        ok = _post_batches(items, hook, mention, channel) and ok
+        for hook in hooks:
+            ok = _post_batches(items, hook, mention, channel) and ok
     print(f"[discord] routed {len(postings)} posting(s) -> "
           f"{ {c: len(v) for c, v in groups.items()} }; ok={ok}")
     return ok

@@ -48,15 +48,19 @@ def _match(company_low: str, names) -> bool:
 
 
 def route(p: dict, cfg: dict | None) -> str:
-    """Pick a channel for a posting: quant -> faang -> fallback."""
+    """Pick a channel: role_type + company -> quant/faang/other (+ _ng suffix for new grad)."""
     if not cfg:
         return "other"
     company = (p.get("company") or "").lower()
+    is_ng = p.get("role_type") == "new_grad"
+    suffix = "_ng" if is_ng else ""
+    fallback = cfg.get("fallback_ng", "other_ng") if is_ng else cfg.get("fallback", "other")
+
     if _match(company, cfg.get("quant_companies")) or p.get("category") == "quant":
-        return "quant"
+        return f"quant{suffix}"
     if _match(company, cfg.get("faang_companies")):
-        return "faang"
-    return cfg.get("fallback", "other")
+        return f"faang{suffix}"
+    return fallback
 
 
 def _post_batches(postings: list[dict], webhook: str, mention: str | None, label: str) -> bool:

@@ -21,6 +21,7 @@ def _get_json(url: str, timeout: int = 30):
 
 def _fetch_listings_json(source: dict) -> list[dict]:
     data = _get_json(source["listings_url"])
+    role_type = source.get("role_type", "intern")
     out: list[dict] = []
     for item in data:
         if not item.get("is_visible", True):
@@ -37,6 +38,7 @@ def _fetch_listings_json(source: dict) -> list[dict]:
                 source=f"agg:{source['name']}",
                 sponsorship=item.get("sponsorship", ""),
                 date_posted=item.get("date_posted"),
+                role_type=role_type,
             )
         )
     return out

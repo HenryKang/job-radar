@@ -20,9 +20,10 @@ def infer_season(title: str) -> str:
     return ""
 
 
-def make_id(company: str, title: str, url: str) -> str:
-    """Stable id used for cross-source dedup."""
-    key = f"{company}|{title}|{url}".lower().strip()
+def make_id(company: str, title: str, url: str, role_type: str = "intern") -> str:
+    """Stable id used for cross-source dedup. role_type included so the same
+    job URL can appear as both an intern and new_grad posting without collision."""
+    key = f"{role_type}|{company}|{title}|{url}".lower().strip()
     return hashlib.sha1(key.encode("utf-8")).hexdigest()[:16]
 
 
@@ -55,19 +56,22 @@ def make_posting(
     source: str,
     sponsorship: str = "",
     date_posted=None,
+    role_type: str = "intern",
 ) -> dict:
     company = (company or "").strip()
     title = (title or "").strip()
     url = (url or "").strip()
     locations = [str(l).strip() for l in (locations or []) if str(l).strip()]
+    role_type = (role_type or "intern").strip()
     return {
-        "id": make_id(company, title, url),
+        "id": make_id(company, title, url, role_type),
         "company": company,
         "title": title,
         "locations": locations,
         "url": url,
         "season": (season or "").strip() or infer_season(title),
         "source": source,
+        "role_type": role_type,   # intern | new_grad
         "category": "",           # filled in by the filter step
         "sponsorship": (sponsorship or "").strip(),
         "date_posted": parse_ts(date_posted),

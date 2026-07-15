@@ -93,10 +93,16 @@ def fetch_ats(targets: list[dict]) -> list[dict]:
         if adapter is None:
             print(f"[warn] unknown ats {ats!r} for {t.get('company')!r}, skipped")
             continue
+        role_type = t.get("role_type", "intern")
         try:
             got = adapter(t.get("company", t["slug"]), t["slug"])
+            for p in got:
+                p["role_type"] = role_type
+                # Re-compute id to include role_type
+                from normalize import make_id
+                p["id"] = make_id(p["company"], p["title"], p["url"], role_type)
             out.extend(got)
-            print(f"[ats] {t.get('company')} ({ats}:{t['slug']}): {len(got)} jobs")
+            print(f"[ats:{role_type}] {t.get('company')} ({ats}:{t['slug']}): {len(got)} jobs")
         except Exception as e:  # noqa: BLE001
             print(f"[warn] ats {t.get('company')!r} ({ats}:{t.get('slug')!r}) failed: {e}")
     return out

@@ -7,29 +7,52 @@
 #   a wrong slug 404s (the fetcher skips it gracefully).
 
 aggregators:
+  # ---- Internship aggregators ----
   - name: vanshb03-summer2027
     type: listings_json
+    role_type: intern
     listings_url: https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json
     enabled: true
 
   # SimplifyJobs currently maintains Summer2026; enable when the 2027 repo lands.
   - name: simplify-summer2027
     type: listings_json
+    role_type: intern
     listings_url: https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json
     enabled: false
 
+  # ---- New grad aggregators ----
+  - name: vanshb03-newgrad2027
+    type: listings_json
+    role_type: new_grad
+    listings_url: https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json
+    enabled: true
+
 ats_targets:
+  # role_type defaults to "intern" if omitted. Set role_type: new_grad for
+  # full-time new grad roles. ATS boards contain both — the title filter handles
+  # the split (intern keywords vs new-grad keywords).
   # ---- Verified live (slug returns JSON with intern postings) ----
-  - { company: "Jane Street",    ats: greenhouse, slug: janestreet,            enabled: true }
-  - { company: "Optiver",        ats: greenhouse, slug: optiverus,             enabled: true }
-  - { company: "Jump Trading",   ats: greenhouse, slug: jumptrading,           enabled: true }
-  - { company: "IMC Trading",    ats: greenhouse, slug: imc,                   enabled: true }
-  - { company: "Point72",        ats: greenhouse, slug: point72,               enabled: true }
-  - { company: "Tower Research", ats: greenhouse, slug: towerresearchcapital,  enabled: true }
-  - { company: "Five Rings",     ats: greenhouse, slug: fiveringsllc,          enabled: true }
+  - { company: "Jane Street",    ats: greenhouse, slug: janestreet,            role_type: intern,   enabled: true }
+  - { company: "Optiver",        ats: greenhouse, slug: optiverus,             role_type: intern,   enabled: true }
+  - { company: "Jump Trading",   ats: greenhouse, slug: jumptrading,           role_type: intern,   enabled: true }
+  - { company: "IMC Trading",    ats: greenhouse, slug: imc,                   role_type: intern,   enabled: true }
+  - { company: "Point72",        ats: greenhouse, slug: point72,               role_type: intern,   enabled: true }
+  - { company: "Tower Research", ats: greenhouse, slug: towerresearchcapital,  role_type: intern,   enabled: true }
+  - { company: "Five Rings",     ats: greenhouse, slug: fiveringsllc,          role_type: intern,   enabled: true }
   # ---- Verified board, no intern reqs open right now (kept on to catch future) ----
-  - { company: "DRW",            ats: greenhouse, slug: drweng,                enabled: true }
-  - { company: "Akuna Capital",  ats: greenhouse, slug: akunacapital,          enabled: true }
+  - { company: "DRW",            ats: greenhouse, slug: drweng,                role_type: intern,   enabled: true }
+  - { company: "Akuna Capital",  ats: greenhouse, slug: akunacapital,          role_type: intern,   enabled: true }
+  # ---- New grad: same boards, different title filter ----
+  - { company: "Jane Street",    ats: greenhouse, slug: janestreet,            role_type: new_grad, enabled: true }
+  - { company: "Optiver",        ats: greenhouse, slug: optiverus,             role_type: new_grad, enabled: true }
+  - { company: "Jump Trading",   ats: greenhouse, slug: jumptrading,           role_type: new_grad, enabled: true }
+  - { company: "IMC Trading",    ats: greenhouse, slug: imc,                   role_type: new_grad, enabled: true }
+  - { company: "Point72",        ats: greenhouse, slug: point72,               role_type: new_grad, enabled: true }
+  - { company: "Tower Research", ats: greenhouse, slug: towerresearchcapital,  role_type: new_grad, enabled: true }
+  - { company: "Five Rings",     ats: greenhouse, slug: fiveringsllc,          role_type: new_grad, enabled: true }
+  - { company: "DRW",            ats: greenhouse, slug: drweng,                role_type: new_grad, enabled: true }
+  - { company: "Akuna Capital",  ats: greenhouse, slug: akunacapital,          role_type: new_grad, enabled: true }
 
   # ---- Could NOT verify a public slug (Workday / private ATS); covered by the
   #      aggregator instead. Re-check periodically; flip enabled when a slug works.

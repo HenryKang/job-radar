@@ -18,6 +18,33 @@ title_include_any:
   - co-op
   - coop
 
+# New grad: title must contain one of these (ATS sources only).
+# Aggregator (vanshb03-newgrad2027) is already new-grad scoped.
+new_grad_title_include_any:
+  - new grad
+  - new-grad
+  - university grad
+  - entry level
+  - entry-level
+  - associate software
+  - associate engineer
+  - junior engineer
+  - junior software
+  - software engineer i
+  - software engineer 1
+  - swe i
+  - swe 1
+
+# New grad: drop senior/staff/lead roles.
+new_grad_title_exclude_any:
+  - senior
+  - staff
+  - principal
+  - director
+  - manager
+  - lead
+  - phd
+
 # Drop anything whose title contains these (senior / non-student roles).
 title_exclude_any:
   - senior

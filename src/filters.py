@@ -69,16 +69,30 @@ def classify_and_filter(postings: list[dict], cfg: dict) -> list[dict]:
     exclude_kw = [k.lower() for k in cfg.get("title_exclude_any", [])]
     us_only = cfg["locations"].get("us_only", False)
 
+    ng_include_kw = [k.lower() for k in cfg.get("new_grad_title_include_any", [])]
+    ng_exclude_kw = [k.lower() for k in cfg.get("new_grad_title_exclude_any", [])]
+
     kept: list[dict] = []
     for p in postings:
         title = p["title"].lower()
         is_ats = p["source"].startswith("ats:")
+        is_ng = p.get("role_type") == "new_grad"
 
-        # ATS returns all jobs -> require an internship keyword.
-        if is_ats and include_kw and not any(k in title for k in include_kw):
-            continue
-        if any(k in title for k in exclude_kw):
-            continue
+        if is_ng:
+            # ATS new grad: require a new-grad keyword; aggregator is already scoped.
+            if is_ats and ng_include_kw and not any(k in title for k in ng_include_kw):
+                continue
+            if any(k in title for k in ng_exclude_kw):
+                continue
+            # New grad: drop anything that looks like an internship
+            if any(k in title for k in include_kw):
+                continue
+        else:
+            # ATS intern: require an internship keyword.
+            if is_ats and include_kw and not any(k in title for k in include_kw):
+                continue
+            if any(k in title for k in exclude_kw):
+                continue
 
         cat = _category_of(p["title"], cfg)
         if cat is None:

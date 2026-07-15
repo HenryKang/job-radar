@@ -8,12 +8,17 @@
 channels:
   # webhook_env can be a single env var name OR a list of env var names.
   # Every set env var in the list receives the alert (fan-out).
-  # Example multi-server: [DISCORD_WEBHOOK_QUANT, DISCORD_WEBHOOK_QUANT_SERVER2]
+  # Intern channels
   quant: { webhook_env: [DISCORD_WEBHOOK_QUANT, DISCORD_WEBHOOK_QUANT_KIG] }
   faang: { webhook_env: [DISCORD_WEBHOOK_FAANG, DISCORD_WEBHOOK_FAANG_KIG] }
   other: { webhook_env: [DISCORD_WEBHOOK_OTHER, DISCORD_WEBHOOK_OTHER_KIG] }
+  # New grad channels (same company routing, separate webhooks)
+  quant_ng: { webhook_env: [DISCORD_WEBHOOK_QUANT_NG, DISCORD_WEBHOOK_QUANT_NG_KIG] }
+  faang_ng: { webhook_env: [DISCORD_WEBHOOK_FAANG_NG, DISCORD_WEBHOOK_FAANG_NG_KIG] }
+  other_ng: { webhook_env: [DISCORD_WEBHOOK_OTHER_NG, DISCORD_WEBHOOK_OTHER_NG_KIG] }
 
-fallback: other   # anything matching no rule goes here
+fallback: other   # anything matching no rule goes here (intern)
+fallback_ng: other_ng  # catch-all for new grad
 
 # Matched (whole-word, case-insensitive) against the posting's company name.
 quant_companies:

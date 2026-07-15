@@ -54,6 +54,23 @@ ats_targets:
   - { company: "DRW",            ats: greenhouse, slug: drweng,                role_type: new_grad, enabled: true }
   - { company: "Akuna Capital",  ats: greenhouse, slug: akunacapital,          role_type: new_grad, enabled: true }
 
+  # ---- FAANG+ verified live ----
+  - { company: "Netflix",     ats: lever,      slug: netflix,     role_type: intern, enabled: true }
+  - { company: "OpenAI",      ats: ashby,      slug: openai,      role_type: intern, enabled: true }
+  - { company: "Anthropic",   ats: greenhouse, slug: anthropic,   role_type: intern, enabled: true }
+  - { company: "Palantir",    ats: lever,      slug: palantir,    role_type: intern, enabled: true }
+  - { company: "Stripe",      ats: greenhouse, slug: stripe,      role_type: intern, enabled: true }
+  - { company: "Databricks",  ats: greenhouse, slug: databricks,  role_type: intern, enabled: true }
+  - { company: "Roblox",      ats: greenhouse, slug: roblox,      role_type: intern, enabled: true }
+  # New grad variants of the same boards
+  - { company: "Netflix",     ats: lever,      slug: netflix,     role_type: new_grad, enabled: true }
+  - { company: "OpenAI",      ats: ashby,      slug: openai,      role_type: new_grad, enabled: true }
+  - { company: "Anthropic",   ats: greenhouse, slug: anthropic,   role_type: new_grad, enabled: true }
+  - { company: "Palantir",    ats: lever,      slug: palantir,    role_type: new_grad, enabled: true }
+  - { company: "Stripe",      ats: greenhouse, slug: stripe,      role_type: new_grad, enabled: true }
+  - { company: "Databricks",  ats: greenhouse, slug: databricks,  role_type: new_grad, enabled: true }
+  - { company: "Roblox",      ats: greenhouse, slug: roblox,      role_type: new_grad, enabled: true }
+
   # ---- Could NOT verify a public slug (Workday / private ATS); covered by the
   #      aggregator instead. Re-check periodically; flip enabled when a slug works.
   #      Greenhouse check: https://boards-api.greenhouse.io/v1/boards/<slug>/jobs
@@ -61,5 +78,6 @@ ats_targets:
   - { company: "Hudson River Trading", ats: greenhouse, slug: wearehrt,                 enabled: false }
   - { company: "Two Sigma",            ats: greenhouse, slug: twosigma,                 enabled: false }
   - { company: "SIG",                  ats: greenhouse, slug: susquehannainternational, enabled: false }
+  - { company: "Nvidia",               ats: greenhouse, slug: nvidia,                   enabled: false }
   # Lever check: https://api.lever.co/v0/postings/<slug>?mode=json
   # Ashby check: https://api.ashbyhq.com/posting-api/job-board/<slug>

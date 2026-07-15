@@ -1,5 +1,252 @@
 [
   {
+    "id": "0967dddc411297bb",
+    "company": "Five Rings",
+    "title": "Summer Intern 2027 - Quantitative Trader",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:fiveringsllc",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784051851,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "076c979b79dad00d",
+    "company": "Five Rings",
+    "title": "Summer Intern 2027 - Software Developer",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:fiveringsllc",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784074189,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "579005ae821a5e8f",
+    "company": "DRW",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
+    "season": "",
+    "source": "ats:greenhouse:drweng",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784051213,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "bc2b3bea4b9bb09e",
+    "company": "Akuna Capital",
+    "title": "Hardware Engineer Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053713,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "468b15a0b9121aae",
+    "company": "Akuna Capital",
+    "title": "Platform Engineer Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053732,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7cbe45cb9a6f2d8f",
+    "company": "Akuna Capital",
+    "title": "Quantitative Development & Strategy Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784051776,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "64340c08c5157235",
+    "company": "Akuna Capital",
+    "title": "Quantitative Research Intern, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784053760,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c21d6fb0ca901821",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053791,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a15560238b9b96ea",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - C++, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053813,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3930e8bf8b4fc35b",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053828,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b6b1d1b8542d3d15",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern - Python, Summer 2027",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784054274,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d3b3cfeb627ce58c",
+    "company": "Akuna Capital",
+    "title": "Software Engineer (Entry-Level) - C++",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784053759,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "af7f6cb4bfb6a56d",
+    "company": "Akuna Capital",
+    "title": "Software Engineer (Entry-Level) - Python",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
+    "season": "",
+    "source": "ats:greenhouse:akunacapital",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784054276,
+    "date_found": 1784081321,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "028996a90990c19d",
     "company": "Point72",
     "title": "Quantitative Developer Intern",
@@ -10345,44 +10592,6 @@
     "elig_reason": "over max_checks"
   },
   {
-    "id": "0967dddc411297bb",
-    "company": "Five Rings",
-    "title": "Summer Intern 2027 - Quantitative Trader",
-    "locations": [
-      "New York"
-    ],
-    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:fiveringsllc",
-    "role_type": "intern",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1784051851,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "076c979b79dad00d",
-    "company": "Five Rings",
-    "title": "Summer Intern 2027 - Software Developer",
-    "locations": [
-      "New York"
-    ],
-    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:fiveringsllc",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784074189,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
     "id": "262919adf1dda714",
     "company": "DRW",
     "title": "Quantitative Research Intern",
@@ -10421,25 +10630,6 @@
     "elig_reason": "over max_checks"
   },
   {
-    "id": "579005ae821a5e8f",
-    "company": "DRW",
-    "title": "Software Developer Intern",
-    "locations": [
-      "Chicago"
-    ],
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
-    "season": "",
-    "source": "ats:greenhouse:drweng",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784051213,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
     "id": "a0441c8d305adb79",
     "company": "DRW",
     "title": "Software Developer Intern",
@@ -10459,158 +10649,6 @@
     "elig_reason": "over max_checks"
   },
   {
-    "id": "bc2b3bea4b9bb09e",
-    "company": "Akuna Capital",
-    "title": "Hardware Engineer Intern, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784053713,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "468b15a0b9121aae",
-    "company": "Akuna Capital",
-    "title": "Platform Engineer Intern, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784053732,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "7cbe45cb9a6f2d8f",
-    "company": "Akuna Capital",
-    "title": "Quantitative Development & Strategy Intern, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "intern",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1784051776,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "64340c08c5157235",
-    "company": "Akuna Capital",
-    "title": "Quantitative Research Intern, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "intern",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1784053760,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "c21d6fb0ca901821",
-    "company": "Akuna Capital",
-    "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784053791,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "a15560238b9b96ea",
-    "company": "Akuna Capital",
-    "title": "Software Engineer Intern - C++, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784053813,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "3930e8bf8b4fc35b",
-    "company": "Akuna Capital",
-    "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784053828,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "b6b1d1b8542d3d15",
-    "company": "Akuna Capital",
-    "title": "Software Engineer Intern - Python, Summer 2027",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784054274,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
     "id": "d8327c8094290b1c",
     "company": "Tower Research",
     "title": "Software Engineer III",
@@ -10624,44 +10662,6 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1783447819,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "d3b3cfeb627ce58c",
-    "company": "Akuna Capital",
-    "title": "Software Engineer (Entry-Level) - C++",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784053759,
-    "date_found": 1784078801,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "af7f6cb4bfb6a56d",
-    "company": "Akuna Capital",
-    "title": "Software Engineer (Entry-Level) - Python",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
-    "season": "",
-    "source": "ats:greenhouse:akunacapital",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784054276,
     "date_found": 1784078801,
     "alive": true,
     "eligibility": "unknown",

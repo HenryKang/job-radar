@@ -1,9 +1,22 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-15 02:04 UTC · 495 live & eligible postings (showing 400); 59 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-15 02:08 UTC · 495 live & eligible postings (showing 400); 59 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-15 | 2026-07-14 | Five Rings | Summer Intern 2027 - Quantitative Trader | New York | Summer 2027 | quant | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
+| 2026-07-15 | 2026-07-15 | Five Rings | Summer Intern 2027 - Software Developer | New York | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
+| 2026-07-15 | 2026-07-14 | DRW | Software Developer Intern | Chicago | — | swe | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7992936) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Quantitative Development & Strategy Intern, Summer 2027 | Chicago, IL | Summer 2027 | quant | ok | [apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | Summer 2027 | quant | ok | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Software Engineer Intern - C++, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Software Engineer Intern - Full Stack Web, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Chicago, IL | Summer 2027 | swe | ok | [apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Software Engineer (Entry-Level) - C++ | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) |
+| 2026-07-15 | 2026-07-14 | Akuna Capital | Software Engineer (Entry-Level) - Python | Chicago, IL | — | swe | ok | [apply](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) |
 | 2026-07-15 | 2026-04-20 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
 | 2026-07-15 | 2026-04-20 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Summer | swe | unknown | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |
 | 2026-07-15 | 2026-04-23 | Ether.fi | GTM Engineer Intern | Cayman, Denver, New York | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb) |
@@ -391,16 +404,3 @@ _Last updated: 2026-07-15 02:04 UTC · 495 live & eligible postings (showing 400
 | 2026-07-15 | 2026-01-01 | Sierra | New Grad: Software Engineer, Agent | New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075) |
 | 2026-07-15 | 2026-01-07 | Caddy | Founding Engineer | New York, NY | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/88067) |
 | 2026-07-15 | 2026-01-07 | Planbase | Founding Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/88025) |
-| 2026-07-15 | 2026-01-07 | Planbase | Founding Product Engineer | San Francisco, CA, US | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/87443) |
-| 2026-07-15 | 2026-01-07 | TikTok | Software Engineer Graduate, Site Reliability Engineering | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7591947799615260933?spread=5MWH5CQ) |
-| 2026-07-15 | 2026-01-07 | Stripe | New Grad: Security Engineer | Seattle, WA, South San Francisco, CA | — | swe | unknown | [apply](https://stripe.com/jobs/listing/security-engineer-new-grad/7477571) |
-| 2026-07-15 | 2026-01-07 | Tesla | AI Engineer, Reinforcement Learning, Self-Driving | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259019) |
-| 2026-07-15 | 2026-01-07 | Tesla | Software Engineer, Core Vehicle Fulfillment Experience | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259057) |
-| 2026-07-15 | 2026-01-07 | Renaissance Technologies | Real-Time Trading Programmer | East Setauket, NY | — | quant | unknown | [apply](https://www.rentec.com/Careers.action?jobs=true&selectedPosition=realtimeTradingProgrammer) |
-| 2026-07-15 | 2026-01-09 | IXL Learning | New Grad: Software Engineer | Raleigh, NC | — | swe | unknown | [apply](https://www.ixl.com/company/careers?gh_jid=8364780002) |
-| 2026-07-15 | 2026-01-09 | StubHub | New Grad: Software Engineer I | Santa Monica, CA | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101) |
-| 2026-07-15 | 2026-01-09 | Tesla | Fullstack Software Engineer, Energy Products Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259428) |
-| 2026-07-15 | 2026-01-09 | Tesla | Mobile App Build Engineer, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259410) |
-| 2026-07-15 | 2026-01-09 | Tesla | Software Security Engineer, Energy Product Software | Palo Alto, California | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259427) |
-| 2026-07-15 | 2026-01-09 | Tesla | AI Engineer, Vision & Foundation Models, Optimus | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/233307) |
-| 2026-07-15 | 2026-01-09 | Tesla | Software Integration Engineer, Suspension, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259300) |

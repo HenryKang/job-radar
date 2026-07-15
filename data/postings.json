@@ -1,5 +1,24 @@
 [
   {
+    "id": "688473cbdb4c3b33",
+    "company": "Optiver",
+    "title": "Trading Automation and Operations Intern (Summer 2027)",
+    "locations": [
+      "Chicago, Illinois, United States"
+    ],
+    "url": "https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:optiverus",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784153549,
+    "date_found": 1784156168,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
     "id": "028996a90990c19d",
     "company": "Point72",
     "title": "Quantitative Developer Intern",

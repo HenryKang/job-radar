@@ -1,4 +1,4 @@
-# intern-radar
+# job-radar
 
 Automated monitor for Summer 2027 SWE/quant internship postings (quant firms, FAANG+, F50).
 Polls community aggregator repos + company ATS APIs on a schedule, archives new postings to this

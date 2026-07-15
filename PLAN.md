@@ -28,12 +28,12 @@ Ultraplan runs as a background task and needs a **local git repository**; `/User
 is not one and must not become one. So the very first action on approval is a minimal bootstrap —
 **no feature code yet**, just enough to launch the remote planning session:
 
-1. `mkdir ~/intern-radar`
+1. `mkdir ~/job-radar`
 2. `git init` inside it (+ set default branch `main`)
 3. Copy this plan into the repo as `PLAN.md` and add a stub `README.md` so the repo has content
 4. Initial commit (`git add -A && git commit`) so there's a valid `HEAD`
 
-Then **you relaunch Ultraplan from `~/intern-radar`** to refine the plan in the browser. All actual
+Then **you relaunch Ultraplan from `~/job-radar`** to refine the plan in the browser. All actual
 implementation (Phases 0–4 below) happens *after* the refined cloud plan is approved and teleported
 back. The GitHub **remote** (private repo) is created later, in Phase 0 — not needed for launch.
 
@@ -89,7 +89,7 @@ filter → drop ids already in seen → the remainder are NEW → alert + append
 
 ---
 
-## Repo Layout (`intern-radar`, private)
+## Repo Layout (`job-radar`, private)
 
 ```
 .github/workflows/crawl.yml     # cron + manual dispatch; runs main.py; commits data back
@@ -126,7 +126,7 @@ config line.
 ### Phase 0 — Prerequisites (one-time, some steps are yours)
 1. I install `gh` via Homebrew.
 2. **You run** `gh auth login` (browser) — suggest typing `! gh auth login` in the prompt.
-3. I create the **private** repo `intern-radar` under HenryKang and scaffold the files above.
+3. I create the **private** repo `job-radar` under HenryKang and scaffold the files above.
 4. **You create** a Discord webhook (Server → Integrations → Webhooks → New → Copy URL) and add it
    as repo secret `DISCORD_WEBHOOK_URL` (I'll give exact click-path + the `gh secret set` command).
 

@@ -1,4 +1,4 @@
-# Data sources for intern-radar.
+# Data sources for job-radar.
 #
 # aggregators: community-maintained internship repos that publish a structured
 #   listings.json (SimplifyJobs / vanshb03 schema). Broad coverage, ~hours lag.

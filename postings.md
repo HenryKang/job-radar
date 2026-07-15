@@ -1,4 +1,4 @@
-# 📡 intern-radar — tracked postings
+# 📡 job-radar — tracked postings
 
 _Last updated: 2026-07-15 01:26 UTC · 495 live & eligible postings (showing 400); 59 hidden (dead links / PhD / grad / underclassmen)._
 

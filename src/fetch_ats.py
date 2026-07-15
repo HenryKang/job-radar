@@ -10,7 +10,7 @@ import requests
 
 from normalize import make_posting
 
-_HEADERS = {"User-Agent": "intern-radar (github actions bot)"}
+_HEADERS = {"User-Agent": "job-radar (github actions bot)"}
 
 
 def _get_json(url: str, timeout: int = 30):

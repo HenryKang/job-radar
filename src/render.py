@@ -55,7 +55,7 @@ def write_markdown(path: str, archive: list[dict]) -> None:
     now = datetime.now(tz=timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     lines = [
-        "# 📡 intern-radar — tracked postings",
+        "# 📡 job-radar — tracked postings",
         "",
         f"_Last updated: {now} · {total_shown} live & eligible postings "
         f"(showing {len(rows)}); {hidden} hidden (dead links / PhD / grad / underclassmen)._",

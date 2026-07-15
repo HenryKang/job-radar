@@ -22,7 +22,7 @@ import requests
 
 from normalize import parse_ts
 
-_HEADERS = {"User-Agent": "Mozilla/5.0 (intern-radar; +https://github.com/HenryKang/intern-radar)"}
+_HEADERS = {"User-Agent": "Mozilla/5.0 (job-radar; +https://github.com/HenryKang/job-radar)"}
 _WD_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
     "Accept": "application/json",

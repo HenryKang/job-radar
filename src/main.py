@@ -1,4 +1,4 @@
-"""intern-radar orchestrator: fetch -> filter -> dedupe -> archive -> alert.
+"""job-radar orchestrator: fetch -> filter -> dedupe -> archive -> alert.
 
 Usage:
   python src/main.py            # normal run (alerts on new postings)

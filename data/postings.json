@@ -1,5 +1,24 @@
 [
   {
+    "id": "d5fb7f449dbb7b29",
+    "company": "Tower Research",
+    "title": "Software Engineer III",
+    "locations": [
+      "Gurgaon"
+    ],
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8074310",
+    "season": "",
+    "source": "ats:greenhouse:towerresearchcapital",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784548189,
+    "date_found": 1784555932,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "688473cbdb4c3b33",
     "company": "Optiver",
     "title": "Trading Automation and Operations Intern (Summer 2027)",

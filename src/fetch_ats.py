@@ -9,6 +9,7 @@ from __future__ import annotations
 import requests
 
 from normalize import make_posting
+from fetch_uber import fetch_uber
 
 _HEADERS = {"User-Agent": "job-radar (github actions bot)"}
 
@@ -127,7 +128,12 @@ def _workday(company: str, slug: str) -> list[dict]:
     return out
 
 
-_ADAPTERS = {"greenhouse": _greenhouse, "lever": _lever, "ashby": _ashby, "workday": _workday}
+def _uber(company: str, slug: str) -> list[dict]:
+    return fetch_uber(role_type=slug)  # slug = "intern" or "new_grad"
+
+
+_ADAPTERS = {"greenhouse": _greenhouse, "lever": _lever, "ashby": _ashby,
+             "workday": _workday, "uber_custom": _uber}
 
 
 def fetch_ats(targets: list[dict]) -> list[dict]:

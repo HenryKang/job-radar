@@ -111,6 +111,10 @@ ats_targets:
   # - { company: "Intel",      ats: workday, slug: intel.wd1/External,                   role_type: new_grad, enabled: false }
   # - { company: "Snap",       ats: workday, slug: snapchat.wd1/snap,                    role_type: new_grad, enabled: false }
 
+  # ---- Custom scrapers ----
+  - { company: "Uber", ats: uber_custom, slug: intern,   role_type: intern,   enabled: true }
+  - { company: "Uber", ats: uber_custom, slug: new_grad, role_type: new_grad, enabled: true }
+
   # ---- Could NOT verify a public slug (Workday / private ATS); covered by the
   #      aggregator instead. Re-check periodically; flip enabled when a slug works.
   #      Greenhouse check: https://boards-api.greenhouse.io/v1/boards/<slug>/jobs

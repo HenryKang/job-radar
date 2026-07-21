@@ -1,5 +1,100 @@
 [
   {
+    "id": "0967dddc411297bb",
+    "company": "Five Rings",
+    "title": "Summer Intern 2027 - Quantitative Trader",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:fiveringsllc",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784579786,
+    "date_found": 1784599277,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "076c979b79dad00d",
+    "company": "Five Rings",
+    "title": "Summer Intern 2027 - Software Developer",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:fiveringsllc",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784579787,
+    "date_found": 1784599277,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d5fb7f449dbb7b29",
+    "company": "Tower Research",
+    "title": "Software Engineer III",
+    "locations": [
+      "Gurgaon"
+    ],
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8074310",
+    "season": "",
+    "source": "ats:greenhouse:towerresearchcapital",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784548189,
+    "date_found": 1784599277,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e41f4ac3c0bad7f6",
+    "company": "Pinterest",
+    "title": "Software Engineer II, Backend",
+    "locations": [
+      "Toronto, ON, CA"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5132899",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784570274,
+    "date_found": 1784599277,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5d5bb2722a11375a",
+    "company": "Optiver",
+    "title": "Quantitative Trading Internship (Taiwan) - 2027",
+    "locations": [
+      "Taipei, Taiwan"
+    ],
+    "url": "https://www.optiver.com/join-us/jobs/8011956002/?gh_jid=8011956002",
+    "season": "",
+    "source": "ats:greenhouse:optiverus",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1784598727,
+    "date_found": 1784599277,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
     "id": "028996a90990c19d",
     "company": "Point72",
     "title": "Quantitative Developer Intern",
@@ -10326,44 +10421,6 @@
     "elig_reason": "over max_checks"
   },
   {
-    "id": "0967dddc411297bb",
-    "company": "Five Rings",
-    "title": "Summer Intern 2027 - Quantitative Trader",
-    "locations": [
-      "New York"
-    ],
-    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:fiveringsllc",
-    "role_type": "intern",
-    "category": "quant",
-    "sponsorship": "",
-    "date_posted": 1784579786,
-    "date_found": 1784593253,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "076c979b79dad00d",
-    "company": "Five Rings",
-    "title": "Summer Intern 2027 - Software Developer",
-    "locations": [
-      "New York"
-    ],
-    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
-    "season": "Summer 2027",
-    "source": "ats:greenhouse:fiveringsllc",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784579787,
-    "date_found": 1784593253,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
     "id": "262919adf1dda714",
     "company": "DRW",
     "title": "Quantitative Research Intern",
@@ -10586,25 +10643,6 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1784054274,
-    "date_found": 1784593253,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "d5fb7f449dbb7b29",
-    "company": "Tower Research",
-    "title": "Software Engineer III",
-    "locations": [
-      "Gurgaon"
-    ],
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=8074310",
-    "season": "",
-    "source": "ats:greenhouse:towerresearchcapital",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784548189,
     "date_found": 1784593253,
     "alive": true,
     "eligibility": "unknown",
@@ -11802,25 +11840,6 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1784318231,
-    "date_found": 1784593253,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "e41f4ac3c0bad7f6",
-    "company": "Pinterest",
-    "title": "Software Engineer II, Backend",
-    "locations": [
-      "Toronto, ON, CA"
-    ],
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5132899",
-    "season": "",
-    "source": "ats:greenhouse:pinterest",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1784570274,
     "date_found": 1784593253,
     "alive": true,
     "eligibility": "unknown",

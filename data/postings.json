@@ -1,5 +1,24 @@
 [
   {
+    "id": "75b6580d1700acfb",
+    "company": "Uber",
+    "title": "2027 Software Engineering Internship",
+    "locations": [
+      "Uber Career Prep, San Francisco, United States"
+    ],
+    "url": "https://jobs.uber.com/en/jobs/300697/",
+    "season": "",
+    "source": "ats:uber:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1784600135,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "028996a90990c19d",
     "company": "Point72",
     "title": "Quantitative Developer Intern",
@@ -11954,25 +11973,6 @@
     "category": "swe",
     "sponsorship": "",
     "date_posted": 1779989947,
-    "date_found": 1784599875,
-    "alive": true,
-    "eligibility": "unknown",
-    "elig_reason": "over max_checks"
-  },
-  {
-    "id": "75b6580d1700acfb",
-    "company": "Uber",
-    "title": "2027 Software Engineering Internship",
-    "locations": [
-      "Uber Career Prep, San Francisco, United States"
-    ],
-    "url": "https://jobs.uber.com/en/jobs/300697/",
-    "season": "",
-    "source": "ats:uber:intern",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": null,
     "date_found": 1784599875,
     "alive": true,
     "eligibility": "unknown",

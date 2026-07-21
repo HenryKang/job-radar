@@ -78,11 +78,11 @@ ats_targets:
   - { company: "Snowflake",   ats: ashby,      slug: snowflake,                  role_type: intern,   enabled: true }
   - { company: "Spotify",     ats: lever,      slug: spotify,                    role_type: intern,   enabled: true }
   - { company: "Atlassian",   ats: lever,      slug: atlassian,                  role_type: intern,   enabled: true }
-  # Workday ATS (tenant/site format)
-  - { company: "Adobe",       ats: workday,    slug: adobe.wd5/external_experienced,     role_type: intern,   enabled: true }
-  - { company: "Salesforce",  ats: workday,    slug: salesforce.wd12/External_Career_Site, role_type: intern, enabled: true }
-  - { company: "Intel",       ats: workday,    slug: intel.wd1/External,                 role_type: intern,   enabled: true }
-  - { company: "Snap",        ats: workday,    slug: snapchat.wd1/snap,                  role_type: intern,   enabled: true }
+  # Workday ATS — blocked by Workday bot detection on GitHub Actions IPs; covered by aggregator
+  # - { company: "Adobe",      ats: workday, slug: adobe.wd5/external_experienced,       role_type: intern, enabled: false }
+  # - { company: "Salesforce", ats: workday, slug: salesforce.wd12/External_Career_Site, role_type: intern, enabled: false }
+  # - { company: "Intel",      ats: workday, slug: intel.wd1/External,                   role_type: intern, enabled: false }
+  # - { company: "Snap",       ats: workday, slug: snapchat.wd1/snap,                    role_type: intern, enabled: false }
   # New grad variants
   - { company: "Netflix",     ats: lever,      slug: netflix,                    role_type: new_grad, enabled: true }
   - { company: "OpenAI",      ats: ashby,      slug: openai,                     role_type: new_grad, enabled: true }
@@ -106,10 +106,10 @@ ats_targets:
   - { company: "Snowflake",   ats: ashby,      slug: snowflake,                  role_type: new_grad, enabled: true }
   - { company: "Spotify",     ats: lever,      slug: spotify,                    role_type: new_grad, enabled: true }
   - { company: "Atlassian",   ats: lever,      slug: atlassian,                  role_type: new_grad, enabled: true }
-  - { company: "Adobe",       ats: workday,    slug: adobe.wd5/external_experienced,     role_type: new_grad, enabled: true }
-  - { company: "Salesforce",  ats: workday,    slug: salesforce.wd12/External_Career_Site, role_type: new_grad, enabled: true }
-  - { company: "Intel",       ats: workday,    slug: intel.wd1/External,                 role_type: new_grad, enabled: true }
-  - { company: "Snap",        ats: workday,    slug: snapchat.wd1/snap,                  role_type: new_grad, enabled: true }
+  # - { company: "Adobe",      ats: workday, slug: adobe.wd5/external_experienced,       role_type: new_grad, enabled: false }
+  # - { company: "Salesforce", ats: workday, slug: salesforce.wd12/External_Career_Site, role_type: new_grad, enabled: false }
+  # - { company: "Intel",      ats: workday, slug: intel.wd1/External,                   role_type: new_grad, enabled: false }
+  # - { company: "Snap",       ats: workday, slug: snapchat.wd1/snap,                    role_type: new_grad, enabled: false }
 
   # ---- Could NOT verify a public slug (Workday / private ATS); covered by the
   #      aggregator instead. Re-check periodically; flip enabled when a slug works.

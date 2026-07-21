@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-21 10:23 UTC · 564 live & eligible postings (showing 400); 59 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-21 13:41 UTC · 565 live & eligible postings (showing 400); 60 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-21 | 2026-07-21 | Optiver | FPGA Engineer Intern (Summer 2027 - Chicago) | Chicago, Illinois, United States | Summer 2027 | swe | ok | [apply](https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002) |
 | 2026-07-21 | — | Uber | 2027 Software Engineering Internship | Uber Career Prep, San Francisco, United States | — | swe | ok | [apply](https://jobs.uber.com/en/jobs/300697/) |
 | 2026-07-21 | 2026-04-20 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
 | 2026-07-21 | 2026-04-20 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Summer | swe | unknown | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |
@@ -403,4 +404,3 @@ _Last updated: 2026-07-21 10:23 UTC · 564 live & eligible postings (showing 400
 | 2026-07-21 | 2026-01-09 | Tesla | Fullstack Software Engineer, Energy Products Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259428) |
 | 2026-07-21 | 2026-01-09 | Tesla | Mobile App Build Engineer, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259410) |
 | 2026-07-21 | 2026-01-09 | Tesla | Software Security Engineer, Energy Product Software | Palo Alto, California | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259427) |
-| 2026-07-21 | 2026-01-09 | Tesla | AI Engineer, Vision & Foundation Models, Optimus | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/233307) |

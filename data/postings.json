@@ -1,5 +1,43 @@
 [
   {
+    "id": "461b651dd0fb18a7",
+    "company": "Optiver",
+    "title": "FPGA Engineer Intern (Summer 2027 - Austin)",
+    "locations": [
+      "Austin, Texas, United States"
+    ],
+    "url": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:optiverus",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784641085,
+    "date_found": 1784641313,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "b5bf75c523f04e0f",
+    "company": "Optiver",
+    "title": "FPGA Engineer Intern (Summer 2027 - Chicago)",
+    "locations": [
+      "Chicago, Illinois, United States"
+    ],
+    "url": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:optiverus",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784637533,
+    "date_found": 1784641313,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "75b6580d1700acfb",
     "company": "Uber",
     "title": "2027 Software Engineering Internship",

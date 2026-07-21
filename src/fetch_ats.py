@@ -80,7 +80,54 @@ def _ashby(company: str, slug: str) -> list[dict]:
     return out
 
 
-_ADAPTERS = {"greenhouse": _greenhouse, "lever": _lever, "ashby": _ashby}
+_WD_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+    "Accept": "application/json",
+    "Content-Type": "application/json",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Origin": "https://www.myworkdayjobs.com",
+    "Referer": "https://www.myworkdayjobs.com/",
+}
+
+
+def _workday(company: str, slug: str) -> list[dict]:
+    """slug format: tenant.wdN/site  e.g. adobe.wd5/external_experienced
+    The tenant portion (before /) is the full subdomain prefix including .wdN."""
+    host_part, site = slug.split("/", 1)
+    # host_part is e.g. "adobe.wd5" -> subdomain of myworkdayjobs.com
+    # CxS path uses just the company name (before the .wdN)
+    tenant_name = host_part.split(".")[0]
+    url = f"https://{host_part}.myworkdayjobs.com/wday/cxs/{tenant_name}/{site}/jobs"
+    out = []
+    offset = 0
+    limit = 50
+    while True:
+        r = requests.post(url, headers=_WD_HEADERS, timeout=30,
+                          json={"appliedFacets": {}, "limit": limit,
+                                "offset": offset, "searchText": " "})
+        r.raise_for_status()
+        d = r.json()
+        postings = d.get("jobPostings", [])
+        for j in postings:
+            loc = j.get("locationsText", "") or j.get("bulletFields", [""])[0] if j.get("bulletFields") else ""
+            path = j.get("externalPath", "")
+            base = f"https://{tenant}.myworkdayjobs.com/en-US/{site}"
+            out.append(make_posting(
+                company=company,
+                title=j.get("title", ""),
+                locations=[loc] if loc else [],
+                url=f"{base}{path}" if path else "",
+                season="",
+                source=f"ats:workday:{slug}",
+                date_posted=j.get("postedOn"),
+            ))
+        if len(postings) < limit or offset + limit >= d.get("total", 0):
+            break
+        offset += limit
+    return out
+
+
+_ADAPTERS = {"greenhouse": _greenhouse, "lever": _lever, "ashby": _ashby, "workday": _workday}
 
 
 def fetch_ats(targets: list[dict]) -> list[dict]:

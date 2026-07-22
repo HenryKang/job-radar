@@ -62,6 +62,23 @@ quant_companies:
   - quantlab
   - pdt partners
   - group one
+  - hap capital
+  - transmarket
+  - volant
+  - exoduspoint
+  - worldquant
+  - verition
+  - gsa capital
+  - engineers gate
+  - centiva
+  - renaissance
+  - rentec
+  - aqr
+  - bridgewater
+  - tgs management
+  - g-research
+  - man group
+  - man ahl
 
 # Curated FAANG+/big-tech. Edit freely — anything not here (and not quant) -> other.
 faang_companies:

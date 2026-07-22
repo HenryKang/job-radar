@@ -111,6 +111,35 @@ ats_targets:
   # - { company: "Intel",      ats: workday, slug: intel.wd1/External,                   role_type: new_grad, enabled: false }
   # - { company: "Snap",       ats: workday, slug: snapchat.wd1/snap,                    role_type: new_grad, enabled: false }
 
+  # ---- Additional quant firms (tiers 1-4 from quantblueprint.com) ----
+  - { company: "Virtu Financial",  ats: greenhouse, slug: virtu,              role_type: intern,   enabled: true }
+  - { company: "Flow Traders",     ats: greenhouse, slug: flowtraders,        role_type: intern,   enabled: true }
+  - { company: "WorldQuant",       ats: greenhouse, slug: worldquant,         role_type: intern,   enabled: true }
+  - { company: "Schonfeld",        ats: greenhouse, slug: schonfeld,          role_type: intern,   enabled: true }
+  - { company: "Squarepoint",      ats: greenhouse, slug: squarepointcapital, role_type: intern,   enabled: true }
+  - { company: "AQR Capital",      ats: greenhouse, slug: aqr,               role_type: intern,   enabled: true }
+  - { company: "PDT Partners",     ats: greenhouse, slug: pdtpartners,        role_type: intern,   enabled: true }
+  - { company: "Old Mission",      ats: greenhouse, slug: oldmissioncapital,  role_type: intern,   enabled: true }
+  - { company: "Engineers Gate",   ats: greenhouse, slug: engineersgate,      role_type: intern,   enabled: true }
+  - { company: "GSA Capital",      ats: greenhouse, slug: gsacapital,         role_type: intern,   enabled: true }
+  - { company: "Man Group",        ats: greenhouse, slug: mangroup,           role_type: intern,   enabled: true }
+  - { company: "ExodusPoint",      ats: greenhouse, slug: exoduspoint,        role_type: intern,   enabled: true }
+  - { company: "Aquatic Capital",  ats: ashby,      slug: aquatic,            role_type: intern,   enabled: true }
+  # New grad variants
+  - { company: "Virtu Financial",  ats: greenhouse, slug: virtu,              role_type: new_grad, enabled: true }
+  - { company: "Flow Traders",     ats: greenhouse, slug: flowtraders,        role_type: new_grad, enabled: true }
+  - { company: "WorldQuant",       ats: greenhouse, slug: worldquant,         role_type: new_grad, enabled: true }
+  - { company: "Schonfeld",        ats: greenhouse, slug: schonfeld,          role_type: new_grad, enabled: true }
+  - { company: "Squarepoint",      ats: greenhouse, slug: squarepointcapital, role_type: new_grad, enabled: true }
+  - { company: "AQR Capital",      ats: greenhouse, slug: aqr,               role_type: new_grad, enabled: true }
+  - { company: "PDT Partners",     ats: greenhouse, slug: pdtpartners,        role_type: new_grad, enabled: true }
+  - { company: "Old Mission",      ats: greenhouse, slug: oldmissioncapital,  role_type: new_grad, enabled: true }
+  - { company: "Engineers Gate",   ats: greenhouse, slug: engineersgate,      role_type: new_grad, enabled: true }
+  - { company: "GSA Capital",      ats: greenhouse, slug: gsacapital,         role_type: new_grad, enabled: true }
+  - { company: "Man Group",        ats: greenhouse, slug: mangroup,           role_type: new_grad, enabled: true }
+  - { company: "ExodusPoint",      ats: greenhouse, slug: exoduspoint,        role_type: new_grad, enabled: true }
+  - { company: "Aquatic Capital",  ats: ashby,      slug: aquatic,            role_type: new_grad, enabled: true }
+
   # ---- Custom scrapers ----
   - { company: "Uber", ats: uber_custom, slug: intern,   role_type: intern,   enabled: true }
   - { company: "Uber", ats: uber_custom, slug: new_grad, role_type: new_grad, enabled: true }
@@ -123,5 +152,8 @@ ats_targets:
   - { company: "Two Sigma",            ats: greenhouse, slug: twosigma,                 enabled: false }
   - { company: "SIG",                  ats: greenhouse, slug: susquehannainternational, enabled: false }
   - { company: "Nvidia",               ats: greenhouse, slug: nvidia,                   enabled: false }
+  # No standard ATS found (private/custom): Citadel, HRT, Two Sigma, SIG, DE Shaw,
+  # Balyasny, Millennium, Bridgewater, Renaissance, G-Research, Headlands, QuantLab,
+  # XTX Markets, TGS Management, Verition, HAP Capital, TransMarket, Volant, Centiva
   # Lever check: https://api.lever.co/v0/postings/<slug>?mode=json
   # Ashby check: https://api.ashbyhq.com/posting-api/job-board/<slug>

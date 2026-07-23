@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-23 13:50 UTC · 579 live & eligible postings (showing 400); 59 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-23 15:54 UTC · 581 live & eligible postings (showing 400); 59 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-23 | 2026-07-23 | IMC Trading | 2027 - Quant Research Intern - IIT Delhi | Amsterdam, Netherlands; Mumbai, India | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917441101) |
+| 2026-07-23 | 2026-07-23 | IMC Trading | 2027 - Software Engineering Intern - IIT Delhi | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) |
 | 2026-07-22 | 2026-04-20 | Poshmark | Cloud Platform Engineer Intern, Growth | Redwood City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) |
 | 2026-07-22 | 2026-04-20 | TETRAMEM | Software Engineer Intern, Embedded | San Jose, CA | Summer | swe | unknown | [apply](https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job) |
 | 2026-07-22 | 2026-04-23 | Ether.fi | GTM Engineer Intern | Cayman, Denver, New York | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/ether.fi/6dcb712c-8fe5-4725-ad6a-0e9771af22cb) |
@@ -402,5 +404,3 @@ _Last updated: 2026-07-23 13:50 UTC · 579 live & eligible postings (showing 400
 | 2026-07-22 | 2026-01-09 | Tesla | Fullstack Software Engineer, Energy Products Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259428) |
 | 2026-07-22 | 2026-01-09 | Tesla | Mobile App Build Engineer, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259410) |
 | 2026-07-22 | 2026-01-09 | Tesla | Software Security Engineer, Energy Product Software | Palo Alto, California | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259427) |
-| 2026-07-22 | 2026-01-09 | Tesla | AI Engineer, Vision & Foundation Models, Optimus | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/233307) |
-| 2026-07-22 | 2026-01-09 | Tesla | Software Integration Engineer, Suspension, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259300) |

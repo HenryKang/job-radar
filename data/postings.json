@@ -1,5 +1,62 @@
 [
   {
+    "id": "bd112109607e6998",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0",
+    "season": "",
+    "source": "ats:lever:palantir",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1761769577,
+    "date_found": 1784933954,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "56830586d34c9ac5",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "Washington, D.C."
+    ],
+    "url": "https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8",
+    "season": "",
+    "source": "ats:lever:palantir",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1761769632,
+    "date_found": 1784933954,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "88b4c2a9690758d0",
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8",
+    "season": "",
+    "source": "ats:lever:palantir",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1761762442,
+    "date_found": 1784933954,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "093ae6a2c8a964b0",
     "company": "PDT Partners",
     "title": "Summer 2027 Software Engineering Intern",

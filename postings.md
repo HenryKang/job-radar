@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-24 21:00 UTC · 623 live & eligible postings (showing 400); 61 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-24 22:59 UTC · 626 live & eligible postings (showing 400); 61 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-24 | 2025-10-29 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | — | swe | unknown | [apply](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) |
+| 2026-07-24 | 2025-10-29 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, D.C. | — | swe | unknown | [apply](https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8) |
+| 2026-07-24 | 2025-10-29 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | — | swe | unknown | [apply](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) |
 | 2026-07-24 | 2026-07-24 | PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | Summer 2027 | swe | ok | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | 2026-07-24 | 2026-07-24 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | Summer 2027 | swe | ok | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | 2026-07-24 | 2026-07-24 | Appian | Software Engineering Intern | McLean, VA | Summer | swe | ok | [apply](https://careers.appian.com/jobs/8041237-software-engineering-intern) |
@@ -401,6 +404,3 @@ _Last updated: 2026-07-24 21:00 UTC · 623 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-10 | Citizen Health | Software Engineer | San Francisco, CA, San Mateo, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application) |
 | 2026-07-22 | 2025-11-10 | General Dynamics Information Technology | Software Engineer I | Annapolis Junction, MD | — | swe | unknown | [apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1) |
 | 2026-07-22 | 2025-11-10 | ServiceNow | Frontend Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000092424475) |
-| 2026-07-22 | 2025-11-18 | Lumenalta | Full Stack Engineer | Remote | — | swe | unknown | [apply](https://lumenalta.com/jobs/full-stack-engineer-storyblok-expert-full-stack-engineer-storyblok-expert-188) |
-| 2026-07-22 | 2025-11-18 | Stripe | Backend Engineer, Secure Endpoint Access | South San Francisco, CA, Seattle, WA, Remote | — | swe | unknown | [apply](https://stripe.com/jobs/listing/backend-engineer-secure-endpoint-access/7396672) |
-| 2026-07-22 | 2025-11-18 | Tesla | Thermal Controls Engineer, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/227179) |

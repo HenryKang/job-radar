@@ -1,9 +1,46 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-24 06:23 UTC · 582 live & eligible postings (showing 400); 59 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-24 10:15 UTC · 619 live & eligible postings (showing 400); 61 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-24 | 2026-07-24 | Google | Software Engineering Intern | Mountain View, CA, Atlanta, GA, Austin, TX, Boulder, CO, Cambridge, MA, Bellevue, WA, Chicago, IL, Houston, TX, Irvine, CA, Kirkland, WA, Los Angeles, CA, Madison, WI, New York, NY, Palo Alto, CA, Portland, OR, Pittsburgh, PA, Raleigh, NC, Durham, NC, Reston, VA, Redmond, WA, Redwood City, CA, San Diego, CA, Goleta, CA, San Bruno, CA, Seattle, WA, San Francisco, CA, San Jose, CA, Santa Cruz, CA, South San Francisco, CA, Sunnyvale, CA | Summer | swe | ok | [apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
+| 2026-07-24 | 2026-07-24 | Five Rings | Software Developer Intern | New York, NY | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
+| 2026-07-24 | 2026-07-24 | Akuna Capital | Software Engineer Intern, C++ | Chicago, IL | Summer | swe | ok | [apply](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
+| 2026-07-24 | 2026-07-24 | Akuna Capital | Platform Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
+| 2026-07-24 | 2026-07-24 | Akuna Capital | Hardware Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
+| 2026-07-24 | 2026-07-24 | Akuna Capital | Python Software Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
+| 2026-07-24 | 2026-07-24 | Akuna Capital | Software Engineer Intern, Full Stack Web | Chicago, IL | Summer | swe | ok | [apply](https://akunacapital.com/careers/job/8018893/?gh_jid=8018893) |
+| 2026-07-24 | 2026-07-24 | Akuna Capital | Software Engineer Intern, C# .NET Desktop | Chicago, IL | Summer | swe | ok | [apply](https://akunacapital.com/careers/job/8018886/?gh_jid=8018886) |
+| 2026-07-24 | 2026-07-24 | Hudson River Trading | Software Engineer Intern | Austin, TX, Chicago, IL, New York, NY | Summer | swe | ok | [apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=) |
+| 2026-07-24 | 2026-07-21 | Copart | Software Engineering Intern | Dallas, TX | Summer | swe | unknown | [apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011) |
+| 2026-07-24 | 2026-07-24 | Radix Trading | Quantitative Technologist Intern, C++ | Chicago, IL | Summer | quant | ok | [apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
+| 2026-07-24 | 2026-07-24 | Deepgram | Software Engineering Intern | Remote, US | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Quantitative Trader Intern | New York, NY | Summer | quant | unknown | [apply](https://www.janestreet.com/join-jane-street/position/8617344002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Quantitative Researcher Intern | New York, NY | Summer | quant | ok | [apply](https://www.janestreet.com/join-jane-street/position/8498547002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Machine Learning Engineer Intern | New York, NY | Summer | swe | ok | [apply](https://www.janestreet.com/join-jane-street/position/8611307002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Machine Learning Researcher Intern | New York, NY | Summer | quant | ok | [apply](https://www.janestreet.com/join-jane-street/position/8384490002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Data Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://www.janestreet.com/join-jane-street/position/8631973002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | Summer | swe | unknown | [apply](https://www.janestreet.com/join-jane-street/position/8624440002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Linux Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://www.janestreet.com/join-jane-street/position/8626260002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Network Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://www.janestreet.com/join-jane-street/position/8620793002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Sales and Trading Intern | New York, NY | Summer | quant | ok | [apply](https://www.janestreet.com/join-jane-street/position/8347385002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Trading Desk Operations Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://www.janestreet.com/join-jane-street/position/8621450002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Windows Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://www.janestreet.com/join-jane-street/position/8628843002/) |
+| 2026-07-24 | 2026-07-24 | Jane Street | Software Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://www.janestreet.com/join-jane-street/position/8599644002/) |
+| 2026-07-24 | 2026-07-24 | Palantir Technologies | Software Engineer Intern | Palo Alto, CA | Summer | swe | unknown | [apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
+| 2026-07-24 | 2026-07-24 | Palantir Technologies | Software Engineer Intern | Washington, D.C. | Summer | swe | unknown | [apply](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) |
+| 2026-07-24 | 2026-07-24 | Palantir Technologies | Software Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) |
+| 2026-07-24 | 2026-07-24 | Palantir Technologies | Software Engineer Intern, Infrastructure | New York, NY | Summer | swe | unknown | [apply](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) |
+| 2026-07-24 | 2026-07-24 | Palantir Technologies | Software Engineer Intern, Production Infrastructure | Seattle, WA | Summer | swe | unknown | [apply](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) |
+| 2026-07-24 | 2026-07-24 | Walleye Capital | Risk Technology Analyst Intern | New York, NY | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006) |
+| 2026-07-24 | 2026-07-24 | Walleye Capital | Technology Intern | New York, NY | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006) |
+| 2026-07-24 | 2026-07-24 | Walleye Capital | Equity Volatility Quant Researcher Intern | Miami, FL | Summer | quant | ok | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) |
+| 2026-07-24 | 2026-07-24 | Walleye Capital | Investment Data Science Intern | New York, NY | Summer | ml_data | ok | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) |
+| 2026-07-24 | 2026-07-24 | Akuna Capital | Quantitative Development & Strategy Intern | Chicago | Summer | quant | ok | [apply](https://akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
+| 2026-07-24 | 2026-07-24 | Akuna Capital | Quantitative Research Intern | Chicago | Summer | quant | ok | [apply](https://akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| 2026-07-24 | 2026-07-24 | Old Mission | Software Engineer Intern | Chicago, IL | Summer | swe | unknown | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
+| 2026-07-24 | 2026-07-24 | Appian | New Grad 2027: Associate Solution Engineer | McLean, VA | — | swe | ok | [apply](https://job-boards.greenhouse.io/appian/jobs/8035750) |
 | 2026-07-23 | 2026-07-23 | Virtu Financial | 2027 Internship - Software Engineer | Austin, TX; New York | — | swe | unknown | [apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
 | 2026-07-23 | 2026-07-23 | IMC Trading | 2027 - Quant Research Intern - IIT Delhi | Amsterdam, Netherlands; Mumbai, India | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917441101) |
 | 2026-07-23 | 2026-07-23 | IMC Trading | 2027 - Software Engineering Intern - IIT Delhi | Mumbai, India | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4917535101) |
@@ -367,40 +404,3 @@ _Last updated: 2026-07-24 06:23 UTC · 582 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-18 | Apple | Software Engineer, IS&T Early Career | Sunnyvale, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
 | 2026-07-22 | 2025-11-18 | Databricks | AI Tooling Program Engineer | Northeast, United States | — | swe | unknown | [apply](https://www.databricks.com/company/careers/professional-services-operations/ai-tooling-program-engineer--8295414002) |
 | 2026-07-22 | 2025-11-18 | dScribe AI | Founding Engineer | Kansas City, MO, Overland Park, KS, Olathe, KS | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/85420) |
-| 2026-07-22 | 2025-11-18 | Phonely | Forward Deployed Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/85445) |
-| 2026-07-22 | 2025-11-18 | Poka Labs | Founding Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/77829) |
-| 2026-07-22 | 2025-11-18 | Wanderlog (W19) | New Grad: Full-Stack Software Engineer | Remote | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/85460) |
-| 2026-07-22 | 2025-11-18 | Wanderlog (W19) | New Grad: Full-Stack Software Engineer | San Francisco, CA, Remote | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/85459) |
-| 2026-07-22 | 2025-11-30 | Tesla | Software Engineer, Maps & Navigation Validation, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/256719) |
-| 2026-07-22 | 2025-11-30 | Tesla | Software Engineer, AI Inference Codesign | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/256595) |
-| 2026-07-22 | 2025-11-30 | Tesla | Robotics Systems Engineer, Optimus | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/256730) |
-| 2026-07-22 | 2025-11-30 | Waymo | Software Engineer, ML Tools | Mountain View, CA | — | swe | unknown | [apply](https://careers.withwaymo.com/jobs/software-engineer-ml-tools-mountain-view-california-united-states) |
-| 2026-07-22 | 2025-11-30 | Dune | Data Engineer | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/dune/f3846675-ec16-49df-840d-a428cb421e8c) |
-| 2026-07-22 | 2025-11-30 | Amazon | System Development Engineer, Robotics Integration and Optimization Services | Arlington, VA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3133994/system-development-engineer-robotics-integration-and-optimization-services) |
-| 2026-07-22 | 2025-11-30 | Yotta Labs | Research Engineer - Decentralized AI Systems | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/yotta/b5202314-91e1-4940-b8a1-9be0e02d1db5) |
-| 2026-07-22 | 2025-11-30 | EvenUp | Backend Software Engineer, AI Document Generation (All Levels) | San Francisco, CA, Toronto, Canada | — | swe | unknown | [apply](https://jobs.ashbyhq.com/evenup/575484a3-ed12-478f-a575-8db524f9cc96) |
-| 2026-07-22 | 2025-11-30 | Thera | Founding Engineer | Remote | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/86044) |
-| 2026-07-22 | 2025-11-30 | Thera | Founding Engineer | New York, NY | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/85422) |
-| 2026-07-22 | 2025-12-09 | Wanderlog | Full-Stack Software Engineer | San Francisco, CA, Remote | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/86703) |
-| 2026-07-22 | 2025-12-09 | Wanderlog | Full-Stack Software Engineer | Toronto, Canada, Remote | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/86704) |
-| 2026-07-22 | 2025-12-09 | Planbase | Founding Engineer (Full-Stack) | San Francisco, CA, US | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/86588) |
-| 2026-07-22 | 2025-12-09 | Idler | Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/83889) |
-| 2026-07-22 | 2025-12-09 | Emerge Career | Founding Product Engineer | New York, NY | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/79286) |
-| 2026-07-22 | 2025-12-12 | Magical | New Grad: Junior Software Engineer, AI | San Francisco, CA, Toronto, Canada | — | swe | unknown | [apply](https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249) |
-| 2026-07-22 | 2025-12-12 | Capgemini | Full Stack AI Engineer | New York, NY | — | swe | unknown | [apply](https://careers.capgemini.com/job/New-York%2C-NY-Full-Stack-AI-Engineer-NY-10001/1275242401) |
-| 2026-07-22 | 2025-12-12 | Waymo | WebRAD & Rider Support Full Stack SWE | Mountain View, CA | — | swe | unknown | [apply](https://careers.withwaymo.com/jobs/webrad-rider-support-full-stack-swe-mountain-view-california-united-states) |
-| 2026-07-22 | 2025-12-12 | Viasat | Software Engineer, Broadband Networks | Carlsbad, CA | — | swe | unknown | [apply](https://careers.viasat.com/jobs/4993) |
-| 2026-07-22 | 2026-01-01 | Sierra | New Grad: Software Engineer, Agent | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96) |
-| 2026-07-22 | 2026-01-01 | Sierra | New Grad: Software Engineer, Agent | New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075) |
-| 2026-07-22 | 2026-01-07 | Caddy | Founding Engineer | New York, NY | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/88067) |
-| 2026-07-22 | 2026-01-07 | Planbase | Founding Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/88025) |
-| 2026-07-22 | 2026-01-07 | Planbase | Founding Product Engineer | San Francisco, CA, US | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/87443) |
-| 2026-07-22 | 2026-01-07 | TikTok | Software Engineer Graduate, Site Reliability Engineering | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7591947799615260933?spread=5MWH5CQ) |
-| 2026-07-22 | 2026-01-07 | Stripe | New Grad: Security Engineer | Seattle, WA, South San Francisco, CA | — | swe | unknown | [apply](https://stripe.com/jobs/listing/security-engineer-new-grad/7477571) |
-| 2026-07-22 | 2026-01-07 | Tesla | AI Engineer, Reinforcement Learning, Self-Driving | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259019) |
-| 2026-07-22 | 2026-01-07 | Tesla | Software Engineer, Core Vehicle Fulfillment Experience | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259057) |
-| 2026-07-22 | 2026-01-07 | Renaissance Technologies | Real-Time Trading Programmer | East Setauket, NY | — | quant | unknown | [apply](https://www.rentec.com/Careers.action?jobs=true&selectedPosition=realtimeTradingProgrammer) |
-| 2026-07-22 | 2026-01-09 | IXL Learning | New Grad: Software Engineer | Raleigh, NC | — | swe | unknown | [apply](https://www.ixl.com/company/careers?gh_jid=8364780002) |
-| 2026-07-22 | 2026-01-09 | StubHub | New Grad: Software Engineer I | Santa Monica, CA | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101) |
-| 2026-07-22 | 2026-01-09 | Tesla | Fullstack Software Engineer, Energy Products Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259428) |
-| 2026-07-22 | 2026-01-09 | Tesla | Mobile App Build Engineer, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/259410) |

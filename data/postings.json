@@ -1,5 +1,778 @@
 [
   {
+    "id": "aec651ffbb910466",
+    "company": "Google",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Mountain View, CA",
+      "Atlanta, GA",
+      "Austin, TX",
+      "Boulder, CO",
+      "Cambridge, MA",
+      "Bellevue, WA",
+      "Chicago, IL",
+      "Houston, TX",
+      "Irvine, CA",
+      "Kirkland, WA",
+      "Los Angeles, CA",
+      "Madison, WI",
+      "New York, NY",
+      "Palo Alto, CA",
+      "Portland, OR",
+      "Pittsburgh, PA",
+      "Raleigh, NC",
+      "Durham, NC",
+      "Reston, VA",
+      "Redmond, WA",
+      "Redwood City, CA",
+      "San Diego, CA",
+      "Goleta, CA",
+      "San Bruno, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "San Jose, CA",
+      "Santa Cruz, CA",
+      "South San Francisco, CA",
+      "Sunnyvale, CA"
+    ],
+    "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784878468,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "22c3f12596ed0b66",
+    "company": "Five Rings",
+    "title": "Software Developer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1784878908,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "226cc939365449cb",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern, C++",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1784878914,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "117fc07c2fe32e29",
+    "company": "Akuna Capital",
+    "title": "Platform Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1784878917,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "bbca08482e30c649",
+    "company": "Akuna Capital",
+    "title": "Hardware Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1784878920,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a22a349bd40f5a6c",
+    "company": "Akuna Capital",
+    "title": "Python Software Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1784878923,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "acaf777f6673dac7",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern, Full Stack Web",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://akunacapital.com/careers/job/8018893/?gh_jid=8018893",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1784878926,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "368cf71ed2cf54c5",
+    "company": "Akuna Capital",
+    "title": "Software Engineer Intern, C# .NET Desktop",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784878929,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "99bd848aa1ab2625",
+    "company": "Hudson River Trading",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src=",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784878933,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d0cd7c03e44ad142",
+    "company": "Copart",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784592000,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "workday: no clear disqualifier"
+  },
+  {
+    "id": "fead2c76b05463b9",
+    "company": "Radix Trading",
+    "title": "Quantitative Technologist Intern, C++",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784881161,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6d7dd2f83191c315",
+    "company": "Deepgram",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Remote",
+      "US"
+    ],
+    "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784881730,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4d0dd324d27d2642",
+    "company": "Jane Street",
+    "title": "Quantitative Trader Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784881800,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "34bcf626c4719fda",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784881807,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "129b6b7be053b481",
+    "company": "Jane Street",
+    "title": "Machine Learning Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784881811,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ea8d00bf19408956",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784881814,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "af6528ded3787cce",
+    "company": "Jane Street",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8631973002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784881820,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e801b2577414714e",
+    "company": "Jane Street",
+    "title": "Hardware Engineer (FPGA/ASIC) Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784881826,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3fe494ec3c1480ec",
+    "company": "Jane Street",
+    "title": "Linux Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784881840,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7fdc1876fa47711c",
+    "company": "Jane Street",
+    "title": "Network Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8620793002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784881845,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b90128744cdfc16f",
+    "company": "Jane Street",
+    "title": "Sales and Trading Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8347385002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784881848,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9c05a60be48f493b",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8621450002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784881857,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4e0395167ed7b56c",
+    "company": "Jane Street",
+    "title": "Windows Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8628843002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784881863,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ce3b863f604d712a",
+    "company": "Jane Street",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8599644002/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784882147,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "45d0788d4a4e9263",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784882305,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b70f1ef05f1cddb0",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Washington, D.C."
+    ],
+    "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784882312,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f4c0f6e61f0fd145",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784882314,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "04b3afc1da822366",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern, Infrastructure",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784882341,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1c4496a9d891a484",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern, Production Infrastructure",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784882356,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8de01f62611f6515",
+    "company": "Walleye Capital",
+    "title": "Risk Technology Analyst Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784883351,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "36ae1ad143bfdca5",
+    "company": "Walleye Capital",
+    "title": "Technology Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784883360,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "882ed463a70e1527",
+    "company": "Walleye Capital",
+    "title": "Equity Volatility Quant Researcher Intern",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1784883371,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b838c5d8874e83a4",
+    "company": "Walleye Capital",
+    "title": "Investment Data Science Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1784883374,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "72ebad4b94d64b5a",
+    "company": "Akuna Capital",
+    "title": "Quantitative Development & Strategy Intern",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1784884047,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5d492e3084301867",
+    "company": "Akuna Capital",
+    "title": "Quantitative Research Intern",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1784884053,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "74d1377b719c5a44",
+    "company": "Old Mission",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784884849,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2e8e30a0c0b104f8",
+    "company": "IMC",
+    "title": "Quantitative Research Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.imc.com/us/careers/jobs/4907399101",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784884984,
+    "date_found": 1784888104,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: \"we couldn't find\""
+  },
+  {
+    "id": "0cc305af9593946b",
+    "company": "IMC",
+    "title": "Hardware Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://www.imc.com/us/careers/jobs/4823945101",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1784885006,
+    "date_found": 1784888104,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: \"we couldn't find\""
+  },
+  {
+    "id": "d4328bd05feb31d3",
+    "company": "Appian",
+    "title": "New Grad 2027: Associate Solution Engineer",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://job-boards.greenhouse.io/appian/jobs/8035750",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1784878775,
+    "date_found": 1784888104,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "7e1d69cf40a1d6f1",
     "company": "Virtu Financial",
     "title": "2027 Internship - Software Engineer",

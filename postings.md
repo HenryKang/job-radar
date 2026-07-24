@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-24 19:21 UTC · 621 live & eligible postings (showing 400); 61 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-24 21:00 UTC · 623 live & eligible postings (showing 400); 61 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-24 | 2026-07-24 | PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | Summer 2027 | swe | ok | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
+| 2026-07-24 | 2026-07-24 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | Summer 2027 | swe | ok | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | 2026-07-24 | 2026-07-24 | Appian | Software Engineering Intern | McLean, VA | Summer | swe | ok | [apply](https://careers.appian.com/jobs/8041237-software-engineering-intern) |
 | 2026-07-24 | 2026-07-24 | Pinterest | Software Engineer II, tvScientific | Toronto, ON, CA | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=7782535) |
 | 2026-07-24 | 2026-07-24 | Google | Software Engineering Intern | Mountain View, CA, Atlanta, GA, Austin, TX, Boulder, CO, Cambridge, MA, Bellevue, WA, Chicago, IL, Houston, TX, Irvine, CA, Kirkland, WA, Los Angeles, CA, Madison, WI, New York, NY, Palo Alto, CA, Portland, OR, Pittsburgh, PA, Raleigh, NC, Durham, NC, Reston, VA, Redmond, WA, Redwood City, CA, San Diego, CA, Goleta, CA, San Bruno, CA, Seattle, WA, San Francisco, CA, San Jose, CA, Santa Cruz, CA, South San Francisco, CA, Sunnyvale, CA | Summer | swe | ok | [apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
@@ -402,5 +404,3 @@ _Last updated: 2026-07-24 19:21 UTC · 621 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-18 | Lumenalta | Full Stack Engineer | Remote | — | swe | unknown | [apply](https://lumenalta.com/jobs/full-stack-engineer-storyblok-expert-full-stack-engineer-storyblok-expert-188) |
 | 2026-07-22 | 2025-11-18 | Stripe | Backend Engineer, Secure Endpoint Access | South San Francisco, CA, Seattle, WA, Remote | — | swe | unknown | [apply](https://stripe.com/jobs/listing/backend-engineer-secure-endpoint-access/7396672) |
 | 2026-07-22 | 2025-11-18 | Tesla | Thermal Controls Engineer, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/227179) |
-| 2026-07-22 | 2025-11-18 | Amazon | Software Engineer I | San Francisco, CA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3126885/software-engineer-i) |
-| 2026-07-22 | 2025-11-18 | Apple | Software Engineer, IS&T Early Career | Sunnyvale, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |

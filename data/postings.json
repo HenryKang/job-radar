@@ -1,5 +1,43 @@
 [
   {
+    "id": "093ae6a2c8a964b0",
+    "company": "PDT Partners",
+    "title": "Summer 2027 Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:pdtpartners",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784924169,
+    "date_found": 1784926816,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9ce032bfbc3630bb",
+    "company": "PDT Partners",
+    "title": "Summer 2027 Systems Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:pdtpartners",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784924504,
+    "date_found": 1784926816,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "24ce7899554b1e58",
     "company": "Appian",
     "title": "Software Engineering Intern",

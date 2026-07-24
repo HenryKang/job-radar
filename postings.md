@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-24 15:25 UTC · 619 live & eligible postings (showing 400); 61 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-24 17:28 UTC · 620 live & eligible postings (showing 400); 61 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-24 | 2026-07-24 | Pinterest | Software Engineer II, tvScientific | Toronto, ON, CA | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=7782535) |
 | 2026-07-24 | 2026-07-24 | Google | Software Engineering Intern | Mountain View, CA, Atlanta, GA, Austin, TX, Boulder, CO, Cambridge, MA, Bellevue, WA, Chicago, IL, Houston, TX, Irvine, CA, Kirkland, WA, Los Angeles, CA, Madison, WI, New York, NY, Palo Alto, CA, Portland, OR, Pittsburgh, PA, Raleigh, NC, Durham, NC, Reston, VA, Redmond, WA, Redwood City, CA, San Diego, CA, Goleta, CA, San Bruno, CA, Seattle, WA, San Francisco, CA, San Jose, CA, Santa Cruz, CA, South San Francisco, CA, Sunnyvale, CA | Summer | swe | ok | [apply](https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027) |
 | 2026-07-24 | 2026-07-24 | Five Rings | Software Developer Intern | New York, NY | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
 | 2026-07-24 | 2026-07-24 | Akuna Capital | Software Engineer Intern, C++ | Chicago, IL | Summer | swe | ok | [apply](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
@@ -403,4 +404,3 @@ _Last updated: 2026-07-24 15:25 UTC · 619 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-18 | Amazon | Software Engineer I | San Francisco, CA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3126885/software-engineer-i) |
 | 2026-07-22 | 2025-11-18 | Apple | Software Engineer, IS&T Early Career | Sunnyvale, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career) |
 | 2026-07-22 | 2025-11-18 | Databricks | AI Tooling Program Engineer | Northeast, United States | — | swe | unknown | [apply](https://www.databricks.com/company/careers/professional-services-operations/ai-tooling-program-engineer--8295414002) |
-| 2026-07-22 | 2025-11-18 | dScribe AI | Founding Engineer | Kansas City, MO, Overland Park, KS, Olathe, KS | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/85420) |

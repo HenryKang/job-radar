@@ -1,5 +1,141 @@
 [
   {
+    "id": "772db46dacbe124d",
+    "company": "PDT Partners",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785124648,
+    "date_found": 1785137259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "65b74d3f6244379e",
+    "company": "Quadrillion Labs",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785124659,
+    "date_found": 1785137259,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "68cf8dfd8d98adb8",
+    "company": "Appian",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785124675,
+    "date_found": 1785137259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "bf3a83afa215e549",
+    "company": "Virtu Financial",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785124708,
+    "date_found": 1785137259,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7a92c74353743523",
+    "company": "Virtu",
+    "title": "Quantitative Trading Intern",
+    "locations": [
+      "Austin, TX",
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1785124718,
+    "date_found": 1785137259,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "621bd380d5fb8290",
+    "company": "HyperLight",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "url": "https://apply.workable.com/hyperlight/j/5581EA0668/",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785124745,
+    "date_found": 1785137259,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8551b1b4cd10635a",
+    "company": "Stevens Capital Management",
+    "title": "Quantitative Research Analyst Internship",
+    "locations": [
+      "Radnor, PA"
+    ],
+    "url": "https://job-boards.greenhouse.io/scm/jobs/721895",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1785129703,
+    "date_found": 1785137259,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "9a30850e509df4e2",
     "company": "Northrop Grumman",
     "title": "Software Engineer Intern",

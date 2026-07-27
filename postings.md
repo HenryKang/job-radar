@@ -1,9 +1,16 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-27 02:36 UTC · 626 live & eligible postings (showing 400); 62 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-27 07:27 UTC · 633 live & eligible postings (showing 400); 62 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-27 | 2026-07-27 | PDT Partners | Software Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
+| 2026-07-27 | 2026-07-27 | Quadrillion Labs | Software Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) |
+| 2026-07-27 | 2026-07-27 | Appian | Software Engineering Intern | McLean, VA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/appian/jobs/8041237) |
+| 2026-07-27 | 2026-07-27 | Virtu Financial | Software Engineer Intern | Austin, TX, New York | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
+| 2026-07-27 | 2026-07-27 | Virtu | Quantitative Trading Intern | Austin, TX, Chicago, IL, New York, NY | Summer | quant | unknown | [apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
+| 2026-07-27 | 2026-07-27 | HyperLight | Software Engineer Intern | Cambridge, MA | Summer | swe | unknown | [apply](https://apply.workable.com/hyperlight/j/5581EA0668/) |
+| 2026-07-27 | 2026-07-27 | Stevens Capital Management | Quantitative Research Analyst Internship | Radnor, PA | Summer | quant | ok | [apply](https://job-boards.greenhouse.io/scm/jobs/721895) |
 | 2026-07-24 | 2025-10-29 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | — | swe | unknown | [apply](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) |
 | 2026-07-24 | 2025-10-29 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, D.C. | — | swe | unknown | [apply](https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8) |
 | 2026-07-24 | 2025-10-29 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | — | swe | unknown | [apply](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8) |
@@ -397,10 +404,3 @@ _Last updated: 2026-07-27 02:36 UTC · 626 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-10 | Shopify | Software Engineer | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167) |
 | 2026-07-22 | 2025-11-10 | Adobe | Software Development Engineer | San Jose, CA | — | swe | unknown | [apply](https://careers.adobe.com/us/en/job/ADOBUSR161750EXTERNALENUS/Software-Development-Engineer) |
 | 2026-07-22 | 2025-11-10 | Tesla | In Vehicle Test Engineer, Steering, Vehicle Software | East Liberty, OH | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/255247) |
-| 2026-07-22 | 2025-11-10 | Tesla | AI Engineer, ML Inference Optimization, Autonomy & Robotics | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/255357) |
-| 2026-07-22 | 2025-11-10 | Tesla | Software Validation Engineer, AI Platforms | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/255342) |
-| 2026-07-22 | 2025-11-10 | Apple | AIML Resident - Machine Learning Research | Seattle, WA | — | ml_data | unknown | [apply](https://jobs.apple.com/en-us/details/200630783-3337/aiml-resident-machine-learning-research) |
-| 2026-07-22 | 2025-11-10 | Apple | AIML Resident - Knowledge Answer Quality & Richness | Seattle, WA, Santa Clara, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200630798-3337/aiml-resident-knowledge-answer-quality-richness) |
-| 2026-07-22 | 2025-11-10 | Citizen Health | Software Engineer | San Francisco, CA, San Mateo, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Citizen%20Health/ab0cc0c1-7122-4ca2-8ac9-84d1812b22d4/application) |
-| 2026-07-22 | 2025-11-10 | General Dynamics Information Technology | Software Engineer I | Annapolis Junction, MD | — | swe | unknown | [apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-I_RQ210148-1) |
-| 2026-07-22 | 2025-11-10 | ServiceNow | Frontend Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000092424475) |

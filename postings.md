@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-28 13:58 UTC · 635 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-28 16:07 UTC · 639 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-28 | 2026-07-27 | Chicago Trading Company | Quant Trading Intern | Chicago, IL | Summer | quant | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) |
+| 2026-07-28 | 2026-07-27 | Chicago Trading Company | Software Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) |
+| 2026-07-28 | 2026-07-28 | Virtu Financial | 2027 Internship - Quantitative Researcher (Undergrad) | New York | — | quant | ok | [apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
+| 2026-07-28 | 2026-07-28 | Virtu Financial | 2027 Internship - Quantitative Trading | Austin, TX; Chicago; New York | — | quant | unknown | [apply](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
 | 2026-07-28 | 2026-07-28 | Tower Research | Software Engineer II | Gurgaon | — | swe | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=7956165) |
 | 2026-07-27 | 2026-07-27 | Appian | Information Security Engineer Intern | McLean, VA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | 2026-07-27 | 2026-07-27 | PDT Partners | Software Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
@@ -400,7 +404,3 @@ _Last updated: 2026-07-28 13:58 UTC · 635 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-05 | Figma | Software Engineer, Full Stack | San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://job-boards.greenhouse.io/figma/jobs/5691911004) |
 | 2026-07-22 | 2025-11-05 | Valkyrie | Derivatives Trader | Chicago, IL | — | quant | unknown | [apply](https://www.valkyrietrading.com/careers/junior-derivatives-trader-new-grad-entry-level/) |
 | 2026-07-22 | 2025-11-05 | Jump Trading | Campus Crypto Researcher | Chicago, IL | — | quant | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=7362357) |
-| 2026-07-22 | 2025-11-10 | ServiceNow | Software Engineer | Santa Clara, CA | — | swe | unknown | [apply](https://careers.servicenow.com/jobs/744000092358511/software-engineer/) |
-| 2026-07-22 | 2025-11-10 | AgentMail | Founding Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/84801) |
-| 2026-07-22 | 2025-11-10 | Qualcomm Innovation Center, Inc. | Product Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://careers.qualcomm.com/careers/job/446715361809) |
-| 2026-07-22 | 2025-11-10 | Shopify | Software Engineer | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167) |

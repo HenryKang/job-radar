@@ -1,5 +1,81 @@
 [
   {
+    "id": "bf309cb102bf53d8",
+    "company": "Chicago Trading Company",
+    "title": "Quant Trading Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1785180883,
+    "date_found": 1785254834,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e9def9be98946b34",
+    "company": "Chicago Trading Company",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785180886,
+    "date_found": 1785254834,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2d3ab13a6ba4d853",
+    "company": "Virtu Financial",
+    "title": "2027 Internship - Quantitative Researcher (Undergrad)",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
+    "season": "",
+    "source": "ats:greenhouse:virtu",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1785248614,
+    "date_found": 1785254834,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1bf6ab6f24329ac7",
+    "company": "Virtu Financial",
+    "title": "2027 Internship - Quantitative Trading",
+    "locations": [
+      "Austin, TX; Chicago; New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624408002",
+    "season": "",
+    "source": "ats:greenhouse:virtu",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1785247586,
+    "date_found": 1785254834,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "95075a3da0299ad8",
     "company": "Tower Research",
     "title": "Software Engineer II",

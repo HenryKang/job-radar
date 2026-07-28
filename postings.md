@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-28 16:07 UTC · 639 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-28 19:18 UTC · 640 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-28 | 2026-07-28 | Nightwing | Software / Hardware Engineering Intern | Annapolis Junction, MD | Summer | swe | unknown | [apply](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) |
 | 2026-07-28 | 2026-07-27 | Chicago Trading Company | Quant Trading Intern | Chicago, IL | Summer | quant | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) |
 | 2026-07-28 | 2026-07-27 | Chicago Trading Company | Software Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) |
 | 2026-07-28 | 2026-07-28 | Virtu Financial | 2027 Internship - Quantitative Researcher (Undergrad) | New York | — | quant | ok | [apply](https://job-boards.greenhouse.io/virtu/jobs/8142539002) |
@@ -403,4 +404,3 @@ _Last updated: 2026-07-28 16:07 UTC · 639 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-05 | Warp | Software Engineer | Remote | — | swe | unknown | [apply](https://job-boards.greenhouse.io/warp/jobs/4324888004) |
 | 2026-07-22 | 2025-11-05 | Figma | Software Engineer, Full Stack | San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://job-boards.greenhouse.io/figma/jobs/5691911004) |
 | 2026-07-22 | 2025-11-05 | Valkyrie | Derivatives Trader | Chicago, IL | — | quant | unknown | [apply](https://www.valkyrietrading.com/careers/junior-derivatives-trader-new-grad-entry-level/) |
-| 2026-07-22 | 2025-11-05 | Jump Trading | Campus Crypto Researcher | Chicago, IL | — | quant | unknown | [apply](https://www.jumptrading.com/hr/job?gh_jid=7362357) |

@@ -1,5 +1,24 @@
 [
   {
+    "id": "d2176bdc6c5a47a9",
+    "company": "Nightwing",
+    "title": "Software / Hardware Engineering Intern",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1785260118,
+    "date_found": 1785266315,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "bf309cb102bf53d8",
     "company": "Chicago Trading Company",
     "title": "Quant Trading Intern",

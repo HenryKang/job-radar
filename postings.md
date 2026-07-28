@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-28 06:24 UTC · 634 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-28 10:31 UTC · 635 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-28 | 2026-07-28 | Tower Research | Software Engineer II | Gurgaon | — | swe | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=7956165) |
 | 2026-07-27 | 2026-07-27 | Appian | Information Security Engineer Intern | McLean, VA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | 2026-07-27 | 2026-07-27 | PDT Partners | Software Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | 2026-07-27 | 2026-07-27 | Quadrillion Labs | Software Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) |
@@ -403,4 +404,3 @@ _Last updated: 2026-07-28 06:24 UTC · 634 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-10 | AgentMail | Founding Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/84801) |
 | 2026-07-22 | 2025-11-10 | Qualcomm Innovation Center, Inc. | Product Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://careers.qualcomm.com/careers/job/446715361809) |
 | 2026-07-22 | 2025-11-10 | Shopify | Software Engineer | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/software-engineers_c96af3a9-82a3-4c6a-9b86-1f7e6b376167) |
-| 2026-07-22 | 2025-11-10 | Adobe | Software Development Engineer | San Jose, CA | — | swe | unknown | [apply](https://careers.adobe.com/us/en/job/ADOBUSR161750EXTERNALENUS/Software-Development-Engineer) |

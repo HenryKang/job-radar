@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-30 06:25 UTC · 640 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-30 10:22 UTC · 641 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-30 | 2026-07-30 | Tower Research | Junior Executive Trader Intern | Gift City | — | quant | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8091833) |
 | 2026-07-28 | 2026-07-28 | Nightwing | Software / Hardware Engineering Intern | Annapolis Junction, MD | Summer | swe | unknown | [apply](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) |
 | 2026-07-28 | 2026-07-27 | Chicago Trading Company | Quant Trading Intern | Chicago, IL | Summer | quant | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) |
 | 2026-07-28 | 2026-07-27 | Chicago Trading Company | Software Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) |
@@ -403,4 +404,3 @@ _Last updated: 2026-07-30 06:25 UTC · 640 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-01 | Amazon | System Development Engineer, macOS MDM, Kuiper Devices & Systems | Bellevue, WA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3117171/system-development-engineer-macos-mdm-kuiper-devices-systems) |
 | 2026-07-22 | 2025-11-05 | Warp | Software Engineer | Remote | — | swe | unknown | [apply](https://job-boards.greenhouse.io/warp/jobs/4324888004) |
 | 2026-07-22 | 2025-11-05 | Figma | Software Engineer, Full Stack | San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://job-boards.greenhouse.io/figma/jobs/5691911004) |
-| 2026-07-22 | 2025-11-05 | Valkyrie | Derivatives Trader | Chicago, IL | — | quant | unknown | [apply](https://www.valkyrietrading.com/careers/junior-derivatives-trader-new-grad-entry-level/) |

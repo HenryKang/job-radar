@@ -1,5 +1,24 @@
 [
   {
+    "id": "dcd3c1255fd01e15",
+    "company": "Tower Research",
+    "title": "Junior Executive Trader Intern",
+    "locations": [
+      "Gift City"
+    ],
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8091833",
+    "season": "",
+    "source": "ats:greenhouse:towerresearchcapital",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1785397559,
+    "date_found": 1785406957,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "d2176bdc6c5a47a9",
     "company": "Nightwing",
     "title": "Software / Hardware Engineering Intern",

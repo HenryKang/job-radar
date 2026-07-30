@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-30 21:05 UTC · 642 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-30 23:03 UTC · 644 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-30 | 2026-07-30 | General Dynamics Information Technology | Systems Engineer Intern | Albany, NY | Summer | swe | unknown | [apply](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) |
+| 2026-07-30 | 2026-07-30 | Appian | New Grad 2027: Software Engineer | McLean, VA | — | swe | ok | [apply](https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-) |
 | 2026-07-30 | 2026-07-30 | DRW | Platform Engineer Intern | Chicago | — | swe | ok | [apply](https://job-boards.greenhouse.io/drweng/jobs/7997729) |
 | 2026-07-30 | 2026-07-30 | Tower Research | Junior Executive Trader Intern | Gift City | — | quant | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8091833) |
 | 2026-07-28 | 2026-07-28 | Nightwing | Software / Hardware Engineering Intern | Annapolis Junction, MD | Summer | swe | unknown | [apply](https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733) |
@@ -402,5 +404,3 @@ _Last updated: 2026-07-30 21:05 UTC · 642 live & eligible postings (showing 400
 | 2026-07-22 | 2025-11-01 | Tesla | Machine Learning Engineer, Tesla Insurance | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/249570) |
 | 2026-07-22 | 2025-11-01 | Meta | Data Engineer, Analytics | New York, NY | — | swe | unknown | [apply](https://www.metacareers.com/jobs/2578176955882259) |
 | 2026-07-22 | 2025-11-01 | Clipboard Health | Software Engineer, Backend | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd) |
-| 2026-07-22 | 2025-11-01 | Amazon | System Development Engineer, macOS MDM, Kuiper Devices & Systems | Bellevue, WA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3117171/system-development-engineer-macos-mdm-kuiper-devices-systems) |
-| 2026-07-22 | 2025-11-05 | Warp | Software Engineer | Remote | — | swe | unknown | [apply](https://job-boards.greenhouse.io/warp/jobs/4324888004) |

@@ -1,5 +1,43 @@
 [
   {
+    "id": "4ffefb0f78887307",
+    "company": "General Dynamics Information Technology",
+    "title": "Systems Engineer Intern",
+    "locations": [
+      "Albany, NY"
+    ],
+    "url": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785449184,
+    "date_found": 1785452627,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b6fd20a5c1a4240a",
+    "company": "Appian",
+    "title": "New Grad 2027: Software Engineer",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785448735,
+    "date_found": 1785452627,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "efb4319ba8f20865",
     "company": "DRW",
     "title": "Platform Engineer Intern",

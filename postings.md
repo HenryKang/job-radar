@@ -1,9 +1,14 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-31 13:57 UTC · 645 live & eligible postings (showing 400); 63 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-31 16:03 UTC · 650 live & eligible postings (showing 400); 64 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-31 | 2026-07-31 | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
+| 2026-07-31 | 2026-07-31 | IMC Trading | Quantitative Trader Intern | Amsterdam, Netherlands | — | quant | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) |
+| 2026-07-31 | 2026-07-31 | IMC Trading | Software Engineer Intern | Amsterdam, Netherlands | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) |
+| 2026-07-31 | 2026-07-31 | IMC Trading | Trader Intern | Amsterdam, Netherlands | — | quant | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4939846101) |
+| 2026-07-31 | 2026-07-31 | Virtu Financial | 2027 Internship - Frontend Engineer (UI) | New York | — | swe | unknown | [apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | 2026-07-31 | 2026-07-31 | Tower Research | Junior Execution Trader Intern | Gift City | — | quant | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8091833) |
 | 2026-07-30 | 2026-07-30 | General Dynamics Information Technology | Systems Engineer Intern | Albany, NY | Summer | swe | unknown | [apply](https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity) |
 | 2026-07-30 | 2026-07-30 | Appian | New Grad 2027: Software Engineer | McLean, VA | — | swe | ok | [apply](https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-) |
@@ -399,8 +404,3 @@ _Last updated: 2026-07-31 13:57 UTC · 645 live & eligible postings (showing 400
 | 2026-07-22 | 2025-10-22 | ElevenLabs | Growth Engineer - Mobile | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328) |
 | 2026-07-22 | 2025-10-22 | Docusign | Software Engineer | Seattle, WA | — | swe | unknown | [apply](https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job) |
 | 2026-07-22 | 2025-10-27 | Planbase | Founding Engineer (Full-Stack) | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/84154) |
-| 2026-07-22 | 2025-10-27 | Proception Inc | Robotics Software Engineering - Real-Time Control & Embedded Systems | Palo Alto, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/76499) |
-| 2026-07-22 | 2025-11-01 | Amazon | ADC Engineer I, PEET ADC | Arlington, VA, Herndon, VA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3118657/adc-engineer-i-peet-adc) |
-| 2026-07-22 | 2025-11-01 | Citizen Health | Software Engineer | San Francisco, CA, San Mateo, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57) |
-| 2026-07-22 | 2025-11-01 | Tesla | Machine Learning Engineer, Tesla Insurance | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/249570) |
-| 2026-07-22 | 2025-11-01 | Meta | Data Engineer, Analytics | New York, NY | — | swe | unknown | [apply](https://www.metacareers.com/jobs/2578176955882259) |

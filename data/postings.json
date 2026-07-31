@@ -1,5 +1,119 @@
 [
   {
+    "id": "68e3a56042e9f1c2",
+    "company": "IMC Trading",
+    "title": "Hardware Engineer Intern",
+    "locations": [
+      "Amsterdam, Netherlands"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4927149101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1785511005,
+    "date_found": 1785513799,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "209be43a38ec4fb0",
+    "company": "IMC Trading",
+    "title": "Quantitative Trader Intern",
+    "locations": [
+      "Amsterdam, Netherlands"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4936262101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1785510763,
+    "date_found": 1785513799,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "79bec3118897bf20",
+    "company": "IMC Trading",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Amsterdam, Netherlands"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1785510072,
+    "date_found": 1785513799,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ff909d80eb97f088",
+    "company": "IMC Trading",
+    "title": "Trader Intern",
+    "locations": [
+      "Amsterdam, Netherlands"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1785510764,
+    "date_found": 1785513799,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5b3cc7ee53f7c192",
+    "company": "Virtu Financial",
+    "title": "2027 Internship - Frontend Engineer (UI)",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+    "season": "",
+    "source": "ats:greenhouse:virtu",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1785513316,
+    "date_found": 1785513799,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4cc5c8f9e293843d",
+    "company": "Virtu Financial",
+    "title": "2027 Internship- Hardware Engineer (FPGA)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002",
+    "season": "",
+    "source": "ats:greenhouse:virtu",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1785513463,
+    "date_found": 1785513799,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "'currently pursuing a master'"
+  },
+  {
     "id": "6c6317c68e01ec7c",
     "company": "Tower Research",
     "title": "Junior Execution Trader Intern",

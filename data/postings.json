@@ -1,5 +1,310 @@
 [
   {
+    "id": "116e51c507f03b34",
+    "company": "SK Hynix Memory Solution",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529818,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b85733145d325df4",
+    "company": "Woven",
+    "title": "Software Engineer, Analysis/Tool",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "url": "https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1649f75d4cd2f7f4",
+    "company": "Duke University",
+    "title": "Analytics Engineer",
+    "locations": [
+      "Durham, NC"
+    ],
+    "url": "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4401691796ab474e",
+    "company": "Amerisure",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "url": "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "workday http 422"
+  },
+  {
+    "id": "563f603307f53a28",
+    "company": "Esri",
+    "title": "Product Engineer 1, ArcGIS Maps SDKs",
+    "locations": [
+      "West Redlands, Redlands, CA"
+    ],
+    "url": "https://www.esri.com/careers/5198108007?gh_jid=5198108007",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d3c843fe792ec31e",
+    "company": "Northrop Grumman",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785369600,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "cd8d6705451ba9c4",
+    "company": "Axos Bank",
+    "title": "AI Engineer, Consumer IT AI Team",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785369600,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "7e6c34129811743c",
+    "company": "Cisco",
+    "title": "Software Engineer 1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/1449197",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'job-expired'"
+  },
+  {
+    "id": "93759d7d735ba6b6",
+    "company": "Apple",
+    "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://jobs.apple.com/en-us/details/200657382",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "dc31fb13dfce3e9e",
+    "company": "Artera",
+    "title": "Software Developer Associate",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e4369e82bcb14361",
+    "company": "Fidelity Investments",
+    "title": "Software Engineer",
+    "locations": [
+      "Westlake, TX",
+      "Durham, NC"
+    ],
+    "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1782950400,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "dd8b8b957ec6527c",
+    "company": "Reverb",
+    "title": "Software Engineer, Shipping",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "5a2d84e3dac66af9",
+    "company": "Pennsylvania State University",
+    "title": "DevSecOps Research Computing Software Engineer",
+    "locations": [
+      "State College, PA"
+    ],
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1782864000,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "67e9cbf0d657d054",
+    "company": "L3Harris Technologies",
+    "title": "Software Engineering Associate",
+    "locations": [
+      "Reston, VA"
+    ],
+    "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2c3655ab686a9e29",
+    "company": "L3Harris Technologies",
+    "title": "Software Engineering Associate",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "79b23936042e1e61",
+    "company": "L3Harris Technologies",
+    "title": "Software Engineering Associate",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785529003,
+    "date_found": 1785531765,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "5966f65d2b1cec18",
     "company": "Castleton Commodities International",
     "title": "Full-Stack Software Engineer Intern",

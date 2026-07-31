@@ -1,9 +1,22 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-31 19:20 UTC · 659 live & eligible postings (showing 400); 64 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-31 21:02 UTC · 672 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-31 | 2026-07-31 | SK Hynix Memory Solution | Software Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) |
+| 2026-07-31 | 2026-07-31 | Woven | Software Engineer, Analysis/Tool | Ann Arbor, MI | — | swe | ok | [apply](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190) |
+| 2026-07-31 | 2026-07-31 | Duke University | Analytics Engineer | Durham, NC | — | swe | ok | [apply](https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors) |
+| 2026-07-31 | 2026-07-31 | Amerisure | Software Engineer 1 | Southfield, MI | — | swe | unknown | [apply](https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063) |
+| 2026-07-31 | 2026-07-31 | Esri | Product Engineer 1, ArcGIS Maps SDKs | West Redlands, Redlands, CA | — | swe | ok | [apply](https://www.esri.com/careers/5198108007?gh_jid=5198108007) |
+| 2026-07-31 | 2026-07-30 | Northrop Grumman | Associate Software Engineer | Melbourne, FL | — | swe | ok | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060) |
+| 2026-07-31 | 2026-07-30 | Axos Bank | AI Engineer, Consumer IT AI Team | San Diego, CA | — | swe | ok | [apply](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1) |
+| 2026-07-31 | 2026-07-31 | Artera | Software Developer Associate | Seattle, WA | — | swe | unknown | [apply](https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0) |
+| 2026-07-31 | 2026-07-02 | Fidelity Investments | Software Engineer | Westlake, TX, Durham, NC | — | swe | ok | [apply](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114) |
+| 2026-07-31 | 2026-07-01 | Pennsylvania State University | DevSecOps Research Computing Software Engineer | State College, PA | — | swe | ok | [apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2) |
+| 2026-07-31 | 2026-07-31 | L3Harris Technologies | Software Engineering Associate | Reston, VA | — | swe | ok | [apply](https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors) |
+| 2026-07-31 | 2026-07-31 | L3Harris Technologies | Software Engineering Associate | Colorado Springs, CO | — | swe | ok | [apply](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors) |
+| 2026-07-31 | 2026-07-31 | L3Harris Technologies | Software Engineering Associate | Palm Bay, FL | — | swe | ok | [apply](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors) |
 | 2026-07-31 | 2026-07-31 | Castleton Commodities International | Full-Stack Software Engineer Intern | Stamford, CT, Houston, TX | Summer | swe | unknown | [apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
 | 2026-07-31 | 2026-07-27 | FTI Consulting | Technology Intern | Atlanta, GA, Chicago, IL, Houston, TX, Los Angeles, CA, New York, NY, San Francisco, CA, Washington, DC, Chicago, IL, Los Angeles, CA, New York, NY, San Francisco, CA, Washington, DC | Summer | swe | ok | [apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1) |
 | 2026-07-31 | 2026-07-31 | DRW | Platform Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) |
@@ -391,16 +404,3 @@ _Last updated: 2026-07-31 19:20 UTC · 659 live & eligible postings (showing 400
 | 2026-07-22 | 2025-10-18 | Tesla | Software Security Engineer, Energy Product Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253636) |
 | 2026-07-22 | 2025-10-18 | Amazon | System Development Engineer, Payload Antenna Team | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3110582/system-development-engineer-payload-antenna-team) |
 | 2026-07-22 | 2025-10-20 | Twitch Interactive, Inc. | Software Engineer I | Irvine, CA, San Francisco, CA | — | swe | unknown | [apply](https://amazon.jobs/en/jobs/3111761/software-engineer-i) |
-| 2026-07-22 | 2025-10-20 | Amazon | Systems Development Engineer, Network Operations OISL | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3111750/systems-development-engineer-network-operations-oisl) |
-| 2026-07-22 | 2025-10-20 | Apple | Software Engineer, Xcode Intelligence Experience | Cupertino, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200626941-0836/software-engineer-xcode-intelligence-experience) |
-| 2026-07-22 | 2025-10-20 | Boerboel | New Grad: Quantitative Researcher | New York, NY, Chicago, IL | — | quant | unknown | [apply](https://www.boerboeltrading.com/jobs.html?gh_jid=5681668004) |
-| 2026-07-22 | 2025-10-20 | Boerboel | New Grad: Developer | New York, NY, Chicago, IL | — | swe | unknown | [apply](https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004) |
-| 2026-07-22 | 2025-10-22 | Claim Health (X25) | Founding Engineer | New York, NY | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/83842) |
-| 2026-07-22 | 2025-10-22 | Wanderlog (W19) | New Grad: Full-Stack Software Engineer | San Francisco, CA, Remote | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/83760) |
-| 2026-07-22 | 2025-10-22 | Wanderlog (W19) | New Grad: Full-Stack Software Engineer | Remote, Toronto, Canada | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/83761) |
-| 2026-07-22 | 2025-10-22 | Sixtyfour (X25) | Founding Engineer, AI Research Agents (Full-Stack) | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/80466) |
-| 2026-07-22 | 2025-10-22 | Liva AI | Founding Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/83655) |
-| 2026-07-22 | 2025-10-22 | Adobe | Software Development Engineer | San Jose, CA | — | swe | unknown | [apply](https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer) |
-| 2026-07-22 | 2025-10-22 | Zapier | Software Engineer, Backend-leaning Full Stack or Backend | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6) |
-| 2026-07-22 | 2025-10-22 | Intuit | Software Engineer 1 | Mountain View, CA | — | swe | unknown | [apply](https://jobs.intuit.com/job/-/-/27595/87369448720) |
-| 2026-07-22 | 2025-10-22 | Qualtrics | Software Engineer I, Digital Experience | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628) |

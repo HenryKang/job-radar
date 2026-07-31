@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-07-31 16:03 UTC · 650 live & eligible postings (showing 400); 64 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-07-31 19:20 UTC · 659 live & eligible postings (showing 400); 64 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-31 | 2026-07-31 | Castleton Commodities International | Full-Stack Software Engineer Intern | Stamford, CT, Houston, TX | Summer | swe | unknown | [apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350) |
+| 2026-07-31 | 2026-07-27 | FTI Consulting | Technology Intern | Atlanta, GA, Chicago, IL, Houston, TX, Los Angeles, CA, New York, NY, San Francisco, CA, Washington, DC, Chicago, IL, Los Angeles, CA, New York, NY, San Francisco, CA, Washington, DC | Summer | swe | ok | [apply](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/United-States/XMLNAME-2027-Intern---Technology_JR260339-1) |
+| 2026-07-31 | 2026-07-31 | DRW | Platform Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737) |
+| 2026-07-31 | 2026-07-31 | DRW | Quantitative Research Intern | Chicago, IL, New York City, NY | Summer | quant | ok | [apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) |
+| 2026-07-31 | 2026-07-31 | DRW | Quantitative Trading Analyst Intern | Chicago, IL | Summer | quant | ok | [apply](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) |
+| 2026-07-31 | 2026-07-31 | DRW | Software Developer Intern | Montréal | Summer | swe | ok | [apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) |
+| 2026-07-31 | 2026-07-31 | DRW | Software Developer Intern | Chicago, IL | Summer | swe | ok | [apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) |
+| 2026-07-31 | 2026-07-31 | Castleton Commodities International | Data Science Machine Learning Intern | Stamford, CT, Houston, TX, New York City, NY | Summer | ml_data | unknown | [apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344) |
+| 2026-07-31 | 2026-07-31 | Castleton Commodities International | Data Engineering Intern | Stamford, CT, Houston, TX, New York City, NY | Summer | swe | unknown | [apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) |
 | 2026-07-31 | 2026-07-31 | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 2026-07-31 | 2026-07-31 | IMC Trading | Quantitative Trader Intern | Amsterdam, Netherlands | — | quant | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) |
 | 2026-07-31 | 2026-07-31 | IMC Trading | Software Engineer Intern | Amsterdam, Netherlands | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) |
@@ -395,12 +404,3 @@ _Last updated: 2026-07-31 16:03 UTC · 650 live & eligible postings (showing 400
 | 2026-07-22 | 2025-10-22 | Zapier | Software Engineer, Backend-leaning Full Stack or Backend | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6) |
 | 2026-07-22 | 2025-10-22 | Intuit | Software Engineer 1 | Mountain View, CA | — | swe | unknown | [apply](https://jobs.intuit.com/job/-/-/27595/87369448720) |
 | 2026-07-22 | 2025-10-22 | Qualtrics | Software Engineer I, Digital Experience | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/7340628?gh_jid=7340628) |
-| 2026-07-22 | 2025-10-22 | PepsiCo | Junior Data Scientist | Mississauga, Canada | — | ml_data | unknown | [apply](https://uscareers-pepsico.icims.com/jobs/415877/junior-data-scientist-%E2%80%93-new-grad/job) |
-| 2026-07-22 | 2025-10-22 | Revionics | New Grad: Machine Learning Engineer | Austin, TX, Atlanta, GA | — | swe | unknown | [apply](https://revionics.com/about/careers/open-jobs?gh_jid=7172125) |
-| 2026-07-22 | 2025-10-22 | Battelle | Early Career Software Engineer | Columbus, OH | — | swe | unknown | [apply](https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer) |
-| 2026-07-22 | 2025-10-22 | Spot & Tango | Jr. Software Engineer | New York, NY | — | swe | unknown | [apply](https://www.spotandtango.com/careers?gh_jid=4620638005) |
-| 2026-07-22 | 2025-10-22 | SMX | Junior Data Scientist | Patuxent River, MD | — | ml_data | unknown | [apply](https://www.smxtech.com/careers/?gh_jid=7498313003) |
-| 2026-07-22 | 2025-10-22 | Roserocket | Junior Software Engineer | Toronto, Canada | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application) |
-| 2026-07-22 | 2025-10-22 | ElevenLabs | Growth Engineer - Mobile | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328) |
-| 2026-07-22 | 2025-10-22 | Docusign | Software Engineer | Seattle, WA | — | swe | unknown | [apply](https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job) |
-| 2026-07-22 | 2025-10-27 | Planbase | Founding Engineer (Full-Stack) | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/84154) |

@@ -1,5 +1,24 @@
 [
   {
+    "id": "a79a18bdebd8afda",
+    "company": "IMC Trading",
+    "title": "2027 - Quant Research Intern - BITS Pilani",
+    "locations": [
+      "Amsterdam, Netherlands; Mumbai, India"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4942958101",
+    "season": "",
+    "source": "ats:greenhouse:imc",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1785601175,
+    "date_found": 1785603408,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "116e51c507f03b34",
     "company": "SK Hynix Memory Solution",
     "title": "Software Engineer Intern",

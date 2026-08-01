@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-01 14:58 UTC · 672 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-01 16:56 UTC · 673 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-01 | 2026-08-01 | IMC Trading | 2027 - Quant Research Intern - BITS Pilani | Amsterdam, Netherlands; Mumbai, India | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4942958101) |
 | 2026-07-31 | 2026-07-31 | SK Hynix Memory Solution | Software Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) |
 | 2026-07-31 | 2026-07-31 | Woven | Software Engineer, Analysis/Tool | Ann Arbor, MI | — | swe | ok | [apply](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190) |
 | 2026-07-31 | 2026-07-31 | Duke University | Analytics Engineer | Durham, NC | — | swe | ok | [apply](https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors) |
@@ -403,4 +404,3 @@ _Last updated: 2026-08-01 14:58 UTC · 672 live & eligible postings (showing 400
 | 2026-07-22 | 2025-10-18 | Tesla | Backend Software Engineer, IT Data & Analytics | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253673) |
 | 2026-07-22 | 2025-10-18 | Tesla | Software Security Engineer, Energy Product Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253636) |
 | 2026-07-22 | 2025-10-18 | Amazon | System Development Engineer, Payload Antenna Team | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3110582/system-development-engineer-payload-antenna-team) |
-| 2026-07-22 | 2025-10-20 | Twitch Interactive, Inc. | Software Engineer I | Irvine, CA, San Francisco, CA | — | swe | unknown | [apply](https://amazon.jobs/en/jobs/3111761/software-engineer-i) |

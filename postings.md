@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-01 16:56 UTC · 673 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-01 19:04 UTC · 675 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-01 | 2026-08-01 | Chicago Trading Company | New Grad 2027: Quant Trading Associate | Chicago, IL | — | quant | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005) |
+| 2026-08-01 | 2026-08-01 | Chicago Trading Company | New Grad 2027: Associate Engineer | Chicago, IL, New York, NY | — | swe | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) |
 | 2026-08-01 | 2026-08-01 | IMC Trading | 2027 - Quant Research Intern - BITS Pilani | Amsterdam, Netherlands; Mumbai, India | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4942958101) |
 | 2026-07-31 | 2026-07-31 | SK Hynix Memory Solution | Software Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) |
 | 2026-07-31 | 2026-07-31 | Woven | Software Engineer, Analysis/Tool | Ann Arbor, MI | — | swe | ok | [apply](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190) |
@@ -402,5 +404,3 @@ _Last updated: 2026-08-01 16:56 UTC · 673 live & eligible postings (showing 400
 | 2026-07-22 | 2025-10-18 | Shopify | Demo Engineer, Software Development | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5) |
 | 2026-07-22 | 2025-10-18 | Tesla | Backend Software Engineer, Optimus & Robotaxi | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253715) |
 | 2026-07-22 | 2025-10-18 | Tesla | Backend Software Engineer, IT Data & Analytics | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253673) |
-| 2026-07-22 | 2025-10-18 | Tesla | Software Security Engineer, Energy Product Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253636) |
-| 2026-07-22 | 2025-10-18 | Amazon | System Development Engineer, Payload Antenna Team | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3110582/system-development-engineer-payload-antenna-team) |

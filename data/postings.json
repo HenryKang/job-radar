@@ -1,5 +1,44 @@
 [
   {
+    "id": "8453a2d51f2b2562",
+    "company": "Chicago Trading Company",
+    "title": "New Grad 2027: Quant Trading Associate",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1785606896,
+    "date_found": 1785611072,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4d2e7cfd4eb1ed25",
+    "company": "Chicago Trading Company",
+    "title": "New Grad 2027: Associate Engineer",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785606902,
+    "date_found": 1785611072,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "a79a18bdebd8afda",
     "company": "IMC Trading",
     "title": "2027 - Quant Research Intern - BITS Pilani",

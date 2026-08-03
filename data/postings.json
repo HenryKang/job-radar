@@ -1,5 +1,26 @@
 [
   {
+    "id": "9317651729583b8a",
+    "company": "Capital One",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "McLean, VA",
+      "Plano, TX",
+      "Richmond, VA"
+    ],
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785773180,
+    "date_found": 1785779340,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "386080194bd4adf1",
     "company": "Medtronic",
     "title": "Software Engineering Intern",

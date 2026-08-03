@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-03 14:32 UTC · 678 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-03 17:49 UTC · 679 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-03 | 2026-08-03 | Capital One | Software Engineer Intern | McLean, VA, Plano, TX, Richmond, VA | Summer | swe | unknown | [apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1) |
 | 2026-08-03 | 2026-08-03 | Medtronic | Software Engineering Intern | Fridley, MN, Tempe, AZ, Eatontown, NJ, Santa Rosa, CA, Lafayette, CO | Summer | swe | unknown | [apply](https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
 | 2026-08-03 | 2026-08-03 | HPR | Software Engineering Intern | Needham, MA | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | 2026-08-03 | 2026-08-03 | Heliux | Software Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) |
@@ -403,4 +404,3 @@ _Last updated: 2026-08-03 14:32 UTC · 678 live & eligible postings (showing 400
 | 2026-07-22 | 2025-10-16 | Maitai | Full-Stack Engineer - Agent Marketplace (In-Person RWC Only) | Redwood City, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/82935) |
 | 2026-07-22 | 2025-10-16 | Stamp | Founding Machine Learning Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/82877) |
 | 2026-07-22 | 2025-10-16 | Stamp (W25) | Founding Mobile Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/82875) |
-| 2026-07-22 | 2025-10-16 | Stamp | Founding Full Stack Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/82876) |

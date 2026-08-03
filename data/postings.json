@@ -1,5 +1,66 @@
 [
   {
+    "id": "386080194bd4adf1",
+    "company": "Medtronic",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Fridley, MN",
+      "Tempe, AZ",
+      "Eatontown, NJ",
+      "Santa Rosa, CA",
+      "Lafayette, CO"
+    ],
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785741368,
+    "date_found": 1785755980,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d4497517f0f12264",
+    "company": "HPR",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Needham, MA"
+    ],
+    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785741371,
+    "date_found": 1785755980,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2f775cc96de551cd",
+    "company": "Heliux",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1785741445,
+    "date_found": 1785755980,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "8453a2d51f2b2562",
     "company": "Chicago Trading Company",
     "title": "New Grad 2027: Quant Trading Associate",

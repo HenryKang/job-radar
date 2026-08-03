@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-03 06:57 UTC · 675 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-03 11:19 UTC · 678 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-03 | 2026-08-03 | Medtronic | Software Engineering Intern | Fridley, MN, Tempe, AZ, Eatontown, NJ, Santa Rosa, CA, Lafayette, CO | Summer | swe | unknown | [apply](https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) |
+| 2026-08-03 | 2026-08-03 | HPR | Software Engineering Intern | Needham, MA | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
+| 2026-08-03 | 2026-08-03 | Heliux | Software Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) |
 | 2026-08-01 | 2026-08-01 | Chicago Trading Company | New Grad 2027: Quant Trading Associate | Chicago, IL | — | quant | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005) |
 | 2026-08-01 | 2026-08-01 | Chicago Trading Company | New Grad 2027: Associate Engineer | Chicago, IL, New York, NY | — | swe | ok | [apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) |
 | 2026-08-01 | 2026-08-01 | IMC Trading | 2027 - Quant Research Intern - BITS Pilani | Amsterdam, Netherlands; Mumbai, India | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4942958101) |
@@ -401,6 +404,3 @@ _Last updated: 2026-08-03 06:57 UTC · 675 live & eligible postings (showing 400
 | 2026-07-22 | 2025-10-16 | Stamp | Founding Machine Learning Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/82877) |
 | 2026-07-22 | 2025-10-16 | Stamp (W25) | Founding Mobile Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/82875) |
 | 2026-07-22 | 2025-10-16 | Stamp | Founding Full Stack Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/82876) |
-| 2026-07-22 | 2025-10-18 | Shopify | Demo Engineer, Software Development | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/demo-engineer-software-development_a6126bad-c0ba-4d02-94fb-7c5e21bef9f5) |
-| 2026-07-22 | 2025-10-18 | Tesla | Backend Software Engineer, Optimus & Robotaxi | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253715) |
-| 2026-07-22 | 2025-10-18 | Tesla | Backend Software Engineer, IT Data & Analytics | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253673) |

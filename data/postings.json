@@ -1,5 +1,917 @@
 [
   {
+    "id": "ca67b5cc10218096",
+    "company": "Microsoft",
+    "title": "Software Engineer Intern, Data Platform/Analytics",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785852636,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "04770dfb52d665d8",
+    "company": "Microsoft",
+    "title": "Software Engineer Intern, Security & Identity",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785852642,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "44ce0778437ddd25",
+    "company": "Microsoft",
+    "title": "Software Engineer Intern, AI/ML & LLM",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785852648,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4215cf3f667b7bd5",
+    "company": "Microsoft",
+    "title": "Software Engineer Intern, Cloud & Distributed Backend",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785852653,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "252d6c4e0656cae8",
+    "company": "Microsoft",
+    "title": "Software Engineer Intern, Fullstack Product (Web + Services)",
+    "locations": [
+      "Multiple Locations, United States"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785852658,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d8e364316e9038c7",
+    "company": "RenderATL",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785852837,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3a99df6d56c0461f",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, AI Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://joinbytedance.com/search/7668212952030841093",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785852846,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2180d19466f94c5b",
+    "company": "Melius",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York City, NY"
+    ],
+    "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785852859,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "64e10386e2d9b789",
+    "company": "Netsmart",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785715200,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "603a7d634a3d2390",
+    "company": "Samsara",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785852884,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e34cc427bc00696e",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://joinbytedance.com/search/7668373268886161669",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785852915,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "89cdb495bff3bc1b",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://joinbytedance.com/search/7668374190764050741",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785852918,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c3a9926cba956d9d",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Global Live-Foundation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667935150530840837",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785853216,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "c5232b9d48800bce",
+    "company": "TikTok",
+    "title": "Frontend Engineer Intern, Global CRM",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7669711026846058757",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853220,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "3ec26ce52f449361",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7669712589169117445",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853222,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "d2520210dbbfbe3f",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Intelligent Creation-Camera",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668862422178318597",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853224,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "37f20fc2cdabd88c",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Transaction Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7669943120351906053",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853226,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "388feb8f2c0af57c",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Product Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667935633764370741",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785853231,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "c98b33947967f08e",
+    "company": "TikTok",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668725183121000757",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853233,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "b33bf238cdacfefe",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Global E-Commerce",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668834837268138293",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853255,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "2be06052d1c3da35",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Global E-Commerce",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668834837268416821",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853260,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "c17ad8d2d7a0c3c1",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Ads Interface",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7669705785962727733",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853263,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "3216725375e8414d",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Shoot Experience Optimization",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668921505254410549",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853266,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "9e3a418218a952b1",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Global CRM",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7669711844487399685",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853269,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "fd1207449f877da6",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Trust and Safety-Engineering",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7662700594251958581",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785853272,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "f5e55f1fd17b8404",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Trust and Safety-Engineering",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://lifeattiktok.com/search/7662684280234232117",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785853275,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "7aa43d160b442d44",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Social Foundation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667935565120112949",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853278,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "d399f6a80eabf55b",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Growth Innovation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667934860750063925",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853281,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "2d594bc0e39aa551",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, PGC-Digital Content Center",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667934302872537397",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785853283,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "2999255ba5c7092d",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, TikTok-Social-Friending",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667935399050692917",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853287,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "a9b7294939f02e72",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Search",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667933335084124469",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785853292,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "93a4742eafa570ed",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Social Friending",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667934635573692725",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853295,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "b6215985a20ca632",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, PGC Creator Strategy",
+    "locations": [
+      "San Jose"
+    ],
+    "url": "https://lifeattiktok.com/search/7667933770819897605",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785853304,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "2d0c96d932408610",
+    "company": "TikTok",
+    "title": "Frontend Engineer Intern, TikTok-Open Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667935739300792629",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853307,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "2dd9d67436fac98c",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Privacy and Security",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667935739300317493",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785853311,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "9b68b1bbbdb5b75b",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Code Graph and Quality Validation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7667935738376227077",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785853316,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "cc6d1f239c7555bb",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Data Arch - E-commerce",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668582146236631349",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785853320,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "ba879694bd98d85f",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Agentic Creation-Effect Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668445566565321013",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785853325,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "8b1f445fa29d70b4",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Business Integrity",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668584916620527925",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853334,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "89ce69d99349d58e",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668642761473902901",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785853338,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "5bfe4e0f52373693",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668582031916435717",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853342,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "b6171ba8b5193c94",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Data Arch - E-commerce",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668582086899763461",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Offers Sponsorship",
+    "date_posted": 1785853357,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "ec067e7e96a05a4d",
+    "company": "TikTok",
+    "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668584161852229893",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853360,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "40b6961967864b97",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7668675500744837381",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1785853363,
+    "date_found": 1785865503,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'page not found'"
+  },
+  {
+    "id": "9f617dd5295ff5de",
+    "company": "RTX",
+    "title": "Software Engineer Intern, Fleet Health Instrumentation",
+    "locations": [
+      "Fullerton, CA"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1785853476,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7a8a75b018106a24",
+    "company": "RTX",
+    "title": "Software Engineer Intern, Fleet Health Instrumentation",
+    "locations": [
+      "McKinney, TX"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1785853484,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c33824f1f021a0b8",
+    "company": "GoDaddy",
+    "title": "Software Development Engineer Intern",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1785853490,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e50189ac57115e52",
+    "company": "Pinterest",
+    "title": "Software Engineer II, Backend, tvScientific",
+    "locations": [
+      "San Francisco, CA, US; Remote, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8041770",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1785861351,
+    "date_found": 1785865503,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "155ecbb40b027160",
     "company": "Microsoft",
     "title": "Software Engineer Intern, CoreAI",

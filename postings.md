@@ -1,9 +1,25 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-04 14:03 UTC · 681 live & eligible postings (showing 400); 67 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-04 17:45 UTC · 697 live & eligible postings (showing 400); 99 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-04 | 2026-08-04 | Microsoft | Software Engineer Intern, Data Platform/Analytics | Redmond, WA | Summer | swe | unknown | [apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931) |
+| 2026-08-04 | 2026-08-04 | Microsoft | Software Engineer Intern, Security & Identity | Redmond, WA | Summer | swe | unknown | [apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) |
+| 2026-08-04 | 2026-08-04 | Microsoft | Software Engineer Intern, AI/ML & LLM | Redmond, WA | Summer | swe | unknown | [apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) |
+| 2026-08-04 | 2026-08-04 | Microsoft | Software Engineer Intern, Cloud & Distributed Backend | Redmond, WA | Summer | swe | unknown | [apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923) |
+| 2026-08-04 | 2026-08-04 | Microsoft | Software Engineer Intern, Fullstack Product (Web + Services) | Multiple Locations, United States | Summer | swe | unknown | [apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922) |
+| 2026-08-04 | 2026-08-04 | RenderATL | Software Engineer Intern | Seattle, WA | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003) |
+| 2026-08-04 | 2026-08-04 | ByteDance | Software Engineer Intern, AI Platform | San Jose, CA | Summer | swe | ok | [apply](https://joinbytedance.com/search/7668212952030841093) |
+| 2026-08-04 | 2026-08-04 | Melius | Software Engineering Intern | New York City, NY | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280) |
+| 2026-08-04 | 2026-08-03 | Netsmart | Software Engineer Intern | Overland Park, KS | Summer | swe | ok | [apply](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667) |
+| 2026-08-04 | 2026-08-04 | Samsara | Software Engineering Intern | San Francisco, CA | Summer | swe | ok | [apply](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) |
+| 2026-08-04 | 2026-08-04 | ByteDance | Software Engineer Intern, Distributed NoSQL Database Systems | Seattle, WA | Summer | swe | ok | [apply](https://joinbytedance.com/search/7668373268886161669) |
+| 2026-08-04 | 2026-08-04 | ByteDance | Software Engineer Intern, Distributed NoSQL Database Systems | San Jose, CA | Summer | swe | ok | [apply](https://joinbytedance.com/search/7668374190764050741) |
+| 2026-08-04 | 2026-08-04 | RTX | Software Engineer Intern, Fleet Health Instrumentation | Fullerton, CA | Summer | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012) |
+| 2026-08-04 | 2026-08-04 | RTX | Software Engineer Intern, Fleet Health Instrumentation | McKinney, TX | Summer | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072) |
+| 2026-08-04 | 2026-08-04 | GoDaddy | Software Development Engineer Intern | Tempe, AZ | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003) |
+| 2026-08-04 | 2026-08-04 | Pinterest | Software Engineer II, Backend, tvScientific | San Francisco, CA, US; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8041770) |
 | 2026-08-03 | 2026-08-03 | Microsoft | Software Engineer Intern, CoreAI | Multiple Locations, United States | Summer | swe | unknown | [apply](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0) |
 | 2026-08-03 | 2026-08-03 | Pinterest | Software Engineer II, Android | San Francisco, CA, US; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=4916795) |
 | 2026-08-03 | 2026-08-03 | Capital One | Software Engineer Intern | McLean, VA, Plano, TX, Richmond, VA | Summer | swe | unknown | [apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1) |
@@ -388,19 +404,3 @@ _Last updated: 2026-08-04 14:03 UTC · 681 live & eligible postings (showing 400
 | 2026-07-22 | 2025-10-09 | Tesla | Sensing Software Engineer | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/252915) |
 | 2026-07-22 | 2025-10-11 | Uneekor | Software Quality Assurance Engineer | Dallas, TX | — | swe | unknown | [apply](https://uneekor.bamboohr.com/careers/119) |
 | 2026-07-22 | 2025-10-11 | QuinStreet | Software Engineer | Foster City, CA | — | swe | unknown | [apply](https://www.quinstreet.com/careers/?gh_jid=7316288) |
-| 2026-07-22 | 2025-10-11 | Infoblox | Associate Data Engineer | Burnaby, Canada | — | swe | unknown | [apply](https://efpv.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6828) |
-| 2026-07-22 | 2025-10-11 | Quadient | Software Engineer | Vancouver, Canada | — | swe | unknown | [apply](https://careers.quadient.com/en/jobs/junior-software-engineer) |
-| 2026-07-22 | 2025-10-14 | Tesla | Verification Infrastructure & DevOps Engineer, AI Hardware | Austin, TX, Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253221) |
-| 2026-07-22 | 2025-10-14 | Tesla | Infrastructure & DevOps Engineer, AI Hardware | Austin, TX, Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253222) |
-| 2026-07-22 | 2025-10-14 | Aurora | Security Software Engineer I | Mountain View, CA | — | swe | unknown | [apply](https://aurora.tech/careers/8137861002) |
-| 2026-07-22 | 2025-10-14 | Lambda | Cloud Support Engineer I (Support Response) | Remote in USA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/lambda/1b1cac37-a29c-46b2-ad1a-a946d1e87d41) |
-| 2026-07-22 | 2025-10-14 | Aurora Innovation | Software Engineer 1 | Pittsburgh, PA | — | swe | unknown | [apply](https://aurora.tech/jobs/8209480002?gh_jid=8209480002) |
-| 2026-07-22 | 2025-10-14 | Aurora Innovation | Software Engineer 1 | Mountain View, CA | — | swe | unknown | [apply](https://aurora.tech/jobs/8191750002?gh_jid=8191750002) |
-| 2026-07-22 | 2025-10-16 | Google | Software Engineer II, Early Career, Google Cloud AI Catalyst Program | Sunnyvale, CA, Kirkland, WA, Seattle, WA | — | swe | unknown | [apply](https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program) |
-| 2026-07-22 | 2025-10-16 | Tesla | Frontend Software Engineer, Energy Charging | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/253464) |
-| 2026-07-22 | 2025-10-16 | Shopify | Software Engineer - Monorepo Systems (Rust & Nix) | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/software-engineer-monorepo-systems-rust-nix_95aac134-c21a-456d-b8b3-a9aac6aa6118) |
-| 2026-07-22 | 2025-10-16 | Apten | Software Engineer (Full Stack) | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/83503) |
-| 2026-07-22 | 2025-10-16 | StarSling (X25) | New Grad: Full-Stack Software Engineer | San Francisco, CA, San Mateo, CA, Palo Alto, CA, Menlo Park, CA, Redwood City, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/83356) |
-| 2026-07-22 | 2025-10-16 | Taro | Founding Software Engineer | Palo Alto, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/83287) |
-| 2026-07-22 | 2025-10-16 | Corgi | Full Stack Engineer | Atlanta, GA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/83025) |
-| 2026-07-22 | 2025-10-16 | Maitai | Full-Stack Engineer - Agent Marketplace (In-Person RWC Only) | Redwood City, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/82935) |

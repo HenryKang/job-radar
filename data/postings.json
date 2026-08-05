@@ -1,5 +1,43 @@
 [
   {
+    "id": "7a7e2e1c34b92968",
+    "company": "Optiver",
+    "title": "Quantitative Intern (Summer 2027)",
+    "locations": [
+      "Austin, Texas, United States"
+    ],
+    "url": "https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:optiverus",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1785940647,
+    "date_found": 1785945970,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3df50a24e21b1434",
+    "company": "Roblox",
+    "title": "[Summer 2027] Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA, United States"
+    ],
+    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:roblox",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1785945796,
+    "date_found": 1785945970,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: HTTPSConnectionPool(host='careers.roblox.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
     "id": "ca67b5cc10218096",
     "company": "Microsoft",
     "title": "Software Engineer Intern, Data Platform/Analytics",

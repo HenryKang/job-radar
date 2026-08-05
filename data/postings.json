@@ -1,5 +1,24 @@
 [
   {
+    "id": "8d67da4496d98430",
+    "company": "Roblox",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1785965318,
+    "date_found": 1785970594,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: HTTPSConnectionPool(host='careers.roblox.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
     "id": "7a7e2e1c34b92968",
     "company": "Optiver",
     "title": "Quantitative Intern (Summer 2027)",

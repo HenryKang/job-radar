@@ -1,9 +1,14 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-06 10:36 UTC · 701 live & eligible postings (showing 400); 99 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-06 13:58 UTC · 706 live & eligible postings (showing 400); 99 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-06 | 2026-08-06 | ByteDance | AI Network Automation Engineer Intern, Global Physical Network Infra | San Jose, CA | Summer | swe | ok | [apply](https://joinbytedance.com/search/7670690923748870405) |
+| 2026-08-06 | 2026-08-06 | ByteDance | GPU/AI Application System Software Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://joinbytedance.com/search/7668464504736876853) |
+| 2026-08-06 | 2026-08-06 | ByteDance | Applied Machine Learning Production Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://joinbytedance.com/search/7670009669494704437) |
+| 2026-08-06 | 2026-08-06 | Chicago Trading Company | Quant Trading Intern | Chicago, IL | Summer | quant | ok | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) |
+| 2026-08-06 | 2026-08-06 | DV Group | Quantitative Risk Intern | Chicago, IL | Summer | quant | ok | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719118005) |
 | 2026-08-06 | 2026-08-05 | Quora | New Grad: Software Engineer | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
 | 2026-08-05 | 2026-08-05 | Roblox | Software Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us) |
 | 2026-08-05 | 2026-08-05 | Optiver | Quantitative Intern (Summer 2027) | Austin, Texas, United States | Summer 2027 | quant | ok | [apply](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) |
@@ -399,8 +404,3 @@ _Last updated: 2026-08-06 10:36 UTC · 701 live & eligible postings (showing 400
 | 2026-07-22 | 2025-09-30 | Honeywell | Software Engineer I | Fort Mill, SC | — | swe | unknown | [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510) |
 | 2026-07-22 | 2025-09-30 | HoneyWell | Software Engineer I | Clearwater, FL | — | swe | unknown | [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931) |
 | 2026-07-22 | 2025-09-30 | Esri | Software Development Engineer 1 | St. Louis, MO | — | swe | unknown | [apply](https://www.esri.com/careers/4921407007?gh_jid=4921407007) |
-| 2026-07-22 | 2025-09-30 | McDonald's | Software Engineer 1 | Chicago, IL | — | swe | unknown | [apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors) |
-| 2026-07-22 | 2025-09-30 | Comcast | Software Engineer 1 | Chicago, IL, Englewood, CO | — | swe | unknown | [apply](https://jobs.comcast.com/job/-/-/45483/86516813920) |
-| 2026-07-22 | 2025-10-06 | American Express | Software Engineer 1, Technology | Plantation, FL | — | swe | unknown | [apply](https://aexp.eightfold.ai/careers/job/38270703) |
-| 2026-07-22 | 2025-10-06 | General Dynamics Mission Systems | Junior Software Engineer | Dedham, MA | — | swe | unknown | [apply](https://careers-gdms.icims.com/jobs/68413) |
-| 2026-07-22 | 2025-10-06 | Tesla | Machine Learning Infrastructure Simulation Engineer, Optimus | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/252374) |

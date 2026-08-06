@@ -1,5 +1,100 @@
 [
   {
+    "id": "0f457da71839963e",
+    "company": "ByteDance",
+    "title": "AI Network Automation Engineer Intern, Global Physical Network Infra",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://joinbytedance.com/search/7670690923748870405",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1786024258,
+    "date_found": 1786024737,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "974730b165248437",
+    "company": "ByteDance",
+    "title": "GPU/AI Application System Software Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://joinbytedance.com/search/7668464504736876853",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1786024261,
+    "date_found": 1786024737,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "00fd149ecb6d03fd",
+    "company": "ByteDance",
+    "title": "Applied Machine Learning Production Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://joinbytedance.com/search/7670009669494704437",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1786024264,
+    "date_found": 1786024737,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "726e7c3edf2f83a4",
+    "company": "Chicago Trading Company",
+    "title": "Quant Trading Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1786024271,
+    "date_found": 1786024737,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "79c5d2c3d2c9dc45",
+    "company": "DV Group",
+    "title": "Quantitative Risk Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1786024274,
+    "date_found": 1786024737,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
     "id": "b26a1303e9857d8d",
     "company": "Quora",
     "title": "New Grad: Software Engineer",

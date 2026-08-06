@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-05 22:56 UTC · 700 live & eligible postings (showing 400); 99 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-06 02:13 UTC · 701 live & eligible postings (showing 400); 99 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-06 | 2026-08-05 | Quora | New Grad: Software Engineer | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
 | 2026-08-05 | 2026-08-05 | Roblox | Software Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us) |
 | 2026-08-05 | 2026-08-05 | Optiver | Quantitative Intern (Summer 2027) | Austin, Texas, United States | Summer 2027 | quant | ok | [apply](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) |
 | 2026-08-05 | 2026-08-05 | Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA, United States | Summer 2027 | swe | unknown | [apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
@@ -403,4 +404,3 @@ _Last updated: 2026-08-05 22:56 UTC · 700 live & eligible postings (showing 400
 | 2026-07-22 | 2025-10-06 | American Express | Software Engineer 1, Technology | Plantation, FL | — | swe | unknown | [apply](https://aexp.eightfold.ai/careers/job/38270703) |
 | 2026-07-22 | 2025-10-06 | General Dynamics Mission Systems | Junior Software Engineer | Dedham, MA | — | swe | unknown | [apply](https://careers-gdms.icims.com/jobs/68413) |
 | 2026-07-22 | 2025-10-06 | Tesla | Machine Learning Infrastructure Simulation Engineer, Optimus | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/252374) |
-| 2026-07-22 | 2025-10-09 | Tesla | Full Stack Software Engineer, Battery Optimization | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/252946) |

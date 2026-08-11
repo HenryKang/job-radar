@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-11 03:41 UTC · 706 live & eligible postings (showing 400); 99 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-11 05:05 UTC · 707 live & eligible postings (showing 400); 99 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-11 | 2026-08-11 | Tower Research | Software Engineer II | Gurgaon | — | swe | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8119466) |
 | 2026-08-06 | 2026-08-06 | ByteDance | AI Network Automation Engineer Intern, Global Physical Network Infra | San Jose, CA | Summer | swe | ok | [apply](https://joinbytedance.com/search/7670690923748870405) |
 | 2026-08-06 | 2026-08-06 | ByteDance | GPU/AI Application System Software Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://joinbytedance.com/search/7668464504736876853) |
 | 2026-08-06 | 2026-08-06 | ByteDance | Applied Machine Learning Production Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://joinbytedance.com/search/7670009669494704437) |
@@ -403,4 +404,3 @@ _Last updated: 2026-08-11 03:41 UTC · 706 live & eligible postings (showing 400
 | 2026-07-22 | 2025-09-26 | Parafin | New Grad: Software Engineer | SF | — | swe | unknown | [apply](https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application) |
 | 2026-07-22 | 2025-09-30 | Honeywell | Software Engineer I | Fort Mill, SC | — | swe | unknown | [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510) |
 | 2026-07-22 | 2025-09-30 | HoneyWell | Software Engineer I | Clearwater, FL | — | swe | unknown | [apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931) |
-| 2026-07-22 | 2025-09-30 | Esri | Software Development Engineer 1 | St. Louis, MO | — | swe | unknown | [apply](https://www.esri.com/careers/4921407007?gh_jid=4921407007) |

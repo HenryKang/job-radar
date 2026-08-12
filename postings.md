@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-12 15:26 UTC · 759 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-12 16:55 UTC · 760 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-12 | 2026-08-12 | Tower Research | Quantitative Trader/Researcher Intern - Summer 2027 | New York, Chicago | Summer 2027 | quant | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | 2026-08-12 | 2026-08-06 | ByteDance | AI Network Automation Engineer Intern, Global Physical Network Infra | San Jose, CA | Summer | swe | unknown | [apply](https://joinbytedance.com/search/7670690923748870405) |
 | 2026-08-12 | 2026-08-06 | ByteDance | GPU/AI Application System Software Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://joinbytedance.com/search/7668464504736876853) |
 | 2026-08-12 | 2026-08-06 | ByteDance | Applied Machine Learning Production Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://joinbytedance.com/search/7670009669494704437) |
@@ -403,4 +404,3 @@ _Last updated: 2026-08-12 15:26 UTC · 759 live & eligible postings (showing 400
 | 2026-08-12 | 2025-09-20 | Channel3 | Founding Engineer | New York, NY | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/80837) |
 | 2026-08-12 | 2025-09-24 | Notion | Software Engineer, Fullstack, Early Career | San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b) |
 | 2026-08-12 | 2025-09-24 | Notion | Software Engineer, Infrastructure, Early Career | San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80) |
-| 2026-08-12 | 2025-09-25 | Plaid | Software Engineer | San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://app.ripplematch.com/v2/public/job/2ddc776c) |

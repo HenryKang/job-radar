@@ -79,6 +79,40 @@ def _classify_text(text: str) -> tuple[str, str]:
     return ("ok", "undergrad markers") if undergrad else ("unknown", "no clear disqualifier")
 
 
+_GH_API_URL_RE = re.compile(
+    r"https?://(?:boards|job-boards)\.greenhouse\.io/([^/]+)/jobs/(\d+)", re.I
+)
+_GH_API_HEADERS = {"User-Agent": "job-radar (github actions bot)"}
+
+
+def _check_greenhouse(url: str, timeout: int) -> dict | None:
+    """Use the Greenhouse public API to check a boards.greenhouse.io job URL.
+
+    Avoids custom-domain redirect chains (e.g. boards.greenhouse.io → careers.roblox.com)
+    and bot-detection on the career site. Returns 404 for removed jobs.
+    """
+    m = _GH_API_URL_RE.search(url)
+    if not m:
+        return None
+    slug, job_id = m.group(1), m.group(2)
+    api = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs/{job_id}"
+    try:
+        r = requests.get(api, headers=_GH_API_HEADERS, timeout=timeout)
+    except Exception as e:  # noqa: BLE001
+        return {"alive": True, "eligibility": "unknown", "reason": f"greenhouse api failed: {e}"}
+    if r.status_code == 404:
+        return {"alive": False, "eligibility": "na", "reason": "greenhouse api: job not found"}
+    if not r.ok:
+        return {"alive": True, "eligibility": "unknown", "reason": f"greenhouse api http {r.status_code}"}
+    try:
+        data = r.json()
+        desc = data.get("content", "") or ""
+        elig, reason = _classify_text(_visible_text(desc))
+        return {"alive": True, "eligibility": elig, "reason": f"greenhouse api: {reason}"}
+    except Exception:  # noqa: BLE001
+        return {"alive": True, "eligibility": "unknown", "reason": "greenhouse api: json parse error"}
+
+
 def _workday_cxs(url: str) -> str | None:
     """Map a public Workday job URL to its CxS JSON detail endpoint."""
     u = urlparse(url)
@@ -132,6 +166,10 @@ def check(url: str, title: str = "", timeout: int = 15) -> dict:
     if wd is not None:
         return wd
 
+    gh = _check_greenhouse(url, timeout)  # Greenhouse: use API to avoid custom-domain redirects
+    if gh is not None:
+        return gh
+
     try:
         r = requests.get(url, headers=_HEADERS, timeout=timeout, allow_redirects=True)
     except Exception as e:  # noqa: BLE001
@@ -143,6 +181,17 @@ def check(url: str, title: str = "", timeout: int = 15) -> dict:
 
     if r.status_code in (404, 410):
         return {"alive": False, "eligibility": "na", "reason": f"http {r.status_code}"}
+
+    # Greenhouse removes expired jobs by redirecting /jobs/<id> to the board index.
+    # The redirect destination returns 200 with no closed-markers, so we catch it here.
+    if r.url and r.url.rstrip("/") != url.rstrip("/"):
+        orig_path = urlparse(url).path
+        final_path = urlparse(r.url).path
+        if (("greenhouse.io" in url or "lever.co" in url)
+                and "/jobs/" in orig_path
+                and "/jobs/" not in final_path):
+            return {"alive": False, "eligibility": "na", "reason": "redirected away from job page"}
+
     hit = next((m for m in _CLOSED_MARKERS if m in raw_low), None)
     if hit:
         return {"alive": False, "eligibility": "na", "reason": f"closed: {hit!r}"}

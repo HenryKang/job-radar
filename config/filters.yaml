@@ -95,75 +95,128 @@ eligibility:
 
 locations:
   us_only: true
-  allow_remote: true    # keep "Remote" postings even under us_only
-  us_markers:
+  allow_remote: true          # keep "Remote" postings (unless they name a non-US place)
+  # When a location has NO US and NO known non-US signal (e.g. "Hybrid"), keep it?
+  # false = strict US-only (drop the unknown). Flip to true if you start MISSING
+  # real US roles whose location text we don't recognize.
+  keep_unknown_location: false
+
+  # --- Positive US signals (matched as whole words, case-insensitive) ---
+  us_words:
     - United States
     - USA
+    - U.S.A
     - U.S.
-    - Remote
-  # US state suffixes, e.g. "New York, NY".
-  us_state_markers:
-    - ", AL"
-    - ", AK"
-    - ", AZ"
-    - ", AR"
-    - ", CA"
-    - ", CO"
-    - ", CT"
-    - ", DE"
-    - ", FL"
-    - ", GA"
-    - ", HI"
-    - ", ID"
-    - ", IL"
-    - ", IN"
-    - ", IA"
-    - ", KS"
-    - ", KY"
-    - ", LA"
-    - ", ME"
-    - ", MD"
-    - ", MA"
-    - ", MI"
-    - ", MN"
-    - ", MS"
-    - ", MO"
-    - ", MT"
-    - ", NE"
-    - ", NV"
-    - ", NH"
-    - ", NJ"
-    - ", NM"
-    - ", NY"
-    - ", NC"
-    - ", ND"
-    - ", OH"
-    - ", OK"
-    - ", OR"
-    - ", PA"
-    - ", RI"
-    - ", SC"
-    - ", SD"
-    - ", TN"
-    - ", TX"
-    - ", UT"
-    - ", VT"
-    - ", VA"
-    - ", WA"
-    - ", WV"
-    - ", WI"
-    - ", WY"
-    - ", DC"
-  # If ALL locations clearly match one of these (and none look US), drop it.
+    - U.S
+    - US
+  us_state_abbr:                # matched as ", NY" or as a bare token "NJ"
+    [AL, AK, AZ, AR, CA, CO, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA,
+     ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK,
+     OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY, DC]
+  us_state_names:              # e.g. "Chicago, Illinois" (no abbrev given)
+    - Alabama
+    - Alaska
+    - Arizona
+    - Arkansas
+    - California
+    - Colorado
+    - Connecticut
+    - Delaware
+    - Florida
+    - Georgia
+    - Hawaii
+    - Idaho
+    - Illinois
+    - Indiana
+    - Iowa
+    - Kansas
+    - Kentucky
+    - Louisiana
+    - Maine
+    - Maryland
+    - Massachusetts
+    - Michigan
+    - Minnesota
+    - Mississippi
+    - Missouri
+    - Montana
+    - Nebraska
+    - Nevada
+    - New Hampshire
+    - New Jersey
+    - New Mexico
+    - New York
+    - North Carolina
+    - North Dakota
+    - Ohio
+    - Oklahoma
+    - Oregon
+    - Pennsylvania
+    - Rhode Island
+    - South Carolina
+    - South Dakota
+    - Tennessee
+    - Texas
+    - Utah
+    - Vermont
+    - Virginia
+    - Washington
+    - West Virginia
+    - Wisconsin
+    - Wyoming
+    - District of Columbia
+  us_cities:                   # bare US cities/abbrevs that arrive without a state
+    - New York
+    - NYC
+    - San Francisco
+    - SF
+    - Los Angeles
+    - Seattle
+    - Denver
+    - Chicago
+    - Boston
+    - Austin
+    - Atlanta
+    - Dallas
+    - Houston
+    - Philadelphia
+    - Miami
+    - San Jose
+    - San Diego
+    - Bellevue
+    - Sunnyvale
+    - Mountain View
+    - Palo Alto
+    - Menlo Park
+    - Cambridge
+    - Pittsburgh
+    - Ann Arbor
+
+  # --- Negative (non-US) signals. A posting with a non-US signal and no US signal
+  #     is dropped. Add markers here as you spot new leaks. ---
   non_us_markers:
     - India
+    - Bengaluru
+    - Bangalore
+    - Mumbai
+    - Hyderabad
+    - Pune
+    - Gurgaon
+    - Gurugram
+    - Noida
     - London
     - United Kingdom
-    - " UK"
+    - UK
+    - Bristol
     - Canada
     - Toronto
     - Ontario
     - Vancouver
+    - Montreal
+    - Montréal
+    - Calgary
+    - Burnaby
+    - Waterloo
     - Ireland
     - Dublin
     - Germany
@@ -197,3 +250,13 @@ locations:
     - Seoul
     - Brazil
     - Mexico
+    - Serbia
+    - Belgrade
+    - Hungary
+    - Budapest
+    - Bulgaria
+    - Sofia
+    - Vietnam
+    - Hanoi
+    - Ho Chi Minh
+    - Cayman

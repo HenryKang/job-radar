@@ -25,13 +25,15 @@ def _fmt_date(ts) -> str:
 
 def _embed(p: dict) -> dict:
     loc = ", ".join(p.get("locations", [])) or "—"
+    # Prefer the actual posting date; fall back to when we scraped it
+    date_ts = p.get("date_posted") or p.get("date_found")
     return {
         "title": f"{p.get('company', '')} — {p.get('title', '')}"[:250] or "New posting",
         "url": p.get("url") or None,
         "color": _COLOR,
         "fields": [
             {"name": "Location", "value": loc[:1000], "inline": True},
-            {"name": "Posted", "value": _fmt_date(p.get("date_posted")), "inline": True},
+            {"name": "Posted", "value": _fmt_date(date_ts), "inline": True},
             {"name": "Season", "value": p.get("season") or "—", "inline": True},
             {"name": "Category", "value": p.get("category") or "—", "inline": True},
         ],

@@ -1,9 +1,18 @@
 """Relevance filtering: decide which normalized postings are worth alerting on.
 
 Bias: missing a real posting is worse than an extra alert, so ambiguous cases
-(unknown location, missing season) are KEPT.
+(missing season) are KEPT. Location is the exception: with `us_only` on we keep a
+posting only when it shows a positive US signal (or is unrecognized *and*
+`keep_unknown_location` is true), because a non-US role is never useful here.
 """
 from __future__ import annotations
+
+import re
+
+# Trailing 2-letter state code, e.g. "New York, NY". The negative lookahead stops
+# "Bengaluru, India" from reading "In" as Indiana.
+_STATE_ABBR_RE = re.compile(r",\s*([A-Za-z]{2})(?![A-Za-z])")
+_REMOTE_RE = re.compile(r"\bremote\b", re.I)
 
 
 def _category_of(title: str, cfg: dict) -> str | None:
@@ -14,29 +23,59 @@ def _category_of(title: str, cfg: dict) -> str | None:
     return None
 
 
-def _looks_us(locations, cfg: dict) -> bool:
-    loc_cfg = cfg["locations"]
-    if not locations:
-        return True  # unknown -> keep
-    us_markers = [m.lower() for m in loc_cfg.get("us_markers", [])]
-    state_markers = [m.lower() for m in loc_cfg.get("us_state_markers", [])]
-    non_us = [m.lower() for m in loc_cfg.get("non_us_markers", [])]
+def _word_in(text: str, words) -> bool:
+    """True if any `words` entry appears in `text` as a whole token.
 
-    any_us = False
-    any_non_us = False
+    Word-boundary matching (not substring) so "India" doesn't match "Indiana"
+    and "US" doesn't match "Austin".
+    """
+    return any(
+        re.search(r"(?<![A-Za-z0-9])" + re.escape(w) + r"(?![A-Za-z0-9])", text, re.I)
+        for w in words
+    )
+
+
+def _has_us_place(loc: str, abbr: set[str], names, cities, us_words) -> bool:
+    if _word_in(loc, us_words) or _word_in(loc, names) or _word_in(loc, cities):
+        return True
+    if any(m.group(1).upper() in abbr for m in _STATE_ABBR_RE.finditer(loc)):
+        return True
+    # Bare state code as its own token, e.g. "NJ" or "Austin, TX; NY".
+    return any(tok.strip().upper() in abbr for tok in re.split(r"[;/,]", loc))
+
+
+def _looks_us(locations, cfg: dict) -> bool:
+    """With `us_only`, keep only postings with a positive US signal.
+
+    A posting is US if ANY of its locations names a US place (so "London, New York"
+    is kept — a US option exists). A location counts as US-remote only when it does
+    not also name a non-US place, so "Remote - India" is dropped. Locations with no
+    US and no known non-US signal fall to `keep_unknown_location`.
+    """
+    lc = cfg["locations"]
+    keep_unknown = lc.get("keep_unknown_location", False)
+    if not locations:
+        return keep_unknown  # no location data at all
+    abbr = {s.upper() for s in lc.get("us_state_abbr", [])}
+    names = lc.get("us_state_names", [])
+    cities = lc.get("us_cities", [])
+    us_words = lc.get("us_words", [])
+    non_us = lc.get("non_us_markers", [])
+    allow_remote = lc.get("allow_remote", True)
+
+    any_us = any_non_us = False
     for loc in locations:
-        l = loc.lower()
-        if "remote" in l and loc_cfg.get("allow_remote", True):
+        non_us_here = _word_in(loc, non_us)
+        remote_here = allow_remote and bool(_REMOTE_RE.search(loc)) and not non_us_here
+        if _has_us_place(loc, abbr, names, cities, us_words) or remote_here:
             any_us = True
-        if any(m in l for m in us_markers) or any(m in l for m in state_markers):
-            any_us = True
-        if any(m in l for m in non_us):
+        elif non_us_here:
             any_non_us = True
     if any_us:
         return True
     if any_non_us:
         return False
-    return True  # ambiguous -> keep
+    return keep_unknown  # locations present but unrecognized
 
 
 def _season_ok_aggregator(season: str, cfg: dict) -> bool:

@@ -27,4 +27,6 @@ def dedupe_within_run(postings: list[dict]) -> list[dict]:
 
 
 def split_new(postings: list[dict], seen: set[str]) -> list[dict]:
-    return [p for p in postings if p["id"] not in seen]
+    """New = not alerted before. Keyed on the URL-independent `dedup_key` so a job
+    whose URL changed (or that arrives from a second source) is not re-alerted."""
+    return [p for p in postings if p["dedup_key"] not in seen]

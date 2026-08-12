@@ -27,6 +27,21 @@ def make_id(company: str, title: str, url: str, role_type: str = "intern") -> st
     return hashlib.sha1(key.encode("utf-8")).hexdigest()[:16]
 
 
+def make_dedup_key(company: str, title: str, role_type: str = "intern") -> str:
+    """Content key for 'have we alerted this job before?' — URL-independent.
+
+    `id` includes the URL, so when an aggregator changes a posting's URL (tracking
+    params, re-links) the same job looks new and re-alerts to Discord. This key is
+    (role_type, company, title) with punctuation/whitespace normalized, so a job is
+    alerted at most once regardless of source or URL churn. Location is intentionally
+    excluded — the same role across cities is grouped into one alert, not many.
+    """
+    def norm(s: str) -> str:
+        return " ".join(re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).split())
+
+    return f"{norm(role_type)}|{norm(company)}|{norm(title)}"
+
+
 def parse_ts(value) -> int | None:
     """Best-effort -> unix seconds. Accepts epoch (s or ms) or ISO-8601."""
     if value is None:
@@ -65,6 +80,7 @@ def make_posting(
     role_type = (role_type or "intern").strip()
     return {
         "id": make_id(company, title, url, role_type),
+        "dedup_key": make_dedup_key(company, title, role_type),
         "company": company,
         "title": title,
         "locations": locations,

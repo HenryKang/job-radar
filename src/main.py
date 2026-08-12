@@ -13,6 +13,7 @@ import argparse
 import os
 import sys
 import time
+from collections import OrderedDict
 from concurrent.futures import ThreadPoolExecutor
 
 import yaml
@@ -25,7 +26,53 @@ from fetch_aggregators import fetch_aggregators  # noqa: E402
 from fetch_ats import fetch_ats  # noqa: E402
 from filters import classify_and_filter  # noqa: E402
 import notify_discord  # noqa: E402
+import pending as pending_mod  # noqa: E402
 from render import load_archive, merge_archive, save_archive, write_markdown  # noqa: E402
+
+
+def group_postings(postings: list[dict]) -> list[dict]:
+    """Merge same (company, title) postings into one embed with combined locations.
+
+    Handles two duplicate sources:
+    - Same job posted at multiple cities (different ATS job IDs, same title)
+    - Same job in both aggregator and direct ATS (different URLs, same title)
+
+    Location format: "New York, NY +2" (first location + count of rest).
+    ATS source wins over aggregator for URL and date_posted.
+    """
+    groups: dict[tuple, dict] = OrderedDict()
+
+    for p in postings:
+        key = (p["company"].lower(), p["title"].lower().strip())
+        if key not in groups:
+            canon = dict(p)
+            canon["_locs"] = list(p.get("locations", []))
+            groups[key] = canon
+        else:
+            canon = groups[key]
+            canon["_locs"].extend(p.get("locations", []))
+            p_is_ats = p["source"].startswith("ats:")
+            c_is_ats = canon["source"].startswith("ats:")
+            if p_is_ats and not c_is_ats:
+                # Upgrade to ATS source for better URL and date
+                canon["source"] = p["source"]
+                canon["url"] = p["url"]
+                if p.get("date_posted"):
+                    canon["date_posted"] = p["date_posted"]
+            elif p.get("date_posted") and (
+                not canon.get("date_posted") or p["date_posted"] < canon["date_posted"]
+            ):
+                canon["date_posted"] = p["date_posted"]
+
+    result = []
+    for canon in groups.values():
+        locs = list(dict.fromkeys(canon.pop("_locs")))  # dedup, preserve order
+        if len(locs) > 1:
+            canon["locations"] = [f"{locs[0]} +{len(locs) - 1}"]
+        else:
+            canon["locations"] = locs
+        result.append(canon)
+    return result
 
 
 def run_eligibility(postings: list[dict], cfg: dict) -> None:
@@ -66,6 +113,7 @@ CONFIG_DIR = os.path.join(ROOT, "config")
 DATA_DIR = os.path.join(ROOT, "data")
 ARCHIVE_PATH = os.path.join(DATA_DIR, "postings.json")
 SEEN_PATH = os.path.join(DATA_DIR, "seen.json")
+PENDING_PATH = os.path.join(DATA_DIR, "pending.json")
 MD_PATH = os.path.join(ROOT, "postings.md")
 
 
@@ -98,34 +146,65 @@ def main() -> int:
     seen = load_seen(SEEN_PATH)
     new = split_new(relevant, seen)
 
-    # 3b) Eligibility + liveness check on the new postings (drops dead links and
-    #     PhD/master's/underclassmen-only roles; keeps undergrad + unknown).
+    # 3b) Re-check the pending watchlist first — aggregator-sourced dead links
+    #     that may have become live since we last saw them.
+    now = int(time.time())
     elig_cfg = filters_cfg.get("eligibility", {})
+    timeout = elig_cfg.get("timeout", 15)
+    pending_items = pending_mod.load_pending(PENDING_PATH)
+    still_pending, newly_live = pending_mod.recheck_pending(
+        pending_items, eligibility.check, now, timeout
+    )
+    if not args.dry_run:
+        pending_mod.save_pending(PENDING_PATH, still_pending)
+    if newly_live:
+        print(f"[pending] {len(newly_live)} posting(s) came alive — adding to alerts")
+
+    # 3c) Eligibility + liveness check on brand-new postings.
     run_eligibility(new, elig_cfg)
     alertable = [p for p in new if is_alertable(p, elig_cfg)]
+
+    # Add dead aggregator postings (not yet in seen) to the watchlist for retry.
+    dead_from_agg = [
+        p for p in new
+        if not p.get("alive", True)
+        and not p["source"].startswith("ats:")
+        and p["dedup_key"] not in seen
+    ]
+    if dead_from_agg and not args.dry_run:
+        for p in dead_from_agg:
+            pending_mod.add_to_pending(still_pending, p, now)
+        pending_mod.save_pending(PENDING_PATH, still_pending)
+        print(f"[pending] added {len(dead_from_agg)} dead aggregator posting(s) to watchlist")
+
+    # Combine normally-alertable with any that just came alive from the watchlist.
+    alertable = alertable + [p for p in newly_live if is_alertable(p, elig_cfg)]
+
     alert_ids = {id(p) for p in alertable}
     suppressed = [p for p in new if id(p) not in alert_ids]
     from collections import Counter
-    reasons = Counter(("dead" if not p.get("alive", True) else p["eligibility"]) for p in suppressed)
+    reasons = Counter(("dead" if not p.get("alive", True) else p.get("eligibility","")) for p in suppressed)
+
+    # Group same (company, title) across sources / locations into one embed each.
+    grouped = group_postings(alertable)
 
     print(
         f"\n== summary ==\n"
         f"fetched(raw)={len(raw)}  candidates={len(candidates)}  relevant={len(relevant)}  "
-        f"new={len(new)}  alertable={len(alertable)}  "
+        f"new={len(new)}  alertable={len(alertable)}  grouped={len(grouped)}  "
         f"suppressed={len(suppressed)}{' ' + str(dict(reasons)) if suppressed else ''}  "
-        f"first_run={first_run}"
+        f"pending_watched={len(still_pending)}  first_run={first_run}"
     )
-    for p in alertable[:25]:
+    for p in grouped[:25]:
         print(f"  + {p['company']} | {p['title']} | {', '.join(p['locations']) or '—'}")
-    if len(alertable) > 25:
-        print(f"  ... and {len(alertable) - 25} more")
+    if len(grouped) > 25:
+        print(f"  ... and {len(grouped) - 25} more")
 
     if args.dry_run:
         print("\n[dry-run] no files written, no alerts sent.")
         return 0
 
     # 4) Persist archive + human-readable table.
-    now = int(time.time())
     for p in new:
         p["date_found"] = now
     archive = merge_archive(load_archive(ARCHIVE_PATH), new)
@@ -134,16 +213,19 @@ def main() -> int:
 
     # 5) Alert — but never on the seeding run.
     if first_run or args.seed:
-        print(f"[seed] recorded {len(alertable)} eligible postings silently (no alerts).")
+        print(f"[seed] recorded {len(alertable)} eligible postings silently ({len(grouped)} grouped; no alerts).")
         alert_ok = True
     else:
-        alert_ok = notify_discord.send(alertable, routing_cfg)
+        alert_ok = notify_discord.send(grouped, routing_cfg)
 
-    # 6) Update seen. If delivery failed, keep the undelivered ones unseen so
-    #    they retry next run (never silently drop an alert).
-    newly_seen = {p["id"] for p in relevant}
+    # 6) Update seen. Dead postings are NOT marked seen — they stay absent so the
+    #    pending watchlist can retry them. PhD/grad/underclass postings ARE marked seen
+    #    so they never re-alert. Delivery failures keep alertable ids unseen to retry.
+    newly_seen = {p["dedup_key"] for p in relevant if p.get("alive", True)}
+    # Also mark newly-live pending items as seen (they just alerted)
+    newly_seen |= {p["dedup_key"] for p in newly_live}
     if not alert_ok:
-        newly_seen -= {p["id"] for p in alertable}
+        newly_seen -= {p["dedup_key"] for p in alertable}
         print(f"[warn] delivery failed; {len(alertable)} posting(s) kept unseen to retry.")
     save_seen(SEEN_PATH, seen | newly_seen)
 

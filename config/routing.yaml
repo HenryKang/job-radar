@@ -79,6 +79,8 @@ quant_companies:
   - g-research
   - man group
   - man ahl
+  - dv trading
+  - geneva trading
 
 # Curated FAANG+/big-tech. Edit freely — anything not here (and not quant) -> other.
 faang_companies:
@@ -130,3 +132,9 @@ faang_companies:
   - intel
   - qualcomm
   - cisco
+  - affirm
+  - brex
+  - gemini
+  - ripple
+  - chime
+  - kraken

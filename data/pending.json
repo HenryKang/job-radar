@@ -14,7 +14,7 @@
     ],
     "date_posted": 1776617698,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "closed: 'jobexpired'"
   },
   {
@@ -32,7 +32,7 @@
     ],
     "date_posted": 1776727395,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "http 410"
   },
   {
@@ -50,7 +50,7 @@
     ],
     "date_posted": 1776727516,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "http 404"
   },
   {
@@ -68,7 +68,7 @@
     ],
     "date_posted": 1776914902,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -86,7 +86,7 @@
     ],
     "date_posted": 1777084447,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "closed: 'page not found'"
   },
   {
@@ -104,7 +104,7 @@
     ],
     "date_posted": 1778312442,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "redirected away from job page"
   },
   {
@@ -122,7 +122,7 @@
     ],
     "date_posted": 1778312558,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "redirected away from job page"
   },
   {
@@ -140,7 +140,7 @@
     ],
     "date_posted": 1779484585,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -158,7 +158,7 @@
     ],
     "date_posted": 1779486282,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -176,8 +176,548 @@
     ],
     "date_posted": 1779501421,
     "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "last_checked": 1786671603,
     "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "intern|imc|quantitative research intern",
+    "id": "2e8e30a0c0b104f8",
+    "company": "IMC",
+    "title": "Quantitative Research Intern",
+    "url": "https://www.imc.com/us/careers/jobs/4907399101",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "quant",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "date_posted": 1784884984,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: \"we couldn't find\""
+  },
+  {
+    "dedup_key": "intern|imc|hardware engineer intern",
+    "id": "0cc305af9593946b",
+    "company": "IMC",
+    "title": "Hardware Engineer Intern",
+    "url": "https://www.imc.com/us/careers/jobs/4823945101",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "date_posted": 1784885006,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: \"we couldn't find\""
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern global live foundation",
+    "id": "c3a9926cba956d9d",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Global Live-Foundation",
+    "url": "https://lifeattiktok.com/search/7667935150530840837",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853216,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|frontend engineer intern global crm",
+    "id": "c5232b9d48800bce",
+    "company": "TikTok",
+    "title": "Frontend Engineer Intern, Global CRM",
+    "url": "https://lifeattiktok.com/search/7669711026846058757",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853220,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern ai agent global revenue platform",
+    "id": "3ec26ce52f449361",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
+    "url": "https://lifeattiktok.com/search/7669712589169117445",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853222,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern intelligent creation camera",
+    "id": "d2520210dbbfbe3f",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Intelligent Creation-Camera",
+    "url": "https://lifeattiktok.com/search/7668862422178318597",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853224,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern transaction platform",
+    "id": "37f20fc2cdabd88c",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Transaction Platform",
+    "url": "https://lifeattiktok.com/search/7669943120351906053",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853226,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|backend software engineer intern product infrastructure",
+    "id": "388feb8f2c0af57c",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Product Infrastructure",
+    "url": "https://lifeattiktok.com/search/7667935633764370741",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853231,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern",
+    "id": "c98b33947967f08e",
+    "company": "TikTok",
+    "title": "Software Engineer Intern",
+    "url": "https://lifeattiktok.com/search/7668725183121000757",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853233,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|backend software engineer intern global e commerce",
+    "id": "b33bf238cdacfefe",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Global E-Commerce",
+    "url": "https://lifeattiktok.com/search/7668834837268138293",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853255,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern shoot experience optimization",
+    "id": "3216725375e8414d",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Shoot Experience Optimization",
+    "url": "https://lifeattiktok.com/search/7668921505254410549",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853266,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern global crm",
+    "id": "9e3a418218a952b1",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Global CRM",
+    "url": "https://lifeattiktok.com/search/7669711844487399685",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853269,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern trust and safety engineering",
+    "id": "fd1207449f877da6",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Trust and Safety-Engineering",
+    "url": "https://lifeattiktok.com/search/7662700594251958581",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853272,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|backend software engineer intern social foundation",
+    "id": "7aa43d160b442d44",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Social Foundation",
+    "url": "https://lifeattiktok.com/search/7667935565120112949",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853278,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern growth innovation",
+    "id": "d399f6a80eabf55b",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Growth Innovation",
+    "url": "https://lifeattiktok.com/search/7667934860750063925",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853281,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|backend software engineer intern pgc digital content center",
+    "id": "2d594bc0e39aa551",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, PGC-Digital Content Center",
+    "url": "https://lifeattiktok.com/search/7667934302872537397",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853283,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern tiktok social friending",
+    "id": "2999255ba5c7092d",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, TikTok-Social-Friending",
+    "url": "https://lifeattiktok.com/search/7667935399050692917",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853287,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|backend software engineer intern search",
+    "id": "a9b7294939f02e72",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Search",
+    "url": "https://lifeattiktok.com/search/7667933335084124469",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853292,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|backend software engineer intern social friending",
+    "id": "93a4742eafa570ed",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Social Friending",
+    "url": "https://lifeattiktok.com/search/7667934635573692725",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853295,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern pgc creator strategy",
+    "id": "b6215985a20ca632",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, PGC Creator Strategy",
+    "url": "https://lifeattiktok.com/search/7667933770819897605",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose"
+    ],
+    "date_posted": 1785853304,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|frontend engineer intern tiktok open platform",
+    "id": "2d0c96d932408610",
+    "company": "TikTok",
+    "title": "Frontend Engineer Intern, TikTok-Open Platform",
+    "url": "https://lifeattiktok.com/search/7667935739300792629",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853307,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern privacy and security",
+    "id": "2dd9d67436fac98c",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Privacy and Security",
+    "url": "https://lifeattiktok.com/search/7667935739300317493",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853311,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern code graph and quality validation",
+    "id": "9b68b1bbbdb5b75b",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Code Graph and Quality Validation",
+    "url": "https://lifeattiktok.com/search/7667935738376227077",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853316,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern data arch e commerce",
+    "id": "cc6d1f239c7555bb",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Data Arch - E-commerce",
+    "url": "https://lifeattiktok.com/search/7668582146236631349",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "date_posted": 1785853320,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern agentic creation effect platform",
+    "id": "ba879694bd98d85f",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Agentic Creation-Effect Platform",
+    "url": "https://lifeattiktok.com/search/7668445566565321013",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853325,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern business integrity",
+    "id": "8b1f445fa29d70b4",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Business Integrity",
+    "url": "https://lifeattiktok.com/search/7668584916620527925",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853334,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern creative intelligence and brand innovation",
+    "id": "89ce69d99349d58e",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
+    "url": "https://lifeattiktok.com/search/7668642761473902901",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853338,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern ads measurement signal and privacy",
+    "id": "5bfe4e0f52373693",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
+    "url": "https://lifeattiktok.com/search/7668582031916435717",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853342,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|frontend software engineer intern ads measurement signal and privacy",
+    "id": "ec067e7e96a05a4d",
+    "company": "TikTok",
+    "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
+    "url": "https://lifeattiktok.com/search/7668584161852229893",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853360,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
+  },
+  {
+    "dedup_key": "intern|tiktok|software engineer intern tiktok agentic creation aigc",
+    "id": "40b6961967864b97",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
+    "url": "https://lifeattiktok.com/search/7668675500744837381",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": 1785853363,
+    "date_discovered": 1786548272,
+    "last_checked": 1786671603,
+    "fail_reason": "closed: 'page not found'"
   },
   {
     "dedup_key": "intern|google|software engineering intern",
@@ -222,548 +762,8 @@
       "Sunnyvale, CA"
     ],
     "date_posted": 1784878468,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
+    "date_discovered": 1786671603,
+    "last_checked": 1786671603,
     "fail_reason": "closed: 'job not found'"
-  },
-  {
-    "dedup_key": "intern|imc|quantitative research intern",
-    "id": "2e8e30a0c0b104f8",
-    "company": "IMC",
-    "title": "Quantitative Research Intern",
-    "url": "https://www.imc.com/us/careers/jobs/4907399101",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "quant",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "date_posted": 1784884984,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: \"we couldn't find\""
-  },
-  {
-    "dedup_key": "intern|imc|hardware engineer intern",
-    "id": "0cc305af9593946b",
-    "company": "IMC",
-    "title": "Hardware Engineer Intern",
-    "url": "https://www.imc.com/us/careers/jobs/4823945101",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "date_posted": 1784885006,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: \"we couldn't find\""
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern global live foundation",
-    "id": "c3a9926cba956d9d",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Global Live-Foundation",
-    "url": "https://lifeattiktok.com/search/7667935150530840837",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853216,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|frontend engineer intern global crm",
-    "id": "c5232b9d48800bce",
-    "company": "TikTok",
-    "title": "Frontend Engineer Intern, Global CRM",
-    "url": "https://lifeattiktok.com/search/7669711026846058757",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853220,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern ai agent global revenue platform",
-    "id": "3ec26ce52f449361",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
-    "url": "https://lifeattiktok.com/search/7669712589169117445",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853222,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern intelligent creation camera",
-    "id": "d2520210dbbfbe3f",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Intelligent Creation-Camera",
-    "url": "https://lifeattiktok.com/search/7668862422178318597",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853224,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern transaction platform",
-    "id": "37f20fc2cdabd88c",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Transaction Platform",
-    "url": "https://lifeattiktok.com/search/7669943120351906053",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853226,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|backend software engineer intern product infrastructure",
-    "id": "388feb8f2c0af57c",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Intern, Product Infrastructure",
-    "url": "https://lifeattiktok.com/search/7667935633764370741",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853231,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern",
-    "id": "c98b33947967f08e",
-    "company": "TikTok",
-    "title": "Software Engineer Intern",
-    "url": "https://lifeattiktok.com/search/7668725183121000757",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853233,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|backend software engineer intern global e commerce",
-    "id": "b33bf238cdacfefe",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Intern, Global E-Commerce",
-    "url": "https://lifeattiktok.com/search/7668834837268138293",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853255,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern shoot experience optimization",
-    "id": "3216725375e8414d",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Shoot Experience Optimization",
-    "url": "https://lifeattiktok.com/search/7668921505254410549",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853266,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern global crm",
-    "id": "9e3a418218a952b1",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Global CRM",
-    "url": "https://lifeattiktok.com/search/7669711844487399685",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853269,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern trust and safety engineering",
-    "id": "fd1207449f877da6",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Trust and Safety-Engineering",
-    "url": "https://lifeattiktok.com/search/7662700594251958581",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853272,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|backend software engineer intern social foundation",
-    "id": "7aa43d160b442d44",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Intern, Social Foundation",
-    "url": "https://lifeattiktok.com/search/7667935565120112949",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853278,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern growth innovation",
-    "id": "d399f6a80eabf55b",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Growth Innovation",
-    "url": "https://lifeattiktok.com/search/7667934860750063925",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853281,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|backend software engineer intern pgc digital content center",
-    "id": "2d594bc0e39aa551",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Intern, PGC-Digital Content Center",
-    "url": "https://lifeattiktok.com/search/7667934302872537397",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853283,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern tiktok social friending",
-    "id": "2999255ba5c7092d",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, TikTok-Social-Friending",
-    "url": "https://lifeattiktok.com/search/7667935399050692917",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853287,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|backend software engineer intern search",
-    "id": "a9b7294939f02e72",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Intern, Search",
-    "url": "https://lifeattiktok.com/search/7667933335084124469",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853292,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|backend software engineer intern social friending",
-    "id": "93a4742eafa570ed",
-    "company": "TikTok",
-    "title": "Backend Software Engineer Intern, Social Friending",
-    "url": "https://lifeattiktok.com/search/7667934635573692725",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853295,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern pgc creator strategy",
-    "id": "b6215985a20ca632",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, PGC Creator Strategy",
-    "url": "https://lifeattiktok.com/search/7667933770819897605",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose"
-    ],
-    "date_posted": 1785853304,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|frontend engineer intern tiktok open platform",
-    "id": "2d0c96d932408610",
-    "company": "TikTok",
-    "title": "Frontend Engineer Intern, TikTok-Open Platform",
-    "url": "https://lifeattiktok.com/search/7667935739300792629",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853307,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern privacy and security",
-    "id": "2dd9d67436fac98c",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Privacy and Security",
-    "url": "https://lifeattiktok.com/search/7667935739300317493",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853311,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern code graph and quality validation",
-    "id": "9b68b1bbbdb5b75b",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Code Graph and Quality Validation",
-    "url": "https://lifeattiktok.com/search/7667935738376227077",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853316,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern data arch e commerce",
-    "id": "cc6d1f239c7555bb",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Data Arch - E-commerce",
-    "url": "https://lifeattiktok.com/search/7668582146236631349",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "date_posted": 1785853320,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern agentic creation effect platform",
-    "id": "ba879694bd98d85f",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Agentic Creation-Effect Platform",
-    "url": "https://lifeattiktok.com/search/7668445566565321013",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853325,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern business integrity",
-    "id": "8b1f445fa29d70b4",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Business Integrity",
-    "url": "https://lifeattiktok.com/search/7668584916620527925",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853334,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern creative intelligence and brand innovation",
-    "id": "89ce69d99349d58e",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
-    "url": "https://lifeattiktok.com/search/7668642761473902901",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853338,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern ads measurement signal and privacy",
-    "id": "5bfe4e0f52373693",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, Ads Measurement Signal and Privacy",
-    "url": "https://lifeattiktok.com/search/7668582031916435717",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853342,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|frontend software engineer intern ads measurement signal and privacy",
-    "id": "ec067e7e96a05a4d",
-    "company": "TikTok",
-    "title": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
-    "url": "https://lifeattiktok.com/search/7668584161852229893",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853360,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
-  },
-  {
-    "dedup_key": "intern|tiktok|software engineer intern tiktok agentic creation aigc",
-    "id": "40b6961967864b97",
-    "company": "TikTok",
-    "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
-    "url": "https://lifeattiktok.com/search/7668675500744837381",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1785853363,
-    "date_discovered": 1786548272,
-    "last_checked": 1786660673,
-    "fail_reason": "closed: 'page not found'"
   }
 ]

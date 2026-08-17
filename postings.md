@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-17 01:04 UTC · 760 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-17 02:58 UTC · 761 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-17 | 2026-08-17 | Belvedere Trading | Quantitative Trading Intern | Chicago, IL | Summer | quant | unknown | [apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) |
 | 2026-08-12 | 2026-08-12 | Tower Research | Quantitative Trader/Researcher Intern - Summer 2027 | New York, Chicago | Summer 2027 | quant | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | 2026-08-12 | 2026-08-06 | ByteDance | AI Network Automation Engineer Intern, Global Physical Network Infra | San Jose, CA | Summer | swe | unknown | [apply](https://joinbytedance.com/search/7670690923748870405) |
 | 2026-08-12 | 2026-08-06 | ByteDance | GPU/AI Application System Software Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://joinbytedance.com/search/7668464504736876853) |
@@ -403,4 +404,3 @@ _Last updated: 2026-08-17 01:04 UTC · 760 live & eligible postings (showing 400
 | 2026-08-12 | 2025-09-20 | Apple | Camera Framework Engineer, Photo Capture | Cupertino, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200622152-0836/camera-framework-engineer-photo-capture) |
 | 2026-08-12 | 2025-09-20 | Channel3 | Founding Engineer | New York, NY | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/80837) |
 | 2026-08-12 | 2025-09-24 | Notion | Software Engineer, Fullstack, Early Career | San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b) |
-| 2026-08-12 | 2025-09-24 | Notion | Software Engineer, Infrastructure, Early Career | San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80) |

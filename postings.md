@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-18 18:34 UTC · 763 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-18 20:21 UTC · 764 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-18 | 2026-08-18 | Pinterest | Software Engineer II, Fullstack | San Francisco, CA, US; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=4843547) |
 | 2026-08-17 | 2026-08-17 | DV Trading | Trading Intern - Summer 2027 (DV Commodities) | New York | Summer 2027 | quant | unknown | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) |
 | 2026-08-17 | 2026-08-17 | Datadog | Software Engineering Intern (Winter) | Boston, Massachusetts, USA; New York, New York, USA | — | swe | unknown | [apply](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) |
 | 2026-08-17 | 2026-08-17 | Belvedere Trading | Quantitative Trading Intern | Chicago, IL | Summer | quant | unknown | [apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) |
@@ -403,4 +404,3 @@ _Last updated: 2026-08-18 18:34 UTC · 763 live & eligible postings (showing 400
 | 2026-08-12 | 2025-09-15 | Duolingo | New Grad: Data Scientist | Pittsburgh, PA | — | ml_data | unknown | [apply](https://careers.duolingo.com/jobs/8162849002) |
 | 2026-08-12 | 2025-09-15 | Duolingo | New Grad: Software Engineer | Pittsburgh, PA | — | swe | unknown | [apply](https://careers.duolingo.com/jobs/8155283002) |
 | 2026-08-12 | 2025-09-17 | Eventual | New Grad: Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application) |
-| 2026-08-12 | 2025-09-20 | Apple | Camera Framework Engineer, Photo Capture | Cupertino, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200622152-0836/camera-framework-engineer-photo-capture) |

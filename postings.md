@@ -1,9 +1,41 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-21 14:33 UTC · 765 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-21 16:31 UTC · 797 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-21 | 2026-08-21 | Teledyne Technologies Incorporated | Software Engineer Intern | Huntsville, AL | Summer | swe | unknown | [apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) |
+| 2026-08-21 | 2026-08-21 | HPR | FPGA Engineering Intern | Needham, MA | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
+| 2026-08-21 | 2026-08-21 | Copart | QA Engineering Intern | Dallas, TX | Summer | swe | unknown | [apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671) |
+| 2026-08-21 | 2026-08-21 | American Express | Software Engineer Intern, Enterprise Technology Services | Phoenix, AZ | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) |
+| 2026-08-21 | 2026-08-21 | American Express | Software Engineer Intern, Enterprise Technology Services | Charlotte, NC | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) |
+| 2026-08-21 | 2026-08-21 | American Express | Software Engineer Intern, Enterprise Technology Services | Sunrise, FL | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084) |
+| 2026-08-21 | 2026-08-21 | American Express | Software Engineer Intern, Enterprise Technology Services | New York, NY | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) |
+| 2026-08-21 | 2026-08-21 | American Express | Software Engineer Intern, Enterprise Technology Services | Phoenix, AZ | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781) |
+| 2026-08-21 | 2026-08-21 | American Express | Software Engineer Intern, Enterprise Technology Services | Charlotte, NC | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679) |
+| 2026-08-21 | 2026-08-21 | American Express | Software Engineer Intern, Technology | New York, NY | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970) |
+| 2026-08-21 | 2026-08-21 | American Express | AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392) |
+| 2026-08-21 | 2026-08-21 | American Express | AI Engineer Intern, Enterprise Technology Services | Atlanta, GA | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) |
+| 2026-08-21 | 2026-08-21 | American Express | AI Engineer Intern, Enterprise Technology Services | Sunrise, FL | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) |
+| 2026-08-21 | 2026-08-21 | American Express | AI Engineer Intern, Enterprise Technology Services | New York, NY | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991) |
+| 2026-08-21 | 2026-08-21 | American Express | AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) |
+| 2026-08-21 | 2026-08-21 | American Express | AI Engineer Intern, Enterprise Technology Services | Atlanta, GA | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) |
+| 2026-08-21 | 2026-08-21 | American Express | AI Engineer Intern, Enterprise Technology Services | Sunrise, FL | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745) |
+| 2026-08-21 | 2026-08-21 | American Express | AI Engineer Intern, Enterprise Technology Services | New York, NY | Summer | swe | unknown | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) |
+| 2026-08-21 | 2026-08-18 | Humana | Software Engineer Intern, CenterWell and Humana Military | Louisville, KY | Summer | swe | ok | [apply](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1) |
+| 2026-08-21 | 2026-08-21 | Millennium | Applied AI Engineer Intern | Miami, FL | Summer | swe | unknown | [apply](https://career.mlp.com/careers/job/755957778848) |
+| 2026-08-21 | 2026-08-21 | Millennium | Quantitative Developer Intern | New York, NY | Summer | swe | unknown | [apply](https://career.mlp.com/careers/job/755957819661) |
+| 2026-08-21 | 2026-08-21 | Freeform | Software Engineering Intern | Los Angeles, CA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
+| 2026-08-21 | 2026-08-21 | Hypercubic | Software Engineering Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490) |
+| 2026-08-21 | 2026-08-21 | Exa | Software Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16) |
+| 2026-08-21 | 2026-08-21 | Replit | Software Engineering Intern | Foster City, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) |
+| 2026-08-21 | 2026-08-21 | Notion | Software Engineer Intern | San Francisco, CA, New York, NY | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) |
+| 2026-08-21 | 2026-08-21 | Raytheon | Software Development Intern | Tewksbury, MA | Summer | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635) |
+| 2026-08-21 | 2026-08-21 | Kastle | Software Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee) |
+| 2026-08-21 | 2026-08-21 | DV Group | Software Engineer Intern, Commodities | New York, NY | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
+| 2026-08-21 | 2026-08-21 | JPMorgan Chase | Quantitative Research, Markets, Summer Internship - Analyst | New York, NY | Summer | quant | unknown | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) |
+| 2026-08-21 | 2026-08-21 | JPMorgan Chase | Quantitative Research, Asset Management Summer Analyst | New York, NY | Summer | quant | unknown | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) |
+| 2026-08-21 | 2026-08-21 | Atoms | Software Engineer Intern | New York, NY, Seattle, WA, Los Angeles, CA, Mountain View, CA, San Francisco, CA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002) |
 | 2026-08-21 | 2026-08-20 | Databricks | Software Engineering Intern (2027 Start) - Winter | Bellevue, Washington; Mountain View, California; San Francisco, California | — | swe | unknown | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) |
 | 2026-08-18 | 2026-08-18 | Pinterest | Software Engineer II, Fullstack | San Francisco, CA, US; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=4843547) |
 | 2026-08-17 | 2026-08-17 | DV Trading | Trading Intern - Summer 2027 (DV Commodities) | New York | Summer 2027 | quant | unknown | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) |
@@ -372,35 +404,3 @@ _Last updated: 2026-08-21 14:33 UTC · 765 live & eligible postings (showing 400
 | 2026-08-12 | 2025-09-08 | Amazon | Security Engineer | Dallas, TX | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security) |
 | 2026-08-12 | 2025-09-08 | Tesla | Software QA Engineer, Infotainment, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/225545) |
 | 2026-08-12 | 2025-09-08 | Tesla | Software Engineer, Autonomous Mobile Robotics | Austin, TX | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/250195) |
-| 2026-08-12 | 2025-09-08 | Tesla | Data Engineer, Energy Service Engineering | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/250277) |
-| 2026-08-12 | 2025-09-08 | Epsilon | New Grad: Associate, Software Engineer | Chicago, IL | — | swe | unknown | [apply](https://careers.publicisgroupe.com/jobs/121504) |
-| 2026-08-12 | 2025-09-08 | Epsilon | Associate, Software Engineer | Irving, TX | — | swe | unknown | [apply](https://careers.publicisgroupe.com/jobs/121511) |
-| 2026-08-12 | 2025-09-08 | Disney | Software Engineer I | Glendale, CA, New York, NY | — | swe | unknown | [apply](https://www.disneycareers.com/en/job/-/-/391/85823385568) |
-| 2026-08-12 | 2025-09-08 | EBSCO | Software Dev Engineer I | Remote in USA | — | swe | unknown | [apply](https://careers-ebscoind.icims.com/jobs/1834/job) |
-| 2026-08-12 | 2025-09-08 | Eluvio | New Grad: Software Engineer, AI Core Apps | Berkeley, CA | — | swe | unknown | [apply](https:/.workable.com/eluvio/j/A349A0D2AF) |
-| 2026-08-12 | 2025-09-08 | Diverge Health | Associate Software Developer | Remote in USA | — | swe | unknown | [apply](https://divergehealth.org/jobs/?gh_jid=4840575007) |
-| 2026-08-12 | 2025-09-08 | BlackRock | Associate, Research Associate – SMA Solutions, Quantitative Investment Solutions (QIS) | Sausalito, CA | — | quant | unknown | [apply](https://careers.blackrock.com/job/-/-/45831/84712805504) |
-| 2026-08-12 | 2025-09-08 | YouLearn | Founding Engineer (Full Stack) | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/81292) |
-| 2026-08-12 | 2025-09-08 | Sonia | Founding Design Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/81060) |
-| 2026-08-12 | 2025-09-08 | InQuery | New Grad: Founding Engineer | New York, NY | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/81052) |
-| 2026-08-12 | 2025-09-10 | Apple | Wi-Fi Software Systems Performance Engineer | San Diego, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200620177-3543/wi-fi-software-systems-performance-engineer) |
-| 2026-08-12 | 2025-09-11 | Nordstrom | Engineer 1, Full Stack, Store POS+ Team | Seattle, WA | — | swe | unknown | [apply](https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729) |
-| 2026-08-12 | 2025-09-11 | Tesla | Backend Software Engineer, Residential Energy Experience | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/250792) |
-| 2026-08-12 | 2025-09-11 | Tesla | Software QA Engineer, Insurance | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/250710) |
-| 2026-08-12 | 2025-09-11 | McDonald's Corporation | Software Engineer I, iOS | Chicago, IL | — | swe | unknown | [apply](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/) |
-| 2026-08-12 | 2025-09-11 | D3 Global Inc | New Grad: Backend Engineer | Los Angeles, CA | — | swe | unknown | [apply](https://d3.com/careers#jobs-listing) |
-| 2026-08-12 | 2025-09-12 | Dayton Freight Lines | Entry Level Software Developer | Dayton, OH | — | swe | unknown | [apply](https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false) |
-| 2026-08-12 | 2025-09-12 | EliseAI | Software Engineer | New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353) |
-| 2026-08-12 | 2025-09-12 | Susquehanna International Group (SIG) | New Grad: Software Developer, Sprc | Ardmore, PA | — | swe | unknown | [apply](https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false) |
-| 2026-08-12 | 2025-09-12 | Integration Innovation (i3) | Entry Level Full-Stack Software Engineer | Huntsville, AL | — | swe | unknown | [apply](https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false) |
-| 2026-08-12 | 2025-09-12 | Thorlabs | Software Engineer I | Annapolis Junction, MD | — | swe | unknown | [apply](https:/.workable.com/thorlabs/j/E79FA34ED4) |
-| 2026-08-12 | 2025-09-12 | Sev1Tech | Entry Level Software Developer | Lawton, OK | — | swe | unknown | [apply](https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false) |
-| 2026-08-12 | 2025-09-12 | General Dynamics Mission Systems | Entry Level Software Engineer | Pittsfield, MA | — | swe | unknown | [apply](https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false) |
-| 2026-08-12 | 2025-09-12 | Sonia | Founding AI Engineer | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/81444) |
-| 2026-08-12 | 2025-09-12 | Garmin | Software Engineer I, Aviation Web Development | Chandler, AZ, Olathe, KS | — | swe | unknown | [apply](https://careers.garmin.com/jobs/16774) |
-| 2026-08-12 | 2025-09-14 | Anima | Software Engineer | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1) |
-| 2026-08-12 | 2025-09-14 | Coalition | Software Engineer I | San Francisco, CA | — | swe | unknown | [apply](https://www.coalitioninc.com/job-posting/4560711005) |
-| 2026-08-12 | 2025-09-14 | Planbase | Founding Engineer (Full-Stack) | San Francisco, CA | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/81629) |
-| 2026-08-12 | 2025-09-14 | Benchify | Founding Engineer | San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://www.workatastartup.com/jobs/81628) |
-| 2026-08-12 | 2025-09-15 | Duolingo | New Grad: Data Scientist | Pittsburgh, PA | — | ml_data | unknown | [apply](https://careers.duolingo.com/jobs/8162849002) |
-| 2026-08-12 | 2025-09-15 | Duolingo | New Grad: Software Engineer | Pittsburgh, PA | — | swe | unknown | [apply](https://careers.duolingo.com/jobs/8155283002) |

@@ -158,6 +158,10 @@ ats_targets:
   - { company: "Uber", ats: uber_custom, slug: intern,   role_type: intern,   enabled: true }
   - { company: "Uber", ats: uber_custom, slug: new_grad, role_type: new_grad, enabled: true }
 
+  # ---- Eightfold AI (direct API, beats aggregator for these firms) ----
+  - { company: "Millennium", ats: eightfold, slug: "mlp.com:755936615453", role_type: intern,   enabled: true }
+  - { company: "Millennium", ats: eightfold, slug: "mlp.com:755936615453", role_type: new_grad, enabled: true }
+
   # ---- Could NOT verify a public slug (Workday / private ATS); covered by the
   #      aggregator instead. Re-check periodically; flip enabled when a slug works.
   #      Greenhouse check: https://boards-api.greenhouse.io/v1/boards/<slug>/jobs

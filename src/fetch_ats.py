@@ -132,8 +132,54 @@ def _uber(company: str, slug: str) -> list[dict]:
     return fetch_uber(role_type=slug)  # slug = "intern" or "new_grad"
 
 
+_EF_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+    "Accept": "application/json",
+}
+
+
+def _eightfold(company: str, slug: str) -> list[dict]:
+    """slug format: domain:pid  e.g. mlp.com:755936615453
+    Polls the Eightfold AI talent API used by Millennium and others.
+    """
+    domain, pid = slug.split(":", 1)
+    subdomain = domain.split(".")[0]
+    base_url = f"https://{subdomain}.eightfold.ai/api/apply/v2/jobs"
+    out: list[dict] = []
+    start = 0
+    num = 50
+    while True:
+        try:
+            r = requests.get(
+                base_url, headers=_EF_HEADERS, timeout=20,
+                params={"domain": domain, "pid": pid, "start": start, "num": num},
+            )
+            r.raise_for_status()
+            d = r.json()
+        except Exception as e:  # noqa: BLE001
+            print(f"[warn] eightfold {company} ({slug}) failed at start={start}: {e}")
+            break
+        positions = d.get("positions", [])
+        for j in positions:
+            loc = j.get("location", "") or ""
+            out.append(make_posting(
+                company=company,
+                title=j.get("name", ""),
+                locations=[loc] if loc else [],
+                url=j.get("canonicalPositionUrl", ""),
+                season="",
+                source=f"ats:eightfold:{slug}",
+                date_posted=j.get("t_create"),
+            ))
+        total = d.get("count", 0)
+        start += len(positions)
+        if start >= total or not positions:
+            break
+    return out
+
+
 _ADAPTERS = {"greenhouse": _greenhouse, "lever": _lever, "ashby": _ashby,
-             "workday": _workday, "uber_custom": _uber}
+             "workday": _workday, "uber_custom": _uber, "eightfold": _eightfold}
 
 
 def fetch_ats(targets: list[dict]) -> list[dict]:

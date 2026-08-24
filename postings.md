@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-24 16:35 UTC · 798 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-24 18:36 UTC · 798 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-24 | 2026-08-24 | Pinterest | Software Engineer II, Big Data, tvScientific | San Francisco, CA, US; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=7782546) |
 | 2026-08-21 | 2026-08-21 | Affirm | Software Engineer II, Fullstack (App Experience) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/7819445003) |
 | 2026-08-21 | 2026-08-21 | Teledyne Technologies Incorporated | Software Engineer Intern | Huntsville, AL | Summer | swe | unknown | [apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) |
 | 2026-08-21 | 2026-08-21 | HPR | FPGA Engineering Intern | Needham, MA | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) |
@@ -403,4 +404,3 @@ _Last updated: 2026-08-24 16:35 UTC · 798 live & eligible postings (showing 400
 | 2026-08-12 | 2025-09-05 | Aflac | Software Engineer I | Columbus, GA | — | swe | unknown | [apply](https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors) |
 | 2026-08-12 | 2025-09-05 | Ellipsis Labs | Software Engineer | NYC | — | swe | unknown | [apply](https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application) |
 | 2026-08-12 | 2025-09-08 | Amazon | Security Engineer | Dallas, TX | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security) |
-| 2026-08-12 | 2025-09-08 | Tesla | Software QA Engineer, Infotainment, Vehicle Software | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/225545) |

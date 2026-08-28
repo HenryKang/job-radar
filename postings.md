@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-27 18:49 UTC · 799 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-28 04:02 UTC · 800 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-28 | 2026-08-27 | IMC Trading | Performance Engineer Intern - Summer 2027 | Chicago, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
 | 2026-08-25 | 2026-08-25 | DV Trading | Futures & Options Trading Analyst Intern - Summer 2027 | New York | Summer 2027 | quant | ok | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) |
 | 2026-08-24 | 2026-08-24 | Pinterest | Software Engineer II, Big Data, tvScientific | San Francisco, CA, US; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=7782546) |
 | 2026-08-21 | 2026-08-21 | Affirm | Software Engineer II, Fullstack (App Experience) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/7819445003) |
@@ -403,4 +404,3 @@ _Last updated: 2026-08-27 18:49 UTC · 799 live & eligible postings (showing 400
 | 2026-08-12 | 2025-09-05 | Altice USA | Software Dev Engineer I | Plainview, NY | — | swe | unknown | [apply](https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors) |
 | 2026-08-12 | 2025-09-05 | qode.world | Junior Data Scientist | Tampa, FL, Jackson Township, NJ, Dallas, TX | — | ml_data | unknown | [apply](https:/.workable.com/qodeworld/j/5E96914ADB) |
 | 2026-08-12 | 2025-09-05 | Aflac | Software Engineer I | Columbus, GA | — | swe | unknown | [apply](https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors) |
-| 2026-08-12 | 2025-09-05 | Ellipsis Labs | Software Engineer | NYC | — | swe | unknown | [apply](https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application) |

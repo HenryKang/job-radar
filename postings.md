@@ -1,9 +1,44 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-08-31 18:43 UTC · 800 live & eligible postings (showing 400); 57 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-08-31 22:20 UTC · 835 live & eligible postings (showing 400); 22 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Global Live-Foundation | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667935150530840837) |
+| 2026-08-31 | 2026-08-04 | TikTok | Frontend Engineer Intern, Global CRM | San Jose, CA | Summer | swe | unknown | [apply](https://lifeattiktok.com/search/7669711026846058757) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, AI Agent & Global Revenue Platform | San Jose, CA | Summer | swe | unknown | [apply](https://lifeattiktok.com/search/7669712589169117445) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Intelligent Creation-Camera | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668862422178318597) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Transaction Platform | San Jose, CA | Summer | swe | unknown | [apply](https://lifeattiktok.com/search/7669943120351906053) |
+| 2026-08-31 | 2026-08-04 | TikTok | Backend Software Engineer Intern, Product Infrastructure | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667935633764370741) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668725183121000757) |
+| 2026-08-31 | 2026-08-04 | TikTok | Backend Software Engineer Intern, Global E-Commerce | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668834837268138293) |
+| 2026-08-31 | 2026-08-04 | TikTok | Backend Software Engineer Intern, Global E-Commerce | Seattle, WA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668834837268416821) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Shoot Experience Optimization | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668921505254410549) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Global CRM | San Jose, CA | Summer | swe | unknown | [apply](https://lifeattiktok.com/search/7669711844487399685) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Trust and Safety-Engineering | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7662700594251958581) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Trust and Safety-Engineering | Seattle, WA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7662684280234232117) |
+| 2026-08-31 | 2026-08-04 | TikTok | Backend Software Engineer Intern, Social Foundation | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667935565120112949) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Growth Innovation | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667934860750063925) |
+| 2026-08-31 | 2026-08-04 | TikTok | Backend Software Engineer Intern, PGC-Digital Content Center | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667934302872537397) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, TikTok-Social-Friending | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667935399050692917) |
+| 2026-08-31 | 2026-08-04 | TikTok | Backend Software Engineer Intern, Search | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667933335084124469) |
+| 2026-08-31 | 2026-08-04 | TikTok | Backend Software Engineer Intern, Social Friending | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667934635573692725) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, PGC Creator Strategy | San Jose | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667933770819897605) |
+| 2026-08-31 | 2026-08-04 | TikTok | Frontend Engineer Intern, TikTok-Open Platform | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667935739300792629) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Privacy and Security | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667935739300317493) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Code Graph and Quality Validation | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7667935738376227077) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Data Arch - E-commerce | Seattle, WA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668582146236631349) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Agentic Creation-Effect Platform | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668445566565321013) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Business Integrity | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668584916620527925) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Creative Intelligence and Brand Innovation | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668642761473902901) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Ads Measurement Signal and Privacy | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668582031916435717) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, Data Arch - E-commerce | Seattle, WA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668582086899763461) |
+| 2026-08-31 | 2026-08-04 | TikTok | Frontend Software Engineer Intern, Ads Measurement Signal and Privacy | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668584161852229893) |
+| 2026-08-31 | 2026-08-04 | TikTok | Software Engineer Intern, TikTok-Agentic Creation-AIGC | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7668675500744837381) |
+| 2026-08-31 | 2026-07-24 | IMC | Hardware Engineer Intern | Chicago, IL | Summer | swe | unknown | [apply](https://www.imc.com/us/careers/jobs/4823945101) |
+| 2026-08-31 | 2026-04-25 | TikTok | LLM Post-training Engineer Intern, Research & Product | San Jose, CA | Summer | swe | unknown | [apply](https://lifeattiktok.com/search/7631599293708126517) |
+| 2026-08-31 | 2026-05-22 | Susquehanna | Trading System Engineering Intern | Bala Cynwyd, PA | Summer | swe | unknown | [apply](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) |
+| 2026-08-31 | 2026-05-22 | Apple | Software Engineer Intern, Undergrad | United States | Summer | swe | ok | [apply](https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships) |
 | 2026-08-28 | 2026-08-27 | IMC Trading | Performance Engineer Intern - Summer 2027 | Chicago, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
 | 2026-08-25 | 2026-08-25 | DV Trading | Futures & Options Trading Analyst Intern - Summer 2027 | New York | Summer 2027 | quant | ok | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4722749005) |
 | 2026-08-24 | 2026-08-24 | Pinterest | Software Engineer II, Big Data, tvScientific | San Francisco, CA, US; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=7782546) |
@@ -369,38 +404,3 @@ _Last updated: 2026-08-31 18:43 UTC · 800 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-17 | qode.world | Junior Software Developer | NJ | — | swe | unknown | [apply](https:/.workable.com/qodeworld/j/5718A36818/) |
 | 2026-08-12 | 2025-08-17 | BAE Systems | Junior Software Engineer | Hill AFB, UT | — | swe | unknown | [apply](https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer) |
 | 2026-08-12 | 2025-08-17 | Optum | Associate Software Engineer | Vancouver, Canada, Remote | — | swe | unknown | [apply](https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/) |
-| 2026-08-12 | 2025-08-18 | Edgehog Trading | C++ Software Developer – Trading Strategy Execution | Chicago, IL | — | swe | unknown | [apply](https://ats.rippling.com/en-CA/edgehog-trading/jobs/a39cf004-d79c-4588-9a5f-6bdce04a85ee) |
-| 2026-08-12 | 2025-08-20 | Tesla | AI Engineer, Multimodal Model Optimization, Autonomy & Robotics | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/248886) |
-| 2026-08-12 | 2025-08-20 | Tesla | Software Engineer, Manufacturing Test | SPARKS, Nevada | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/242064) |
-| 2026-08-12 | 2025-08-21 | AMD | Graphics Software Development Engineer | Bellevue, WA | — | swe | unknown | [apply](https://careers.amd.com/careers-home/jobs/68553) |
-| 2026-08-12 | 2025-08-22 | Tesla | Software Engineer, Frontend, AI Infrastructure Engineering & Tools | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/249133) |
-| 2026-08-12 | 2025-08-22 | Tesla | Software Engineer, Communications Platform | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/247062) |
-| 2026-08-12 | 2025-08-22 | Tesla | Software Engineer, Material Flow Robotics | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/248353) |
-| 2026-08-12 | 2025-08-22 | eMoney Advisor, LLC | Associate Software Engineer | Remote | — | swe | unknown | [apply](https://jobs.jobvite.com/emoneyadvisor-review/job/oD9hxfwk) |
-| 2026-08-12 | 2025-08-22 | Apple | Accessibility Engineer, IS&T, Early Career | Sunnyvale, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career) |
-| 2026-08-12 | 2025-08-23 | Harvey | New Grad: Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b) |
-| 2026-08-12 | 2025-08-23 | PayPal | New Grad: Software Engineer | San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ, Austin, TX | — | swe | unknown | [apply](https://paypal.eightfold.ai/careers/job/274908747686) |
-| 2026-08-12 | 2025-08-23 | Amazon | Antenna Systems Engineer, Antenna Calibration, Kuiper | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3064596/antenna-systems-engineer-antenna-calibration-kuiper) |
-| 2026-08-12 | 2025-08-23 | Citizen Health | Software Engineer | San Francisco, CA, San Mateo, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764) |
-| 2026-08-12 | 2025-08-23 | Tesla | Electrical & Software Engineer, Circuit Board Test Automation | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/249182) |
-| 2026-08-12 | 2025-08-23 | Tesla | Machine Learning Engineer, Embodied Intelligence, Optimus | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/249027) |
-| 2026-08-12 | 2025-08-28 | Samsara | New Grad: Software Engineering | San Francisco, CA | — | swe | unknown | [apply](https://www.samsara.com/company/careers/roles/7172579) |
-| 2026-08-12 | 2025-08-28 | Tesla | Kernel Software Engineer | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/248966) |
-| 2026-08-12 | 2025-08-28 | Tesla | Software Integration Engineer, Cell Software | AUSTIN, Texas | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/249481) |
-| 2026-08-12 | 2025-08-28 | Tesla | Software Integration Engineer, Factory Firmware | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/249467) |
-| 2026-08-12 | 2025-08-28 | Tesla | Mobile App Developer, Frontend, Claims & Customer Support | Fremont, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/249335) |
-| 2026-08-12 | 2025-08-28 | Amazon | System Dev Engineer I, Analytics ADC | Denver, CO | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc) |
-| 2026-08-12 | 2025-09-03 | Pylon | New Grad - Software Engineer | SF | — | swe | unknown | [apply](https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application) |
-| 2026-08-12 | 2025-09-03 | Nutanix | Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3 | Durham, NC | — | swe | unknown | [apply](https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false) |
-| 2026-08-12 | 2025-09-03 | N1 | New Grad Software Engineer - Backend Rust | Oakland, CA, NYC | — | swe | unknown | [apply](https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application) |
-| 2026-08-12 | 2025-09-03 | IBM | Software Developer | Sandy Springs, GA, Poughkeepsie, NY, Lowell, MA, Rochester, MN, Tucson, AZ, Research Triangle Park, NC, Durham, NC, Hopewell Junction, NY, San Jose, CA, Dallas, TX, Houston, TX, Austin, TX, Herndon, VA, New York, NY | — | swe | unknown | [apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285) |
-| 2026-08-12 | 2025-09-03 | Gecko Robotics | Software Engineer - New Graduate Rotational Development Program | Boston, MA, NYC | — | swe | unknown | [apply](https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application) |
-| 2026-08-12 | 2025-09-03 | Stripe | Software Engineer - New Grad | Seattle, WA, SF | — | swe | unknown | [apply](https://stripe.com/jobs/search?gh_jid=7210112) |
-| 2026-08-12 | 2025-09-03 | Cape | New Grad: Software Engineer | New York, NY, Washington, DC | — | swe | unknown | [apply](https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8) |
-| 2026-08-12 | 2025-09-03 | Garmin | Software Engineer I - Embedded Software | Olathe, KS | — | swe | unknown | [apply](https://careers.garmin.com/jobs/16827) |
-| 2026-08-12 | 2025-09-03 | Luma | Research Scientist / Engineer - Data | Remote | — | swe | unknown | [apply](https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8) |
-| 2026-08-12 | 2025-09-03 | Stripe | New Grad: Software Engineer | South San Francisco, CA, Seattle, WA | — | swe | unknown | [apply](https://stripe.com/jobs/listing/software-engineer-new-grad/7210112) |
-| 2026-08-12 | 2025-09-05 | MetroStar | Associate Software Developer | Reston, VA | — | swe | unknown | [apply](https://www.metrostar.com/job-post/?gh_jid=6667276003) |
-| 2026-08-12 | 2025-09-05 | Altice USA | Software Dev Engineer I | Plainview, NY | — | swe | unknown | [apply](https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors) |
-| 2026-08-12 | 2025-09-05 | qode.world | Junior Data Scientist | Tampa, FL, Jackson Township, NJ, Dallas, TX | — | ml_data | unknown | [apply](https:/.workable.com/qodeworld/j/5E96914ADB) |
-| 2026-08-12 | 2025-09-05 | Aflac | Software Engineer I | Columbus, GA | — | swe | unknown | [apply](https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors) |

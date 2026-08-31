@@ -2,8 +2,11 @@ name: crawl
 
 on:
   schedule:
-    # Every 2 hours -> worst-case detection latency ~2h (well inside the 12h SLA).
-    - cron: "0 */2 * * *"
+    # Every 30 min at off-peak minutes. GitHub heavily throttles schedules on
+    # the hour: a "0 */2 * * *" cron actually delivered a 6.4h mean / 14.1h max
+    # gap (Aug 2026). Odd minutes queue far less, and this repo is public so
+    # Actions minutes are free.
+    - cron: "13,43 * * * *"
   workflow_dispatch:
     inputs:
       seed:

@@ -60,6 +60,12 @@ def _visible_text(html: str) -> str:
     return re.sub(r"<[^>]+>", " ", html).lower()
 
 
+def _title_text(html: str) -> str:
+    """Server-rendered <title>. Empty when the page resolved no job at all."""
+    m = re.search(r"(?is)<title[^>]*>(.*?)</title>", html or "")
+    return re.sub(r"\s+", " ", m.group(1)).strip().lower() if m else ""
+
+
 def _classify_text(text: str) -> tuple[str, str]:
     """Eligibility from a description blob. text should be lowercased visible text."""
     undergrad = ("bachelor" in text) or ("undergrad" in text)
@@ -177,6 +183,7 @@ def check(url: str, title: str = "", timeout: int = 15) -> dict:
 
     raw_low = (r.text or "").lower()
     text = _visible_text(r.text or "")
+    title = _title_text(r.text or "")
     small = len(r.text or "") < 1500
 
     if r.status_code in (404, 410):
@@ -192,10 +199,22 @@ def check(url: str, title: str = "", timeout: int = 15) -> dict:
                 and "/jobs/" not in final_path):
             return {"alive": False, "eligibility": "na", "reason": "redirected away from job page"}
 
-    hit = next((m for m in _CLOSED_MARKERS if m in raw_low), None)
+    # Closed markers only count when they appear in SERVER-RENDERED content (the
+    # <title> or visible text). Scanning raw HTML marked live jobs dead on SPA
+    # career sites: lifeattiktok.com ships a "404 Page not found" error
+    # component inside the Next.js payload of EVERY page, live or not, which
+    # silently suppressed 32 real TikTok internships (Aug 2026).
+    hit = next((m for m in _CLOSED_MARKERS if m in title or m in text), None)
     if hit:
         return {"alive": False, "eligibility": "na", "reason": f"closed: {hit!r}"}
-    if small and any(w in raw_low for w in ("expired", "closed", "not found", "redirect")):
+
+    # JS-rendered 404: marker exists only in the script payload AND the server
+    # resolved no title — nothing was found to render. A live SPA posting still
+    # returns its real job title, so this stays precise.
+    if not title and any(m in raw_low for m in _CLOSED_MARKERS):
+        return {"alive": False, "eligibility": "na", "reason": "js-rendered 404 (no title)"}
+
+    if small and any(w in title or w in text for w in ("expired", "closed", "not found", "redirect")):
         return {"alive": False, "eligibility": "na", "reason": "small page + closed/redirect marker"}
 
     elig, reason = _classify_text(text)

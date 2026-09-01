@@ -1,5 +1,125 @@
 [
   {
+    "id": "394db3478ea022d9",
+    "dedup_key": "intern|fiserv|technology intern",
+    "company": "Fiserv",
+    "title": "Technology Intern",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1776727395,
+    "date_found": 1788225869,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 410"
+  },
+  {
+    "id": "ede53bd3245f0d23",
+    "dedup_key": "intern|intercontinental exchange inc|artificial intelligence data machine learning intern",
+    "company": "Intercontinental Exchange, Inc.",
+    "title": "Artificial Intelligence, Data & Machine Learning Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1776727516,
+    "date_found": 1788225869,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "247ea08f8e885a4f",
+    "dedup_key": "intern|h co|software development intern",
+    "company": "H&CO",
+    "title": "Software Development Intern",
+    "locations": [
+      "Coral Gables, FL"
+    ],
+    "url": "https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1776914902,
+    "date_found": 1788225869,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "516504ff2ed11d80",
+    "dedup_key": "intern|voloridge investment management|quantitative developer intern",
+    "company": "Voloridge Investment Management",
+    "title": "Quantitative Developer Intern",
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1779501421,
+    "date_found": 1788225869,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "8c6e6b33127e6d17",
+    "dedup_key": "intern|stripe|software engineer intern summer or winter",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer or Winter)",
+    "locations": [
+      "San Francisco, Seattle, New York City"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "season": "",
+    "source": "ats:greenhouse:stripe",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788218620,
+    "date_found": 1788225869,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f62b410758c44003",
+    "dedup_key": "intern|stripe|software engineer new grad",
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "locations": [
+      "San Francisco, Seattle, New York"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "season": "",
+    "source": "ats:greenhouse:stripe",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788219295,
+    "date_found": 1788225869,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "c3a9926cba956d9d",
     "dedup_key": "intern|tiktok|software engineer intern global live foundation",
     "company": "TikTok",
@@ -640,66 +760,6 @@
     "elig_reason": "no clear disqualifier"
   },
   {
-    "id": "394db3478ea022d9",
-    "dedup_key": "intern|fiserv|technology intern",
-    "company": "Fiserv",
-    "title": "Technology Intern",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Does Not Offer Sponsorship",
-    "date_posted": 1776727395,
-    "date_found": 1788214824,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 410"
-  },
-  {
-    "id": "ede53bd3245f0d23",
-    "dedup_key": "intern|intercontinental exchange inc|artificial intelligence data machine learning intern",
-    "company": "Intercontinental Exchange, Inc.",
-    "title": "Artificial Intelligence, Data & Machine Learning Intern",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "ml_data",
-    "sponsorship": "Other",
-    "date_posted": 1776727516,
-    "date_found": 1788214824,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
-  },
-  {
-    "id": "247ea08f8e885a4f",
-    "dedup_key": "intern|h co|software development intern",
-    "company": "H&CO",
-    "title": "Software Development Intern",
-    "locations": [
-      "Coral Gables, FL"
-    ],
-    "url": "https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1776914902,
-    "date_found": 1788214824,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
-  },
-  {
     "id": "84cd8c2cd5ebcf31",
     "dedup_key": "intern|tiktok|llm post training engineer intern research product",
     "company": "TikTok",
@@ -758,26 +818,6 @@
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "516504ff2ed11d80",
-    "dedup_key": "intern|voloridge investment management|quantitative developer intern",
-    "company": "Voloridge Investment Management",
-    "title": "Quantitative Developer Intern",
-    "locations": [
-      "Jupiter, FL"
-    ],
-    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779501421,
-    "date_found": 1788214824,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
   },
   {
     "id": "821b998ae6575cbf",

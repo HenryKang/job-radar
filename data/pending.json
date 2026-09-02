@@ -1,113 +1,5 @@
 [
   {
-    "dedup_key": "intern|point72|quantitative developer intern",
-    "id": "028996a90990c19d",
-    "company": "Point72",
-    "title": "Quantitative Developer Intern",
-    "url": "https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "New York, NY"
-    ],
-    "date_posted": 1776617698,
-    "date_discovered": 1786548272,
-    "last_checked": 1788357215,
-    "fail_reason": "js-rendered 404 (no title)"
-  },
-  {
-    "dedup_key": "intern|fiserv|technology intern",
-    "id": "394db3478ea022d9",
-    "company": "Fiserv",
-    "title": "Technology Intern",
-    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "date_posted": 1776727395,
-    "date_discovered": 1786548272,
-    "last_checked": 1788357215,
-    "fail_reason": "http 410"
-  },
-  {
-    "dedup_key": "intern|intercontinental exchange inc|artificial intelligence data machine learning intern",
-    "id": "ede53bd3245f0d23",
-    "company": "Intercontinental Exchange, Inc.",
-    "title": "Artificial Intelligence, Data & Machine Learning Intern",
-    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "ml_data",
-    "locations": [
-      "New York, NY"
-    ],
-    "date_posted": 1776727516,
-    "date_discovered": 1786548272,
-    "last_checked": 1788357215,
-    "fail_reason": "http 404"
-  },
-  {
-    "dedup_key": "intern|veeam software|software engineering intern platform security ai",
-    "id": "f2ccb5efd0530aff",
-    "company": "Veeam Software",
-    "title": "Software Engineering Intern, Platform, Security & AI",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1778312442,
-    "date_discovered": 1786548272,
-    "last_checked": 1788357215,
-    "fail_reason": "redirected away from job page"
-  },
-  {
-    "dedup_key": "intern|veeam software|software engineering intern policy engineering",
-    "id": "e7499472bedd782c",
-    "company": "Veeam Software",
-    "title": "Software Engineering Intern, Policy Engineering",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857828101",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": 1778312558,
-    "date_discovered": 1786548272,
-    "last_checked": 1788357215,
-    "fail_reason": "redirected away from job page"
-  },
-  {
-    "dedup_key": "intern|voloridge investment management|quantitative developer intern",
-    "id": "516504ff2ed11d80",
-    "company": "Voloridge Investment Management",
-    "title": "Quantitative Developer Intern",
-    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "Jupiter, FL"
-    ],
-    "date_posted": 1779501421,
-    "date_discovered": 1786548272,
-    "last_checked": 1788357215,
-    "fail_reason": "http 404"
-  },
-  {
     "dedup_key": "intern|google|software engineering intern",
     "id": "aec651ffbb910466",
     "company": "Google",
@@ -151,7 +43,61 @@
     ],
     "date_posted": 1784878468,
     "date_discovered": 1786671603,
-    "last_checked": 1788357215,
+    "last_checked": 1788371628,
     "fail_reason": "closed: 'job not found'"
+  },
+  {
+    "dedup_key": "intern|fiserv|technology intern",
+    "id": "394db3478ea022d9",
+    "company": "Fiserv",
+    "title": "Technology Intern",
+    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "date_posted": 1776727395,
+    "date_discovered": 1788371628,
+    "last_checked": 1788371628,
+    "fail_reason": "http 410"
+  },
+  {
+    "dedup_key": "intern|intercontinental exchange inc|artificial intelligence data machine learning intern",
+    "id": "ede53bd3245f0d23",
+    "company": "Intercontinental Exchange, Inc.",
+    "title": "Artificial Intelligence, Data & Machine Learning Intern",
+    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "ml_data",
+    "locations": [
+      "New York, NY"
+    ],
+    "date_posted": 1776727516,
+    "date_discovered": 1788371628,
+    "last_checked": 1788371628,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "intern|voloridge investment management|quantitative developer intern",
+    "id": "516504ff2ed11d80",
+    "company": "Voloridge Investment Management",
+    "title": "Quantitative Developer Intern",
+    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "date_posted": 1779501421,
+    "date_discovered": 1788371628,
+    "last_checked": 1788371628,
+    "fail_reason": "http 404"
   }
 ]

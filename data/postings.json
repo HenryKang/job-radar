@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1788309167,
+    "date_found": 1788325461,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,27 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1788309167,
+    "date_found": 1788325461,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "516504ff2ed11d80",
+    "dedup_key": "intern|voloridge investment management|quantitative developer intern",
+    "company": "Voloridge Investment Management",
+    "title": "Quantitative Developer Intern",
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1779501421,
+    "date_found": 1788325461,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -58,26 +78,6 @@
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "516504ff2ed11d80",
-    "dedup_key": "intern|voloridge investment management|quantitative developer intern",
-    "company": "Voloridge Investment Management",
-    "title": "Quantitative Developer Intern",
-    "locations": [
-      "Jupiter, FL"
-    ],
-    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1779501421,
-    "date_found": 1788309167,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
   },
   {
     "id": "8c6e6b33127e6d17",

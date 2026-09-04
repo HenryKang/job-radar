@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-04 19:08 UTC · 842 live & eligible postings (showing 400); 21 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-04 21:25 UTC · 843 live & eligible postings (showing 400); 21 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-04 | 2026-09-04 | Affirm | Software Engineer II, Backend (Post-Transaction) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/7981803003) |
 | 2026-09-04 | 2026-09-04 | Schonfeld | 2027 Data Science Intern | New York, New York, United States | — | ml_data | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
 | 2026-09-04 | 2026-09-04 | Schonfeld | 2027 DMFI Technology Intern | New York, New York, United States | — | swe | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) |
 | 2026-09-04 | 2026-09-04 | Schonfeld | 2027 Software Engineering Intern | New York, New York, United States | — | swe | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-04 19:08 UTC · 842 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-13 | Amazon | Robotics Systems Engineer, Amazon Robotics Deployment Engineering | Austin, TX, Seattle, WA, North Reading, MA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering) |
 | 2026-08-12 | 2025-08-16 | ByteDance | Site Reliability Engineer (Data Infrastructure) | Seattle | — | swe | unknown | [apply](https://joinbytedance.com/search/7535903852755814674) |
 | 2026-08-12 | 2025-08-16 | Tesla | Software Engineer, Core Infrastructure, AI | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/248409) |
-| 2026-08-12 | 2025-08-16 | TikTok | Machine Learning Engineer Graduate (TikTok Short Video Content Understanding/Multimodal Recommendation) | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7534982208201984274) |

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1788503533,
+    "date_found": 1788522251,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1788503533,
+    "date_found": 1788522251,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1788503533,
+    "date_found": 1788522251,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "c9b897b15d27ea5d",
+    "dedup_key": "intern|doordash|software engineer i entry level graduation date fall 2026 summer 2027 us",
+    "company": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+    "locations": [
+      "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA"
+    ],
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+    "season": "Fall 2026",
+    "source": "ats:greenhouse:doordashusa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788517305,
+    "date_found": 1788522251,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "247ea08f8e885a4f",

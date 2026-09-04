@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-04 06:32 UTC · 838 live & eligible postings (showing 400); 21 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-04 11:44 UTC · 839 live & eligible postings (showing 400); 21 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-04 | 2026-09-04 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA | Fall 2026 | swe | ok | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
 | 2026-09-02 | 2026-04-23 | H&CO | Software Development Intern | Coral Gables, FL | Summer | swe | unknown | [apply](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) |
 | 2026-09-01 | 2026-08-31 | Stripe | Software Engineer, Intern (Summer or Winter) | San Francisco, Seattle, New York City | — | swe | unknown | [apply](https://stripe.com/jobs/search?gh_jid=8128745) |
 | 2026-09-01 | 2026-08-31 | Stripe | Software Engineer, New Grad | San Francisco, Seattle, New York | — | swe | unknown | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-04 06:32 UTC · 838 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-16 | Disney | Software Engineer I | Seattle, WA | — | swe | unknown | [apply](https://www.disneycareers.com/en/job/-/-/391/85002977104) |
 | 2026-08-12 | 2025-08-16 | Canonical | Software Engineer - Python - Cloud | Remote | — | swe | unknown | [apply](https://job-boards.greenhouse.io/canonical/jobs/3257589) |
 | 2026-08-12 | 2025-08-16 | PayPal | New Grad: Software Engineer | San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ, Austin, TX | — | swe | unknown | [apply](https://paypal.eightfold.ai/careers/job/274908696559) |
-| 2026-08-12 | 2025-08-16 | Notion | Software Engineer, Search Platform | New York, NY, San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/4b10e40a-6136-4efe-8b05-cad43458e9e9) |

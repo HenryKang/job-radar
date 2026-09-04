@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1788538766,
+    "date_found": 1788548890,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1788538766,
+    "date_found": 1788548890,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,70 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1788538766,
+    "date_found": 1788548890,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "f5ec88b2b946bf54",
+    "dedup_key": "intern|schonfeld|2027 data science intern",
+    "company": "Schonfeld",
+    "title": "2027 Data Science Intern",
+    "locations": [
+      "New York, New York, United States"
+    ],
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+    "season": "",
+    "source": "ats:greenhouse:schonfeld",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1788540177,
+    "date_found": 1788548890,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "b72fb011d4bbf4d4",
+    "dedup_key": "intern|schonfeld|2027 dmfi technology intern",
+    "company": "Schonfeld",
+    "title": "2027 DMFI Technology Intern",
+    "locations": [
+      "New York, New York, United States"
+    ],
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171772",
+    "season": "",
+    "source": "ats:greenhouse:schonfeld",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788540206,
+    "date_found": 1788548890,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "40370fb3a4f5a2ce",
+    "dedup_key": "intern|schonfeld|2027 software engineering intern",
+    "company": "Schonfeld",
+    "title": "2027 Software Engineering Intern",
+    "locations": [
+      "New York, New York, United States"
+    ],
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
+    "season": "",
+    "source": "ats:greenhouse:schonfeld",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788540096,
+    "date_found": 1788548890,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
   },
   {
     "id": "c9b897b15d27ea5d",

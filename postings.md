@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-04 16:19 UTC · 839 live & eligible postings (showing 400); 21 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-04 19:08 UTC · 842 live & eligible postings (showing 400); 21 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-04 | 2026-09-04 | Schonfeld | 2027 Data Science Intern | New York, New York, United States | — | ml_data | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
+| 2026-09-04 | 2026-09-04 | Schonfeld | 2027 DMFI Technology Intern | New York, New York, United States | — | swe | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) |
+| 2026-09-04 | 2026-09-04 | Schonfeld | 2027 Software Engineering Intern | New York, New York, United States | — | swe | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) |
 | 2026-09-04 | 2026-09-04 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA | Fall 2026 | swe | ok | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
 | 2026-09-02 | 2026-04-23 | H&CO | Software Development Intern | Coral Gables, FL | Summer | swe | unknown | [apply](https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507) |
 | 2026-09-01 | 2026-08-31 | Stripe | Software Engineer, Intern (Summer or Winter) | San Francisco, Seattle, New York City | — | swe | unknown | [apply](https://stripe.com/jobs/search?gh_jid=8128745) |
@@ -401,6 +404,3 @@ _Last updated: 2026-09-04 16:19 UTC · 839 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-16 | ByteDance | Site Reliability Engineer (Data Infrastructure) | Seattle | — | swe | unknown | [apply](https://joinbytedance.com/search/7535903852755814674) |
 | 2026-08-12 | 2025-08-16 | Tesla | Software Engineer, Core Infrastructure, AI | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/248409) |
 | 2026-08-12 | 2025-08-16 | TikTok | Machine Learning Engineer Graduate (TikTok Short Video Content Understanding/Multimodal Recommendation) | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7534982208201984274) |
-| 2026-08-12 | 2025-08-16 | Disney | Software Engineer I | Seattle, WA | — | swe | unknown | [apply](https://www.disneycareers.com/en/job/-/-/391/85002977104) |
-| 2026-08-12 | 2025-08-16 | Canonical | Software Engineer - Python - Cloud | Remote | — | swe | unknown | [apply](https://job-boards.greenhouse.io/canonical/jobs/3257589) |
-| 2026-08-12 | 2025-08-16 | PayPal | New Grad: Software Engineer | San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ, Austin, TX | — | swe | unknown | [apply](https://paypal.eightfold.ai/careers/job/274908696559) |

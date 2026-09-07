@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-07 12:25 UTC · 856 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-07 17:55 UTC · 857 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-07 | 2026-09-07 | Dropbox | Software Engineering Intern (Summer 2027) | Remote - US: All locations | Summer 2027 | swe | unknown | [apply](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
 | 2026-09-07 | — | Nvidia | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
 | 2026-09-07 | — | Nvidia | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA, Santa Clara | — | ml_data | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |
 | 2026-09-07 | — | Nvidia | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-07 12:25 UTC · 856 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-13 | i3 | Entry Level Full-Stack Software Engineer | Huntsville, AL | — | swe | unknown | [apply](https://careers-i3-corps.icims.com/jobs/4833/job) |
 | 2026-08-12 | 2025-08-13 | Boston Scientific | Software Engineer I - Engineering - Development | Roseville, MN | — | swe | unknown | [apply](https://bostonscientific.eightfold.ai/careers/job/563602803047194) |
 | 2026-08-12 | 2025-08-13 | Boston Scientific | Software Engineer I - Engineering - Development | Roseville, MN | — | swe | unknown | [apply](https://bostonscientific.eightfold.ai/careers/job/563602803067424) |
-| 2026-08-12 | 2025-08-13 | Peraton | Software Engineering, Associate | Herndon, VA | — | swe | unknown | [apply](https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job) |

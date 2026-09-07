@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1788783913,
+    "date_found": 1788803744,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1788783913,
+    "date_found": 1788803744,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1788783913,
+    "date_found": 1788803744,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "e055a4f1a65cf589",
+    "dedup_key": "intern|dropbox|software engineering intern summer 2027",
+    "company": "Dropbox",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "locations": [
+      "Remote - US: All locations"
+    ],
+    "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:dropbox",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788794271,
+    "date_found": 1788803744,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "78871c8c2975dabe",

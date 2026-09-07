@@ -1,9 +1,22 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-07 04:47 UTC · 843 live & eligible postings (showing 400); 21 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-07 04:53 UTC · 856 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-07 | — | Nvidia | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
+| 2026-09-07 | — | Nvidia | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA, Santa Clara | — | ml_data | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |
+| 2026-09-07 | — | Nvidia | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
+| 2026-09-07 | — | Nvidia | NVIDIA Spring 2027 Internships: Developer and Performance Technology | US, CA, Santa Clara | Spring 2027 | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) |
+| 2026-09-07 | — | Nvidia | NVIDIA 2027 Internships: Deep Learning | US, CA, Santa Clara | — | ml_data | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |
+| 2026-09-07 | — | Nvidia | NVIDIA 2027 Internships: Hardware Engineering | US, CA, Santa Clara | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) |
+| 2026-09-07 | 2026-09-04 | Amazon | Software Development Engineer Intern, ROBOTICS - 2027 | US, MA, North Reading | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
+| 2026-09-07 | 2026-08-27 | Amazon | Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027 | US, TX, Austin | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) |
+| 2026-09-07 | 2026-08-27 | Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | US, CA, Cupertino | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
+| 2026-09-07 | 2026-08-27 | Amazon | ASIC Engineer Intern, Annapurna Labs - 2027 | US, CA, Cupertino | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) |
+| 2026-09-07 | 2026-08-13 | Amazon | Automation Engineer Intern, (Nationwide) - Summer 2027 | US, TN, Mt. Juliet | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027) |
+| 2026-09-07 | 2025-12-01 | Amazon | Software Dev Engineer internship - Embedded Development | DE, BE, Berlin | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) |
+| 2026-09-07 | 2025-11-21 | Amazon | Software Dev Engineer Internship - Embedded Development (Linux) | DE, Dresden | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) |
 | 2026-09-04 | 2026-09-04 | Affirm | Software Engineer II, Backend (Post-Transaction) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/7981803003) |
 | 2026-09-04 | 2026-09-04 | Schonfeld | 2027 Data Science Intern | New York, New York, United States | — | ml_data | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
 | 2026-09-04 | 2026-09-04 | Schonfeld | 2027 DMFI Technology Intern | New York, New York, United States | — | swe | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) |
@@ -391,16 +404,3 @@ _Last updated: 2026-09-07 04:47 UTC · 843 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-13 | Boston Scientific | Software Engineer I - Engineering - Development | Roseville, MN | — | swe | unknown | [apply](https://bostonscientific.eightfold.ai/careers/job/563602803047194) |
 | 2026-08-12 | 2025-08-13 | Boston Scientific | Software Engineer I - Engineering - Development | Roseville, MN | — | swe | unknown | [apply](https://bostonscientific.eightfold.ai/careers/job/563602803067424) |
 | 2026-08-12 | 2025-08-13 | Peraton | Software Engineering, Associate | Herndon, VA | — | swe | unknown | [apply](https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job) |
-| 2026-08-12 | 2025-08-13 | Anduril Industries | Air Dominance & Strike - Flight Software Engineer, Embedded C/C++ | Costa Mesa, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=) |
-| 2026-08-12 | 2025-08-13 | Anduril Industries | Software Engineer, Connected Warfare | Costa Mesa, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=) |
-| 2026-08-12 | 2025-08-13 | Remodel Health | Junior Software Engineer | Indianapolis, IN | — | swe | unknown | [apply](https://remodelhealth.com/resources/job/?gh_jid=4880033008) |
-| 2026-08-12 | 2025-08-13 | Prosidian Consulting | ITSM IT Security Engineer I | Washington, DC | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974) |
-| 2026-08-12 | 2025-08-13 | Gannett Fleming | Entry Level Software Developer | San Diego, CA, Chicago, IL | — | swe | unknown | [apply](https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job) |
-| 2026-08-12 | 2025-08-13 | Boston Scientific | Software Engineer I - Engineering - Development | Roseville, MN | — | swe | unknown | [apply](https://bostonscientific.eightfold.ai/careers/job/563602803102071) |
-| 2026-08-12 | 2025-08-13 | Suno | Software Engineer, Early Career | Boston, MA, New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752) |
-| 2026-08-12 | 2025-08-13 | Amazon | Systems Development Engineer I, Ops Tech Solution (OTS) | Austin, TX | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots) |
-| 2026-08-12 | 2025-08-13 | Jump Trading | Tech Ops Engineer | Chicago, IL | — | swe | unknown | [apply](https://www.jumptrading.com/careers/7078491/) |
-| 2026-08-12 | 2025-08-13 | Citadel Securities | C++ Software Engineer | Miami, FL | — | swe | unknown | [apply](https://www.citadelsecurities.com/careers/details/c-software-engineer-4/) |
-| 2026-08-12 | 2025-08-13 | Amazon | Robotics Systems Engineer, Amazon Robotics Deployment Engineering | Austin, TX, Seattle, WA, North Reading, MA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering) |
-| 2026-08-12 | 2025-08-16 | ByteDance | Site Reliability Engineer (Data Infrastructure) | Seattle | — | swe | unknown | [apply](https://joinbytedance.com/search/7535903852755814674) |
-| 2026-08-12 | 2025-08-16 | Tesla | Software Engineer, Core Infrastructure, AI | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/248409) |

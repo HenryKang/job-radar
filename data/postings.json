@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1788756445,
+    "date_found": 1788756828,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1788756445,
+    "date_found": 1788756828,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,310 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1788756445,
+    "date_found": 1788756828,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "78871c8c2975dabe",
+    "dedup_key": "intern|nvidia|nvidia 2027 internships systems software engineering",
+    "company": "Nvidia",
+    "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+    "season": "",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7fcc40e487384e0a",
+    "dedup_key": "intern|nvidia|nvidia 2027 internships deep learning computer architecture",
+    "company": "Nvidia",
+    "title": "NVIDIA 2027 Internships: Deep Learning Computer Architecture",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
+    "season": "",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "acf3b33c0644305d",
+    "dedup_key": "intern|nvidia|nvidia 2027 internships software engineering",
+    "company": "Nvidia",
+    "title": "NVIDIA 2027 Internships: Software Engineering",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+    "season": "",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cb09e9b965678fa9",
+    "dedup_key": "intern|nvidia|nvidia spring 2027 internships developer and performance technology",
+    "company": "Nvidia",
+    "title": "NVIDIA Spring 2027 Internships: Developer and Performance Technology",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499",
+    "season": "Spring 2027",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bd6db02a8f10f934",
+    "dedup_key": "intern|nvidia|nvidia 2027 internships ph d research computer vision and deep learning",
+    "company": "Nvidia",
+    "title": "NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833",
+    "season": "",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "18878b10a28623fd",
+    "dedup_key": "intern|nvidia|nvidia 2027 internships deep learning",
+    "company": "Nvidia",
+    "title": "NVIDIA 2027 Internships: Deep Learning",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+    "season": "",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "65c1969fbaf8a53b",
+    "dedup_key": "intern|nvidia|nvidia 2027 internships hardware engineering",
+    "company": "Nvidia",
+    "title": "NVIDIA 2027 Internships: Hardware Engineering",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1",
+    "season": "",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d971addc5c2d3358",
+    "dedup_key": "intern|nvidia|nvidia 2027 summer internships ph d engineering",
+    "company": "Nvidia",
+    "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
+    "season": "",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "7e4d351cc7ebcecb",
+    "dedup_key": "intern|amazon|software development engineer intern robotics 2027",
+    "company": "Amazon",
+    "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+    "locations": [
+      "US, MA, North Reading"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788494400,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7040e5e293c91eec",
+    "dedup_key": "intern|amazon|cloud hardware development engineer intern annapurna labs 2027",
+    "company": "Amazon",
+    "title": "Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
+    "locations": [
+      "US, TX, Austin"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1787803200,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d7173930a60643e7",
+    "dedup_key": "intern|amazon|software development engineer intern annapurna labs 2027",
+    "company": "Amazon",
+    "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+    "locations": [
+      "US, CA, Cupertino"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1787803200,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d7ae5a7ab9811661",
+    "dedup_key": "intern|amazon|asic engineer intern annapurna labs 2027",
+    "company": "Amazon",
+    "title": "ASIC Engineer Intern, Annapurna Labs - 2027",
+    "locations": [
+      "US, CA, Cupertino"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1787803200,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "25b85de40da7cc80",
+    "dedup_key": "intern|amazon|automation engineer intern nationwide summer 2027",
+    "company": "Amazon",
+    "title": "Automation Engineer Intern, (Nationwide) - Summer 2027",
+    "locations": [
+      "US, TN, Mt. Juliet"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027",
+    "season": "Summer 2027",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1786593600,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "17d322033b1375c0",
+    "dedup_key": "intern|amazon|software dev engineer internship embedded development",
+    "company": "Amazon",
+    "title": "Software Dev Engineer internship - Embedded Development",
+    "locations": [
+      "DE, BE, Berlin"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1764565200,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1f4c8d95bb485c93",
+    "dedup_key": "intern|amazon|software dev engineer internship embedded development linux",
+    "company": "Amazon",
+    "title": "Software Dev Engineer Internship - Embedded Development (Linux)",
+    "locations": [
+      "DE, Dresden"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1763701200,
+    "date_found": 1788756828,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "ebf9f6e2d2d7be50",

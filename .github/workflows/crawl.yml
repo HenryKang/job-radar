@@ -60,10 +60,23 @@ jobs:
             echo "No changes to commit."; exit 0
           fi
           git commit -m "chore: update postings ($(date -u +%Y-%m-%dT%H:%MZ))"
+          # data/ and postings.md are machine-generated, so a concurrent run's
+          # commit conflicts on content that this run just regenerated. Resolve
+          # in favour of THIS run's output (during a rebase that is --theirs)
+          # and continue; leaving the rebase unresolved used to abort the push
+          # and strand data/seen.json uncommitted, which made the next run
+          # re-alert everything it had already sent to Discord.
           for i in 1 2 3; do
-            if git pull --rebase --autostash origin main && git push; then
-              exit 0
+            if git pull --rebase --autostash origin main; then
+              git push && exit 0
+            else
+              git checkout --theirs data/ postings.md 2>/dev/null || true
+              git add -A
+              if GIT_EDITOR=true git rebase --continue; then
+                git push && exit 0
+              fi
+              git rebase --abort 2>/dev/null || true
             fi
-            echo "push attempt $i failed (non-fast-forward?); retrying..."; sleep 3
+            echo "push attempt $i failed; retrying..."; sleep 5
           done
           echo "push failed after retries"; exit 1

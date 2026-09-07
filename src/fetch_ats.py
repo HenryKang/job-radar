@@ -6,6 +6,9 @@ skipped so it never breaks the run.
 """
 from __future__ import annotations
 
+import re
+from datetime import datetime
+
 import requests
 
 from normalize import make_posting
@@ -91,28 +94,37 @@ _WD_HEADERS = {
 }
 
 
-def _workday(company: str, slug: str) -> list[dict]:
+def _workday(company: str, slug: str, role_type: str = "intern") -> list[dict]:
     """slug format: tenant.wdN/site  e.g. adobe.wd5/external_experienced
-    The tenant portion (before /) is the full subdomain prefix including .wdN."""
+    The tenant portion (before /) is the full subdomain prefix including .wdN.
+
+    Workday tenants carry thousands of reqs, so we push a search term server-side
+    rather than paging the whole board.
+    """
     host_part, site = slug.split("/", 1)
     # host_part is e.g. "adobe.wd5" -> subdomain of myworkdayjobs.com
     # CxS path uses just the company name (before the .wdN)
     tenant_name = host_part.split(".")[0]
     url = f"https://{host_part}.myworkdayjobs.com/wday/cxs/{tenant_name}/{site}/jobs"
+    base = f"https://{host_part}.myworkdayjobs.com/en-US/{site}"
+    search = "intern" if role_type == "intern" else "graduate"
     out = []
     offset = 0
-    limit = 50
+    limit = 20  # CxS caps page size at 20
+    total = None  # only the FIRST page reports it; later pages return total=0
     while True:
         r = requests.post(url, headers=_WD_HEADERS, timeout=30,
                           json={"appliedFacets": {}, "limit": limit,
-                                "offset": offset, "searchText": " "})
+                                "offset": offset, "searchText": search})
         r.raise_for_status()
         d = r.json()
+        if total is None:
+            total = d.get("total", 0)
         postings = d.get("jobPostings", [])
         for j in postings:
-            loc = j.get("locationsText", "") or j.get("bulletFields", [""])[0] if j.get("bulletFields") else ""
+            bullets = j.get("bulletFields") or []
+            loc = j.get("locationsText") or (bullets[0] if bullets else "")
             path = j.get("externalPath", "")
-            base = f"https://{tenant}.myworkdayjobs.com/en-US/{site}"
             out.append(make_posting(
                 company=company,
                 title=j.get("title", ""),
@@ -120,11 +132,60 @@ def _workday(company: str, slug: str) -> list[dict]:
                 url=f"{base}{path}" if path else "",
                 season="",
                 source=f"ats:workday:{slug}",
-                date_posted=j.get("postedOn"),
+                date_posted=None,  # postedOn is relative ("Posted 3 Days Ago")
             ))
-        if len(postings) < limit or offset + limit >= d.get("total", 0):
-            break
         offset += limit
+        if len(postings) < limit or offset >= min(total, 400):
+            break
+    return out
+
+
+_AMZ_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"),
+    "Accept": "application/json",
+}
+
+
+def _amazon(company: str, slug: str) -> list[dict]:
+    """amazon.jobs public search API — the same endpoint the careers site calls.
+
+    slug is the search query (e.g. "intern"). Amazon is otherwise reachable only
+    through the aggregator repos, which lag by however often they refresh.
+    """
+    out = []
+    offset, limit = 0, 100
+    while offset < 500:
+        r = requests.get(
+            "https://www.amazon.jobs/en/search.json",
+            headers=_AMZ_HEADERS, timeout=30,
+            params={"base_query": slug.replace("+", " "), "result_limit": limit,
+                    "offset": offset, "sort": "recent", "country[]": "USA"},
+        )
+        r.raise_for_status()
+        d = r.json()
+        jobs = d.get("jobs", [])
+        for j in jobs:
+            path = j.get("job_path", "")
+            posted = None
+            raw = (j.get("posted_date") or "").strip()
+            if raw:
+                try:  # "September  4, 2026" -> ISO for parse_ts
+                    posted = datetime.strptime(re.sub(r"\s+", " ", raw), "%B %d, %Y").date().isoformat()
+                except ValueError:
+                    posted = None
+            out.append(make_posting(
+                company=company,
+                title=j.get("title", ""),
+                locations=[j.get("location", "")] if j.get("location") else [],
+                url=f"https://www.amazon.jobs{path}" if path else "",
+                season="",
+                source=f"ats:amazon:{slug}",
+                date_posted=posted,
+            ))
+        offset += limit
+        if len(jobs) < limit or offset >= d.get("hits", 0):
+            break
     return out
 
 
@@ -179,7 +240,8 @@ def _eightfold(company: str, slug: str) -> list[dict]:
 
 
 _ADAPTERS = {"greenhouse": _greenhouse, "lever": _lever, "ashby": _ashby,
-             "workday": _workday, "uber_custom": _uber, "eightfold": _eightfold}
+             "workday": _workday, "amazon": _amazon, "uber_custom": _uber,
+             "eightfold": _eightfold}
 
 
 def fetch_ats(targets: list[dict]) -> list[dict]:
@@ -194,7 +256,10 @@ def fetch_ats(targets: list[dict]) -> list[dict]:
             continue
         role_type = t.get("role_type", "intern")
         try:
-            got = adapter(t.get("company", t["slug"]), t["slug"])
+            if ats == "workday":
+                got = adapter(t.get("company", t["slug"]), t["slug"], role_type)
+            else:
+                got = adapter(t.get("company", t["slug"]), t["slug"])
             for p in got:
                 p["role_type"] = role_type
                 # Re-compute id to include role_type

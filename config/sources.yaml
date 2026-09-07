@@ -169,9 +169,22 @@ ats_targets:
   - { company: "Hudson River Trading", ats: greenhouse, slug: wearehrt,                 enabled: false }
   - { company: "Two Sigma",            ats: greenhouse, slug: twosigma,                 enabled: false }
   - { company: "SIG",                  ats: greenhouse, slug: susquehannainternational, enabled: false }
-  - { company: "Nvidia",               ats: greenhouse, slug: nvidia,                   enabled: false }
+  # Nvidia's greenhouse slug 404s — they run Workday (verified 2026-09).
+  - { company: "Nvidia", ats: workday, slug: nvidia.wd5/NVIDIAExternalCareerSite, role_type: intern, enabled: true }
+  - { company: "Nvidia", ats: workday, slug: nvidia.wd5/NVIDIAExternalCareerSite, role_type: new_grad, enabled: true }
   # No standard ATS found (private/custom): Citadel, HRT, Two Sigma, SIG, DE Shaw,
   # Balyasny, Millennium, Bridgewater, Renaissance, G-Research, Headlands, QuantLab,
   # XTX Markets, TGS Management, Verition, HAP Capital, TransMarket, Volant, Centiva
   # Lever check: https://api.lever.co/v0/postings/<slug>?mode=json
   # Ashby check: https://api.ashbyhq.com/posting-api/job-board/<slug>
+
+  # ---- Verified 2026-09: direct APIs replacing aggregator-only coverage ----
+  # Amazon: public amazon.jobs search API (slug = search query, US only).
+  - { company: "Amazon", ats: amazon, slug: intern, role_type: intern, enabled: true }
+  - { company: "Amazon", ats: amazon, slug: graduate, role_type: new_grad, enabled: true }
+  # Adobe: Workday tenant (the adapter was broken until 2026-09; see fetch_ats).
+  - { company: "Adobe", ats: workday, slug: adobe.wd5/external_experienced, role_type: intern, enabled: true }
+  - { company: "Adobe", ats: workday, slug: adobe.wd5/external_experienced, role_type: new_grad, enabled: true }
+  # Qube Research & Technologies: quant board not previously tracked.
+  - { company: "Qube Research", ats: greenhouse, slug: quberesearchandtechnologies, role_type: intern, enabled: true }
+  - { company: "Qube Research", ats: greenhouse, slug: quberesearchandtechnologies, role_type: new_grad, enabled: true }

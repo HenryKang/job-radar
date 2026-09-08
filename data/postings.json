@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1788888594,
+    "date_found": 1788898607,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1788888594,
+    "date_found": 1788898607,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,70 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1788888594,
+    "date_found": 1788898607,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "c106273a359427fc",
+    "dedup_key": "intern|amazon|business strategy execution operations engineering intern spring and summer 2027 bellevue wa",
+    "company": "Amazon",
+    "title": "Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )",
+    "locations": [
+      "US, WA, Bellevue"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa",
+    "season": "Spring 2027",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788825600,
+    "date_found": 1788898607,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2e8c4f5301aa6d77",
+    "dedup_key": "intern|amazon|operations engineering field execution internship summer 2027 ca ct ga tx",
+    "company": "Amazon",
+    "title": "Operations Engineering Field Execution Internship - Summer 2027 (CA, CT, GA, TX)",
+    "locations": [
+      "US, TX, Cleburne"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-internship-summer-2027-ca-ct-ga-tx",
+    "season": "Summer 2027",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788825600,
+    "date_found": 1788898607,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2612092b06aba452",
+    "dedup_key": "intern|amazon|system dev engineer i co op robotics autonomous ai security",
+    "company": "Amazon",
+    "title": "System Dev Engineer I Co-op (Robotics), Autonomous AI Security",
+    "locations": [
+      "US, TX, Austin"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788825600,
+    "date_found": 1788898607,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "d1126def59004a0d",

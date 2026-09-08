@@ -1,9 +1,14 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-08 20:16 UTC · 861 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-08 22:59 UTC · 866 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-08 | 2026-09-08 | Coinbase | Analytics Engineer Intern | Hybrid - San Francisco, CA | — | swe | unknown | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
+| 2026-09-08 | 2026-09-08 | Coinbase | Data Engineer Intern | Hybrid - San Francisco, CA | — | swe | unknown | [apply](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
+| 2026-09-08 | 2026-09-08 | Coinbase | Data Science Intern | Hybrid - San Francisco, CA | — | ml_data | unknown | [apply](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
+| 2026-09-08 | 2026-09-08 | Coinbase | Machine Learning Engineer Intern | Hybrid - San Francisco, CA | — | swe | unknown | [apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
+| 2026-09-08 | 2026-09-08 | Coinbase | Software Engineer Intern | Hybrid - San Francisco, CA | — | swe | unknown | [apply](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
 | 2026-09-08 | 2026-09-08 | Amazon | Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA ) | US, WA, Bellevue | Spring 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa) |
 | 2026-09-08 | 2026-09-08 | Amazon | Operations Engineering Field Execution Internship - Summer 2027 (CA, CT, GA, TX) | US, TX, Cleburne | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-internship-summer-2027-ca-ct-ga-tx) |
 | 2026-09-08 | 2026-09-08 | Amazon | System Dev Engineer I Co-op (Robotics), Autonomous AI Security | US, TX, Austin | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) |
@@ -399,8 +404,3 @@ _Last updated: 2026-09-08 20:16 UTC · 861 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-07 | Detroit Defense | Software Test Engineer | Troy, MI | — | swe | unknown | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495) |
 | 2026-08-12 | 2025-08-07 | Emerson | Embedded Software Engineer | Shakopee, MN | — | swe | unknown | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266) |
 | 2026-08-12 | 2025-08-07 | Mathtech | Associate Software Developer | Hamilton, NJ | — | swe | unknown | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=553315) |
-| 2026-08-12 | 2025-08-07 | Jacobs | Software Engineer, Entry | Kennedy Space Center, FL | — | swe | unknown | [apply](https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000B3R&lang=en) |
-| 2026-08-12 | 2025-08-13 | BRM | Entry Level Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application) |
-| 2026-08-12 | 2025-08-13 | i3 | Full-Stack Software Engineer | Hunstville, AL | — | swe | unknown | [apply](https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job) |
-| 2026-08-12 | 2025-08-13 | Trexquant | Quantitative Researcher | Stamford, CT | — | quant | unknown | [apply](https:/.workable.com/trexquant/j/A634E0E3F4/) |
-| 2026-08-12 | 2025-08-13 | Roblox | Software Engineer - Early Career | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/7114754?gh_jid=7114754) |

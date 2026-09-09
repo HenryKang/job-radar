@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-09 01:15 UTC · 866 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-09 06:40 UTC · 867 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-09 | 2026-09-08 | Amazon | Operations Engineering Field Execution Internship - Spring and Summer 2027 (CA, CT, GA, TX) | US, TX, Cleburne | Spring 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-internship-spring-and-summer-2027-ca-ct-ga-tx) |
 | 2026-09-08 | 2026-09-08 | Coinbase | Analytics Engineer Intern | Hybrid - San Francisco, CA | — | swe | unknown | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
 | 2026-09-08 | 2026-09-08 | Coinbase | Data Engineer Intern | Hybrid - San Francisco, CA | — | swe | unknown | [apply](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
 | 2026-09-08 | 2026-09-08 | Coinbase | Data Science Intern | Hybrid - San Francisco, CA | — | ml_data | unknown | [apply](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-09 01:15 UTC · 866 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-07 | Royal Caribbean Group | Associate Engineer, Software | Miramar, FL | — | swe | unknown | [apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500/) |
 | 2026-08-12 | 2025-08-07 | Detroit Defense | Software Test Engineer | Troy, MI | — | swe | unknown | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495) |
 | 2026-08-12 | 2025-08-07 | Emerson | Embedded Software Engineer | Shakopee, MN | — | swe | unknown | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266) |
-| 2026-08-12 | 2025-08-07 | Mathtech | Associate Software Developer | Hamilton, NJ | — | swe | unknown | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf1a92f4-16eb-4267-86ca-bc956024f426&jobId=553315) |

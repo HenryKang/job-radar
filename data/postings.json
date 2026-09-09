@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1788971829,
+    "date_found": 1788982193,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1788971829,
+    "date_found": 1788982193,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,50 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1788971829,
+    "date_found": 1788982193,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "20eac8d94a2fc965",
+    "dedup_key": "intern|dv trading|ai engineer intern summer 2027",
+    "company": "DV Trading",
+    "title": "AI Engineer Intern - Summer 2027",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:dvtrading",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788981204,
+    "date_found": 1788982193,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "0c9cc208def89b60",
+    "dedup_key": "intern|dv trading|devops engineer intern summer 2027",
+    "company": "DV Trading",
+    "title": "DevOps Engineer Intern - Summer 2027",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:dvtrading",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788981249,
+    "date_found": 1788982193,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
   },
   {
     "id": "ff3dc77a9c75a3eb",

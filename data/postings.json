@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1789060317,
+    "date_found": 1789069298,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1789060317,
+    "date_found": 1789069298,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,50 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1789060317,
+    "date_found": 1789069298,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "b9d15d9184d471c2",
+    "dedup_key": "intern|imc trading|quant performance engineer intern summer 2027",
+    "company": "IMC Trading",
+    "title": "Quant Performance Engineer Intern - Summer 2027",
+    "locations": [
+      "Chicago, United States"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:imc",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789065134,
+    "date_found": 1789069298,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8ab879037f3349c0",
+    "dedup_key": "intern|geneva trading|quantitative trading internship summer 2027",
+    "company": "Geneva Trading",
+    "title": "Quantitative Trading Internship – Summer 2027",
+    "locations": [
+      "Chicago Office"
+    ],
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:genevatrading",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1789067886,
+    "date_found": 1789069298,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api failed: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)"
   },
   {
     "id": "3631ff987a19dd81",

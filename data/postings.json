@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1789069298,
+    "date_found": 1789077292,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1789069298,
+    "date_found": 1789077292,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1789069298,
+    "date_found": 1789077292,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "b361779379af0fe8",
+    "dedup_key": "intern|amazon|industrial development engineer intern co op robotics 2027",
+    "company": "Amazon",
+    "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
+    "locations": [
+      "US, MA, North Reading"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788998400,
+    "date_found": 1789077292,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "b9d15d9184d471c2",

@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-10 19:41 UTC · 876 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-10 21:54 UTC · 877 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-10 | 2026-09-10 | Amazon | Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027 | US, MA, North Reading | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) |
 | 2026-09-10 | 2026-09-10 | IMC Trading | Quant Performance Engineer Intern - Summer 2027 | Chicago, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
 | 2026-09-10 | 2026-09-10 | Geneva Trading | Quantitative Trading Internship – Summer 2027 | Chicago Office | Summer 2027 | quant | unknown | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) |
 | 2026-09-10 | 2026-09-10 | Schonfeld | 2027 Platform Engineering Intern | New York, New York, United States | — | swe | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-10 19:41 UTC · 876 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-07 | TikTok | Frontend Engineer Graduate, Trust and Safety | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7534826542867106066?spread=5MWH5CQ) |
 | 2026-08-12 | 2025-08-07 | TikTok | Site Reliability Engineer Graduate (Compute Platform) | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7535549508735174930?spread=5MWH5CQ) |
 | 2026-08-12 | 2025-08-07 | TikTok | Site Reliability Engineer Graduate (Compute Platform) | Seattle, WA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7535544480956483848?spread=5MWH5CQ) |
-| 2026-08-12 | 2025-08-07 | TikTok | Frontend Engineer Graduate, Trust and Safety | Seattle, WA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7530759729113680135?spread=5MWH5CQ) |

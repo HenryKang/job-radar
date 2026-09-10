@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-10 13:35 UTC · 871 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-10 17:12 UTC · 874 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-10 | 2026-09-10 | Schonfeld | 2027 Platform Engineering Intern | New York, New York, United States | — | swe | unknown | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
+| 2026-09-10 | 2026-09-10 | DV Trading | Client Platforms Engineer Intern - Summer 2027 | New York | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) |
+| 2026-09-10 | 2026-09-10 | DV Trading | Client Platforms Engineer Intern - Summer 2027 | Chicago | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) |
 | 2026-09-09 | 2026-09-09 | Amazon | Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027 | US, MA, North Reading | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) |
 | 2026-09-09 | 2026-09-04 | Amazon | Software Development Engineer Intern/Co-Op, ROBOTICS -  2027 | US, MA, North Reading | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) |
 | 2026-09-09 | 2026-09-09 | DV Trading | AI Engineer Intern - Summer 2027 | Chicago | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) |
@@ -401,6 +404,3 @@ _Last updated: 2026-09-10 13:35 UTC · 871 live & eligible postings (showing 400
 | 2026-08-12 | 2025-08-07 | TikTok | Frontend Engineer Graduate, Trust and Safety | Seattle, WA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7530759729113680135?spread=5MWH5CQ) |
 | 2026-08-12 | 2025-08-07 | TikTok | SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-Privacy Product) | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7533387057666754834?spread=5MWH5CQ) |
 | 2026-08-12 | 2025-08-07 | ByteDance | Site Reliability Engineer Graduate [Security Engineering-US] | San Jose, CA | — | swe | unknown | [apply](https://jobs.bytedance.com/en/position/7534838755829696776/detail?spread=BSPP2KS) |
-| 2026-08-12 | 2025-08-07 | Tesla | Machine Learning Engineer, Model Optimization & Deployment, Optimus | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/247659) |
-| 2026-08-12 | 2025-08-07 | Tesla | Automation Controls Engineer, Megapack | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/247595) |
-| 2026-08-12 | 2025-08-07 | Tesla | Systems Engineer, Collision Avoidance, Autonomy & Robotics | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/247480) |

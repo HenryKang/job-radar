@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1789155840,
+    "date_found": 1789163851,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1789155840,
+    "date_found": 1789163851,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,50 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1789155840,
+    "date_found": 1789163851,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "ed90eebcad173d5a",
+    "dedup_key": "intern|amazon|ml systems software development engineer intern annapurna labs 2027",
+    "company": "Amazon",
+    "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
+    "locations": [
+      "CA, ON, Toronto"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789084800,
+    "date_found": 1789163851,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7bc5d554f754da6b",
+    "dedup_key": "intern|amazon|data center engineering operations technician internship",
+    "company": "Amazon",
+    "title": "Data Center Engineering Operations Technician Internship",
+    "locations": [
+      "US, VA, Sterling"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789084800,
+    "date_found": 1789163851,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "d329b42f64e47b99",

@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-11 13:32 UTC · 877 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-11 17:13 UTC · 880 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-11 | 2026-09-11 | DV Trading | Quantitative Research Intern - Summer 2027 (DV Equities) | New York | Summer 2027 | quant | ok | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) |
+| 2026-09-11 | 2026-09-11 | DV Trading | Quantitative Trading Intern - Summer 2027 (DV Equities) | New York | Summer 2027 | quant | ok | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) |
+| 2026-09-11 | 2026-09-11 | DV Trading | Software Developer Intern - Summer 2027 (DV Equities) | New York | Summer 2027 | swe | ok | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) |
 | 2026-09-10 | 2026-09-10 | Amazon | Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027 | US, MA, North Reading | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) |
 | 2026-09-10 | 2026-09-10 | IMC Trading | Quant Performance Engineer Intern - Summer 2027 | Chicago, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
 | 2026-09-10 | 2026-09-10 | Geneva Trading | Quantitative Trading Internship – Summer 2027 | Chicago Office | Summer 2027 | quant | unknown | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5232641007) |
@@ -401,6 +404,3 @@ _Last updated: 2026-09-11 13:32 UTC · 877 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-30 | Amazon | System Development Engineer, OTS Delivery Software Engineering | Austin, TX | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3047432/system-development-engineer-ots-delivery-software-engineering) |
 | 2026-08-12 | 2025-08-07 | TikTok | SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-PGC) | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ) |
 | 2026-08-12 | 2025-08-07 | TikTok | Product Security Engineer Graduate (Security Assurance) | Seattle, WA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ) |
-| 2026-08-12 | 2025-08-07 | TikTok | Frontend Engineer Graduate, Trust and Safety | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7534826542867106066?spread=5MWH5CQ) |
-| 2026-08-12 | 2025-08-07 | TikTok | Site Reliability Engineer Graduate (Compute Platform) | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7535549508735174930?spread=5MWH5CQ) |
-| 2026-08-12 | 2025-08-07 | TikTok | Site Reliability Engineer Graduate (Compute Platform) | Seattle, WA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7535544480956483848?spread=5MWH5CQ) |

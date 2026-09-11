@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1789133551,
+    "date_found": 1789146806,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1789133551,
+    "date_found": 1789146806,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,70 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1789133551,
+    "date_found": 1789146806,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "d329b42f64e47b99",
+    "dedup_key": "intern|dv trading|quantitative research intern summer 2027 dv equities",
+    "company": "DV Trading",
+    "title": "Quantitative Research Intern - Summer 2027 (DV Equities)",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:dvtrading",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1789138660,
+    "date_found": 1789146806,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "5fa3f59340578572",
+    "dedup_key": "intern|dv trading|quantitative trading intern summer 2027 dv equities",
+    "company": "DV Trading",
+    "title": "Quantitative Trading Intern - Summer 2027 (DV Equities)",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:dvtrading",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1789139062,
+    "date_found": 1789146806,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "24e2eb4980eec43a",
+    "dedup_key": "intern|dv trading|software developer intern summer 2027 dv equities",
+    "company": "DV Trading",
+    "title": "Software Developer Intern - Summer 2027 (DV Equities)",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:dvtrading",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789138994,
+    "date_found": 1789146806,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "b361779379af0fe8",

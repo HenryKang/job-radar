@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-14 07:04 UTC · 882 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-14 13:59 UTC · 886 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-14 | 2026-09-14 | Robinhood | Software Engineering Intern, Android (Summer 2027) | Menlo Park, CA; New York, NY | Summer 2027 | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961) |
+| 2026-09-14 | 2026-09-14 | Robinhood | Software Engineering Intern, Backend (Summer 2027) | Bellevue, WA; Menlo Park, CA; New York, NY | Summer 2027 | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225) |
+| 2026-09-14 | 2026-09-14 | Robinhood | Software Engineering Intern, iOS (Summer 2027) | Menlo Park, CA; New York, NY | Summer 2027 | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959) |
+| 2026-09-14 | 2026-09-14 | Robinhood | Software Engineering Intern, Web (Summer 2027) | Menlo Park, CA; New York, NY | Summer 2027 | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963) |
 | 2026-09-11 | 2026-09-11 | Amazon | ML Systems Software Development Engineer Intern, Annapurna Labs - 2027 | CA, ON, Toronto | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) |
 | 2026-09-11 | 2026-09-11 | Amazon | Data Center Engineering Operations Technician Internship | US, VA, Sterling | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship) |
 | 2026-09-11 | 2026-09-11 | DV Trading | Quantitative Research Intern - Summer 2027 (DV Equities) | New York | Summer 2027 | quant | ok | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4733133005) |
@@ -400,7 +404,3 @@ _Last updated: 2026-09-14 07:04 UTC · 882 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-30 | Qualtrics | Software Engineer I - PAAS | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS) |
 | 2026-08-12 | 2025-07-30 | EvenUp | Early Career Machine Learning Engineer | San Francisco, CA, Toronto, Canada | — | swe | unknown | [apply](https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b) |
 | 2026-08-12 | 2025-07-30 | Shopify | Infrastructure Engineers | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/infrastructure-engineers_202c9f29-47fa-4b55-8cbb-337eed7d92e2) |
-| 2026-08-12 | 2025-07-30 | Shopify | ML Ops Engineers | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/ml-ops-engineers_896a7d5f-5925-4915-a8e8-3438068464a4) |
-| 2026-08-12 | 2025-07-30 | Shopify | Data Platform Engineers | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/data-platform-engineers_4684c36e-f913-42a8-8ff5-f4b789a8e61d) |
-| 2026-08-12 | 2025-07-30 | Amazon | System Development Engineer, AWS Vetting | Cupertino, CA | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3044177/system-development-engineer-aws-vetting) |
-| 2026-08-12 | 2025-07-30 | Amazon | System Development Engineer, OTS Delivery Software Engineering | Austin, TX | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/3047432/system-development-engineer-ots-delivery-software-engineering) |

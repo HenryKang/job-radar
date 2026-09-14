@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-14 13:59 UTC · 886 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-14 19:20 UTC · 887 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-14 | 2026-09-08 | Amazon | Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX) | US, TX, Cleburne | Spring 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx) |
 | 2026-09-14 | 2026-09-14 | Robinhood | Software Engineering Intern, Android (Summer 2027) | Menlo Park, CA; New York, NY | Summer 2027 | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961) |
 | 2026-09-14 | 2026-09-14 | Robinhood | Software Engineering Intern, Backend (Summer 2027) | Bellevue, WA; Menlo Park, CA; New York, NY | Summer 2027 | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225) |
 | 2026-09-14 | 2026-09-14 | Robinhood | Software Engineering Intern, iOS (Summer 2027) | Menlo Park, CA; New York, NY | Summer 2027 | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-14 13:59 UTC · 886 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-30 | Qualtrics | Machine Learning Engineer | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer) |
 | 2026-08-12 | 2025-07-30 | Qualtrics | Software Engineer I - PAAS | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS) |
 | 2026-08-12 | 2025-07-30 | EvenUp | Early Career Machine Learning Engineer | San Francisco, CA, Toronto, Canada | — | swe | unknown | [apply](https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b) |
-| 2026-08-12 | 2025-07-30 | Shopify | Infrastructure Engineers | Remote | — | swe | unknown | [apply](https://www.shopify.com/careers/infrastructure-engineers_202c9f29-47fa-4b55-8cbb-337eed7d92e2) |

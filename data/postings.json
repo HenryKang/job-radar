@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1789425958,
+    "date_found": 1789435560,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1789425958,
+    "date_found": 1789435560,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1789425958,
+    "date_found": 1789435560,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "85092e93b9c15173",
+    "dedup_key": "intern|doordash|software engineer intern summer 2027 us",
+    "company": "DoorDash",
+    "title": "Software Engineer, Intern (Summer 2027) - US",
+    "locations": [
+      "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA"
+    ],
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:doordashusa",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789426260,
+    "date_found": 1789435560,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
   },
   {
     "id": "a470434b5b78ec56",

@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-15 06:41 UTC · 888 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-15 12:08 UTC · 890 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-15 | 2026-09-15 | Amazon | Operations Engineering Intern -  start date Q3 2027 | DE, BE, Berlin | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10541498/operations-engineering-intern-start-date-q3-2027) |
+| 2026-09-15 | 2026-09-15 | Amazon | Operations Engineering Intern -  start date Q1 2027 | DE, BE, Berlin | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10541497/operations-engineering-intern-start-date-q1-2027) |
 | 2026-09-15 | 2026-09-14 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | 2026-09-14 | 2026-09-08 | Amazon | Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX) | US, TX, Cleburne | Spring 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx) |
 | 2026-09-14 | 2026-09-14 | Robinhood | Software Engineering Intern, Android (Summer 2027) | Menlo Park, CA; New York, NY | Summer 2027 | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961) |
@@ -402,5 +404,3 @@ _Last updated: 2026-09-15 06:41 UTC · 888 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-24 | AMD | Software Developer - GPU IO Libraries | Calgary, Canada, Remote | — | swe | unknown | [apply](https://careers.amd.com/careers-home/jobs/67592) |
 | 2026-08-12 | 2025-07-30 | TikTok | Software Development Engineer in Test Graduate (Trust and Safety) | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7530765464767826184?spread=5MWH5CQ) |
 | 2026-08-12 | 2025-07-30 | ServiceNow | Associate Systems Engineer | San Diego, CA | — | swe | unknown | [apply](https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) |
-| 2026-08-12 | 2025-07-30 | Qualtrics | Machine Learning Engineer | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer) |
-| 2026-08-12 | 2025-07-30 | Qualtrics | Software Engineer I - PAAS | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS) |

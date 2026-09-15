@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-15 12:08 UTC · 890 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-15 16:56 UTC · 892 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-15 | 2026-09-15 | Five Rings | Summer 2027 - Trading Operations Engineer Intern | New York | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
+| 2026-09-15 | — | Nvidia | Physical Design and Timing Engineer Intern - Summer 2027 | US, CA, Santa Clara | Summer 2027 | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) |
 | 2026-09-15 | 2026-09-15 | Amazon | Operations Engineering Intern -  start date Q3 2027 | DE, BE, Berlin | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10541498/operations-engineering-intern-start-date-q3-2027) |
 | 2026-09-15 | 2026-09-15 | Amazon | Operations Engineering Intern -  start date Q1 2027 | DE, BE, Berlin | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10541497/operations-engineering-intern-start-date-q1-2027) |
 | 2026-09-15 | 2026-09-14 | DoorDash | Software Engineer, Intern (Summer 2027) - US | New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
@@ -402,5 +404,3 @@ _Last updated: 2026-09-15 12:08 UTC · 890 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-24 | Tesla | Camera Software Engineer, AI Platforms | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/246198) |
 | 2026-08-12 | 2025-07-24 | Tesla | Software Integration Engineer, AI Platforms | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/246199) |
 | 2026-08-12 | 2025-07-24 | AMD | Software Developer - GPU IO Libraries | Calgary, Canada, Remote | — | swe | unknown | [apply](https://careers.amd.com/careers-home/jobs/67592) |
-| 2026-08-12 | 2025-07-30 | TikTok | Software Development Engineer in Test Graduate (Trust and Safety) | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7530765464767826184?spread=5MWH5CQ) |
-| 2026-08-12 | 2025-07-30 | ServiceNow | Associate Systems Engineer | San Diego, CA | — | swe | unknown | [apply](https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73) |

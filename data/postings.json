@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1789646639,
+    "date_found": 1789664224,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1789646639,
+    "date_found": 1789664224,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1789646639,
+    "date_found": 1789664224,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "f3089aad8ffb040d",
+    "dedup_key": "intern|geneva trading|ai engineer internship summer 2027",
+    "company": "Geneva Trading",
+    "title": "AI Engineer Internship - Summer 2027",
+    "locations": [
+      "Chicago Office"
+    ],
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:genevatrading",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789662705,
+    "date_found": 1789664224,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "c1f98171ce78952a",

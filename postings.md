@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-17 12:04 UTC · 893 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-17 16:57 UTC · 894 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-17 | 2026-09-17 | Geneva Trading | AI Engineer Internship - Summer 2027 | Chicago Office | Summer 2027 | swe | ok | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007) |
 | 2026-09-16 | 2026-09-16 | Amazon | Business Developer Intern - 2027 - 6 months | DE, BY, Munich | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months) |
 | 2026-09-15 | 2026-09-15 | Five Rings | Summer 2027 - Trading Operations Engineer Intern | New York | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
 | 2026-09-15 | — | Nvidia | Physical Design and Timing Engineer Intern - Summer 2027 | US, CA, Santa Clara | Summer 2027 | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-17 12:04 UTC · 893 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-24 | QuinStreet | Entry Level Software Engineer | Foster City, CA | — | swe | unknown | [apply](https://www.quinstreet.com/careers/?gh_jid=7100468) |
 | 2026-08-12 | 2025-07-24 | Tesla | Software Engineer, Optimus Inference Co Design | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/246089) |
 | 2026-08-12 | 2025-07-24 | Tesla | Camera Software Engineer, AI Platforms | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/246198) |
-| 2026-08-12 | 2025-07-24 | Tesla | Software Integration Engineer, AI Platforms | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/246199) |

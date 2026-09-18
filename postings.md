@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-18 19:13 UTC · 897 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-18 21:41 UTC · 899 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-18 | 2026-09-18 | Gemini | Software Engineering Intern (Winter 2027) | New York, New York | Winter 2027 | swe | ok | [apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272) |
+| 2026-09-18 | 2026-09-18 | Amazon | Software Development Engineer Intern - Summer 2027 (CAN) | CA, BC, Vancouver | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) |
 | 2026-09-18 | 2026-09-17 | Amazon | Software Development Engineer Intern - Summer 2027 (USA) | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) |
 | 2026-09-17 | 2026-09-17 | Tower Research | Software Engineer Intern (Summer 2027) | New York | Summer 2027 | swe | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8212158) |
 | 2026-09-17 | 2026-09-17 | Amazon | Software Development Engineer Internship - Summer -2027 (USA) | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) |
@@ -402,5 +404,3 @@ _Last updated: 2026-09-18 19:13 UTC · 897 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-14 | Candid Health | New Grad: Software Engineer | San Francisco, CA, Denver, CO, New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b?utm_source=Simplify&ref=Simplify) |
 | 2026-08-12 | 2025-07-14 | Cryptic Vector | Full Stack Developer | Cincinnati, OH | — | swe | unknown | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/3409369/Cryptic-Vector/Full-Stack-Developer?source=Indeed_Feed) |
 | 2026-08-12 | 2025-07-15 | Porter | Full Stack Engineer | New York, NY | — | swe | unknown | [apply](https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer) |
-| 2026-08-12 | 2025-07-20 | Qualcomm Technologies, Inc. | GPU Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://careers.qualcomm.com/careers/job/446706913920) |
-| 2026-08-12 | 2025-07-24 | Tesla | Applications Engineer, Megapack | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/246315) |

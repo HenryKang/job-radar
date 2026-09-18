@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-18 11:48 UTC · 896 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-18 16:22 UTC · 897 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-18 | 2026-09-17 | Amazon | Software Development Engineer Intern - Summer 2027 (USA) | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) |
 | 2026-09-17 | 2026-09-17 | Tower Research | Software Engineer Intern (Summer 2027) | New York | Summer 2027 | swe | unknown | [apply](https://www.tower-research.com/open-positions/?gh_jid=8212158) |
 | 2026-09-17 | 2026-09-17 | Amazon | Software Development Engineer Internship - Summer -2027 (USA) | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) |
 | 2026-09-17 | 2026-09-17 | Geneva Trading | AI Engineer Internship - Summer 2027 | Chicago Office | Summer 2027 | swe | ok | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-18 11:48 UTC · 896 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-15 | Porter | Full Stack Engineer | New York, NY | — | swe | unknown | [apply](https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer) |
 | 2026-08-12 | 2025-07-20 | Qualcomm Technologies, Inc. | GPU Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://careers.qualcomm.com/careers/job/446706913920) |
 | 2026-08-12 | 2025-07-24 | Tesla | Applications Engineer, Megapack | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/246315) |
-| 2026-08-12 | 2025-07-24 | QuinStreet | Entry Level Software Engineer | Foster City, CA | — | swe | unknown | [apply](https://www.quinstreet.com/careers/?gh_jid=7100468) |

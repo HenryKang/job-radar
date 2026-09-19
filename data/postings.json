@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1789774533,
+    "date_found": 1789781783,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1789774533,
+    "date_found": 1789781783,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1789774533,
+    "date_found": 1789781783,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "4ecc58325c42f7b1",
+    "dedup_key": "intern|pinterest|software engineer ii data analytics engineering",
+    "company": "Pinterest",
+    "title": "Software Engineer II, Data Analytics & Engineering",
+    "locations": [
+      "San Francisco, CA, US; Remote, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789777952,
+    "date_found": 1789781783,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "adb2176a1e287b65",

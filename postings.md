@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-21 16:38 UTC · 900 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-21 20:35 UTC · 902 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-21 | 2026-09-21 | Geneva Trading | C++ Developer (Intern) | Chicago Office | — | swe | ok | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) |
+| 2026-09-21 | 2026-09-21 | Geneva Trading | PMO Data Engineering Intern | Chicago Office | — | swe | unknown | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242180007) |
 | 2026-09-19 | 2026-09-19 | Pinterest | Software Engineer II, Data Analytics & Engineering | San Francisco, CA, US; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8213988) |
 | 2026-09-18 | 2026-09-18 | Gemini | Software Engineering Intern (Winter 2027) | New York, New York | Winter 2027 | swe | ok | [apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272) |
 | 2026-09-18 | 2026-09-18 | Amazon | Software Development Engineer Intern - Summer 2027 (CAN) | CA, BC, Vancouver | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) |
@@ -402,5 +404,3 @@ _Last updated: 2026-09-21 16:38 UTC · 900 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-14 | Tesla | Mobile App Engineer, Service & Roadside Assistance | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/237386) |
 | 2026-08-12 | 2025-07-14 | Ranger | Forward-Deployed Test Engineer | San Francisco, CA | — | swe | unknown | [apply](https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d?utm_source=Simplify&ref=Simplify) |
 | 2026-08-12 | 2025-07-14 | Candid Health | New Grad: Forward Deployed Software Engineer | San Francisco, CA, Denver, CO, New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b?utm_source=Simplify&ref=Simplify) |
-| 2026-08-12 | 2025-07-14 | Candid Health | New Grad: Software Engineer | San Francisco, CA, Denver, CO, New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b?utm_source=Simplify&ref=Simplify) |
-| 2026-08-12 | 2025-07-14 | Cryptic Vector | Full Stack Developer | Cincinnati, OH | — | swe | unknown | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/3409369/Cryptic-Vector/Full-Stack-Developer?source=Indeed_Feed) |

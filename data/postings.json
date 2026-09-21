@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790008716,
+    "date_found": 1790022956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790008716,
+    "date_found": 1790022956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,50 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790008716,
+    "date_found": 1790022956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "0cf6cfb6460a687b",
+    "dedup_key": "intern|geneva trading|c developer intern",
+    "company": "Geneva Trading",
+    "title": "C++ Developer (Intern)",
+    "locations": [
+      "Chicago Office"
+    ],
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
+    "season": "",
+    "source": "ats:greenhouse:genevatrading",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790018746,
+    "date_found": 1790022956,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "bf3df99acecb574d",
+    "dedup_key": "intern|geneva trading|pmo data engineering intern",
+    "company": "Geneva Trading",
+    "title": "PMO Data Engineering Intern",
+    "locations": [
+      "Chicago Office"
+    ],
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242180007",
+    "season": "",
+    "source": "ats:greenhouse:genevatrading",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790019866,
+    "date_found": 1790022956,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
   },
   {
     "id": "4ecc58325c42f7b1",

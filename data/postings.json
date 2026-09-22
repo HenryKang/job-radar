@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790108956,
+    "date_found": 1790118980,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790108956,
+    "date_found": 1790118980,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790108956,
+    "date_found": 1790118980,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1780000060,
-    "date_found": 1790108956,
+    "date_posted": 1780010097,
+    "date_found": 1790118980,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -93,8 +93,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1780000060,
-    "date_found": 1790108956,
+    "date_posted": 1780010097,
+    "date_found": 1790118980,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790022460,
-    "date_found": 1790108956,
+    "date_posted": 1790032497,
+    "date_found": 1790118980,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -133,8 +133,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789763260,
-    "date_found": 1790108956,
+    "date_posted": 1789773297,
+    "date_found": 1790118980,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
@@ -153,11 +153,31 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789763260,
-    "date_found": 1790108956,
+    "date_posted": 1789773297,
+    "date_found": 1790118980,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
+  },
+  {
+    "id": "f542be5af5da0a8c",
+    "dedup_key": "intern|amazon|security engineer internship 2027 us",
+    "company": "Amazon",
+    "title": "Security Engineer Internship – 2027 (US)",
+    "locations": [
+      "US, WA, Seattle"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790035200,
+    "date_found": 1790118980,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "508f7b5ae648beea",

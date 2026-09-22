@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-22 20:29 UTC · 1560 live & eligible postings (showing 400); 31 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-22 23:16 UTC · 1561 live & eligible postings (showing 400); 31 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-22 | 2026-09-22 | Amazon | Security Engineer Internship – 2027 (US) | US, WA, Seattle | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us) |
 | 2026-09-22 | 2026-09-18 | Stripe | Software Engineer - Early Career — Immediate Start | San Francisco, CA | — | swe | ok | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
 | 2026-09-22 | 2026-09-16 | Roblox | Software Engineer - Discovery UX | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8168383?gh_jid=8168383) |
 | 2026-09-22 | 2026-09-15 | Amazon | Software Engineer - AWS SageMaker Unified Studio | Arlington, VA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10551396/apply) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-22 20:29 UTC · 1560 live & eligible postings (showing 40
 | 2026-09-22 | 2026-08-26 | GDIT | Front End/Angular 2+/Full Stack Java Developer | Hanover, MD | — | swe | unknown | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Hanover/Front-End-Angular-2--Full-Stack-Java-Developer_RQ220540) |
 | 2026-09-22 | 2026-08-26 | GDIT | Junior Software Developer - Active TS/SCI with Poly Required | USA | — | swe | unknown | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931) |
 | 2026-09-22 | 2026-08-26 | Johnson & Johnson | Software Engineer DevOps | Santa Clara, CA | — | swe | unknown | [apply](https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Santa-Clara-California-United-States-of-America/Software-Engineer-DevOps_R-095632) |
-| 2026-09-22 | 2026-08-26 | Morgan Stanley | Fixed Income Division - Associate - Public Finance Quantitative Developer & Strategist - New York | New York City, NY | — | swe | unknown | [apply](https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Associate--Public-Finance-Quantitative-Developer---Strategist--New-York-_JR042586) |

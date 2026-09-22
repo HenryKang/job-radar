@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790081467,
+    "date_found": 1790098744,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790081467,
+    "date_found": 1790098744,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,50 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790081467,
+    "date_found": 1790098744,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "1f351fd6aa05beda",
+    "dedup_key": "intern|geneva trading|python developer intern",
+    "company": "Geneva Trading",
+    "title": "Python Developer Intern",
+    "locations": [
+      "Chicago Office"
+    ],
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242196007",
+    "season": "",
+    "source": "ats:greenhouse:genevatrading",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790085106,
+    "date_found": 1790098744,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "63608c315fbada46",
+    "dedup_key": "intern|geneva trading|trade support engineer intern",
+    "company": "Geneva Trading",
+    "title": "Trade Support Engineer Intern",
+    "locations": [
+      "Chicago Office"
+    ],
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242190007",
+    "season": "",
+    "source": "ats:greenhouse:genevatrading",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790085134,
+    "date_found": 1790098744,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "0cf6cfb6460a687b",

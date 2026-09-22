@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-22 12:51 UTC · 902 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-22 17:39 UTC · 904 live & eligible postings (showing 400); 23 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-22 | 2026-09-22 | Geneva Trading | Python Developer Intern | Chicago Office | — | swe | unknown | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242196007) |
+| 2026-09-22 | 2026-09-22 | Geneva Trading | Trade Support Engineer Intern | Chicago Office | — | swe | ok | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242190007) |
 | 2026-09-21 | 2026-09-21 | Geneva Trading | C++ Developer (Intern) | Chicago Office | — | swe | ok | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) |
 | 2026-09-21 | 2026-09-21 | Geneva Trading | PMO Data Engineering Intern | Chicago Office | — | swe | unknown | [apply](https://job-boards.greenhouse.io/genevatrading/jobs/5242180007) |
 | 2026-09-19 | 2026-09-19 | Pinterest | Software Engineer II, Data Analytics & Engineering | San Francisco, CA, US; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8213988) |
@@ -402,5 +404,3 @@ _Last updated: 2026-09-22 12:51 UTC · 902 live & eligible postings (showing 400
 | 2026-08-12 | 2025-07-14 | Nuro | New Grad: Software Engineer, Routing | Mountain View, CA | — | swe | unknown | [apply](https://www.nuro.ai/careersitem?gh_jid=7066706) |
 | 2026-08-12 | 2025-07-14 | Qualcomm Technologies, Inc. | CPU Software Architecture Engineer | San Diego, CA | — | swe | unknown | [apply](https://careers.qualcomm.com/careers/job/446706753287) |
 | 2026-08-12 | 2025-07-14 | Tesla | Mobile App Engineer, Service & Roadside Assistance | Palo Alto, CA | — | swe | unknown | [apply](https://www.tesla.com/careers/search/job/237386) |
-| 2026-08-12 | 2025-07-14 | Ranger | Forward-Deployed Test Engineer | San Francisco, CA | — | swe | unknown | [apply](https://jobs.lever.co/ranger/38ef5184-0c8a-4980-836f-95e23e83ae7d?utm_source=Simplify&ref=Simplify) |
-| 2026-08-12 | 2025-07-14 | Candid Health | New Grad: Forward Deployed Software Engineer | San Francisco, CA, Denver, CO, New York, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b?utm_source=Simplify&ref=Simplify) |

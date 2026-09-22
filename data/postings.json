@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790104881,
+    "date_found": 1790105114,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790104881,
+    "date_found": 1790105114,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,110 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790104881,
+    "date_found": 1790105114,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "353df4c50ac9c9f3",
+    "dedup_key": "new grad|apple|software development engineer in test core i o transports quality engineering core os",
+    "company": "Apple",
+    "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "url": "https://jobs.apple.com/en-us/details/200665472-0836",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1779996186,
+    "date_found": 1790105114,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "8df11e36f4634ecc",
+    "dedup_key": "new grad|apple|software development engineer in test core i o transports quality engineering core os",
+    "company": "Apple",
+    "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "url": "https://jobs.apple.com/en-us/details/200665480-0836",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1779996186,
+    "date_found": 1790105114,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "0a89245df4d3af57",
+    "dedup_key": "new grad|gannett fleming|associate software developer",
+    "company": "Gannett Fleming",
+    "title": "Associate Software Developer",
+    "locations": [
+      "Mechanicsburg, PA"
+    ],
+    "url": "https://careers-gannettfleming.icims.com/jobs/14760/associate-software-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790018586,
+    "date_found": 1790105114,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 410"
+  },
+  {
+    "id": "f1f5d8e1968eed39",
+    "dedup_key": "new grad|showpad|junior software engineer",
+    "company": "Showpad",
+    "title": "Junior Software Engineer",
+    "locations": [
+      "Minnesota, USA"
+    ],
+    "url": "https://job-boards.greenhouse.io/showpad/jobs/8213427",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789759386,
+    "date_found": 1790105114,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "76051bf361be1bbe",
+    "dedup_key": "new grad|steampunk|salesforce application developer",
+    "company": "Steampunk",
+    "title": "Salesforce Application Developer",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://careers-steampunk.icims.com/jobs/8215/salesforce-application-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789759386,
+    "date_found": 1790105114,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 410"
   },
   {
     "id": "508f7b5ae648beea",
@@ -2120,46 +2220,6 @@
     "elig_reason": "undergrad markers"
   },
   {
-    "id": "353df4c50ac9c9f3",
-    "dedup_key": "new grad|apple|software development engineer in test core i o transports quality engineering core os",
-    "company": "Apple",
-    "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS",
-    "locations": [
-      "Cupertino, CA"
-    ],
-    "url": "https://jobs.apple.com/en-us/details/200665472-0836",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1779995932,
-    "date_found": 1790104881,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
-  },
-  {
-    "id": "8df11e36f4634ecc",
-    "dedup_key": "new grad|apple|software development engineer in test core i o transports quality engineering core os",
-    "company": "Apple",
-    "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS",
-    "locations": [
-      "Cupertino, CA"
-    ],
-    "url": "https://jobs.apple.com/en-us/details/200665480-0836",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1779995932,
-    "date_found": 1790104881,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
-  },
-  {
     "id": "e29f2523f229e5cb",
     "dedup_key": "new grad|five rings|link 2027 software development intensive program",
     "company": "Five Rings",
@@ -2418,26 +2478,6 @@
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "0a89245df4d3af57",
-    "dedup_key": "new grad|gannett fleming|associate software developer",
-    "company": "Gannett Fleming",
-    "title": "Associate Software Developer",
-    "locations": [
-      "Mechanicsburg, PA"
-    ],
-    "url": "https://careers-gannettfleming.icims.com/jobs/14760/associate-software-developer/job",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1790018332,
-    "date_found": 1790104881,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 410"
   },
   {
     "id": "0d2c0d805f9f9f03",
@@ -2938,46 +2978,6 @@
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "f1f5d8e1968eed39",
-    "dedup_key": "new grad|showpad|junior software engineer",
-    "company": "Showpad",
-    "title": "Junior Software Engineer",
-    "locations": [
-      "Minnesota, USA"
-    ],
-    "url": "https://job-boards.greenhouse.io/showpad/jobs/8213427",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1789759132,
-    "date_found": 1790104881,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "greenhouse api: job not found"
-  },
-  {
-    "id": "76051bf361be1bbe",
-    "dedup_key": "new grad|steampunk|salesforce application developer",
-    "company": "Steampunk",
-    "title": "Salesforce Application Developer",
-    "locations": [
-      "McLean, VA"
-    ],
-    "url": "https://careers-steampunk.icims.com/jobs/8215/salesforce-application-developer/job",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1789759132,
-    "date_found": 1790104881,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 410"
   },
   {
     "id": "f35f79203dedac9f",

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790105114,
+    "date_found": 1790108956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790105114,
+    "date_found": 1790108956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790105114,
+    "date_found": 1790108956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1779996186,
-    "date_found": 1790105114,
+    "date_posted": 1780000060,
+    "date_found": 1790108956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -93,8 +93,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1779996186,
-    "date_found": 1790105114,
+    "date_posted": 1780000060,
+    "date_found": 1790108956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790018586,
-    "date_found": 1790105114,
+    "date_posted": 1790022460,
+    "date_found": 1790108956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -133,8 +133,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789759386,
-    "date_found": 1790105114,
+    "date_posted": 1789763260,
+    "date_found": 1790108956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789759386,
-    "date_found": 1790105114,
+    "date_posted": 1789763260,
+    "date_found": 1790108956,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"

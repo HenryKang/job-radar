@@ -14,7 +14,7 @@
     ],
     "date_posted": 1776727395,
     "date_discovered": 1788371628,
-    "last_checked": 1790098744,
+    "last_checked": 1790104881,
     "fail_reason": "http 410"
   },
   {
@@ -32,7 +32,7 @@
     ],
     "date_posted": 1776727516,
     "date_discovered": 1788371628,
-    "last_checked": 1790098744,
+    "last_checked": 1790104881,
     "fail_reason": "http 404"
   },
   {
@@ -50,7 +50,115 @@
     ],
     "date_posted": 1779501421,
     "date_discovered": 1788371628,
-    "last_checked": 1790098744,
+    "last_checked": 1790104881,
     "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "new grad|amazon|software development engineer early career",
+    "id": "3ba5837d73f96bd2",
+    "company": "Amazon",
+    "title": "Software Development Engineer - Early Career",
+    "url": "https://www.amazon.jobs/jobs/10529830/apply",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "date_posted": 1788463132,
+    "date_discovered": 1790104881,
+    "last_checked": 1790104881,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "new grad|amazon|front end engineer ii ecr",
+    "id": "b4a0697fe179792f",
+    "company": "Amazon",
+    "title": "Front-End Engineer II - ECR",
+    "url": "https://www.amazon.jobs/jobs/10501516/apply",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "date_posted": 1785352732,
+    "date_discovered": 1790104881,
+    "last_checked": 1790104881,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "new grad|apple|software development engineer in test core i o transports quality engineering core os",
+    "id": "353df4c50ac9c9f3",
+    "company": "Apple",
+    "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering - Core OS",
+    "url": "https://jobs.apple.com/en-us/details/200665472-0836",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "date_posted": 1779995932,
+    "date_discovered": 1790104881,
+    "last_checked": 1790104881,
+    "fail_reason": "closed: 'no longer available'"
+  },
+  {
+    "dedup_key": "new grad|gannett fleming|associate software developer",
+    "id": "0a89245df4d3af57",
+    "company": "Gannett Fleming",
+    "title": "Associate Software Developer",
+    "url": "https://careers-gannettfleming.icims.com/jobs/14760/associate-software-developer/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Mechanicsburg, PA"
+    ],
+    "date_posted": 1790018332,
+    "date_discovered": 1790104881,
+    "last_checked": 1790104881,
+    "fail_reason": "http 410"
+  },
+  {
+    "dedup_key": "new grad|showpad|junior software engineer",
+    "id": "f1f5d8e1968eed39",
+    "company": "Showpad",
+    "title": "Junior Software Engineer",
+    "url": "https://job-boards.greenhouse.io/showpad/jobs/8213427",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Minnesota, USA"
+    ],
+    "date_posted": 1789759132,
+    "date_discovered": 1790104881,
+    "last_checked": 1790104881,
+    "fail_reason": "greenhouse api: job not found"
+  },
+  {
+    "dedup_key": "new grad|steampunk|salesforce application developer",
+    "id": "76051bf361be1bbe",
+    "company": "Steampunk",
+    "title": "Salesforce Application Developer",
+    "url": "https://careers-steampunk.icims.com/jobs/8215/salesforce-application-developer/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "McLean, VA"
+    ],
+    "date_posted": 1789759132,
+    "date_discovered": 1790104881,
+    "last_checked": 1790104881,
+    "fail_reason": "http 410"
   }
 ]

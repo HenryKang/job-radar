@@ -28,6 +28,16 @@ aggregators:
     listings_url: https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json
     enabled: true
 
+  # speedyapply publishes only rendered markdown tables — their structured
+  # data sits behind a private Supabase — so these are parsed with the
+  # markdown_table adapter. Covers new-grad roles at firms radar cannot poll
+  # directly (Citadel, HRT, Jane Street, Two Sigma).
+  - name: speedyapply-newgrad2027-usa
+    type: markdown_table
+    role_type: new_grad
+    listings_url: https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md
+    enabled: true
+
 ats_targets:
   # role_type defaults to "intern" if omitted. Set role_type: new_grad for
   # full-time new grad roles. ATS boards contain both — the title filter handles

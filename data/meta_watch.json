@@ -2,56 +2,62 @@
   "source": "metacareers.com (browser-only; blocked to headless clients)",
   "search_url": "https://www.metacareers.com/jobsearch/?roles[0]=Internship",
   "note": "Meta returns HTTP 400 to non-browser clients, so the crawler cannot poll this. Checked via Chrome; this file is the baseline for diffing new postings.",
-  "last_checked": 1790267136,
-  "last_checked_human": "2026-09-24",
+  "last_checked": 1790280975,
+  "last_checked_human": "2026-09-24 16:16",
   "postings": [
     {
-      "id": "1412139847020398",
-      "title": "Network Production Engineer Intern",
-      "locations": [
-        "Menlo Park, CA"
-      ],
+      "id": "1609178343953401",
       "company": "Meta",
-      "url": "https://www.metacareers.com/profile/job_details/1412139847020398"
+      "title": "Production Engineering Intern",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "url": "https://www.metacareers.com/profile/job_details/1609178343953401"
     },
     {
       "id": "1442284501111979",
+      "company": "Meta",
       "title": "Production Engineer Intern",
       "locations": [
         "London, UK"
       ],
-      "company": "Meta",
       "url": "https://www.metacareers.com/profile/job_details/1442284501111979"
     },
     {
-      "id": "1609178343953401",
-      "title": "Production Engineering Intern",
+      "id": "2558941294546763",
+      "company": "Meta",
+      "title": "Network Production Engineer Intern",
       "locations": [
-        "Bellevue, WA",
+        "Dublin, Ireland"
+      ],
+      "url": "https://www.metacareers.com/profile/job_details/2558941294546763"
+    },
+    {
+      "id": "1412139847020398",
+      "company": "Meta",
+      "title": "Network Production Engineer Intern",
+      "locations": [
         "Menlo Park, CA"
       ],
+      "url": "https://www.metacareers.com/profile/job_details/1412139847020398"
+    },
+    {
+      "id": "1782902493113620",
       "company": "Meta",
-      "url": "https://www.metacareers.com/profile/job_details/1609178343953401"
+      "title": "Research Scientist Intern, AI Alignment",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "url": "https://www.metacareers.com/profile/job_details/1782902493113620"
     },
     {
       "id": "1796691991338568",
+      "company": "Meta",
       "title": "Research Scientist Intern, Optical System Design (PhD)",
       "locations": [
-        "Redmond, WA",
-        "Menlo Park, CA"
+        "Redmond, WA"
       ],
-      "company": "Meta",
       "url": "https://www.metacareers.com/profile/job_details/1796691991338568"
-    },
-    {
-      "id": "2558941294546763",
-      "title": "Network Production Engineer Intern",
-      "locations": [
-        "Dublin, Ireland",
-        "London, UK"
-      ],
-      "company": "Meta",
-      "url": "https://www.metacareers.com/profile/job_details/2558941294546763"
     }
   ]
 }

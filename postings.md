@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-24 18:40 UTC · 1636 live & eligible postings (showing 400); 35 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-24 21:48 UTC · 1637 live & eligible postings (showing 400); 35 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-24 | 2026-09-24 | Man Group | Technology Rotational Program - Associate Engineer | Massachusetts | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101) |
 | 2026-09-24 | 2026-09-24 | Microsoft | Software Engineer - Intune | Cambridge, MA | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556982924) |
 | 2026-09-24 | 2026-09-24 | Roblox | Software Engineer - Data Access | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8168881?gh_jid=8168881) |
 | 2026-09-24 | 2026-09-24 | Bosch | Associate Motorsport Software Engineer | Farmington Hills, MI | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000151463391-associate-motorsport-software-engineer?oga=true) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-24 18:40 UTC · 1636 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-04 | Ontic | Associate DevOps Engineer | Austin, TX | — | swe | unknown | [apply](https://jobs.ashbyhq.com/ontic/c4f5bf21-d5a9-488c-9638-631bd58de471) |
 | 2026-09-22 | 2026-09-04 | Scale AI | Software Engineer - New Grad | San Francisco, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
 | 2026-09-22 | 2026-09-04 | Self Financial | Associate Software Engineer - UI | Austin, TX | — | swe | unknown | [apply](https://job-boards.greenhouse.io/selffinancial/jobs/6181750004) |
-| 2026-09-22 | 2026-09-04 | Technology Service Corporation | Firmware Design Engineer | Huntsville, AL | — | swe | unknown | [apply](https://tsc.wd12.myworkdayjobs.com/en-US/tsc-careers/job/Huntsville-AL/Firmware-Design-Engineer_JR2781) |

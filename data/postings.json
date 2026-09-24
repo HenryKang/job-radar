@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790275234,
+    "date_found": 1790286523,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790275234,
+    "date_found": 1790286523,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790275234,
+    "date_found": 1790286523,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1779993532,
-    "date_found": 1790275234,
+    "date_posted": 1780004827,
+    "date_found": 1790286523,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -93,11 +93,71 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1779993532,
-    "date_found": 1790275234,
+    "date_posted": 1780004827,
+    "date_found": 1790286523,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "8a06f9140a85af6d",
+    "dedup_key": "new grad|dewberry|junior gis developer",
+    "company": "Dewberry",
+    "title": "Junior GIS Developer",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "url": "https://careers-dewberry.icims.com/jobs/16384/junior-gis-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790200027,
+    "date_found": 1790286523,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 410"
+  },
+  {
+    "id": "fb6183f2741db858",
+    "dedup_key": "new grad|adyen|full stack developer junior docs experience engineering team",
+    "company": "Adyen",
+    "title": "Full-Stack Developer - Junior - Docs Experience Engineering Team",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789249627,
+    "date_found": 1790286523,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "96b14b678e060f62",
+    "dedup_key": "intern|man group|technology rotational program associate engineer",
+    "company": "Man Group",
+    "title": "Technology Rotational Program - Associate Engineer",
+    "locations": [
+      "Massachusetts"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101",
+    "season": "",
+    "source": "ats:greenhouse:mangroup",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790284995,
+    "date_found": 1790286523,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "faec39b23b3a5c65",
@@ -340,26 +400,6 @@
     "elig_reason": "no clear disqualifier"
   },
   {
-    "id": "8a06f9140a85af6d",
-    "dedup_key": "new grad|dewberry|junior gis developer",
-    "company": "Dewberry",
-    "title": "Junior GIS Developer",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "url": "https://careers-dewberry.icims.com/jobs/16384/junior-gis-developer/job",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1790188732,
-    "date_found": 1790275234,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 410"
-  },
-  {
     "id": "e3db0af0b33fd864",
     "dedup_key": "new grad|echo global logistics|rpa developer",
     "company": "Echo Global Logistics",
@@ -498,26 +538,6 @@
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "fb6183f2741db858",
-    "dedup_key": "new grad|adyen|full stack developer junior docs experience engineering team",
-    "company": "Adyen",
-    "title": "Full-Stack Developer - Junior - Docs Experience Engineering Team",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1789238332,
-    "date_found": 1790275234,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "greenhouse api: job not found"
   },
   {
     "id": "4d50b8b618f88490",

@@ -1,9 +1,30 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-24 14:26 UTC · 1615 live & eligible postings (showing 400); 33 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-24 18:40 UTC · 1636 live & eligible postings (showing 400); 35 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-24 | 2026-09-24 | Microsoft | Software Engineer - Intune | Cambridge, MA | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556982924) |
+| 2026-09-24 | 2026-09-24 | Roblox | Software Engineer - Data Access | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8168881?gh_jid=8168881) |
+| 2026-09-24 | 2026-09-24 | Bosch | Associate Motorsport Software Engineer | Farmington Hills, MI | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000151463391-associate-motorsport-software-engineer?oga=true) |
+| 2026-09-24 | 2026-09-24 | Commure | Software Engineer - Scribe AI | Mountain View, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465) |
+| 2026-09-24 | 2026-09-24 | Graphcore | Graduate Firmware Engineer | Austin, TX | — | swe | unknown | [apply](https://job-boards.greenhouse.io/graphcore/jobs/8841995002) |
+| 2026-09-24 | 2026-09-24 | i3 Corps | Software Engineer - Associate-Mid | Huntsville, AL | — | swe | unknown | [apply](https://careers-i3-corps.icims.com/jobs/5282/software-engineer-%28associate-mid%29/job) |
+| 2026-09-24 | 2026-09-24 | Nuro | Software Engineer - Performance Tooling and Infrastructure New Grad | Mountain View, CA | — | swe | unknown | [apply](https://nuro.ai/careersitem?gh_jid=8227399) |
+| 2026-09-24 | 2026-09-24 | PC Connection | IT Software Asset Analyst; Entry Level | North Chicago, IL | — | swe | unknown | [apply](https://careers-connection.icims.com/jobs/10742/it-software-asset-analyst--entry-level/job) |
+| 2026-09-24 | 2026-09-24 | Scale AI | Software Engineer - Public Sector - New Grad | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
+| 2026-09-24 | 2026-09-24 | SeatGeek | Software Engineer - New Grad | New York City, NY | — | swe | unknown | [apply](https://seatgeek.com/jobs/8227548?gh_jid=8227548) |
+| 2026-09-24 | 2026-09-24 | webAI | Jr DevOps Engineer | Austin, TX | — | swe | unknown | [apply](https://jobs.ashbyhq.com/webai/5aa2fb29-be71-4135-928c-e7690611b380) |
+| 2026-09-24 | 2026-09-23 | Acrisure | Software Engineer I | Austin, TX +1 | — | swe | unknown | [apply](https://acrisure.wd1.myworkdayjobs.com/en-US/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer-I_JR114404) |
+| 2026-09-24 | 2026-09-23 | Echo Global Logistics | RPA Developer | Chicago, IL | — | swe | unknown | [apply](https://echo.wd1.myworkdayjobs.com/en-US/echo_logistics/job/Chicago-IL/RPA-Developer_R4448) |
+| 2026-09-24 | 2026-09-22 | Draper | Software Machine Learning Engineer SMTS | Cambridge, MA +1 | — | swe | unknown | [apply](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Software-Machine-Learning-Engineer-SMTS_JR002948) |
+| 2026-09-24 | 2026-09-22 | Light & Wonder | Associate Software QA Engineer | Las Vegas, NV | — | swe | unknown | [apply](https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730) |
+| 2026-09-24 | 2026-09-21 | CACI | Junior Cyber Software Engineer | Aberdeen Proving Ground, MD | — | swe | unknown | [apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Aberdeen-Proving-Ground-MD-US/Junior-Cyber-Software-Engineer_332339) |
+| 2026-09-24 | 2026-09-21 | Hewlett Packard Enterprise | Systems / Software Engineer I Graduate | Roseville, CA | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Roseville-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214984) |
+| 2026-09-24 | 2026-09-21 | Raytheon | Software Modernization Engineer I - Onsite | Indianapolis, IN | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Modernization-Engineer-I--Onsite-_01868393) |
+| 2026-09-24 | 2026-09-21 | State Street | Software Engineer - REST API Development - Officer | Burlington, MA | — | swe | unknown | [apply](https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Burlington-Massachusetts/Software-Engineer---REST-API-Development--Officer_R-798140) |
+| 2026-09-24 | 2026-06-17 | A-dec | Software Support Specialist I | Newberg, OR | — | swe | unknown | [apply](https://adec.wd5.myworkdayjobs.com/en-US/a-dec/job/Oregon---Newberg-Campus/Software-Support-Specialist-II_JR101845) |
+| 2026-09-24 | 2026-09-24 | Affirm | Software Engineer II, Backend (Identity Decisioning) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/7985860003) |
 | 2026-09-23 | 2026-09-22 | Rivian | Systems Architecture Software Engineer | Palo Alto, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9) |
 | 2026-09-23 | 2026-09-21 | Amazon | Front-End Engineer - Luna Omni | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10556675/apply) |
 | 2026-09-23 | 2026-09-23 | Abnormal Security | Software Engineer 1 - Data Platforms | Remote - USA | — | swe | unknown | [apply](https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003) |
@@ -383,24 +404,3 @@ _Last updated: 2026-09-24 14:26 UTC · 1615 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-04 | Scale AI | Software Engineer - New Grad | San Francisco, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
 | 2026-09-22 | 2026-09-04 | Self Financial | Associate Software Engineer - UI | Austin, TX | — | swe | unknown | [apply](https://job-boards.greenhouse.io/selffinancial/jobs/6181750004) |
 | 2026-09-22 | 2026-09-04 | Technology Service Corporation | Firmware Design Engineer | Huntsville, AL | — | swe | unknown | [apply](https://tsc.wd12.myworkdayjobs.com/en-US/tsc-careers/job/Huntsville-AL/Firmware-Design-Engineer_JR2781) |
-| 2026-09-22 | 2026-09-04 | The Battery Network | Junior Business Applications Developer | USA | — | swe | unknown | [apply](https://jobs.lever.co/The-Battery-Network/01269617-8ce6-4741-9a78-8be96a0a50bc) |
-| 2026-09-22 | 2026-09-04 | Torc Robotics | Software Engineer - I - Data Engineering | Ann Arbor, MI +1 | — | swe | unknown | [apply](https://job-boards.greenhouse.io/torcrobotics/jobs/8649372002) |
-| 2026-09-22 | 2026-09-04 | Valinor | Full-Stack Software Engineer - C2 & Tactical Integration | Nashville, TN | — | swe | unknown | [apply](https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e) |
-| 2026-09-22 | 2026-09-04 | Varsity Brands | Cloud Engineer I | Farmers Branch, TX | — | swe | unknown | [apply](https://varsitybrands.wd503.myworkdayjobs.com/en-US/externalcareersite/job/TX---Farmers-Branch/Cloud-Engineer-I_JR114841) |
-| 2026-09-22 | 2026-09-04 | Vestwell | Associate - Software Engineer | Austin, TX +2 | — | swe | unknown | [apply](https://job-boards.greenhouse.io/vestwell/jobs/7983915003) |
-| 2026-09-22 | 2026-09-03 | Analytical Mechanics Associates | Software Engineer | Mountain View, CA | — | swe | unknown | [apply](https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728) |
-| 2026-09-22 | 2026-09-03 | Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, CA | — | swe | unknown | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
-| 2026-09-22 | 2026-09-03 | Applied Materials | Software Engineer - New College Grad- Master's - Chandler - AZ | Chandler, AZ | — | swe | unknown | [apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911) |
-| 2026-09-22 | 2026-09-03 | Kobie | Marketing Operations Developer | St. Petersburg, FL +6 | — | swe | unknown | [apply](https://jobs.lever.co/kobie/49fffdfe-ea35-43c7-b718-2005452b8e75) |
-| 2026-09-22 | 2026-09-03 | Morgan Stanley | Associate - Software Engineer | New York City, NY | — | swe | unknown | [apply](https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR031776) |
-| 2026-09-22 | 2026-09-03 | Sift | Software Engineer - New College Graduate | Marina del Rey, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134) |
-| 2026-09-22 | 2026-09-03 | Trulioo | Junior Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e) |
-| 2026-09-22 | 2026-09-02 | Accenture Federal Services | Associate Software Engineer-Hire-to-Train Program - Pega | Arlington, VA +1 | — | swe | unknown | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006) |
-| 2026-09-22 | 2026-09-02 | Arch | Software Engineer - Early Careers - 2027 Start | New York City, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d) |
-| 2026-09-22 | 2026-09-02 | Home Depot | Software Engineer II - REMOTE | Remote - Texas, USA | — | swe | unknown | [apply](https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/TEXAS---VIRTUAL---TX01/Software-Engineer-II--REMOTE-_Req191434) |
-| 2026-09-22 | 2026-09-02 | Light & Wonder | Associate Software Quality Assurance Engineer | Las Vegas, NV | — | swe | unknown | [apply](https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-Quality-Assurance-Engineer_R322693) |
-| 2026-09-22 | 2026-09-02 | MiTek | Software Deployment Specialist I | Chesterfield, MO | — | swe | unknown | [apply](https://mii.wd5.myworkdayjobs.com/en-US/mitek/job/Chesterfield-MO-USA/Software-Deployment-Specialist-I_R06642) |
-| 2026-09-22 | 2026-09-02 | PagerDuty | Site Reliability Engineer I | Atlanta, GA +1 | — | swe | unknown | [apply](https://job-boards.greenhouse.io/pagerduty/jobs/6162484004) |
-| 2026-09-22 | 2026-09-02 | PayPal | Software Engineer- Cloud Infrastructure and DevOps | San Jose, CA +2 | — | swe | unknown | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1) |
-| 2026-09-22 | 2026-09-02 | PayPal | Software Engineer - Cloud Infrastructure and Devops | San Jose, CA +2 | — | swe | unknown | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771) |
-| 2026-09-22 | 2026-09-02 | PTC | Cloud Services Ops - Associate Engineer | Remote - Uniontown, PA | — | swe | unknown | [apply](https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Remote-USA/Cloud-Services-Ops--Associate-Engineer_JR112675-1) |

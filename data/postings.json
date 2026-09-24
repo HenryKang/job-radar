@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790259965,
+    "date_found": 1790275234,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790259965,
+    "date_found": 1790275234,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790259965,
+    "date_found": 1790275234,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1780064681,
-    "date_found": 1790259965,
+    "date_posted": 1779993532,
+    "date_found": 1790275234,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -93,11 +93,471 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1780064681,
-    "date_found": 1790259965,
+    "date_posted": 1779993532,
+    "date_found": 1790275234,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "faec39b23b3a5c65",
+    "dedup_key": "new grad|microsoft|software engineer intune",
+    "company": "Microsoft",
+    "title": "Software Engineer - Intune",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982924",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2e677b287a3f0ff1",
+    "dedup_key": "new grad|roblox|software engineer data access",
+    "company": "Roblox",
+    "title": "Software Engineer - Data Access",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: HTTPSConnectionPool(host='careers.roblox.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "id": "2db28c96f1b7778b",
+    "dedup_key": "new grad|bosch|associate motorsport software engineer",
+    "company": "Bosch",
+    "title": "Associate Motorsport Software Engineer",
+    "locations": [
+      "Farmington Hills, MI"
+    ],
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151463391-associate-motorsport-software-engineer?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0679201a32270f92",
+    "dedup_key": "new grad|commure|software engineer scribe ai",
+    "company": "Commure",
+    "title": "Software Engineer - Scribe AI",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ac63fb83c3d10119",
+    "dedup_key": "new grad|graphcore|graduate firmware engineer",
+    "company": "Graphcore",
+    "title": "Graduate Firmware Engineer",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841995002",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api failed: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "id": "30c5e08ea87713ab",
+    "dedup_key": "new grad|i3 corps|software engineer associate mid",
+    "company": "i3 Corps",
+    "title": "Software Engineer - Associate-Mid",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://careers-i3-corps.icims.com/jobs/5282/software-engineer-%28associate-mid%29/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "99bdd62ea7516ab9",
+    "dedup_key": "new grad|nuro|software engineer performance tooling and infrastructure new grad",
+    "company": "Nuro",
+    "title": "Software Engineer - Performance Tooling and Infrastructure New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://nuro.ai/careersitem?gh_jid=8227399",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2f24145fe31ebdb3",
+    "dedup_key": "new grad|pc connection|it software asset analyst entry level",
+    "company": "PC Connection",
+    "title": "IT Software Asset Analyst; Entry Level",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "url": "https://careers-connection.icims.com/jobs/10742/it-software-asset-analyst--entry-level/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b99818085efeb5c5",
+    "dedup_key": "new grad|scale ai|software engineer public sector new grad",
+    "company": "Scale AI",
+    "title": "Software Engineer - Public Sector - New Grad",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "776cfc33771e3191",
+    "dedup_key": "new grad|seatgeek|software engineer new grad",
+    "company": "SeatGeek",
+    "title": "Software Engineer - New Grad",
+    "locations": [
+      "New York City, NY"
+    ],
+    "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a6011d682bcfc4d6",
+    "dedup_key": "new grad|webai|jr devops engineer",
+    "company": "webAI",
+    "title": "Jr DevOps Engineer",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://jobs.ashbyhq.com/webai/5aa2fb29-be71-4135-928c-e7690611b380",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275132,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b30d0030489673e4",
+    "dedup_key": "new grad|acrisure|software engineer i",
+    "company": "Acrisure",
+    "title": "Software Engineer I",
+    "locations": [
+      "Austin, TX +1"
+    ],
+    "url": "https://acrisure.wd1.myworkdayjobs.com/en-US/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer-I_JR114404",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790188732,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8a06f9140a85af6d",
+    "dedup_key": "new grad|dewberry|junior gis developer",
+    "company": "Dewberry",
+    "title": "Junior GIS Developer",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "url": "https://careers-dewberry.icims.com/jobs/16384/junior-gis-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790188732,
+    "date_found": 1790275234,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 410"
+  },
+  {
+    "id": "e3db0af0b33fd864",
+    "dedup_key": "new grad|echo global logistics|rpa developer",
+    "company": "Echo Global Logistics",
+    "title": "RPA Developer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://echo.wd1.myworkdayjobs.com/en-US/echo_logistics/job/Chicago-IL/RPA-Developer_R4448",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790188732,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f9eee5abd38df680",
+    "dedup_key": "new grad|draper|software machine learning engineer smts",
+    "company": "Draper",
+    "title": "Software Machine Learning Engineer SMTS",
+    "locations": [
+      "Cambridge, MA +1"
+    ],
+    "url": "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Software-Machine-Learning-Engineer-SMTS_JR002948",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790102332,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8d7722398b24e587",
+    "dedup_key": "new grad|light wonder|associate software qa engineer",
+    "company": "Light & Wonder",
+    "title": "Associate Software QA Engineer",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "url": "https://lnw.wd5.myworkdayjobs.com/en-US/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-QA-Engineer_R322730",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790102332,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7661482f13067146",
+    "dedup_key": "new grad|caci|junior cyber software engineer",
+    "company": "CACI",
+    "title": "Junior Cyber Software Engineer",
+    "locations": [
+      "Aberdeen Proving Ground, MD"
+    ],
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Aberdeen-Proving-Ground-MD-US/Junior-Cyber-Software-Engineer_332339",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790015932,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d8deb0834a96fd9d",
+    "dedup_key": "new grad|hewlett packard enterprise|systems software engineer i graduate",
+    "company": "Hewlett Packard Enterprise",
+    "title": "Systems / Software Engineer I Graduate",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Roseville-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214984",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790015932,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "20b553af565c4b64",
+    "dedup_key": "new grad|raytheon|software modernization engineer i onsite",
+    "company": "Raytheon",
+    "title": "Software Modernization Engineer I - Onsite",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Modernization-Engineer-I--Onsite-_01868393",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790015932,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "475c9fdc03050f7c",
+    "dedup_key": "new grad|state street|software engineer rest api development officer",
+    "company": "State Street",
+    "title": "Software Engineer - REST API Development - Officer",
+    "locations": [
+      "Burlington, MA"
+    ],
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Burlington-Massachusetts/Software-Engineer---REST-API-Development--Officer_R-798140",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790015932,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fb6183f2741db858",
+    "dedup_key": "new grad|adyen|full stack developer junior docs experience engineering team",
+    "company": "Adyen",
+    "title": "Full-Stack Developer - Junior - Docs Experience Engineering Team",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789238332,
+    "date_found": 1790275234,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "4d50b8b618f88490",
+    "dedup_key": "new grad|a dec|software support specialist i",
+    "company": "A-dec",
+    "title": "Software Support Specialist I",
+    "locations": [
+      "Newberg, OR"
+    ],
+    "url": "https://adec.wd5.myworkdayjobs.com/en-US/a-dec/job/Oregon---Newberg-Campus/Software-Support-Specialist-II_JR101845",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1781721532,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "749d0de115ea9532",
+    "dedup_key": "intern|affirm|software engineer ii backend identity decisioning",
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Identity Decisioning)",
+    "locations": [
+      "Remote US"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7985860003",
+    "season": "",
+    "source": "ats:greenhouse:affirm",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790267376,
+    "date_found": 1790275234,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "3ee6bea653c210b4",

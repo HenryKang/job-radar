@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-24 21:48 UTC · 1637 live & eligible postings (showing 400); 35 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-25 00:33 UTC · 1639 live & eligible postings (showing 400); 35 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-25 | 2026-09-24 | Amazon | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) |
+| 2026-09-25 | 2026-09-24 | Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | US, WA, Redmond | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) |
 | 2026-09-24 | 2026-09-24 | Man Group | Technology Rotational Program - Associate Engineer | Massachusetts | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101) |
 | 2026-09-24 | 2026-09-24 | Microsoft | Software Engineer - Intune | Cambridge, MA | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556982924) |
 | 2026-09-24 | 2026-09-24 | Roblox | Software Engineer - Data Access | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8168881?gh_jid=8168881) |
@@ -402,5 +404,3 @@ _Last updated: 2026-09-24 21:48 UTC · 1637 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-04 | Huntington Bank | Junior Backend Java Developer- Enterprise Payments and Credit Card | Minnetonka, MN +1 | — | swe | unknown | [apply](https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Minnetonka-MN/Enterprise-Payments-and-Credit-Card-Programmer-Analyst-2_R0070757) |
 | 2026-09-22 | 2026-09-04 | M1 Technology | Applications/DevOps Engineer | Herndon, VA | — | swe | unknown | [apply](https://m1technology.com/careers?gh_jid=4395019009) |
 | 2026-09-22 | 2026-09-04 | Ontic | Associate DevOps Engineer | Austin, TX | — | swe | unknown | [apply](https://jobs.ashbyhq.com/ontic/c4f5bf21-d5a9-488c-9638-631bd58de471) |
-| 2026-09-22 | 2026-09-04 | Scale AI | Software Engineer - New Grad | San Francisco, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
-| 2026-09-22 | 2026-09-04 | Self Financial | Associate Software Engineer - UI | Austin, TX | — | swe | unknown | [apply](https://job-boards.greenhouse.io/selffinancial/jobs/6181750004) |

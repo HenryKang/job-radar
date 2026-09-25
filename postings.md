@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-25 00:33 UTC · 1639 live & eligible postings (showing 400); 35 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-25 05:23 UTC · 1642 live & eligible postings (showing 400); 35 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-25 | 2026-09-25 | Snowflake | Software Engineer Intern (Database Engineering) - Spring 2027 | US-CA-Menlo Park | Spring 2027 | swe | unknown | [apply](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be) |
+| 2026-09-25 | 2026-09-25 | Snowflake | Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027 | US-CA-Menlo Park | Spring 2027 | swe | unknown | [apply](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69) |
+| 2026-09-25 | 2026-09-25 | Snowflake | Software Engineer Intern (AI / ML) - Spring 2027 | US-CA-Menlo Park | Spring 2027 | swe | unknown | [apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca) |
 | 2026-09-25 | 2026-09-24 | Amazon | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) |
 | 2026-09-25 | 2026-09-24 | Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | US, WA, Redmond | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) |
 | 2026-09-24 | 2026-09-24 | Man Group | Technology Rotational Program - Associate Engineer | Massachusetts | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101) |
@@ -401,6 +404,3 @@ _Last updated: 2026-09-25 00:33 UTC · 1639 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-04 | Cooper University Health Care | Reporting and Analytics Developer | Camden, NJ | — | swe | unknown | [apply](https://careers-cooperhealth.icims.com/jobs/85602/reporting-and-analytics-developer/job) |
 | 2026-09-22 | 2026-09-04 | Credence | Entry-Level AI Software Engineer | McLean, VA | — | swe | unknown | [apply](https://apply.workable.com/credence/j/BAD39E80E0/) |
 | 2026-09-22 | 2026-09-04 | GEICO | Business Applications Developer | Bethesda, MD +2 | — | swe | unknown | [apply](https://geico.wd1.myworkdayjobs.com/en-US/external/job/Bethesda-MD/Business-Applications-Developer_R0065721) |
-| 2026-09-22 | 2026-09-04 | Huntington Bank | Junior Backend Java Developer- Enterprise Payments and Credit Card | Minnetonka, MN +1 | — | swe | unknown | [apply](https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Minnetonka-MN/Enterprise-Payments-and-Credit-Card-Programmer-Analyst-2_R0070757) |
-| 2026-09-22 | 2026-09-04 | M1 Technology | Applications/DevOps Engineer | Herndon, VA | — | swe | unknown | [apply](https://m1technology.com/careers?gh_jid=4395019009) |
-| 2026-09-22 | 2026-09-04 | Ontic | Associate DevOps Engineer | Austin, TX | — | swe | unknown | [apply](https://jobs.ashbyhq.com/ontic/c4f5bf21-d5a9-488c-9638-631bd58de471) |

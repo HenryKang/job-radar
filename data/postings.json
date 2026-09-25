@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790296379,
+    "date_found": 1790313830,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790296379,
+    "date_found": 1790313830,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790296379,
+    "date_found": 1790313830,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1780014699,
-    "date_found": 1790296379,
+    "date_posted": 1780032138,
+    "date_found": 1790313830,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -93,8 +93,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1780014699,
-    "date_found": 1790296379,
+    "date_posted": 1780032138,
+    "date_found": 1790313830,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790209899,
-    "date_found": 1790296379,
+    "date_posted": 1790227338,
+    "date_found": 1790313830,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -133,11 +133,71 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789259499,
-    "date_found": 1790296379,
+    "date_posted": 1789276938,
+    "date_found": 1790313830,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "1083bcc2871094a0",
+    "dedup_key": "intern|snowflake|software engineer intern database engineering spring 2027",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
+    "locations": [
+      "US-CA-Menlo Park"
+    ],
+    "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+    "season": "Spring 2027",
+    "source": "ats:ashby:snowflake",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790298294,
+    "date_found": 1790313830,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "401ada11088a4cfd",
+    "dedup_key": "intern|snowflake|software engineer intern core infrastructure security spring 2027",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
+    "locations": [
+      "US-CA-Menlo Park"
+    ],
+    "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+    "season": "Spring 2027",
+    "source": "ats:ashby:snowflake",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790298182,
+    "date_found": 1790313830,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ae1f2d04213a9f4e",
+    "dedup_key": "intern|snowflake|software engineer intern ai ml spring 2027",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+    "locations": [
+      "US-CA-Menlo Park"
+    ],
+    "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
+    "season": "Spring 2027",
+    "source": "ats:ashby:snowflake",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790298350,
+    "date_found": 1790313830,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "7843f7b03bbf4fe9",

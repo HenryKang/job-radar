@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790364843,
+    "date_found": 1790376556,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790364843,
+    "date_found": 1790376556,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790364843,
+    "date_found": 1790376556,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "9d656cbbcfa856f1",
+    "dedup_key": "intern|doordash|machine learning intern masters summer 2027",
+    "company": "DoorDash",
+    "title": "Machine Learning Intern (Masters) - Summer 2027",
+    "locations": [
+      "San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA"
+    ],
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:doordashusa",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1790369944,
+    "date_found": 1790376556,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
     "id": "1775901cfc204b6a",

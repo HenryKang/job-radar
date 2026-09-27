@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-27 15:39 UTC · 1677 live & eligible postings (showing 400); 36 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-27 19:16 UTC · 1678 live & eligible postings (showing 400); 36 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-27 | 2026-09-24 | Raytheon | Software Engineer I - Test Solutions - Onsite | Tucson, AZ | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492) |
 | 2026-09-25 | 2026-09-24 | Adobe | 2027 University Graduate - Software Engineer | San Francisco, CA +4 | — | swe | unknown | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) |
 | 2026-09-25 | 2026-09-02 | Amazon | Software Development Engineer I - GenAI and Agentic ADC | Arlington, VA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10550768/apply) |
 | 2026-09-25 | 2026-09-25 | CesiumAstro | Embedded Software Engineer I | Westminster, CO | — | swe | ok | [apply](https://jobs.lever.co/CesiumAstro/d56f6207-fc5b-421d-904d-4d2e9ff621bf) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-27 15:39 UTC · 1677 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-09 | BlueCross BlueShield of Tennessee | Cloud Engineer | Remote - Chattanooga, TN | — | swe | unknown | [apply](https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Data-Engineer_R-50971) |
 | 2026-09-22 | 2026-09-09 | Careerswift | Software Support Specialist | USA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/careerswift.ai/8080a76c-a809-435a-9ae8-31518c125c53) |
 | 2026-09-22 | 2026-09-09 | Curtiss-Wright | Associate Software Development Engineer | Tewksbury, MA +1 | — | swe | unknown | [apply](https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-MA-Tewksbury-TCG/Associate-Software-Development-Engineer_JR12925-1) |
-| 2026-09-22 | 2026-09-09 | General Dynamics Mission Systems | Software Engineer - Entry Level - Top Secret Clearance Required | Dedham, MA | — | swe | unknown | [apply](https://careers-gdms.icims.com/jobs/74819/software-engineer-%e2%80%93-entry-level---top-secret-clearance-required/job) |

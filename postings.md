@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-28 06:51 UTC · 1678 live & eligible postings (showing 400); 36 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-28 15:24 UTC · 1679 live & eligible postings (showing 400); 36 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-28 | 2026-09-28 | Schonfeld | Entry Level Quantitative Researcher | New York, New York, United States | — | quant | ok | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8236826) |
 | 2026-09-27 | 2026-09-24 | Raytheon | Software Engineer I - Test Solutions - Onsite | Tucson, AZ | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492) |
 | 2026-09-25 | 2026-09-24 | Adobe | 2027 University Graduate - Software Engineer | San Francisco, CA +4 | — | swe | unknown | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) |
 | 2026-09-25 | 2026-09-02 | Amazon | Software Development Engineer I - GenAI and Agentic ADC | Arlington, VA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10550768/apply) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-28 06:51 UTC · 1678 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-10 | SEP | Software Engineer - 2027 start dates - in person | Westfield, IN | — | swe | unknown | [apply](https://jobs.lever.co/sep/f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08) |
 | 2026-09-22 | 2026-09-09 | BlueCross BlueShield of Tennessee | Cloud Engineer | Remote - Chattanooga, TN | — | swe | unknown | [apply](https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Data-Engineer_R-50971) |
 | 2026-09-22 | 2026-09-09 | Careerswift | Software Support Specialist | USA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/careerswift.ai/8080a76c-a809-435a-9ae8-31518c125c53) |
-| 2026-09-22 | 2026-09-09 | Curtiss-Wright | Associate Software Development Engineer | Tewksbury, MA +1 | — | swe | unknown | [apply](https://curtisswright.wd1.myworkdayjobs.com/en-US/cw_external_career_site/job/US-MA-Tewksbury-TCG/Associate-Software-Development-Engineer_JR12925-1) |

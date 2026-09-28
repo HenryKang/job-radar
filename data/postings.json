@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790609030,
+    "date_found": 1790630657,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790609030,
+    "date_found": 1790630657,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,410 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790609030,
+    "date_found": 1790630657,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "0872e74d3d26d2b9",
+    "dedup_key": "new grad|microsoft|cloud network engineer",
+    "company": "Microsoft",
+    "title": "Cloud Network Engineer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557001979",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790457724,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "412dbe36c97902f0",
+    "dedup_key": "new grad|amazon|software development engineer consumer domains",
+    "company": "Amazon",
+    "title": "Software Development Engineer - Consumer Domains",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10560727/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e0305bcdfa8c6e70",
+    "dedup_key": "new grad|roblox|software engineer genai platform",
+    "company": "Roblox",
+    "title": "Software Engineer - GenAI Platform",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://careers.roblox.com/jobs/8171283?gh_jid=8171283",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: HTTPSConnectionPool(host='careers.roblox.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "id": "45813e4d1a3480dc",
+    "dedup_key": "new grad|quora|software engineer new grad machine learning platform quora remote",
+    "company": "Quora",
+    "title": "Software Engineer New Grad - Machine Learning Platform - Quora - Remote",
+    "locations": [
+      "Remote - USA +1"
+    ],
+    "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790457724,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5a7857fb8fd9e0cf",
+    "dedup_key": "new grad|ge appliances|edison engineering development program eedp software january 2027",
+    "company": "GE Appliances",
+    "title": "Edison Engineering Development Program - EEDP - Software - January 2027",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "url": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4c7e592660d5f911",
+    "dedup_key": "new grad|government employees health association|associate cloud data engineer edw team",
+    "company": "Government Employees Health Association",
+    "title": "Associate Cloud Data Engineer - EDW Team",
+    "locations": [
+      "Lee's Summit, MO"
+    ],
+    "url": "https://geha.wd5.myworkdayjobs.com/en-US/gehacareers/job/Lees-Summit-MO/Associate-Cloud-Data-Engineer---EDW-Team_R-005336",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bd24225b882a2fad",
+    "dedup_key": "new grad|guidehouse|jr onestream developer",
+    "company": "Guidehouse",
+    "title": "Jr. OneStream Developer",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Jr-OneStream-Developer_44095-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4c37f22eab053842",
+    "dedup_key": "new grad|hp|software quality engineer",
+    "company": "HP",
+    "title": "Software Quality Engineer",
+    "locations": [
+      "Fort Collins, CO"
+    ],
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168481-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "94a160080134cafc",
+    "dedup_key": "new grad|hp|software quality engineer",
+    "company": "HP",
+    "title": "Software Quality Engineer",
+    "locations": [
+      "Fort Collins, CO"
+    ],
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168480-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2ab3ed1fb64cfb59",
+    "dedup_key": "new grad|hp|software quality engineer",
+    "company": "HP",
+    "title": "Software Quality Engineer",
+    "locations": [
+      "Fort Collins, CO"
+    ],
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168481",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7ec6ad75c64605fc",
+    "dedup_key": "new grad|hp|software quality engineer",
+    "company": "HP",
+    "title": "Software Quality Engineer",
+    "locations": [
+      "Fort Collins, CO"
+    ],
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Quality-Engineer_3168480",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e76b54b88757b3a5",
+    "dedup_key": "new grad|interstate waste services|software engineer",
+    "company": "Interstate Waste Services",
+    "title": "Software Engineer",
+    "locations": [
+      "Teaneck, NJ"
+    ],
+    "url": "https://careers-interstatewaste.icims.com/jobs/5717/software-engineer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8dfcb3949f25c126",
+    "dedup_key": "new grad|leidos|software development engineer",
+    "company": "Leidos",
+    "title": "Software Development Engineer",
+    "locations": [
+      "Gaithersburg, MD"
+    ],
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "483efee7e2884229",
+    "dedup_key": "new grad|lodestar|software engineer i payload engineer",
+    "company": "Lodestar",
+    "title": "Software Engineer I: Payload Engineer",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4987198101",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "93fc395a0248b5b3",
+    "dedup_key": "new grad|snap finance|software engineer applied ai",
+    "company": "Snap Finance",
+    "title": "Software Engineer - Applied AI",
+    "locations": [
+      "West Valley City, UT"
+    ],
+    "url": "https://snapfinance.wd1.myworkdayjobs.com/en-US/snap_external_careers/job/Metro-9---West-Valley-City/Software-Engineer---Applied-AI_R-2928",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "11dc9636fe06fede",
+    "dedup_key": "new grad|snap finance|software engineer i",
+    "company": "Snap Finance",
+    "title": "Software Engineer I",
+    "locations": [
+      "Arizona, USA"
+    ],
+    "url": "https://snapfinance.wd1.myworkdayjobs.com/en-US/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "88362f9fc58b1bcd",
+    "dedup_key": "new grad|the university of texas at austin|software developer analyst",
+    "company": "The University of Texas at Austin",
+    "title": "Software Developer / Analyst",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/utstaff/job/UT-MAIN-CAMPUS/Software-Developer---Analyst_R_00049085",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7852bf9fc3728308",
+    "dedup_key": "new grad|varsity brands|software engineer i net",
+    "company": "Varsity Brands",
+    "title": "Software Engineer I - .Net",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "url": "https://varsitybrands.wd503.myworkdayjobs.com/en-US/externalcareersite/job/TN---Memphis/Software-Engineer-I--Net-_JR114518",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a0fee6325786d5c4",
+    "dedup_key": "new grad|varsity brands|front end developer",
+    "company": "Varsity Brands",
+    "title": "Front End Developer",
+    "locations": [
+      "Indiana, USA +2"
+    ],
+    "url": "https://varsitybrands.wd503.myworkdayjobs.com/en-US/externalcareersite/job/US---Indiana/Front-End-Developer_JR114521",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790371324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "906b8a9e46b3c715",
+    "dedup_key": "new grad|pathai|software engineer i fullstack",
+    "company": "PathAI",
+    "title": "Software Engineer I - Fullstack",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1786483324,
+    "date_found": 1790630657,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "bb4eeb0b5c872b8b",

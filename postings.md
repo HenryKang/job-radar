@@ -1,6 +1,6 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-27 22:33 UTC · 1678 live & eligible postings (showing 400); 36 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-28 01:12 UTC · 1678 live & eligible postings (showing 400); 36 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

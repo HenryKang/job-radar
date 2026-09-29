@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790710754,
+    "date_found": 1790723531,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790710754,
+    "date_found": 1790723531,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790710754,
+    "date_found": 1790723531,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "4254c4ae0284be14",
+    "dedup_key": "new grad|copper river family of companies|junior entry level power platform developer",
+    "company": "Copper River Family of Companies",
+    "title": "Junior/Entry-Level Power Platform Developer",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "url": "https://job-boards.greenhouse.io/crfamilyofcompanies/jobs/8006981003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790723451,
+    "date_found": 1790723531,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
   },
   {
     "id": "d9b3808c7511dc9b",
@@ -178,26 +198,6 @@
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "greenhouse api: undergrad markers"
-  },
-  {
-    "id": "4254c4ae0284be14",
-    "dedup_key": "new grad|copper river family of companies|junior entry level power platform developer",
-    "company": "Copper River Family of Companies",
-    "title": "Junior/Entry-Level Power Platform Developer",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "url": "https://job-boards.greenhouse.io/crfamilyofcompanies/jobs/8006981003",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1790710638,
-    "date_found": 1790710754,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "greenhouse api: job not found"
   },
   {
     "id": "cba7adaac19fe78a",

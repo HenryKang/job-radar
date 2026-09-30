@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-30 02:08 UTC · 1726 live & eligible postings (showing 400); 37 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-09-30 08:28 UTC · 1727 live & eligible postings (showing 400); 37 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-09-30 | 2026-09-17 | Amazon | Operations Engineer Intern (Field) | DE, HE, Bad Hersfeld | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/10551626/operations-engineer-intern-field) |
 | 2026-09-30 | 2026-09-29 | Robinhood | Data Science Intern (Summer 2027) | Menlo Park, CA | Summer 2027 | ml_data | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738) |
 | 2026-09-30 | 2026-09-30 | Ripple | Software Engineer II | San Francisco, CA, United States | — | swe | unknown | [apply](https://ripple.com/careers/all-jobs/job/8241603?gh_jid=8241603) |
 | 2026-09-29 | 2026-09-29 | Rivian | Embedded Software Engineer - Lighting | Irvine, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/rivianvw.tech/356406ce-9df0-45b3-be3f-9bfa493db5d2) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-30 02:08 UTC · 1726 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-14 | IQVIA | MedTech Field Service Software Tech Entry level - Eastern Time Zone | Atlanta, GA +6 | — | swe | unknown | [apply](https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Atlanta-GA/MedTech-Field-Service-Software-Tech-Entry-level---Eastern-Time-Zone_R1568794) |
 | 2026-09-22 | 2026-09-14 | IQVIA | MedTech Field Service Software Tech Entry Level - Central Time Zone | Kansas City, MO +4 | — | swe | unknown | [apply](https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Kansas-City-MO/MedTech-Field-Service-Software-Tech-Entry-Level---Central-Time-Zone_R1568795) |
 | 2026-09-22 | 2026-09-14 | IQVIA | MedTech Field Service Software Tech Entry Level - Pacific Time Zone | Phoenix, AZ | — | swe | unknown | [apply](https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796) |
-| 2026-09-22 | 2026-09-14 | Itron | Software Quality Assurance Engineer | Washington, DC | — | swe | unknown | [apply](https://itron.wd5.myworkdayjobs.com/en-US/itron/job/United-States-of-America-Washington-Liberty-Lake/Software-Quality-Assurance-Engineer_JR102923-1) |

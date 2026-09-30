@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790723531,
+    "date_found": 1790734076,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790723531,
+    "date_found": 1790734076,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790723531,
+    "date_found": 1790734076,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,11 +73,51 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790723451,
-    "date_found": 1790723531,
+    "date_posted": 1790733946,
+    "date_found": 1790734076,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "927b92fe8d61b9c0",
+    "dedup_key": "intern|robinhood|data science intern summer 2027",
+    "company": "Robinhood",
+    "title": "Data Science Intern (Summer 2027)",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:robinhood",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1790723609,
+    "date_found": 1790734076,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "a4ec1ff99586fb7c",
+    "dedup_key": "intern|ripple|software engineer ii",
+    "company": "Ripple",
+    "title": "Software Engineer II",
+    "locations": [
+      "San Francisco, CA, United States"
+    ],
+    "url": "https://ripple.com/careers/all-jobs/job/8241603?gh_jid=8241603",
+    "season": "",
+    "source": "ats:greenhouse:ripple",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790732349,
+    "date_found": 1790734076,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "d9b3808c7511dc9b",

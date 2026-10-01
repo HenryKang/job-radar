@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-09-30 20:19 UTC · 1755 live & eligible postings (showing 400); 37 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-01 00:11 UTC · 1756 live & eligible postings (showing 400); 37 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-01 | 2026-09-30 | Affirm | Software Engineer II, Backend (Streaming) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8003020003) |
 | 2026-09-30 | 2026-09-30 | Amazon | Software Development Engineer - FinTech/Customer Service Tech | Newark, NJ | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10564323/apply) |
 | 2026-09-30 | 2026-09-29 | Microsoft | Software Engineer | Washington, DC | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557008566) |
 | 2026-09-30 | 2026-09-30 | ERG | Power BI Developer | Washington, DC | — | swe | ok | [apply](https://jobs.lever.co/erg/b6fd32ca-e15e-4abf-b2fd-8a1e7498ab5a) |
@@ -403,4 +404,3 @@ _Last updated: 2026-09-30 20:19 UTC · 1755 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-15 | LexisNexis | Aspire Tech Graduate Software Engineer I | Raleigh, NC | — | swe | unknown | [apply](https://relx.wd3.myworkdayjobs.com/en-US/lexisnexislegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694) |
 | 2026-09-22 | 2026-09-15 | Miter | Software Engineer - New Grad | New York City, NY +1 | — | swe | unknown | [apply](https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d) |
 | 2026-09-22 | 2026-09-15 | Okta | Developer Support Associate - New Grad | Chicago, IL | — | swe | unknown | [apply](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506) |
-| 2026-09-22 | 2026-09-15 | PayPal | Software Engineer | Austin, TX | — | swe | unknown | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0138151) |

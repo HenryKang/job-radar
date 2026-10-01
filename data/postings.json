@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790799547,
+    "date_found": 1790813482,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790799547,
+    "date_found": 1790813482,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790799547,
+    "date_found": 1790813482,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "b48749fe44e8122f",
+    "dedup_key": "intern|affirm|software engineer ii backend streaming",
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Streaming)",
+    "locations": [
+      "Remote US"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003020003",
+    "season": "",
+    "source": "ats:greenhouse:affirm",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790807221,
+    "date_found": 1790813482,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "7a041f0e02bba905",

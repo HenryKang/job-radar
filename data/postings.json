@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790860008,
+    "date_found": 1790880723,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790860008,
+    "date_found": 1790880723,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,830 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790860008,
+    "date_found": 1790880723,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "3f8d41f2ae6515b2",
+    "dedup_key": "new grad|snap|software engineer backend level 4",
+    "company": "Snap",
+    "title": "Software Engineer - Backend - Level 4",
+    "locations": [
+      "Los Angeles, CA +3"
+    ],
+    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Los-Angeles-California/Software-Engineer--Backend--Level-4_Q326SWEB2",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "199720740afb8f43",
+    "dedup_key": "new grad|amazon|front end engineer amazon quick",
+    "company": "Amazon",
+    "title": "Front End Engineer - Amazon Quick",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10565709/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1787943031,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3fbb585fe5f31d40",
+    "dedup_key": "new grad|frontier technology|associate software developer early career student talent",
+    "company": "FRONTIER TECHNOLOGY",
+    "title": "Associate Software Developer - Early Career / Student Talent",
+    "locations": [
+      "Norfolk, VA"
+    ],
+    "url": "https://careers-ftidefense.icims.com/jobs/7096/associate-software-developer-%e2%80%93-early-career---student-talent/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790880631,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "565efa5ad70b4517",
+    "dedup_key": "new grad|frontier technology|associate software developer transitioning navy service members",
+    "company": "FRONTIER TECHNOLOGY",
+    "title": "Associate Software Developer - Transitioning Navy Service Members",
+    "locations": [
+      "Norfolk, VA"
+    ],
+    "url": "https://careers-ftidefense.icims.com/jobs/7097/associate-software-developer-%e2%80%93-transitioning-navy-service-members/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790880631,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4f596c9fa362dcc0",
+    "dedup_key": "new grad|jamf|software engineer i",
+    "company": "Jamf",
+    "title": "Software Engineer I",
+    "locations": [
+      "Remote - USA"
+    ],
+    "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6207163004&gh_jid=6207163004",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790880631,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8f243086c9b366f0",
+    "dedup_key": "new grad|spacex|rf silicon software engineer rfic engineering",
+    "company": "SpaceX",
+    "title": "RF Silicon Software Engineer - RFIC Engineering",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8856971002?gh_jid=8856971002",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790880631,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "d07deaf79b1f46b4",
+    "dedup_key": "new grad|teleskope|software engineer",
+    "company": "Teleskope",
+    "title": "Software Engineer",
+    "locations": [
+      "New York City, NY"
+    ],
+    "url": "https://jobs.ashbyhq.com/teleskope/f96084cd-766a-4791-95e4-2f4ffbadacc0",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790880631,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4e9af1dddab0d771",
+    "dedup_key": "new grad|by light|software engineer i",
+    "company": "By Light",
+    "title": "Software Engineer I",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://jobs-bylight.icims.com/jobs/11579/software-engineer-i/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "34e8fd738289e597",
+    "dedup_key": "new grad|freedom technology solutions group|backend developer junior 790",
+    "company": "Freedom Technology Solutions Group",
+    "title": "Backend Developer Junior 790",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5252868007",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "fbe3b2a79159adee",
+    "dedup_key": "new grad|general dynamics mission systems|software systems engineer",
+    "company": "General Dynamics Mission Systems",
+    "title": "Software Systems Engineer",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "url": "https://careers-gdms.icims.com/jobs/75210/software-systems-engineer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5bd66c2c8b89a90b",
+    "dedup_key": "new grad|iqvia|systems support developer",
+    "company": "IQVIA",
+    "title": "Systems Support Developer",
+    "locations": [
+      "Wayne, PA"
+    ],
+    "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Wayne-PA-Unites-States-of-America/Systems-Support-Developer_R1558224-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b28da45bc52303e4",
+    "dedup_key": "new grad|ncr|site reliability engineer",
+    "company": "NCR",
+    "title": "Site Reliability Engineer",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Site-Reliability-Engineer_R0158645",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2d8beba6e3057041",
+    "dedup_key": "new grad|ncr|site reliability engineer",
+    "company": "NCR",
+    "title": "Site Reliability Engineer",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Site-Reliability-Engineer_R0158644",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "68f56d8650dcef39",
+    "dedup_key": "new grad|oklahoma state government|cobol applications developer",
+    "company": "Oklahoma State Government",
+    "title": "COBOL Applications Developer",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "url": "https://okgov.wd1.myworkdayjobs.com/en-US/okgovjobs/job/Oklahoma-County/COBOL-Applications-Developer_JR66062",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d1771596e538c5cf",
+    "dedup_key": "new grad|omegahires|python full stack developer",
+    "company": "OmegaHires",
+    "title": "Python Full Stack Developer",
+    "locations": [
+      "Raritan, NJ"
+    ],
+    "url": "https://omegahires.applytojob.com/apply/bx7rmCpQTY/Python-Full-Stack-Developer",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2c53bb65183f0994",
+    "dedup_key": "new grad|oracle|february 2027 undergrad software engineer oracle cloud infrastructure oci nashville tn",
+    "company": "Oracle",
+    "title": "February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure - OCI - Nashville - TN",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/346357",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fce255011155e32b",
+    "dedup_key": "new grad|parexel|scientist ii laboratory informatics vba developer fsp",
+    "company": "Parexel",
+    "title": "Scientist II - Laboratory Informatics & VBA Developer - FSP",
+    "locations": [
+      "Pennsylvania, USA"
+    ],
+    "url": "https://parexel.wd1.myworkdayjobs.com/en-US/parexel_external_careers/job/United-States---Pennsylvania---Client-Onsite/Scientist-II---Laboratory-Informatics---VBA-Developer---FSP_R0000046423",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d1d5dac65784e6a4",
+    "dedup_key": "new grad|raytheon|software engineer developer i onsite",
+    "company": "Raytheon",
+    "title": "Software Engineer/Developer I - Onsite",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "957510253759bc3e",
+    "dedup_key": "new grad|raytheon|software developer engineer i onsite",
+    "company": "Raytheon",
+    "title": "Software/Developer Engineer I - Onsite",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01878881",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "727c67226db79ad0",
+    "dedup_key": "new grad|raytheon|software engineer developer i onsite",
+    "company": "Raytheon",
+    "title": "Software Engineer/Developer I - Onsite",
+    "locations": [
+      "Portsmouth, RI"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-Developer-I--Onsite-_01879018",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1705a41bfb77afbb",
+    "dedup_key": "new grad|raytheon|software engineer developer i onsite",
+    "company": "Raytheon",
+    "title": "Software Engineer/Developer I - Onsite",
+    "locations": [
+      "Tewksbury, MA"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "39cd695d37a48819",
+    "dedup_key": "new grad|raytheon|software developer engineer i onsite",
+    "company": "Raytheon",
+    "title": "Software/Developer Engineer I - Onsite",
+    "locations": [
+      "FT WAYNE, IN"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "99c72ae8ba034b5e",
+    "dedup_key": "new grad|texas sports academy main|junior ai software engineer austin",
+    "company": "Texas Sports Academy Main",
+    "title": "Junior AI Software Engineer - Austin",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4fe21453e218014a",
+    "dedup_key": "new grad|true anomaly|software engineer ii spacecraft simulation",
+    "company": "True Anomaly",
+    "title": "Software Engineer II - Spacecraft Simulation",
+    "locations": [
+      "Denver, CO +1"
+    ],
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252967007",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790794231,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "30ff4f4b496a91c9",
+    "dedup_key": "new grad|northrop grumman|calling all embedded software engineers",
+    "company": "Northrop Grumman",
+    "title": "Calling all Embedded Software Engineers!",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Arizona-Chandler/Calling-all-Embedded-Software-Engineers-_R10253219",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790707831,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e03468df96c2b3b0",
+    "dedup_key": "new grad|northrop grumman|2027 associate software systems engineer software systems engineer huntsville al",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Systems Engineer / Software Systems Engineer - Huntsville AL",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Systems-Engineer---Software-Systems-Engineer---Huntsville-AL_R10253385-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790707831,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3538e338a8d8175e",
+    "dedup_key": "new grad|calyx containers|software tester entry level",
+    "company": "Calyx Containers",
+    "title": "Software Tester - Entry Level",
+    "locations": [
+      "West Valley City, UT"
+    ],
+    "url": "https://calyxcontainers.applytojob.com/apply/JeajrFSAfK/Software-Tester-Entry-Level",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790275831,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c552057d3eac2732",
+    "dedup_key": "intern|pinterest|machine learning intern 2027 toronto",
+    "company": "Pinterest",
+    "title": "Machine Learning Intern 2027 (Toronto)",
+    "locations": [
+      "Toronto, ON, CA"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1790874508,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "105cea7932a6c21e",
+    "dedup_key": "intern|pinterest|master s data science internship 2027 usa",
+    "company": "Pinterest",
+    "title": "Master's Data Science Internship 2027 (USA)",
+    "locations": [
+      "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1790874994,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "793d9d18451f623c",
+    "dedup_key": "intern|pinterest|master s machine learning internship 2027 usa",
+    "company": "Pinterest",
+    "title": "Master's Machine Learning Internship 2027 (USA)",
+    "locations": [
+      "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1790874799,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "33a4b6b3f013d736",
+    "dedup_key": "intern|pinterest|software engineering intern 2027 toronto",
+    "company": "Pinterest",
+    "title": "Software Engineering Intern 2027 (Toronto)",
+    "locations": [
+      "Toronto, ON, CA"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790874198,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4a2a1433af32c7db",
+    "dedup_key": "intern|pinterest|software engineer intern 2027 usa",
+    "company": "Pinterest",
+    "title": "Software Engineer Intern 2027 (USA)",
+    "locations": [
+      "San Francisco, CA, US; Remote, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790874232,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9540811e82a2890f",
+    "dedup_key": "intern|pinterest|ux engineering intern san francisco",
+    "company": "Pinterest",
+    "title": "UX Engineering Intern (San Francisco)",
+    "locations": [
+      "San Francisco, CA, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790874065,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0b2705085920d6af",
+    "dedup_key": "intern|pinterest|ux quantitative research intern usa remote",
+    "company": "Pinterest",
+    "title": "UX Quantitative Research Intern (USA)  *Remote",
+    "locations": [
+      "Remote, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1790875202,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9b7a39700a6f83bb",
+    "dedup_key": "intern|pinterest|master s university grad data scientist usa",
+    "company": "Pinterest",
+    "title": "Master's University Grad Data Scientist (USA)",
+    "locations": [
+      "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1790875336,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "cead87ac59251433",
+    "dedup_key": "intern|pinterest|master s university grad machine learning engineer 2027 usa",
+    "company": "Pinterest",
+    "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+    "locations": [
+      "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790878223,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "ffe2c2a610e74d7b",
+    "dedup_key": "intern|pinterest|university grad machine learning engineer 2027 toronto",
+    "company": "Pinterest",
+    "title": "University Grad Machine Learning Engineer 2027 (Toronto)",
+    "locations": [
+      "Toronto, ON, CA"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138065",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790874770,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d290882c0ce425a9",
+    "dedup_key": "intern|pinterest|university grad software engineer 2027 usa",
+    "company": "Pinterest",
+    "title": "University Grad Software Engineer 2027 (USA)",
+    "locations": [
+      "San Francisco, CA, US; Remote, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790874401,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "69cafde2b8e37701",
+    "dedup_key": "intern|pinterest|university grad software engineer toronto",
+    "company": "Pinterest",
+    "title": "University Grad Software Engineer (Toronto)",
+    "locations": [
+      "Toronto, ON, CA"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790874643,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "13943f8ab54a75f4",
+    "dedup_key": "intern|old mission|quantitative trader 2027 micro internship program january start",
+    "company": "Old Mission",
+    "title": "Quantitative Trader - 2027 Micro-Internship Program (January Start)",
+    "locations": [
+      "Chicago, IL, United States"
+    ],
+    "url": "https://www.oldmissioncapital.com/careers/?gh_jid=8002345003",
+    "season": "",
+    "source": "ats:greenhouse:oldmissioncapital",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1790863608,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3a07f13129f9e332",
+    "dedup_key": "intern|affirm|software engineer ii fullstack card acquisition",
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Card Acquisition)",
+    "locations": [
+      "Remote US"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+    "season": "",
+    "source": "ats:greenhouse:affirm",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790879220,
+    "date_found": 1790880723,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "b48749fe44e8122f",

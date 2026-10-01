@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-01 18:52 UTC · 1793 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-01 23:10 UTC · 1795 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-01 | 2026-10-01 | IMC Trading | Deep Learning Research Intern - Summer 2027 - Chicago, New York | Chicago, United States; New York, United States | Summer 2027 | ml_data | ok | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
+| 2026-10-01 | 2026-10-01 | Point72 | Micro-Intern: Research Technology Developer (IAP) | New York | — | swe | ok | [apply](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) |
 | 2026-10-01 | 2026-09-30 | Snap | Software Engineer - Backend - Level 4 | Los Angeles, CA +3 | — | swe | unknown | [apply](https://snapchat.wd1.myworkdayjobs.com/en-US/sourced/job/Los-Angeles-California/Software-Engineer--Backend--Level-4_Q326SWEB2) |
 | 2026-10-01 | 2026-08-28 | Amazon | Front End Engineer - Amazon Quick | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10565709/apply) |
 | 2026-10-01 | 2026-10-01 | FRONTIER TECHNOLOGY | Associate Software Developer - Early Career / Student Talent | Norfolk, VA | — | swe | unknown | [apply](https://careers-ftidefense.icims.com/jobs/7096/associate-software-developer-%e2%80%93-early-career---student-talent/job) |
@@ -402,5 +404,3 @@ _Last updated: 2026-10-01 18:52 UTC · 1793 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-17 | Visa | Software Engineer - New College Grad - 2027 - Austin - TX | Austin, TX | — | swe | unknown | [apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W) |
 | 2026-09-22 | 2026-09-17 | Visa | Software Engineer - New College Grad - 2027 Foster City - CA | Foster City, CA | — | swe | unknown | [apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1) |
 | 2026-09-22 | 2026-09-17 | Visa | Software Engineer - New College Grad - Bellevue - 2027 | USA +1 | — | swe | unknown | [apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-2) |
-| 2026-09-22 | 2026-09-17 | Visa | Software Engineer - New College Grad - Bellevue - 2027 | USA +1 | — | swe | unknown | [apply](https://visa.wd5.myworkdayjobs.com/en-US/visa/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-3) |
-| 2026-09-22 | 2026-09-17 | Visa | Software Engineer - New College Grad - 2027 - Austin - TX | Austin, TX | — | swe | unknown | [apply](https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W-2) |

@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-02 19:57 UTC · 1831 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-02 23:46 UTC · 1833 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-02 | 2026-10-02 | Affirm | Software Engineer Intern (Summer 2027) | San Francisco, California, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
+| 2026-10-02 | 2026-10-02 | Affirm | Software Engineer (Machine Learning) Intern (Summer 2027) | San Francisco, California, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
 | 2026-10-02 | 2026-10-01 | Amazon | Software Development Engineer - ROBOTICS - Early Career - 2027 | North Reading, MA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10567489/apply) |
 | 2026-10-02 | 2026-10-01 | Microsoft | Software Engineer - Forward Deployed Engineer | Washington, DC | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557004814) |
 | 2026-10-02 | 2026-10-01 | Pinterest | University Grad Software Engineer 2027 - USA | Remote - San Francisco, CA | — | swe | unknown | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) |
@@ -402,5 +404,3 @@ _Last updated: 2026-10-02 19:57 UTC · 1831 live & eligible postings (showing 40
 | 2026-09-22 | 2026-09-19 | SpaceX | Software Engineer | Starbase, TX | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002) |
 | 2026-09-22 | 2026-09-19 | Study.com | AI-Native Software Engineer - New Grad | Mountain View, CA | — | swe | unknown | [apply](https://study.com/pages/jobApplication.html/?gh_jid=5429313008) |
 | 2026-09-22 | 2026-09-19 | Valency Systems | Software Engineer - Full-stack | Berkeley, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff) |
-| 2026-09-22 | 2026-09-18 | Axos Bank | Jr. Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Jr-Software-Engineer_JR5480) |
-| 2026-09-22 | 2026-09-18 | Cala Health | Software Test Engineer | Remote - USA | — | swe | ok | [apply](https://job-boards.greenhouse.io/calahealth/jobs/6199439004) |

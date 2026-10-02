@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790929866,
+    "date_found": 1790953172,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790929866,
+    "date_found": 1790953172,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,70 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790929866,
+    "date_found": 1790953172,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "bdaec3f0c87b3882",
+    "dedup_key": "intern|amazon|business intelligence engineer intern germany",
+    "company": "Amazon",
+    "title": "Business Intelligence Engineer Intern Germany",
+    "locations": [
+      "DE, Munich"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790899200,
+    "date_found": 1790953172,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "83e6bb8d180f6a12",
+    "dedup_key": "intern|qube research|2027 internship or graduate fpga engineering",
+    "company": "Qube Research",
+    "title": "2027 – Internship or Graduate, FPGA Engineering",
+    "locations": [
+      "London, Paris, New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002",
+    "season": "",
+    "source": "ats:greenhouse:quberesearchandtechnologies",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790932858,
+    "date_found": 1790953172,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "6a0c8283b09fc960",
+    "dedup_key": "intern|qube research|2027 internship security engineer",
+    "company": "Qube Research",
+    "title": "2027 Internship – Security Engineer",
+    "locations": [
+      "London, Paris, New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
+    "season": "",
+    "source": "ats:greenhouse:quberesearchandtechnologies",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790932931,
+    "date_found": 1790953172,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "1d6cdc84a384c590",

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1791039315,
+    "date_found": 1791052876,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1791039315,
+    "date_found": 1791052876,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,430 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1791039315,
+    "date_found": 1791052876,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "ce6153a8266b10cf",
+    "dedup_key": "new grad|amazon|software dev engineer aws ecs",
+    "company": "Amazon",
+    "title": "Software Dev Engineer - AWS ECS",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10568315/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788547184,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "41dd8f73418d9cfa",
+    "dedup_key": "new grad|tiktok|ai software engineer graduate tiktok pgc ogc creator strategy 2027 start graduate tiktok pgc 2027 start",
+    "company": "TikTok",
+    "title": "AI Software Engineer Graduate - TikTok-PGC-OGC&Creator Strategy - 2027 Start - Graduate - TikTok PGC - 2027 Start",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://lifeattiktok.com/search/7672976491146004741",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1786559984,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "778c82e28628082f",
+    "dedup_key": "new grad|apex technology|embedded software engineer",
+    "company": "Apex Technology",
+    "title": "Embedded Software Engineer",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/3fcb723d-da79-4b36-847b-541d613b19d5",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "85eec9ba692fec50",
+    "dedup_key": "new grad|apptronik|firmware engineer hands",
+    "company": "Apptronik",
+    "title": "Firmware Engineer - Hands",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://boards.greenhouse.io/apptronik/jobs/6216205004?gh_jid=6216205004",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "107e8150f1d7fb46",
+    "dedup_key": "new grad|harvey|software engineer new grad 2027",
+    "company": "Harvey",
+    "title": "Software Engineer - New Grad - 2027",
+    "locations": [
+      "New York City, NY"
+    ],
+    "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d759b415c66fea93",
+    "dedup_key": "new grad|harvey|software engineer new grad 2027",
+    "company": "Harvey",
+    "title": "Software Engineer - New Grad - 2027",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "370276a7061e1c48",
+    "dedup_key": "new grad|ipipeline|software development engineer emerging professionals jan 2027",
+    "company": "iPipeline",
+    "title": "Software Development Engineer - Emerging Professionals Jan 2027",
+    "locations": [
+      "Fort Lauderdale, FL"
+    ],
+    "url": "https://talent-ipipeline.icims.com/jobs/1718/software-development-engineer-%28emerging-professionals-jan-2027%29/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "db15f842517705c5",
+    "dedup_key": "new grad|ipipeline|software development engineer emerging professionals jan 2027",
+    "company": "iPipeline",
+    "title": "Software Development Engineer - Emerging Professionals Jan 2027",
+    "locations": [
+      "Fort Lauderdale, FL"
+    ],
+    "url": "https://careers-ipipeline.icims.com/jobs/1718/software-development-engineer-%28emerging-professionals-jan-2027%29/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7d89ef53cd16043d",
+    "dedup_key": "new grad|oppfi|software engineer i",
+    "company": "OppFi",
+    "title": "Software Engineer I",
+    "locations": [
+      "USA"
+    ],
+    "url": "https://job-boards.greenhouse.io/opploans/jobs/8011770003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "35378eaf6e0eac5b",
+    "dedup_key": "new grad|servicenow|software engineer core infrastructure moveworks new grad",
+    "company": "ServiceNow",
+    "title": "Software Engineer - Core Infrastructure - Moveworks - New Grad",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f8922e0e0a21efd6",
+    "dedup_key": "new grad|stoke space|software integration engineer",
+    "company": "Stoke Space",
+    "title": "Software Integration Engineer",
+    "locations": [
+      "Moses Lake, WA"
+    ],
+    "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6215954004",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "f59c60015a8caf2d",
+    "dedup_key": "new grad|terraclear|jr software development tech support engineer",
+    "company": "TerraClear",
+    "title": "Jr Software Development / Tech Support Engineer",
+    "locations": [
+      "Issaquah, WA"
+    ],
+    "url": "https://job-boards.greenhouse.io/terraclear/jobs/6216392004",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791052784,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "05e13feacd0ce1a9",
+    "dedup_key": "new grad|blackstone|2027 blackstone technology innovation software engineer analyst london",
+    "company": "Blackstone",
+    "title": "2027 Blackstone Technology & Innovation Software Engineer Analyst - London",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/blackstone_campus_careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Technology---Innovation-Software-Engineer-Analyst--London-_45667",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790966384,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fb3ffc2626c4c2da",
+    "dedup_key": "new grad|caci|early career nasa space reactor 1 freedom flight software development engineer",
+    "company": "CACI",
+    "title": "Early Career NASA Space Reactor - 1 Freedom Flight Software Development Engineer",
+    "locations": [
+      "Houston, TX"
+    ],
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790966384,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0a7d69aae1adba03",
+    "dedup_key": "new grad|citi|junior generative ai application developer",
+    "company": "Citi",
+    "title": "Junior Generative AI Application Developer",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790966384,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8307356cc598029d",
+    "dedup_key": "new grad|sarnova|software engineer digitech remote",
+    "company": "Sarnova",
+    "title": "Software Engineer - Digitech - Remote",
+    "locations": [
+      "Chappaqua, NY"
+    ],
+    "url": "https://jobs.dayforcehcm.com/en-US/sarnova/candidateportal/jobs/1750",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790966384,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6b4c0eec5ccf8f98",
+    "dedup_key": "new grad|teladoc health|junior software engineering program associate engineer",
+    "company": "Teladoc Health",
+    "title": "Junior Software Engineering Program - Associate Engineer",
+    "locations": [
+      "Remote - USA"
+    ],
+    "url": "https://teladoc.wd503.myworkdayjobs.com/en-US/teladochealth_is_hiring/job/USA---Any-Location-Remote/Junior-Software-Engineering-Program---Associate-Engineer_JR21085",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790966384,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "70f47122ad983266",
+    "dedup_key": "new grad|united placement group|ai developer claude python",
+    "company": "United Placement Group",
+    "title": "AI Developer - Claude + Python",
+    "locations": [
+      "Bradenton, FL"
+    ],
+    "url": "https://apply.workable.com/unitedplacementgroup/j/9FD0C4A77F/",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790966384,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0c2c5339f11f9447",
+    "dedup_key": "new grad|zelis|software engineer",
+    "company": "Zelis",
+    "title": "Software Engineer",
+    "locations": [
+      "Remote - St. Louis, MO"
+    ],
+    "url": "https://zelis.wd115.myworkdayjobs.com/en-US/zeliscareers/job/US-MO-St-Louis-Corp/Software-Engineer_JR111789",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790966384,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "02f6d6d12f5e5532",
+    "dedup_key": "new grad|apex technology|flight software engineer early",
+    "company": "Apex Technology",
+    "title": "Flight Software Engineer - Early",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/a78c2ffd-bbaf-4884-b5a1-09631798f655",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790102384,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2e0ad9ebbd77d6a2",
+    "dedup_key": "new grad|rei systems|associate software engineer java",
+    "company": "REI Systems",
+    "title": "Associate Software Engineer- Java",
+    "locations": [
+      "Sterling, VA"
+    ],
+    "url": "https://careers-reisystems.icims.com/jobs/3496/associate-software-engineer--java/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789238384,
+    "date_found": 1791052876,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "70c5b69e1f6fe730",

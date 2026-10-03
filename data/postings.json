@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1790984762,
+    "date_found": 1791004375,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1790984762,
+    "date_found": 1791004375,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1790984762,
+    "date_found": 1791004375,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "70c5b69e1f6fe730",
+    "dedup_key": "intern|pinterest|ux quantitative research intern usa",
+    "company": "Pinterest",
+    "title": "UX Quantitative Research Intern (USA)",
+    "locations": [
+      "Remote, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1791003467,
+    "date_found": 1791004375,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "b485ef14a86289c0",

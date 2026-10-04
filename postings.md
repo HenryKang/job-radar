@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-04 12:51 UTC · 1855 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-04 17:34 UTC · 1859 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-04 | 2026-10-02 | Amentum | Software Developer | Dahlgren, VA | — | swe | unknown | [apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Software-Developer_R0172204) |
+| 2026-10-04 | 2026-10-02 | Amentum | Junior Software Developer | Dahlgren, VA | — | swe | unknown | [apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202) |
+| 2026-10-04 | 2026-10-02 | Broadridge | Junior Full Stack Software Engineer - Hybrid | Newark, NJ | — | swe | unknown | [apply](https://broadridge.wd5.myworkdayjobs.com/en-US/careers/job/Newark-NJ/Full-Stack-Software-Engineer--Hybrid-_JR1086388) |
+| 2026-10-04 | 2026-10-02 | Leidos | Junior CEMA Software Engineer | Lawton, OK | — | swe | unknown | [apply](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Lawton-OK/Junior-CEMA-Software-Engineer_R-00193576) |
 | 2026-10-03 | 2026-09-04 | Amazon | Software Dev Engineer - AWS ECS | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10568315/apply) |
 | 2026-10-03 | 2026-08-12 | TikTok | AI Software Engineer Graduate - TikTok-PGC-OGC&Creator Strategy - 2027 Start - Graduate - TikTok PGC - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7672976491146004741) |
 | 2026-10-03 | 2026-10-03 | Apex Technology | Embedded Software Engineer | Los Angeles, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/apex-technology-inc/3fcb723d-da79-4b36-847b-541d613b19d5) |
@@ -400,7 +404,3 @@ _Last updated: 2026-10-04 12:51 UTC · 1855 live & eligible postings (showing 40
 | 2026-09-22 | 2026-06-17 | Amazon | Physical Design Engineer - Static Timing Analysis - Annapurna Labs - Cloud Scale Machine Learning | Cupertino, CA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10454007/apply) |
 | 2026-09-22 | 2026-06-03 | Microsoft | Site Reliability Engineer II - CTJ - Top Secret | Washington, DC +1 | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556867058) |
 | 2026-09-22 | 2026-05-29 | Google | ASIC Design Verification Engineer - Google Cloud | Sunnyvale, CA | — | swe | ok | [apply](https://www.google.com/about/careers/applications/jobs/results/77174102632080070) |
-| 2026-09-22 | 2026-08-19 | Five Rings | LINK 2027: Software Development Intensive Program | New York City, NY | — | swe | unknown | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008) |
-| 2026-09-22 | 2026-08-05 | Belvedere Trading | Software Engineer - Entry Level 2027 | Chicago, IL | — | swe | unknown | [apply](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f) |
-| 2026-09-22 | 2026-07-15 | Citadel | Software Engineer - University Graduate - US | Houston, TX +2 | — | swe | unknown | [apply](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) |
-| 2026-09-22 | 2026-07-15 | Citadel Securities | Software Engineer - University Graduate - US | Miami, FL +1 | — | swe | ok | [apply](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) |

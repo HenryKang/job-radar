@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1791167048,
+    "date_found": 1791193030,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1791167048,
+    "date_found": 1791193030,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,50 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1791167048,
+    "date_found": 1791193030,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "01b3e9ea83303814",
+    "dedup_key": "intern|nvidia|nvidia 2027 ignite internships software engineering",
+    "company": "Nvidia",
+    "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+    "season": "",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1791193030,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "faf2fd87d60999d9",
+    "dedup_key": "intern|nvidia|nvidia 2027 ignite internships hardware engineering",
+    "company": "Nvidia",
+    "title": "NVIDIA 2027 Ignite Internships: Hardware Engineering",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047",
+    "season": "",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1791193030,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "e02cf947e9e4e4ac",

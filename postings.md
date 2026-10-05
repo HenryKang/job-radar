@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-05 02:24 UTC · 1859 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-05 09:37 UTC · 1861 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-05 | — | Nvidia | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
+| 2026-10-05 | — | Nvidia | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) |
 | 2026-10-04 | 2026-10-02 | Amentum | Software Developer | Dahlgren, VA | — | swe | unknown | [apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Software-Developer_R0172204) |
 | 2026-10-04 | 2026-10-02 | Amentum | Junior Software Developer | Dahlgren, VA | — | swe | unknown | [apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202) |
 | 2026-10-04 | 2026-10-02 | Broadridge | Junior Full Stack Software Engineer - Hybrid | Newark, NJ | — | swe | unknown | [apply](https://broadridge.wd5.myworkdayjobs.com/en-US/careers/job/Newark-NJ/Full-Stack-Software-Engineer--Hybrid-_JR1086388) |
@@ -402,5 +404,3 @@ _Last updated: 2026-10-05 02:24 UTC · 1859 live & eligible postings (showing 40
 | 2026-09-22 | 2026-07-02 | Amazon | Software Development Engineer I - ML Infra Services - Annapurna Labs | Cupertino, CA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10464055/apply) |
 | 2026-09-22 | 2026-07-02 | Snap | Software Engineer - iOS - Level 4 | Los Angeles, CA +3 | — | swe | unknown | [apply](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-4_Q326SWEI2-1) |
 | 2026-09-22 | 2026-06-17 | Amazon | Physical Design Engineer - Static Timing Analysis - Annapurna Labs - Cloud Scale Machine Learning | Cupertino, CA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10454007/apply) |
-| 2026-09-22 | 2026-06-03 | Microsoft | Site Reliability Engineer II - CTJ - Top Secret | Washington, DC +1 | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556867058) |
-| 2026-09-22 | 2026-05-29 | Google | ASIC Design Verification Engineer - Google Cloud | Sunnyvale, CA | — | swe | ok | [apply](https://www.google.com/about/careers/applications/jobs/results/77174102632080070) |

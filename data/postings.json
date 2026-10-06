@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1791226245,
+    "date_found": 1791247660,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1791226245,
+    "date_found": 1791247660,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,90 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1791226245,
+    "date_found": 1791247660,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "94ed67b1226a55c2",
+    "dedup_key": "new grad|nationwide|engineer software engineer post issue optimization java angular and aws entry level",
+    "company": "Nationwide",
+    "title": "Engineer - Software Engineer - Post Issue Optimization - Java - Angular - and AWS - Entry Level",
+    "locations": [
+      "Ohio, USA"
+    ],
+    "url": "https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791247570,
+    "date_found": 1791247660,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "44e03a78919bbc9e",
+    "dedup_key": "new grad|university of notre dame|servicenow developer professional",
+    "company": "University of Notre Dame",
+    "title": "ServiceNow Developer Professional",
+    "locations": [
+      "Notre Dame, IN"
+    ],
+    "url": "https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990015890869-servicenow-developer-professional?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791247570,
+    "date_found": 1791247660,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e1821bbe78b6ea44",
+    "dedup_key": "new grad|northrop grumman|associate embedded embedded software engineer mission and displays",
+    "company": "Northrop Grumman",
+    "title": "Associate Embedded / Embedded Software Engineer - Mission and Displays",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Embedded---Embedded-Software-Engineer---Mission-and-Displays_R10243614-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1785890770,
+    "date_found": 1791247660,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b61782fd814892b8",
+    "dedup_key": "intern|pinterest|software engineer ii monetization engineering",
+    "company": "Pinterest",
+    "title": "Software Engineer II, Monetization Engineering",
+    "locations": [
+      "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8227344",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791232924,
+    "date_found": 1791247660,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "01b3e9ea83303814",

@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-05 18:50 UTC · 1861 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-06 00:47 UTC · 1865 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-06 | 2026-10-06 | Nationwide | Engineer - Software Engineer - Post Issue Optimization - Java - Angular - and AWS - Entry Level | Ohio, USA | — | swe | unknown | [apply](https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567) |
+| 2026-10-06 | 2026-10-06 | University of Notre Dame | ServiceNow Developer Professional | Notre Dame, IN | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990015890869-servicenow-developer-professional?oga=true) |
+| 2026-10-06 | 2026-08-05 | Northrop Grumman | Associate Embedded / Embedded Software Engineer - Mission and Displays | Melbourne, FL | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Embedded---Embedded-Software-Engineer---Mission-and-Displays_R10243614-1) |
+| 2026-10-06 | 2026-10-05 | Pinterest | Software Engineer II, Monetization Engineering | San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US | — | swe | ok | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8227344) |
 | 2026-10-05 | — | Nvidia | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
 | 2026-10-05 | — | Nvidia | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) |
 | 2026-10-04 | 2026-10-02 | Amentum | Software Developer | Dahlgren, VA | — | swe | unknown | [apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Software-Developer_R0172204) |
@@ -400,7 +404,3 @@ _Last updated: 2026-10-05 18:50 UTC · 1861 live & eligible postings (showing 40
 | 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Emerging Products & AI Safety - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663036952090347829) |
 | 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Business Governance - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663042453461600517) |
 | 2026-09-22 | 2026-07-15 | Twitch | Software Engineer I - Discovery | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) |
-| 2026-09-22 | 2026-07-08 | Amazon | Software Engineer I - Discovery | San Francisco, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10468973/apply) |
-| 2026-09-22 | 2026-07-02 | Amazon | Software Development Engineer I - ML Infra Services - Annapurna Labs | Cupertino, CA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10464055/apply) |
-| 2026-09-22 | 2026-07-02 | Snap | Software Engineer - iOS - Level 4 | Los Angeles, CA +3 | — | swe | unknown | [apply](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-4_Q326SWEI2-1) |
-| 2026-09-22 | 2026-06-17 | Amazon | Physical Design Engineer - Static Timing Analysis - Annapurna Labs - Cloud Scale Machine Learning | Cupertino, CA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10454007/apply) |

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1791296914,
+    "date_found": 1791316184,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1791296914,
+    "date_found": 1791316184,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,510 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1791296914,
+    "date_found": 1791316184,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "82fecccaeee693c1",
+    "dedup_key": "new grad|microsoft|devops cloud engineering consultant ctj ts sci",
+    "company": "Microsoft",
+    "title": "DevOps Cloud Engineering Consultant- CTJ- TS/SCI",
+    "locations": [
+      "Virginia, MN"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557019058",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791056886,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9b904086d1b6f06f",
+    "dedup_key": "new grad|alo yoga|software engineers retail systems",
+    "company": "Alo Yoga",
+    "title": "Software Engineers - Retail Systems",
+    "locations": [
+      "San Ramon, CA"
+    ],
+    "url": "https://boards.greenhouse.io/aloyoga/jobs/6217901004?gh_jid=6217901004",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791316086,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "9538f8ecba422c22",
+    "dedup_key": "new grad|city of san francisco|cloud engineer 1042 department of technology",
+    "company": "City of San Francisco",
+    "title": "Cloud Engineer - 1042 - Department of Technology",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990015903766-cloud-engineer-1042-department-of-technology?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791316086,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b33faabb5e9403be",
+    "dedup_key": "new grad|id me|software development engineer ii life hub super app new grad early career",
+    "company": "ID.me",
+    "title": "Software Development Engineer II - Life Hub - Super App - New Grad / Early Career",
+    "locations": [
+      "ID.me Mountain View, CA +1"
+    ],
+    "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791316086,
+    "date_found": 1791316184,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "cde40fa7540a78c8",
+    "dedup_key": "new grad|id me|software engineer ii developer portal new grad early career",
+    "company": "ID.me",
+    "title": "Software Engineer II - Developer Portal - New Grad / Early Career",
+    "locations": [
+      "ID.me Mountain View, CA +1"
+    ],
+    "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791316086,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "ce47cb79dbea4c10",
+    "dedup_key": "new grad|simis|junior software developer modeling simulation",
+    "company": "SimIS",
+    "title": "Junior Software Developer - Modeling & Simulation",
+    "locations": [
+      "Suffolk, VA"
+    ],
+    "url": "https://simisinc.applytojob.com/apply/s6iMOEGK1D/Junior-Software-Developer-Modeling-Simulation",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791316086,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e38e890ad1aa82a5",
+    "dedup_key": "new grad|advocate health|data solutions developer associate",
+    "company": "Advocate Health",
+    "title": "Data Solutions Developer - Associate",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "url": "https://aah.wd5.myworkdayjobs.com/en-US/external/job/Milwaukee-WI---7800-N-113th-St/Data-Solutions-Developer---Associate_R249061",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b2b412f69909676d",
+    "dedup_key": "new grad|barrios|software developer i applications and data",
+    "company": "Barrios",
+    "title": "Software Developer I - Applications and Data",
+    "locations": [
+      "Houston, TX"
+    ],
+    "url": "https://careers-barrios.icims.com/jobs/2903/software-developer-i-%28applications-and-data%29/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6bfa7439388bbe46",
+    "dedup_key": "new grad|barrios|data analytics developer i",
+    "company": "Barrios",
+    "title": "Data Analytics Developer I",
+    "locations": [
+      "Houston, TX"
+    ],
+    "url": "https://careers-barrios.icims.com/jobs/2904/data-analytics-developer-i/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "26bb102602b7ef8a",
+    "dedup_key": "new grad|booz allen|c software engineer junior",
+    "company": "Booz Allen",
+    "title": "C++ Software Engineer - Junior",
+    "locations": [
+      "Beavercreek, OH"
+    ],
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0240412",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8986eb65f511e15d",
+    "dedup_key": "new grad|charles schwab|net developer",
+    "company": "Charles Schwab",
+    "title": ".Net Developer",
+    "locations": [
+      "Southlake, TX +1"
+    ],
+    "url": "https://career-schwab.icims.com/jobs/127637/.net-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ff7ff7802525a733",
+    "dedup_key": "new grad|gdit|software developer associate ts sci with polygraph",
+    "company": "GDIT",
+    "title": "Software Developer Associate - TS/SCI with Polygraph",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "04b9ece425855b56",
+    "dedup_key": "new grad|hewlett packard enterprise|graduate systems software engineer i",
+    "company": "Hewlett Packard Enterprise",
+    "title": "Graduate Systems/Software Engineer I",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2d72e8d52f12fd51",
+    "dedup_key": "new grad|icf|business intelligence bi developer",
+    "company": "ICF",
+    "title": "Business Intelligence - BI Developer",
+    "locations": [
+      "Reston, VA"
+    ],
+    "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Business-Intelligence--BI--Developer_R2603310-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cf5eaad42c2a0641",
+    "dedup_key": "new grad|iqvia|medtech field service software tech entry level batesville in",
+    "company": "IQVIA",
+    "title": "MedTech Field Service Software Tech Entry level - Batesville - IN",
+    "locations": [
+      "Batesville, IN"
+    ],
+    "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "27704352fe28be7d",
+    "dedup_key": "new grad|kla|pcb manufacturing applications engineer frontline software",
+    "company": "KLA",
+    "title": "PCB Manufacturing Applications Engineer - Frontline Software",
+    "locations": [
+      "Remote - Milpitas, CA"
+    ],
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cb2b6b5d8e894183",
+    "dedup_key": "new grad|mastercard|software engineer i",
+    "company": "Mastercard",
+    "title": "Software Engineer I",
+    "locations": [
+      "O'Fallon, MO"
+    ],
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-291661",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "97dae8345c0bad2b",
+    "dedup_key": "new grad|mgm resorts|digital software engineer associate",
+    "company": "MGM Resorts",
+    "title": "Digital Software Engineer Associate",
+    "locations": [
+      "Nevada, USA"
+    ],
+    "url": "https://mgmresorts.wd5.myworkdayjobs.com/en-US/mgmcareers/job/Home-Office---US-NV/Digital-Software-Engineer-Associate_280074-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "dca0986bd829a3c0",
+    "dedup_key": "new grad|northrop grumman|software engineer",
+    "company": "Northrop Grumman",
+    "title": "Software Engineer",
+    "locations": [
+      "Maryland, USA"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Software-Engineer---Principal-Software-Engineer_R10254398",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "14d4c22e0bc0d4e7",
+    "dedup_key": "new grad|resmed|associate android developer",
+    "company": "ResMed",
+    "title": "Associate Android Developer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4bea5fc1e96fc592",
+    "dedup_key": "new grad|walt disney|assoc software engineer",
+    "company": "Walt Disney",
+    "title": "Assoc Software Engineer",
+    "locations": [
+      "Glendale, CA +1"
+    ],
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Assoc-Software-Engineer_10161302",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791229686,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "40354bcf62c70d51",
+    "dedup_key": "new grad|stoke space|software integration engineer test site",
+    "company": "Stoke Space",
+    "title": "Software Integration Engineer - Test Site",
+    "locations": [
+      "Moses Lake, WA"
+    ],
+    "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6215954004",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791056886,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "eb86bffe52eaf5ac",
+    "dedup_key": "intern|engineers gate|quantitative research intern",
+    "company": "Engineers Gate",
+    "title": "Quantitative Research Intern",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8249666",
+    "season": "",
+    "source": "ats:greenhouse:engineersgate",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1791315043,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "greenhouse api: phd signal (ph.d. in )"
+  },
+  {
+    "id": "3336c1fb843a6f54",
+    "dedup_key": "intern|dv trading|database engineer intern summer 2027",
+    "company": "DV Trading",
+    "title": "Database Engineer Intern - Summer 2027",
+    "locations": [
+      "Chicago"
+    ],
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4741016005",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:dvtrading",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791309819,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "622b879691e97222",
+    "dedup_key": "intern|amazon|software development engineer intern mobile ios android summer 2027 usa",
+    "company": "Amazon",
+    "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+    "locations": [
+      "US, WA, Seattle"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
+    "season": "Summer 2027",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791244800,
+    "date_found": 1791316184,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "e851228cf6878e05",

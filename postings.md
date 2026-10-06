@@ -1,9 +1,32 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-06 14:28 UTC · 1868 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-06 19:49 UTC · 1891 live & eligible postings (showing 400); 43 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-06 | 2026-10-03 | Microsoft | DevOps Cloud Engineering Consultant- CTJ- TS/SCI | Virginia, MN | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557019058) |
+| 2026-10-06 | 2026-10-06 | Alo Yoga | Software Engineers - Retail Systems | San Ramon, CA | — | swe | unknown | [apply](https://boards.greenhouse.io/aloyoga/jobs/6217901004?gh_jid=6217901004) |
+| 2026-10-06 | 2026-10-06 | City of San Francisco | Cloud Engineer - 1042 - Department of Technology | San Francisco, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990015903766-cloud-engineer-1042-department-of-technology?oga=true) |
+| 2026-10-06 | 2026-10-06 | ID.me | Software Engineer II - Developer Portal - New Grad / Early Career | ID.me Mountain View, CA +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/idme/jobs/8011089003) |
+| 2026-10-06 | 2026-10-06 | SimIS | Junior Software Developer - Modeling & Simulation | Suffolk, VA | — | swe | ok | [apply](https://simisinc.applytojob.com/apply/s6iMOEGK1D/Junior-Software-Developer-Modeling-Simulation) |
+| 2026-10-06 | 2026-10-05 | Advocate Health | Data Solutions Developer - Associate | Milwaukee, WI | — | swe | unknown | [apply](https://aah.wd5.myworkdayjobs.com/en-US/external/job/Milwaukee-WI---7800-N-113th-St/Data-Solutions-Developer---Associate_R249061) |
+| 2026-10-06 | 2026-10-05 | Barrios | Software Developer I - Applications and Data | Houston, TX | — | swe | unknown | [apply](https://careers-barrios.icims.com/jobs/2903/software-developer-i-%28applications-and-data%29/job) |
+| 2026-10-06 | 2026-10-05 | Barrios | Data Analytics Developer I | Houston, TX | — | swe | unknown | [apply](https://careers-barrios.icims.com/jobs/2904/data-analytics-developer-i/job) |
+| 2026-10-06 | 2026-10-05 | Booz Allen | C++ Software Engineer - Junior | Beavercreek, OH | — | swe | unknown | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0240412) |
+| 2026-10-06 | 2026-10-05 | Charles Schwab | .Net Developer | Southlake, TX +1 | — | swe | unknown | [apply](https://career-schwab.icims.com/jobs/127637/.net-developer/job) |
+| 2026-10-06 | 2026-10-05 | GDIT | Software Developer Associate - TS/SCI with Polygraph | Chantilly, VA | — | swe | unknown | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1) |
+| 2026-10-06 | 2026-10-05 | Hewlett Packard Enterprise | Graduate Systems/Software Engineer I | Bloomington, MN | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439) |
+| 2026-10-06 | 2026-10-05 | ICF | Business Intelligence - BI Developer | Reston, VA | — | swe | unknown | [apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Business-Intelligence--BI--Developer_R2603310-1) |
+| 2026-10-06 | 2026-10-05 | IQVIA | MedTech Field Service Software Tech Entry level - Batesville - IN | Batesville, IN | — | swe | unknown | [apply](https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568) |
+| 2026-10-06 | 2026-10-05 | KLA | PCB Manufacturing Applications Engineer - Frontline Software | Remote - Milpitas, CA | — | swe | unknown | [apply](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineer_2640096) |
+| 2026-10-06 | 2026-10-05 | Mastercard | Software Engineer I | O'Fallon, MO | — | swe | unknown | [apply](https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-291661) |
+| 2026-10-06 | 2026-10-05 | MGM Resorts | Digital Software Engineer Associate | Nevada, USA | — | swe | unknown | [apply](https://mgmresorts.wd5.myworkdayjobs.com/en-US/mgmcareers/job/Home-Office---US-NV/Digital-Software-Engineer-Associate_280074-1) |
+| 2026-10-06 | 2026-10-05 | Northrop Grumman | Software Engineer | Maryland, USA | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Software-Engineer---Principal-Software-Engineer_R10254398) |
+| 2026-10-06 | 2026-10-05 | ResMed | Associate Android Developer | San Diego, CA | — | swe | unknown | [apply](https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1) |
+| 2026-10-06 | 2026-10-05 | Walt Disney | Assoc Software Engineer | Glendale, CA +1 | — | swe | unknown | [apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Assoc-Software-Engineer_10161302) |
+| 2026-10-06 | 2026-10-03 | Stoke Space | Software Integration Engineer - Test Site | Moses Lake, WA | — | swe | ok | [apply](https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6215954004) |
+| 2026-10-06 | 2026-10-06 | DV Trading | Database Engineer Intern - Summer 2027 | Chicago | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4741016005) |
+| 2026-10-06 | 2026-10-06 | Amazon | Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA) | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) |
 | 2026-10-06 | 2026-10-06 | Affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8003016003) |
 | 2026-10-06 | 2026-10-06 | Amazon | Data Center Engineering Operations Technician - 2027 Internship, DCEO | DE, HE, Frankfurt | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10570218/data-center-engineering-operations-technician-2027-internship-dceo) |
 | 2026-10-06 | 2026-09-21 | Amazon | 2027 Software Dev Engineer Intern - Germany | DE, BE, Berlin | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany) |
@@ -381,26 +404,3 @@ _Last updated: 2026-10-06 14:28 UTC · 1868 live & eligible postings (showing 40
 | 2026-09-22 | 2026-08-01 | TikTok | Mobile Software Engineer Graduate - Global E-commerce - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668831181590513925) |
 | 2026-09-22 | 2026-08-01 | TikTok | Fullstack Software Engineer Graduate - Global E-commerce - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668828193675036981) |
 | 2026-09-22 | 2026-08-01 | TikTok | Software Development Engineer Graduate - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668827381435517237) |
-| 2026-09-22 | 2026-08-01 | TikTok | Backend Software Engineer Graduate - Global E-commerce - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668827379083823413) |
-| 2026-09-22 | 2026-08-01 | TikTok | Backend Software Engineer Graduate - Global E-commerce - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668824169648097541) |
-| 2026-09-22 | 2026-08-01 | TikTok | Backend Software Engineer Graduate - TikTok-PGC-Digital Content Center - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668843238309824773) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer Graduate - Ads Measurement Signal Technology - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668717356843977013) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer Graduate - Global CRM - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668554579301124357) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer Graduate - Transaction Platform - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668557209047894325) |
-| 2026-09-22 | 2026-07-31 | TikTok | Frontend Software Engineer Graduate - Global CRM - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668561079544154373) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer Graduate - AI Agent & Global Revenue Platform - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668566347702569269) |
-| 2026-09-22 | 2026-07-31 | TikTok | Frontend Software Engineer Graduate - Ads Interface - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668569995571726597) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer Graduate - Data Arch - E-commerce - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668582086900680965) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer Graduate - Data Arch - E-commerce - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668582542044072245) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer Graduate - Business Integrity - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668592494649690421) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer Graduate - Ads Delivery - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668662545059023157) |
-| 2026-09-22 | 2026-07-31 | TikTok | Site Reliability Engineer Graduate - Global SRE - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668701361741007109) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer/Mobile Engineer Graduate - Ads Core Demonstration - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668701834807101749) |
-| 2026-09-22 | 2026-07-31 | TikTok | Software Engineer Graduate - Ads Signal & Measurement - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668724383120804149) |
-| 2026-09-22 | 2026-07-24 | TikTok | Backend Engineer Graduate - User Growth - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7665986019233958197) |
-| 2026-09-22 | 2026-07-24 | TikTok | General Hire Backend Software Engineer Graduate - Trust & Safety - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7665994926887291189) |
-| 2026-09-22 | 2026-07-23 | Amazon | EFA Network Software Engineer I - Annapurna Labs | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10481932/apply) |
-| 2026-09-22 | 2026-07-20 | TikTok | General hire Backend Software Engineer Graduate - Trust & Safety - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7664533229944178949) |
-| 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Feed Safety - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663028952600807733) |
-| 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Risk & Response - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663032057264244997) |
-| 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Machine Moderation Platform - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663036950303050037) |

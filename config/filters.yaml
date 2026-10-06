@@ -92,6 +92,14 @@ eligibility:
   keep_unknown: true    # keep postings we can't positively classify (don't-miss)
   max_checks: 150       # cap page fetches per run (protects CI runtime)
   timeout: 15           # per-request seconds
+  # Don't Discord-alert postings that were published long ago. Aggregator
+  # tables churn, so a role first *seen* today may have been *posted* months
+  # back: half of everything discovered in a 14-day window was 30+ days old,
+  # and some was 5 months old. Stale postings are still archived (they show up
+  # in the tracker's Radar tab) — they just don't ping.
+  # Unknown date_posted always alerts: Workday gives no usable date, so
+  # dropping unknowns would silence Nvidia and Adobe entirely.
+  max_age_days: 30
 
 locations:
   us_only: true

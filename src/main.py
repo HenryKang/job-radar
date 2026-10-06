@@ -98,8 +98,25 @@ def run_eligibility(postings: list[dict], cfg: dict) -> None:
         p["alive"], p["eligibility"], p["elig_reason"] = True, "unknown", "over max_checks"
 
 
-def is_alertable(p: dict, cfg: dict) -> bool:
+def is_stale(p: dict, cfg: dict, now: int) -> bool:
+    """Posted long enough ago that alerting on it is noise, not news.
+
+    Only applies when the posting carries a real date: an unknown date_posted
+    is never treated as stale (Workday exposes no usable date).
+    """
+    max_age = cfg.get("max_age_days", 0)
+    if not max_age:
+        return False
+    dp = p.get("date_posted")
+    if not dp:
+        return False
+    return (now - dp) > max_age * 86400
+
+
+def is_alertable(p: dict, cfg: dict, now: int | None = None) -> bool:
     if not p.get("alive", True):
+        return False
+    if now is not None and is_stale(p, cfg, now):
         return False
     elig = p.get("eligibility") or "unknown"
     if elig == "ok":
@@ -162,7 +179,7 @@ def main() -> int:
 
     # 3c) Eligibility + liveness check on brand-new postings.
     run_eligibility(new, elig_cfg)
-    alertable = [p for p in new if is_alertable(p, elig_cfg)]
+    alertable = [p for p in new if is_alertable(p, elig_cfg, now)]
 
     # Add dead aggregator postings (not yet in seen) to the watchlist for retry.
     dead_from_agg = [
@@ -178,12 +195,19 @@ def main() -> int:
         print(f"[pending] added {len(dead_from_agg)} dead aggregator posting(s) to watchlist")
 
     # Combine normally-alertable with any that just came alive from the watchlist.
-    alertable = alertable + [p for p in newly_live if is_alertable(p, elig_cfg)]
+    alertable = alertable + [p for p in newly_live if is_alertable(p, elig_cfg, now)]
 
     alert_ids = {id(p) for p in alertable}
     suppressed = [p for p in new if id(p) not in alert_ids]
     from collections import Counter
-    reasons = Counter(("dead" if not p.get("alive", True) else p.get("eligibility","")) for p in suppressed)
+    def _reason(p: dict) -> str:
+        if not p.get("alive", True):
+            return "dead"
+        if is_stale(p, elig_cfg, now):
+            return "stale"
+        return p.get("eligibility", "")
+
+    reasons = Counter(_reason(p) for p in suppressed)
 
     # Group same (company, title) across sources / locations into one embed each.
     grouped = group_postings(alertable)

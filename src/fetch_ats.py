@@ -166,6 +166,11 @@ def _amazon(company: str, slug: str) -> list[dict]:
         d = r.json()
         jobs = d.get("jobs", [])
         for j in jobs:
+            # Amazon labels locations "COUNTRY, STATE, City"; country[]=USA is
+            # not honoured by this endpoint, so filter on the stated country.
+            loc = j.get("location", "") or ""
+            if loc and not loc.upper().startswith("US,"):
+                continue
             path = j.get("job_path", "")
             posted = None
             raw = (j.get("posted_date") or "").strip()

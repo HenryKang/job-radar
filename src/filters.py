@@ -35,6 +35,46 @@ def _word_in(text: str, words) -> bool:
     )
 
 
+# ISO 3166-1 alpha-2 codes, minus US. Amazon (and other global boards) write
+# locations as "COUNTRY, STATE, City" — "DE, HE, Frankfurt", "IN, KA, Bangalore",
+# "CA, ON, Toronto". The leading code collides head-on with US state
+# abbreviations (DE=Delaware, IN=Indiana, CA=California, IL, MT, NE, PA, LA,
+# MA, AL, AR, ID, MD...), so those postings read as US and slipped through.
+_ISO_COUNTRIES = {
+    "AD", "AE", "AF", "AG", "AI", "AL", "AM", "AO", "AQ", "AR", "AS", "AT",
+    "AU", "AW", "AX", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI",
+    "BJ", "BL", "BM", "BN", "BO", "BQ", "BR", "BS", "BT", "BW", "BY", "BZ",
+    "CA", "CD", "CF", "CG", "CH", "CI", "CK", "CL", "CM", "CN", "CO", "CR",
+    "CU", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC",
+    "EE", "EG", "ER", "ES", "ET", "FI", "FJ", "FK", "FM", "FO", "FR", "GA",
+    "GB", "GD", "GE", "GF", "GG", "GH", "GI", "GL", "GM", "GN", "GP", "GQ",
+    "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL",
+    "IM", "IN", "IQ", "IR", "IS", "IT", "JE", "JM", "JO", "JP", "KE", "KG",
+    "KH", "KI", "KM", "KN", "KR", "KW", "KY", "KZ", "LA", "LB", "LC", "LI",
+    "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG",
+    "MK", "ML", "MM", "MN", "MO", "MQ", "MR", "MT", "MU", "MV", "MW", "MX",
+    "MY", "MZ", "NA", "NC", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ",
+    "OM", "PA", "PE", "PF", "PG", "PH", "PK", "PL", "PT", "PY", "QA", "RE",
+    "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SD", "SE", "SG", "SI", "SK",
+    "SL", "SM", "SN", "SO", "SR", "SS", "ST", "SV", "SY", "SZ", "TD", "TG",
+    "TH", "TJ", "TM", "TN", "TO", "TR", "TT", "TW", "TZ", "UA", "UG", "UY",
+    "UZ", "VA", "VC", "VE", "VN", "VU", "WS", "YE", "ZA", "ZM", "ZW",
+}
+
+
+def _foreign_country_prefix(loc: str) -> bool:
+    """True for a "COUNTRY, STATE, City" string whose leading code isn't US.
+
+    Requires three or more comma-separated parts, so ordinary "City, ST" and
+    "City, ST, USA" strings are untouched.
+    """
+    parts = [x.strip() for x in loc.split(",") if x.strip()]
+    if len(parts) < 3:
+        return False
+    head = parts[0].upper()
+    return len(head) == 2 and head != "US" and head in _ISO_COUNTRIES
+
+
 def _has_us_place(loc: str, abbr: set[str], names, cities, us_words) -> bool:
     if _word_in(loc, us_words) or _word_in(loc, names) or _word_in(loc, cities):
         return True
@@ -65,6 +105,12 @@ def _looks_us(locations, cfg: dict) -> bool:
 
     any_us = any_non_us = False
     for loc in locations:
+        # A non-US ISO country prefix settles it: no state-abbreviation guess
+        # can outrank the country the board itself stated. An explicit US word
+        # still wins, for the rare "MA, Boston, USA" style string.
+        if _foreign_country_prefix(loc) and not _word_in(loc, us_words):
+            any_non_us = True
+            continue
         non_us_here = _word_in(loc, non_us)
         remote_here = allow_remote and bool(_REMOTE_RE.search(loc)) and not non_us_here
         if _has_us_place(loc, abbr, names, cities, us_words) or remote_here:

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1791271920,
+    "date_found": 1791296914,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1791271920,
+    "date_found": 1791296914,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,70 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1791271920,
+    "date_found": 1791296914,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "e851228cf6878e05",
+    "dedup_key": "intern|affirm|software engineer ii backend decisions orchestration",
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Decisions Orchestration)",
+    "locations": [
+      "Remote US"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
+    "season": "",
+    "source": "ats:greenhouse:affirm",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791295034,
+    "date_found": 1791296914,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "86f4f4d2ff5460db",
+    "dedup_key": "intern|amazon|data center engineering operations technician 2027 internship dceo",
+    "company": "Amazon",
+    "title": "Data Center Engineering Operations Technician - 2027 Internship, DCEO",
+    "locations": [
+      "DE, HE, Frankfurt"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10570218/data-center-engineering-operations-technician-2027-internship-dceo",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791244800,
+    "date_found": 1791296914,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7b51ebd5693c95c8",
+    "dedup_key": "intern|amazon|2027 software dev engineer intern germany",
+    "company": "Amazon",
+    "title": "2027 Software Dev Engineer Intern - Germany",
+    "locations": [
+      "DE, BE, Berlin"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789948800,
+    "date_found": 1791296914,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "94ed67b1226a55c2",

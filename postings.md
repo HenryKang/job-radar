@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-06 07:32 UTC · 1865 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-06 14:28 UTC · 1868 live & eligible postings (showing 400); 41 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-06 | 2026-10-06 | Affirm | Software Engineer II, Backend (Decisions Orchestration) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8003016003) |
+| 2026-10-06 | 2026-10-06 | Amazon | Data Center Engineering Operations Technician - 2027 Internship, DCEO | DE, HE, Frankfurt | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10570218/data-center-engineering-operations-technician-2027-internship-dceo) |
+| 2026-10-06 | 2026-09-21 | Amazon | 2027 Software Dev Engineer Intern - Germany | DE, BE, Berlin | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany) |
 | 2026-10-06 | 2026-10-06 | Nationwide | Engineer - Software Engineer - Post Issue Optimization - Java - Angular - and AWS - Entry Level | Ohio, USA | — | swe | unknown | [apply](https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Post-Issue-Optimization----Java--Angular--and-AWS---Entry-Level_100567) |
 | 2026-10-06 | 2026-10-06 | University of Notre Dame | ServiceNow Developer Professional | Notre Dame, IN | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990015890869-servicenow-developer-professional?oga=true) |
 | 2026-10-06 | 2026-08-05 | Northrop Grumman | Associate Embedded / Embedded Software Engineer - Mission and Displays | Melbourne, FL | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Embedded---Embedded-Software-Engineer---Mission-and-Displays_R10243614-1) |
@@ -401,6 +404,3 @@ _Last updated: 2026-10-06 07:32 UTC · 1865 live & eligible postings (showing 40
 | 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Feed Safety - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663028952600807733) |
 | 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Risk & Response - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663032057264244997) |
 | 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Machine Moderation Platform - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663036950303050037) |
-| 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Emerging Products & AI Safety - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663036952090347829) |
-| 2026-09-22 | 2026-07-16 | TikTok | Backend Software Engineer Graduate - Business Governance - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7663042453461600517) |
-| 2026-09-22 | 2026-07-15 | Twitch | Software Engineer I - Discovery | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) |

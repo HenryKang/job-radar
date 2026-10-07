@@ -1,9 +1,42 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-07 13:15 UTC · 1892 live & eligible postings (showing 400); 43 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-07 19:32 UTC · 1925 live & eligible postings (showing 400); 43 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-07 | 2026-10-07 | Microsoft | Software Engineer - CTJ - Poly | Virginia, MN +1 | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557022487) |
+| 2026-10-07 | 2026-10-06 | Microsoft | Firmware Engineer II | Washington, DC +5 | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556933151) |
+| 2026-10-07 | 2026-10-06 | Roblox | Software Engineer - Test Frameworks & Tooling | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8229705?gh_jid=8229705) |
+| 2026-10-07 | 2026-08-18 | Roblox | Software Engineer - Foundation AI | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) |
+| 2026-10-07 | 2026-10-07 | Affirm | Software Engineer - Early Career - NYC | New York City, NY | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
+| 2026-10-07 | 2026-10-07 | Affirm | Software Engineer - Early Career - SF | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
+| 2026-10-07 | 2026-10-07 | EquipmentShare | Software Engineer I | Columbia, MO | — | swe | unknown | [apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8071715) |
+| 2026-10-07 | 2026-10-07 | Perpay | Software Engineer - New Grad - Super Day! | Marquette, MI +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/perpay/jobs/5252881007) |
+| 2026-10-07 | 2026-10-07 | Shield AI | Software Development Engineer - New Graduate | San Diego, CA +2 | — | swe | ok | [apply](https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583) |
+| 2026-10-07 | 2026-10-07 | SpaceX | Application Software Engineer - Employee Experience | Hawthorne, CA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002) |
+| 2026-10-07 | 2026-10-06 | AeroVironment | Software Engineer - EMB I | Moorpark, CA | — | swe | unknown | [apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_9054) |
+| 2026-10-07 | 2026-10-06 | AeroVironment | Software Engineer - EMB - I | Moorpark, CA | — | swe | unknown | [apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB---I_9055) |
+| 2026-10-07 | 2026-10-06 | AeroVironment | Associate Software Engineer | Moorpark, CA | — | swe | unknown | [apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Associate-Software-Engineer_9016) |
+| 2026-10-07 | 2026-10-06 | Booz Allen | Cloud Cybersecurity Engineer | Rome, NY | — | swe | unknown | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/Cloud-Cybersecurity-Engineer_R0243956-1) |
+| 2026-10-07 | 2026-10-06 | Booz Allen | Power Platform Developer | Washington, DC | — | swe | unknown | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Power-Platform-Developer_R0251102) |
+| 2026-10-07 | 2026-10-06 | Cincinnati Children’s | Developer I - Psychiatry | Burnet, TX | — | swe | unknown | [apply](https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Developer-I_JR223867) |
+| 2026-10-07 | 2026-10-06 | GDIT | Full-Stack Software Developer - TS/SCI with Polygraph | Herndon, VA | — | swe | unknown | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Herndon/Full-Stack-Software-Developer--TS-SCI-with-Polygraph_RQ229655-2) |
+| 2026-10-07 | 2026-10-06 | Highmark Health | Associate Software Engineer | Pennsylvania, USA +43 | — | swe | unknown | [apply](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J286291) |
+| 2026-10-07 | 2026-10-06 | Nuro | New Grad Software Engineer - Product Engineering | Mountain View, CA | — | swe | unknown | [apply](https://nuro.ai/careersitem?gh_jid=8248317) |
+| 2026-10-07 | 2026-10-06 | OMNIA Partners | Citizen Developer - Jr. | Franklin, TN | — | swe | unknown | [apply](https://jobs.dayforcehcm.com/en-US/omnia/candidateportal/jobs/1677) |
+| 2026-10-07 | 2026-10-06 | Pure Storage | Software Engineer Grad 2027 | Santa Clara, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/purestorage/jobs/8249851) |
+| 2026-10-07 | 2026-10-06 | rubrik | Software Engineer - Product Platform Security | Palo Alto, CA | — | swe | unknown | [apply](https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737) |
+| 2026-10-07 | 2026-10-06 | Twilio | Software Engineer - Platform Access - L2 | Remote - USA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/twilio/jobs/8026211) |
+| 2026-10-07 | 2026-09-17 | Accenture Federal Services | Software Installation Engineer | San Diego, CA | — | swe | ok | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4712838006?gh_jid=4712838006) |
+| 2026-10-07 | 2026-08-27 | Integral Federal | Junior Java Developer | Fort Meade, MD | — | swe | unknown | [apply](https://careers-integralfed.icims.com/jobs/5439/junior-java-developer/job) |
+| 2026-10-07 | 2026-08-18 | Dark Wolf Solutions | Junior AI Software Engineer | Chantilly, VA +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003) |
+| 2026-10-07 | 2026-08-05 | Twilio | Software Engineer - Platform Engineering - L2 | Remote - USA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/twilio/jobs/8026207) |
+| 2026-10-07 | 2026-07-24 | Crafted Staff | Remote AI Software Sales Representative | USA | — | swe | unknown | [apply](https://crafted-staff.breezy.hr/p/5c006a76980e-remote-ai-software-sales-representative) |
+| 2026-10-07 | 2026-07-06 | Notion | Software Engineer - Early Career - AI | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
+| 2026-10-07 | 2026-07-06 | Notion | Software Engineer - Early Career | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
+| 2026-10-07 | 2026-06-16 | Agile Defense | Software Engineer - Secret Clearance Required | Rosslyn, VA | — | swe | unknown | [apply](https://jobs.lever.co/agile-defense/3bb95132-8699-4807-97ec-10fa83b57dad) |
+| 2026-10-07 | 2026-06-15 | Wyetech | iOS-Savvy CNO Developer | Maryland, USA | — | swe | unknown | [apply](https://jobs.lever.co/wyetechllc/b0e6680b-e99c-495e-b452-cd4c1d37da2e) |
+| 2026-10-07 | 2026-10-07 | Pinterest | Software Engineer II, EPD Ads | San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US | — | swe | unknown | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8227344) |
 | 2026-10-07 | 2026-10-07 | Amazon | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) | US, WA, Redmond | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
 | 2026-10-06 | 2026-10-03 | Microsoft | DevOps Cloud Engineering Consultant- CTJ- TS/SCI | Virginia, MN | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557019058) |
 | 2026-10-06 | 2026-10-06 | Alo Yoga | Software Engineers - Retail Systems | San Ramon, CA | — | swe | unknown | [apply](https://boards.greenhouse.io/aloyoga/jobs/6217901004?gh_jid=6217901004) |
@@ -371,36 +404,3 @@ _Last updated: 2026-10-07 13:15 UTC · 1892 live & eligible postings (showing 40
 | 2026-09-22 | 2026-08-15 | Amazon | Front-End Engineer - Amazon Connect - AWS | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10510073/apply) |
 | 2026-09-22 | 2026-08-15 | Twitch | Software Engineer I - Payments | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8700578002) |
 | 2026-09-22 | 2026-08-14 | Roblox | Software Engineer - Creator Business | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8113334?gh_jid=8113334) |
-| 2026-09-22 | 2026-08-14 | TikTok | Backend Software Engineer Graduate - Creation Platform - 2027 Start | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7673669198965278981) |
-| 2026-09-22 | 2026-08-14 | TikTok | Software Engineer Graduate - Media Engine - 2027 Start | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7673667938889009461) |
-| 2026-09-22 | 2026-08-14 | TikTok | Software Engineer Graduate - Foundation Platform - 2027 Start | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7673674252889246005) |
-| 2026-09-22 | 2026-08-14 | TikTok | Software Engineer Graduate - Video-on-Demand Algorithm - 2027 Start | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7673674249270839557) |
-| 2026-09-22 | 2026-08-13 | TikTok | Software Engineer Graduate - Recommendation Infrastructure - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7673284715407886597) |
-| 2026-09-22 | 2026-08-13 | TikTok | Software Engineer Graduate - Ads Infra - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7673409179353139461) |
-| 2026-09-22 | 2026-08-12 | Amazon | Software Engineer I - Payments | San Francisco, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10502486/apply) |
-| 2026-09-22 | 2026-08-12 | Roblox | Software Engineer - Account Authentication | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8097701?gh_jid=8097701) |
-| 2026-09-22 | 2026-08-12 | TikTok | Backend Software Engineer Graduate - TikTok-PGC-Creator Strategy - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7672976491146004741) |
-| 2026-09-22 | 2026-08-11 | Snap | Software Engineer - ML Infrastructure - Level 4 | Los Angeles, CA +2 | — | swe | unknown | [apply](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--ML-Infrastructure--Level-4_R0045604) |
-| 2026-09-22 | 2026-08-11 | TikTok | Site Reliability Engineer - Multiple Positions | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7672559124790102277) |
-| 2026-09-22 | 2026-08-11 | TikTok | Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7672532801686571317) |
-| 2026-09-22 | 2026-08-11 | TikTok | Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7672530785573980421) |
-| 2026-09-22 | 2026-08-11 | TikTok | Software Engineer Graduate - TikTok AI Search & Visual Search Infra Team - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7672517471946000645) |
-| 2026-09-22 | 2026-08-07 | Amazon | Software Development Engineer - iOS | Newark, NJ | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10505107/apply) |
-| 2026-09-22 | 2026-08-07 | Google | Software Engineer - Early Career - Campus | Mountain View, CA +9 | — | swe | ok | [apply](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) |
-| 2026-09-22 | 2026-08-06 | Salesforce | Software Engineering AMTS - College Grad | California, USA +7 | — | swe | unknown | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250) |
-| 2026-09-22 | 2026-08-06 | Salesforce | Software Engineering AMTS - College Grad | California, USA +7 | — | swe | unknown | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) |
-| 2026-09-22 | 2026-08-05 | Amazon | Software Development Engineer - SageMaker HyperPod Data Plane | Santa Clara, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10517662/apply) |
-| 2026-09-22 | 2026-08-05 | Roblox | 2027 Software Engineer - Early Career | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
-| 2026-09-22 | 2026-08-05 | TikTok | Software Engineer Graduate - Video-on-Demand Algorithm - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7670282906426476853) |
-| 2026-09-22 | 2026-08-05 | TikTok | Software Engineer Graduate - Global E-commerce-Search - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7670558992960358661) |
-| 2026-09-22 | 2026-08-05 | TikTok | Backend Software Engineer Graduate - TikTok - Data Lifecycle Management - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7670391173613160757) |
-| 2026-09-22 | 2026-08-05 | TikTok | Backend Software Engineer Graduate - TikTok - Privacy and Security - Product - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7670387719826786565) |
-| 2026-09-22 | 2026-08-05 | TikTok | Software Engineer Graduate - Media Engine - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7670367152357673221) |
-| 2026-09-22 | 2026-08-05 | TikTok | Backend Software Engineer Graduate - Creation Platform - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7670292836050422021) |
-| 2026-09-22 | 2026-08-05 | TikTok | Software Engineer Graduate - Foundation Platform - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7670276769459456309) |
-| 2026-09-22 | 2026-08-04 | TikTok | Software Development Engineer Graduate - TikTok - Testing - Growth - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7669957922422507781) |
-| 2026-09-22 | 2026-08-01 | Microsoft | Cloud Network Engineer II | Washington, DC | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556953139) |
-| 2026-09-22 | 2026-08-01 | TikTok | Software Engineer Graduate - Ads Interface - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668855346857019701) |
-| 2026-09-22 | 2026-08-01 | TikTok | Software Engineer Graduate- Ads Infrastructure - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668879883938203957) |
-| 2026-09-22 | 2026-08-01 | TikTok | Mobile Software Engineer Graduate - Global E-commerce - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668831181590513925) |
-| 2026-09-22 | 2026-08-01 | TikTok | Fullstack Software Engineer Graduate - Global E-commerce - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668828193675036981) |

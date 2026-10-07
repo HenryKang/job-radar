@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1791378945,
+    "date_found": 1791401541,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1791378945,
+    "date_found": 1791401541,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,670 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1791378945,
+    "date_found": 1791401541,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "c82dbe556d9b8612",
+    "dedup_key": "new grad|microsoft|software engineer ctj poly",
+    "company": "Microsoft",
+    "title": "Software Engineer - CTJ - Poly",
+    "locations": [
+      "Virginia, MN +1"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791401458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d87a1f4882daa782",
+    "dedup_key": "new grad|microsoft|firmware engineer ii",
+    "company": "Microsoft",
+    "title": "Firmware Engineer II",
+    "locations": [
+      "Washington, DC +5"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556933151",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e1367155d8c1f5ea",
+    "dedup_key": "new grad|roblox|software engineer test frameworks tooling",
+    "company": "Roblox",
+    "title": "Software Engineer - Test Frameworks & Tooling",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://careers.roblox.com/jobs/8229705?gh_jid=8229705",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: HTTPSConnectionPool(host='careers.roblox.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "id": "540216af7e5854b2",
+    "dedup_key": "new grad|roblox|software engineer foundation ai",
+    "company": "Roblox",
+    "title": "Software Engineer - Foundation AI",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1787081458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: HTTPSConnectionPool(host='careers.roblox.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "id": "e6da449c6df023c0",
+    "dedup_key": "new grad|affirm|software engineer early career nyc",
+    "company": "Affirm",
+    "title": "Software Engineer - Early Career - NYC",
+    "locations": [
+      "New York City, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791401458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "797b3adb6a762bce",
+    "dedup_key": "new grad|affirm|software engineer early career sf",
+    "company": "Affirm",
+    "title": "Software Engineer - Early Career - SF",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791401458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "aa29c2345cdf18ef",
+    "dedup_key": "new grad|equipmentshare|software engineer i",
+    "company": "EquipmentShare",
+    "title": "Software Engineer I",
+    "locations": [
+      "Columbia, MO"
+    ],
+    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791401458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "54e1bdf26efd8451",
+    "dedup_key": "new grad|perpay|software engineer new grad super day",
+    "company": "Perpay",
+    "title": "Software Engineer - New Grad - Super Day!",
+    "locations": [
+      "Marquette, MI +1"
+    ],
+    "url": "https://job-boards.greenhouse.io/perpay/jobs/5252881007",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791401458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "99c5b5e68ba94a14",
+    "dedup_key": "new grad|shield ai|software development engineer new graduate",
+    "company": "Shield AI",
+    "title": "Software Development Engineer - New Graduate",
+    "locations": [
+      "San Diego, CA +2"
+    ],
+    "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791401458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "dda527c09c35ebc6",
+    "dedup_key": "new grad|spacex|application software engineer employee experience",
+    "company": "SpaceX",
+    "title": "Application Software Engineer - Employee Experience",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791401458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "6689b793b87ee8b8",
+    "dedup_key": "new grad|aerovironment|software engineer emb i",
+    "company": "AeroVironment",
+    "title": "Software Engineer - EMB I",
+    "locations": [
+      "Moorpark, CA"
+    ],
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_9054",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e6db4c5ea4232d84",
+    "dedup_key": "new grad|aerovironment|software engineer emb i",
+    "company": "AeroVironment",
+    "title": "Software Engineer - EMB - I",
+    "locations": [
+      "Moorpark, CA"
+    ],
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB---I_9055",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cc2e9b803d858421",
+    "dedup_key": "new grad|aerovironment|associate software engineer",
+    "company": "AeroVironment",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Moorpark, CA"
+    ],
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Associate-Software-Engineer_9016",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ec1733cdaaa4f5da",
+    "dedup_key": "new grad|booz allen|cloud cybersecurity engineer",
+    "company": "Booz Allen",
+    "title": "Cloud Cybersecurity Engineer",
+    "locations": [
+      "Rome, NY"
+    ],
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/Cloud-Cybersecurity-Engineer_R0243956-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b5bce0a032e13391",
+    "dedup_key": "new grad|booz allen|power platform developer",
+    "company": "Booz Allen",
+    "title": "Power Platform Developer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Power-Platform-Developer_R0251102",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "089cde8798089480",
+    "dedup_key": "new grad|cincinnati children s|developer i psychiatry",
+    "company": "Cincinnati Children’s",
+    "title": "Developer I - Psychiatry",
+    "locations": [
+      "Burnet, TX"
+    ],
+    "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Burnet-Campus/Developer-I_JR223867",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "14372fb1e71ff66e",
+    "dedup_key": "new grad|gdit|full stack software developer ts sci with polygraph",
+    "company": "GDIT",
+    "title": "Full-Stack Software Developer - TS/SCI with Polygraph",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Herndon/Full-Stack-Software-Developer--TS-SCI-with-Polygraph_RQ229655-2",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "62d22d05f7f5c641",
+    "dedup_key": "new grad|highmark health|associate software engineer",
+    "company": "Highmark Health",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Pennsylvania, USA +43"
+    ],
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J286291",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b20f3ed66b4b0f34",
+    "dedup_key": "new grad|nuro|new grad software engineer product engineering",
+    "company": "Nuro",
+    "title": "New Grad Software Engineer - Product Engineering",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://nuro.ai/careersitem?gh_jid=8248317",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "39f1ff77a959c57e",
+    "dedup_key": "new grad|omnia partners|citizen developer jr",
+    "company": "OMNIA Partners",
+    "title": "Citizen Developer - Jr.",
+    "locations": [
+      "Franklin, TN"
+    ],
+    "url": "https://jobs.dayforcehcm.com/en-US/omnia/candidateportal/jobs/1677",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7a8cd2a83822b614",
+    "dedup_key": "new grad|pure storage|software engineer grad 2027",
+    "company": "Pure Storage",
+    "title": "Software Engineer Grad 2027",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "c2a73c88d320d5ad",
+    "dedup_key": "new grad|rubrik|software engineer product platform security",
+    "company": "rubrik",
+    "title": "Software Engineer - Product Platform Security",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "01ba61a889e17a38",
+    "dedup_key": "new grad|twilio|software engineer platform access l2",
+    "company": "Twilio",
+    "title": "Software Engineer - Platform Access - L2",
+    "locations": [
+      "Remote - USA"
+    ],
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791315058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "7f676b0c20caef51",
+    "dedup_key": "new grad|accenture federal services|software installation engineer",
+    "company": "Accenture Federal Services",
+    "title": "Software Installation Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4712838006?gh_jid=4712838006",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789673458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "84e77fbba0836acf",
+    "dedup_key": "new grad|integral federal|junior java developer",
+    "company": "Integral Federal",
+    "title": "Junior Java Developer",
+    "locations": [
+      "Fort Meade, MD"
+    ],
+    "url": "https://careers-integralfed.icims.com/jobs/5439/junior-java-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1787859058,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5890da65976246c3",
+    "dedup_key": "new grad|dark wolf solutions|junior ai software engineer",
+    "company": "Dark Wolf Solutions",
+    "title": "Junior AI Software Engineer",
+    "locations": [
+      "Chantilly, VA +1"
+    ],
+    "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1787081458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "ab3992e664884d6b",
+    "dedup_key": "new grad|twilio|software engineer platform engineering l2",
+    "company": "Twilio",
+    "title": "Software Engineer - Platform Engineering - L2",
+    "locations": [
+      "Remote - USA"
+    ],
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1785958258,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "7f1c2b7c7be6bbf9",
+    "dedup_key": "new grad|crafted staff|remote ai software sales representative",
+    "company": "Crafted Staff",
+    "title": "Remote AI Software Sales Representative",
+    "locations": [
+      "USA"
+    ],
+    "url": "https://crafted-staff.breezy.hr/p/5c006a76980e-remote-ai-software-sales-representative",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784921458,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "77d907ab20863860",
+    "dedup_key": "new grad|notion|software engineer early career ai",
+    "company": "Notion",
+    "title": "Software Engineer - Early Career - AI",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783366258,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a920483ec3d4ac56",
+    "dedup_key": "new grad|notion|software engineer early career",
+    "company": "Notion",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1783366258,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "af574c2fbbe7112d",
+    "dedup_key": "new grad|agile defense|software engineer secret clearance required",
+    "company": "Agile Defense",
+    "title": "Software Engineer - Secret Clearance Required",
+    "locations": [
+      "Rosslyn, VA"
+    ],
+    "url": "https://jobs.lever.co/agile-defense/3bb95132-8699-4807-97ec-10fa83b57dad",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1781638258,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "12e2e93dc436a9b2",
+    "dedup_key": "new grad|wyetech|ios savvy cno developer",
+    "company": "Wyetech",
+    "title": "iOS-Savvy CNO Developer",
+    "locations": [
+      "Maryland, USA"
+    ],
+    "url": "https://jobs.lever.co/wyetechllc/b0e6680b-e99c-495e-b452-cd4c1d37da2e",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1781551858,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0bcb3a1e6345e1bd",
+    "dedup_key": "intern|pinterest|software engineer ii epd ads",
+    "company": "Pinterest",
+    "title": "Software Engineer II, EPD Ads",
+    "locations": [
+      "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US"
+    ],
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8227344",
+    "season": "",
+    "source": "ats:greenhouse:pinterest",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791400094,
+    "date_found": 1791401541,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "b33faabb5e9403be",

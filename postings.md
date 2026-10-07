@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-07 19:32 UTC · 1925 live & eligible postings (showing 400); 43 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-07 23:48 UTC · 1927 live & eligible postings (showing 400); 44 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-07 | 2026-09-18 | Amazon | Data Engineer Internship - 2027 (US) | US, WA, Seattle | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) |
+| 2026-10-07 | 2026-09-18 | Amazon | Business Intelligence Engineer Internship - 2027 (US) | US, WA, Seattle | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) |
 | 2026-10-07 | 2026-10-07 | Microsoft | Software Engineer - CTJ - Poly | Virginia, MN +1 | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557022487) |
 | 2026-10-07 | 2026-10-06 | Microsoft | Firmware Engineer II | Washington, DC +5 | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556933151) |
 | 2026-10-07 | 2026-10-06 | Roblox | Software Engineer - Test Frameworks & Tooling | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8229705?gh_jid=8229705) |
@@ -402,5 +404,3 @@ _Last updated: 2026-10-07 19:32 UTC · 1925 live & eligible postings (showing 40
 | 2026-09-22 | 2026-08-19 | Amazon | Front-End Engineer - Amazon Connect - AWS | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10508283/apply) |
 | 2026-09-22 | 2026-08-19 | Amazon | Front-End Engineer II - Amplify Console | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10539314/apply) |
 | 2026-09-22 | 2026-08-15 | Amazon | Front-End Engineer - Amazon Connect - AWS | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10510073/apply) |
-| 2026-09-22 | 2026-08-15 | Twitch | Software Engineer I - Payments | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8700578002) |
-| 2026-09-22 | 2026-08-14 | Roblox | Software Engineer - Creator Business | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8113334?gh_jid=8113334) |

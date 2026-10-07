@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1791401541,
+    "date_found": 1791416921,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1791401541,
+    "date_found": 1791416921,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,70 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1791401541,
+    "date_found": 1791416921,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "0c204362fa51ebac",
+    "dedup_key": "intern|pdt partners|summer 2027 quantitative research intern",
+    "company": "PDT Partners",
+    "title": "Summer 2027 Quantitative Research Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8263031",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:pdtpartners",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1791404248,
+    "date_found": 1791416921,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "greenhouse api: phd signal (phd student)"
+  },
+  {
+    "id": "027de060baaf0b4d",
+    "dedup_key": "intern|amazon|data engineer internship 2027 us",
+    "company": "Amazon",
+    "title": "Data Engineer Internship - 2027 (US)",
+    "locations": [
+      "US, WA, Seattle"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789689600,
+    "date_found": 1791416921,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a76f1af77c2053f0",
+    "dedup_key": "intern|amazon|business intelligence engineer internship 2027 us",
+    "company": "Amazon",
+    "title": "Business Intelligence Engineer Internship - 2027 (US)",
+    "locations": [
+      "US, WA, Seattle"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789689600,
+    "date_found": 1791416921,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "c82dbe556d9b8612",

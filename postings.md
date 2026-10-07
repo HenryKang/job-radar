@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-06 23:47 UTC · 1891 live & eligible postings (showing 400); 43 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-07 05:51 UTC · 1892 live & eligible postings (showing 400); 43 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-07 | 2026-10-07 | Amazon | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) | US, WA, Redmond | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
 | 2026-10-06 | 2026-10-03 | Microsoft | DevOps Cloud Engineering Consultant- CTJ- TS/SCI | Virginia, MN | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557019058) |
 | 2026-10-06 | 2026-10-06 | Alo Yoga | Software Engineers - Retail Systems | San Ramon, CA | — | swe | unknown | [apply](https://boards.greenhouse.io/aloyoga/jobs/6217901004?gh_jid=6217901004) |
 | 2026-10-06 | 2026-10-06 | City of San Francisco | Cloud Engineer - 1042 - Department of Technology | San Francisco, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990015903766-cloud-engineer-1042-department-of-technology?oga=true) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-06 23:47 UTC · 1891 live & eligible postings (showing 40
 | 2026-09-22 | 2026-08-01 | TikTok | Software Engineer Graduate- Ads Infrastructure - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668879883938203957) |
 | 2026-09-22 | 2026-08-01 | TikTok | Mobile Software Engineer Graduate - Global E-commerce - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668831181590513925) |
 | 2026-09-22 | 2026-08-01 | TikTok | Fullstack Software Engineer Graduate - Global E-commerce - 2027 Start | Seattle, WA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668828193675036981) |
-| 2026-09-22 | 2026-08-01 | TikTok | Software Development Engineer Graduate - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7668827381435517237) |

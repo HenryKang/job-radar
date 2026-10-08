@@ -1,9 +1,16 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-08 13:22 UTC · 1928 live & eligible postings (showing 400); 44 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-08 19:26 UTC · 1935 live & eligible postings (showing 400); 44 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-08 | 2026-10-08 | Productive Playhouse | Google Cloud / GCP Specialist - All Levels - Software - Data - DevOps - Security | Austin, TX | — | swe | unknown | [apply](https://productiveplayhouse.applytojob.com/apply/Aci3F0nobM/Google-Cloud-GCP-Specialist-All-Levels-Software-Data-DevOps-Security) |
+| 2026-10-08 | 2026-10-07 | Charles Schwab | Associate - Java Developer | Southlake, TX | — | swe | unknown | [apply](https://career-schwab.icims.com/jobs/126708/associate---java-developer/job) |
+| 2026-10-08 | 2026-10-07 | Hewlett Packard Enterprise | Site Reliability Engineer I - Sales Operations | Dallas, TX +1 | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Dallas-Texas-United-States-of-America/Site-Reliability-Engineer-I---Sales-Operations_1203341) |
+| 2026-10-08 | 2026-10-07 | Leidos | Junior Software Engineer | Huntsville, AL | — | swe | unknown | [apply](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Huntsville-AL/Junior-Software-Engineer_R-00194081) |
+| 2026-10-08 | 2026-10-07 | PayPal | Software Engineer - Android | San Jose, CA +1 | — | swe | unknown | [apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333) |
+| 2026-10-08 | 2026-10-08 | IMC Trading | Machine Learning Engineer Intern - Summer 2027 | New York, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) |
+| 2026-10-08 | 2026-10-08 | Affirm | Software Engineer II, Frontend (Marketing and Privacy) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8010608003) |
 | 2026-10-08 | 2026-10-08 | DoorDash | Software Engineer, Intern - Labs (Summer 2027) | San Francisco, CA; Sunnyvale, CA | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | 2026-10-07 | 2026-09-18 | Amazon | Data Engineer Internship - 2027 (US) | US, WA, Seattle | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) |
 | 2026-10-07 | 2026-09-18 | Amazon | Business Intelligence Engineer Internship - 2027 (US) | US, WA, Seattle | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) |
@@ -397,10 +404,3 @@ _Last updated: 2026-10-08 13:22 UTC · 1928 live & eligible postings (showing 40
 | 2026-09-22 | 2026-08-29 | Roblox | Software Engineer - Economy Platform | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8060254?gh_jid=8060254) |
 | 2026-09-22 | 2026-08-27 | Roblox | Software Engineer - Creator | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8115917?gh_jid=8115917) |
 | 2026-09-22 | 2026-08-27 | Twitch | Software Engineer I - Memberships | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8748320002) |
-| 2026-09-22 | 2026-08-27 | Twitch | Software Engineer I - Memberships | San Francisco, CA +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8751076002) |
-| 2026-09-22 | 2026-08-26 | Amazon | Software Development Engineer - Reporting Data Platform | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10519658/apply) |
-| 2026-09-22 | 2026-08-26 | Amazon | Software Engineer I - Memberships | San Francisco, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10515912/apply) |
-| 2026-09-22 | 2026-08-20 | Amazon | Front End Engineer - AWS Agentic AI Automated Reasoning - AR | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10515062/apply) |
-| 2026-09-22 | 2026-08-20 | TikTok | Software Engineer Graduate - TikTok Search Data Infra - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7675829388634392837) |
-| 2026-09-22 | 2026-08-19 | Amazon | Front-End Engineer - Amazon Connect - AWS | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10508283/apply) |
-| 2026-09-22 | 2026-08-19 | Amazon | Front-End Engineer II - Amplify Console | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10539314/apply) |

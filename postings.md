@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-08 19:26 UTC · 1935 live & eligible postings (showing 400); 44 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-08 23:57 UTC · 1937 live & eligible postings (showing 400); 44 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-08 | 2026-10-08 | Pinterest | Solutions Engineer Intern 2027 (USA) | San Francisco, CA, US; Remote, US | — | swe | unknown | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) |
+| 2026-10-08 | 2026-10-08 | Amazon | Systems Development Engineer Intern, (US) 2027 | US, WA, Bellevue | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027) |
 | 2026-10-08 | 2026-10-08 | Productive Playhouse | Google Cloud / GCP Specialist - All Levels - Software - Data - DevOps - Security | Austin, TX | — | swe | unknown | [apply](https://productiveplayhouse.applytojob.com/apply/Aci3F0nobM/Google-Cloud-GCP-Specialist-All-Levels-Software-Data-DevOps-Security) |
 | 2026-10-08 | 2026-10-07 | Charles Schwab | Associate - Java Developer | Southlake, TX | — | swe | unknown | [apply](https://career-schwab.icims.com/jobs/126708/associate---java-developer/job) |
 | 2026-10-08 | 2026-10-07 | Hewlett Packard Enterprise | Site Reliability Engineer I - Sales Operations | Dallas, TX +1 | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Dallas-Texas-United-States-of-America/Site-Reliability-Engineer-I---Sales-Operations_1203341) |
@@ -402,5 +404,3 @@ _Last updated: 2026-10-08 19:26 UTC · 1935 live & eligible postings (showing 40
 | 2026-09-22 | 2026-08-31 | Snap | Software Engineer - ML Infrastructure - Content Retrieval Platform - Level 4 | Palo Alto, CA | — | swe | unknown | [apply](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Palo-Alto-California/Software-Engineer--ML-Infrastructure_R0046629-1) |
 | 2026-09-22 | 2026-08-29 | Amazon | Front End Engineer II - Amazon Leo | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10532697/apply) |
 | 2026-09-22 | 2026-08-29 | Roblox | Software Engineer - Economy Platform | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8060254?gh_jid=8060254) |
-| 2026-09-22 | 2026-08-27 | Roblox | Software Engineer - Creator | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8115917?gh_jid=8115917) |
-| 2026-09-22 | 2026-08-27 | Twitch | Software Engineer I - Memberships | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8748320002) |

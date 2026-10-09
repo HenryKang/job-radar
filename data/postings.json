@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1791571749,
+    "date_found": 1791587646,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1791571749,
+    "date_found": 1791587646,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,10 +54,50 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1791571749,
+    "date_found": 1791587646,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "35428eabda298053",
+    "dedup_key": "intern|affirm|it engineer intern early careers summer 2027",
+    "company": "Affirm",
+    "title": "IT Engineer Intern (Early Careers Summer 2027)",
+    "locations": [
+      "San Francisco, California, United States"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:affirm",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791584002,
+    "date_found": 1791587646,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "23968aecb6bdd289",
+    "dedup_key": "intern|affirm|software engineer ii fullstack ads platform",
+    "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Ads Platform)",
+    "locations": [
+      "Remote US"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8016866003",
+    "season": "",
+    "source": "ats:greenhouse:affirm",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791573916,
+    "date_found": 1791587646,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "661d76baec8fac80",

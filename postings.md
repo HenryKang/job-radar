@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-09 18:49 UTC · 2006 live & eligible postings (showing 400); 44 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-09 23:14 UTC · 2008 live & eligible postings (showing 400); 44 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-09 | 2026-10-09 | Affirm | IT Engineer Intern (Early Careers Summer 2027) | San Francisco, California, United States | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
+| 2026-10-09 | 2026-10-09 | Affirm | Software Engineer II, Fullstack (Ads Platform) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8016866003) |
 | 2026-10-09 | 2026-10-09 | Roblox | Software Engineer - Engine Systems | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8159854?gh_jid=8159854) |
 | 2026-10-09 | 2026-10-08 | Amazon | Systems Development Engineer - Leo Avionics Test Software | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10574134/apply) |
 | 2026-10-09 | 2026-10-09 | 66degrees | Associate Software Engineer - Gradient Specialist | Chicago, IL | — | swe | ok | [apply](https://job-boards.greenhouse.io/66degrees/jobs/6220274004) |
@@ -402,5 +404,3 @@ _Last updated: 2026-10-09 18:49 UTC · 2006 live & eligible postings (showing 40
 | 2026-09-23 | 2026-09-23 | Kenway Consulting | Data - Analytics & Cloud Engineering Consultant | Chicago, IL | — | swe | unknown | [apply](https://kenwayconsulting.pinpointhq.com/en/postings/270ff333-e029-4ead-b033-07f74422b7ad) |
 | 2026-09-23 | 2026-09-23 | Point | Associate Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://point.com/hiring?gh_jid=8829278002) |
 | 2026-09-23 | 2026-09-23 | REGENT | Software Engineer II - Sensor Fusion & Autonomy | North Kingstown, RI | — | swe | unknown | [apply](https://jobs.ashbyhq.com/regent/698d38b7-c47e-40a1-bf78-31d59c395c23) |
-| 2026-09-23 | 2026-09-23 | Roku | Software Engineer | San Jose, CA | — | swe | ok | [apply](https://www.weareroku.com/jobs/8223823?gh_jid=8223823) |
-| 2026-09-23 | 2026-09-22 | American Oncology Network | Junior Web Developer | USA | — | swe | unknown | [apply](https://aoncology.wd12.myworkdayjobs.com/en-US/aoncology_careers/job/United-States/Junior-Web-Developer_JR7361) |

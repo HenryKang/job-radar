@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-12 09:45 UTC · 2032 live & eligible postings (showing 400); 44 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-12 19:48 UTC · 2034 live & eligible postings (showing 400); 44 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-12 | 2026-10-12 | Databricks | Software Engineering Intern (2027) | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | — | swe | unknown | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
+| 2026-10-12 | 2026-10-12 | DV Trading | Data Center Engineer Intern - Summer 2027 | Chicago | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/dvtrading/jobs/4742962005) |
 | 2026-10-10 | 2026-10-10 | Roblox | Software Engineer - ROS | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) |
 | 2026-10-10 | 2026-10-09 | NVIDIA | C++ Software Engineer - Infrastructure Tools - New College Grad 2027 | Santa Clara, CA | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431) |
 | 2026-10-10 | 2026-10-10 | ALTEN Technology USA | SAP ABAP & BTP Full Stack Developer - Entry-Level | Irvine, CA +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5262456007) |
@@ -402,5 +404,3 @@ _Last updated: 2026-10-12 09:45 UTC · 2032 live & eligible postings (showing 40
 | 2026-09-24 | 2026-09-24 | Man Group | Technology Rotational Program - Associate Engineer | Massachusetts | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101) |
 | 2026-09-24 | 2026-09-24 | Microsoft | Software Engineer - Intune | Cambridge, MA | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556982924) |
 | 2026-09-24 | 2026-09-24 | Roblox | Software Engineer - Data Access | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8168881?gh_jid=8168881) |
-| 2026-09-24 | 2026-09-24 | Bosch | Associate Motorsport Software Engineer | Farmington Hills, MI | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000151463391-associate-motorsport-software-engineer?oga=true) |
-| 2026-09-24 | 2026-09-24 | Commure | Software Engineer - Scribe AI | Mountain View, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465) |

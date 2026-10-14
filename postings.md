@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-13 21:50 UTC · 2113 live & eligible postings (showing 400); 45 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-14 01:12 UTC · 2114 live & eligible postings (showing 400); 45 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-14 | 2026-10-13 | Amazon | Hardware Development Engineer Intern,  Summer 2027 | US, CA, Sunnyvale | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
 | 2026-10-13 | 2026-10-02 | Snap | Software Engineer - Level 3 | Bellevue, WA +1 | — | swe | unknown | [apply](https://snapchat.wd1.myworkdayjobs.com/en-US/referral19/job/Bellevue-Washington/Software-Engineer--Level-3_R0044231-1) |
 | 2026-10-13 | 2026-10-13 | Arc Institute | Software Engineer - Lab Platform | Palo Alto, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/arcinstitute/jobs/6222737004) |
 | 2026-10-13 | 2026-10-13 | Cortrucent | Junior Full Stack Engineer | Berlin, NJ | — | swe | unknown | [apply](https://jobs.gusto.com/postings/cortrucent-security-junior-full-stack-engineer-30ac76ec-d69b-425f-95b7-f2b4b5bfd962) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-13 21:50 UTC · 2113 live & eligible postings (showing 40
 | 2026-09-29 | 2026-09-29 | SBT Global | Jr. AI Developer- Korean Bilingual | Plano, TX | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990015739987--jr-ai-developer-korean-bilingual-?oga=true) |
 | 2026-09-29 | 2026-09-29 | SpaceX | Embedded Software Engineer - RF Payloads - Starshield | Hawthorne, CA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8853324002?gh_jid=8853324002) |
 | 2026-09-29 | 2026-09-29 | SpaceX | New Graduate Engineer - Software - Starfall | Hawthorne, CA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) |
-| 2026-09-29 | 2026-09-29 | Via Logic | Cloud Security Engineer | Washington, DC | — | swe | unknown | [apply](https://job-boards.greenhouse.io/vialogic/jobs/5437189008) |

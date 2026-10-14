@@ -1,59 +1,5 @@
 [
   {
-    "dedup_key": "intern|fiserv|technology intern",
-    "id": "394db3478ea022d9",
-    "company": "Fiserv",
-    "title": "Technology Intern",
-    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "date_posted": 1776727395,
-    "date_discovered": 1790198927,
-    "last_checked": 1792010465,
-    "fail_reason": "http 410"
-  },
-  {
-    "dedup_key": "intern|intercontinental exchange inc|artificial intelligence data machine learning intern",
-    "id": "ede53bd3245f0d23",
-    "company": "Intercontinental Exchange, Inc.",
-    "title": "Artificial Intelligence, Data & Machine Learning Intern",
-    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "ml_data",
-    "locations": [
-      "New York, NY"
-    ],
-    "date_posted": 1776727516,
-    "date_discovered": 1790198927,
-    "last_checked": 1792010465,
-    "fail_reason": "http 404"
-  },
-  {
-    "dedup_key": "intern|voloridge investment management|quantitative developer intern",
-    "id": "516504ff2ed11d80",
-    "company": "Voloridge Investment Management",
-    "title": "Quantitative Developer Intern",
-    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "Jupiter, FL"
-    ],
-    "date_posted": 1779501421,
-    "date_discovered": 1790198927,
-    "last_checked": 1792010465,
-    "fail_reason": "http 404"
-  },
-  {
     "dedup_key": "new grad|copper river family of companies|junior entry level power platform developer",
     "id": "4254c4ae0284be14",
     "company": "Copper River Family of Companies",
@@ -68,7 +14,7 @@
     ],
     "date_posted": 1790710638,
     "date_discovered": 1790710754,
-    "last_checked": 1792010465,
+    "last_checked": 1792020462,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -86,7 +32,7 @@
     ],
     "date_posted": 1791997518,
     "date_discovered": 1791997618,
-    "last_checked": 1792010465,
+    "last_checked": 1792020462,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -104,7 +50,61 @@
     ],
     "date_posted": 1789578318,
     "date_discovered": 1791997618,
-    "last_checked": 1792010465,
+    "last_checked": 1792020462,
     "fail_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "dedup_key": "intern|fiserv|technology intern",
+    "id": "394db3478ea022d9",
+    "company": "Fiserv",
+    "title": "Technology Intern",
+    "url": "https://careers.fiserv.com/us/en/job/FFFYJUSR10390344EXTERNALENUS/Technology-Summer-Intern?jr_id=69e6ab5e3aa0c4796439589b",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "date_posted": 1776727395,
+    "date_discovered": 1792020462,
+    "last_checked": 1792020462,
+    "fail_reason": "http 410"
+  },
+  {
+    "dedup_key": "intern|intercontinental exchange inc|artificial intelligence data machine learning intern",
+    "id": "ede53bd3245f0d23",
+    "company": "Intercontinental Exchange, Inc.",
+    "title": "Artificial Intelligence, Data & Machine Learning Intern",
+    "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "ml_data",
+    "locations": [
+      "New York, NY"
+    ],
+    "date_posted": 1776727516,
+    "date_discovered": 1792020462,
+    "last_checked": 1792020462,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "intern|voloridge investment management|quantitative developer intern",
+    "id": "516504ff2ed11d80",
+    "company": "Voloridge Investment Management",
+    "title": "Quantitative Developer Intern",
+    "url": "https://voloridge-investment-management.hiringthing.com/job/1013126/quantitative-developer-intern-2027?s=lif&jr_id=69eaa8e4dc35f7132c4ab803",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "date_posted": 1779501421,
+    "date_discovered": 1792020462,
+    "last_checked": 1792020462,
+    "fail_reason": "http 404"
   }
 ]

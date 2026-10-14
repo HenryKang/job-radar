@@ -14,7 +14,7 @@
     ],
     "date_posted": 1790185818,
     "date_discovered": 1790185946,
-    "last_checked": 1791978373,
+    "last_checked": 1791997618,
     "fail_reason": "http 410"
   },
   {
@@ -32,7 +32,7 @@
     ],
     "date_posted": 1776727395,
     "date_discovered": 1790198927,
-    "last_checked": 1791978373,
+    "last_checked": 1791997618,
     "fail_reason": "http 410"
   },
   {
@@ -50,7 +50,7 @@
     ],
     "date_posted": 1776727516,
     "date_discovered": 1790198927,
-    "last_checked": 1791978373,
+    "last_checked": 1791997618,
     "fail_reason": "http 404"
   },
   {
@@ -68,7 +68,7 @@
     ],
     "date_posted": 1779501421,
     "date_discovered": 1790198927,
-    "last_checked": 1791978373,
+    "last_checked": 1791997618,
     "fail_reason": "http 404"
   },
   {
@@ -86,7 +86,43 @@
     ],
     "date_posted": 1790710638,
     "date_discovered": 1790710754,
-    "last_checked": 1791978373,
+    "last_checked": 1791997618,
     "fail_reason": "greenhouse api: job not found"
+  },
+  {
+    "dedup_key": "new grad|cayuse|associate software engineer ai solutions",
+    "id": "ef7c7568ac0d854e",
+    "company": "Cayuse",
+    "title": "Associate Software Engineer - AI Solutions",
+    "url": "https://job-boards.greenhouse.io/cayuse/jobs/8885769002",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Remote - USA"
+    ],
+    "date_posted": 1791997518,
+    "date_discovered": 1791997618,
+    "last_checked": 1791997618,
+    "fail_reason": "greenhouse api: job not found"
+  },
+  {
+    "dedup_key": "new grad|prime inc|junior rpgle developer",
+    "id": "cd85607aac216912",
+    "company": "Prime Inc.",
+    "title": "Junior RPGLE Developer",
+    "url": "https://careers-primeinc.icims.com/jobs/5263/junior-rpgle-developer/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Springfield, MO"
+    ],
+    "date_posted": 1789578318,
+    "date_discovered": 1791997618,
+    "last_checked": 1791997618,
+    "fail_reason": "js-rendered 404 (no title)"
   }
 ]

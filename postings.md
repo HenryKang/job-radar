@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-15 12:52 UTC · 2171 live & eligible postings (showing 400); 47 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-15 17:46 UTC · 2172 live & eligible postings (showing 400); 47 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-15 | 2026-10-15 | Robinhood | Software Engineer 1, Backend | Menlo Park, CA; New York, NY | — | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/7263578?t=gh_src=&gh_jid=7263578) |
 | 2026-10-14 | 2026-10-13 | NVIDIA | SoC Software Engineer - New College Grad 2027 | Santa Clara, CA | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) |
 | 2026-10-14 | 2026-10-13 | NVIDIA | SoC Software Engineer - New College Graduate 2026 | Santa Clara, CA | — | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) |
 | 2026-10-14 | 2026-09-02 | Amazon | Software Development Engineer - Amazon Connect | New York City, NY | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10534557/apply) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-15 12:52 UTC · 2171 live & eligible postings (showing 40
 | 2026-10-01 | 2026-09-30 | Raytheon | Software/Developer Engineer I - Onsite | Indianapolis, IN | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01878881) |
 | 2026-10-01 | 2026-09-30 | Raytheon | Software Engineer/Developer I - Onsite | Portsmouth, RI | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-Developer-I--Onsite-_01879018) |
 | 2026-10-01 | 2026-09-30 | Raytheon | Software Engineer/Developer I - Onsite | Tewksbury, MA | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Developer-I---Onsite-_01879022) |
-| 2026-10-01 | 2026-09-30 | Raytheon | Software/Developer Engineer I - Onsite | FT WAYNE, IN | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880) |

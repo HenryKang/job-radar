@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-16 09:18 UTC · 2174 live & eligible postings (showing 400); 47 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-16 14:14 UTC · 2175 live & eligible postings (showing 400); 47 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-16 | 2026-10-16 | Affirm | Software Engineer II, Full Stack (Card Acquisition) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8032173003) |
 | 2026-10-16 | 2026-10-16 | Affirm | Software Engineer II, Mobile (Card Acquisition) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8032173003) |
 | 2026-10-15 | 2026-10-15 | Affirm | Software Engineer I, Fullstack (Search) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) |
 | 2026-10-15 | 2026-10-15 | Robinhood | Software Engineer 1, Backend | Menlo Park, CA; New York, NY | — | swe | unknown | [apply](https://boards.greenhouse.io/robinhood/jobs/7263578?t=gh_src=&gh_jid=7263578) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-16 09:18 UTC · 2174 live & eligible postings (showing 40
 | 2026-10-01 | 2026-09-30 | Oracle | February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure - OCI - Nashville - TN | Nashville, TN | — | swe | unknown | [apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/346357) |
 | 2026-10-01 | 2026-09-30 | Parexel | Scientist II - Laboratory Informatics & VBA Developer - FSP | Pennsylvania, USA | — | swe | unknown | [apply](https://parexel.wd1.myworkdayjobs.com/en-US/parexel_external_careers/job/United-States---Pennsylvania---Client-Onsite/Scientist-II---Laboratory-Informatics---VBA-Developer---FSP_R0000046423) |
 | 2026-10-01 | 2026-09-30 | Raytheon | Software Engineer/Developer I - Onsite | Marlborough, MA | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030) |
-| 2026-10-01 | 2026-09-30 | Raytheon | Software/Developer Engineer I - Onsite | Indianapolis, IN | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01878881) |

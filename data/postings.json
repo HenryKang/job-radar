@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792173907,
+    "date_found": 1792184563,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792173907,
+    "date_found": 1792184563,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792173907,
+    "date_found": 1792184563,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792001018,
-    "date_found": 1792173907,
+    "date_posted": 1792011682,
+    "date_found": 1792184563,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
@@ -93,11 +93,71 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789581818,
-    "date_found": 1792173907,
+    "date_posted": 1789592482,
+    "date_found": 1792184563,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "d65a8c4c2f390a5a",
+    "dedup_key": "new grad|amazon|software development engineer i amazon connect customer data insights",
+    "company": "Amazon",
+    "title": "Software Development Engineer I - Amazon Connect Customer Data & Insights",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10562297/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790197282,
+    "date_found": 1792184563,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "3b9a36978a92b559",
+    "dedup_key": "new grad|amazon|software development engineer aws workspaces",
+    "company": "Amazon",
+    "title": "Software Development Engineer - AWS WorkSpaces",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10504598/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1786222882,
+    "date_found": 1792184563,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "a260fd25763a4423",
+    "dedup_key": "intern|doordash|electrical engineer intern labs summer 2027",
+    "company": "DoorDash",
+    "title": "Electrical Engineer, Intern - Labs (Summer 2027)",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:doordashusa",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792176866,
+    "date_found": 1792184563,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
   },
   {
     "id": "37193f5ab5146aaf",
@@ -198,46 +258,6 @@
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "d65a8c4c2f390a5a",
-    "dedup_key": "new grad|amazon|software development engineer i amazon connect customer data insights",
-    "company": "Amazon",
-    "title": "Software Development Engineer I - Amazon Connect Customer Data & Insights",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.amazon.jobs/jobs/10562297/apply",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1790186618,
-    "date_found": 1792173907,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
-  },
-  {
-    "id": "3b9a36978a92b559",
-    "dedup_key": "new grad|amazon|software development engineer aws workspaces",
-    "company": "Amazon",
-    "title": "Software Development Engineer - AWS WorkSpaces",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.amazon.jobs/jobs/10504598/apply",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1786212218,
-    "date_found": 1792173907,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
   },
   {
     "id": "6c0c2a97f1bbb378",

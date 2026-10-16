@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-16 18:05 UTC · 2216 live & eligible postings (showing 400); 49 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-16 21:02 UTC · 2217 live & eligible postings (showing 400); 49 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-16 | 2026-10-16 | DoorDash | Electrical Engineer, Intern - Labs (Summer 2027) | Oakland, CA | Summer 2027 | swe | unknown | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
 | 2026-10-16 | 2026-10-15 | Microsoft | Firmware Engineer | Washington, DC +4 | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557039428) |
 | 2026-10-16 | 2026-10-15 | TikTok | Backend Engineer Graduate - Social Foundation - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7696782198126545157) |
 | 2026-10-16 | 2026-10-15 | TikTok | Backend Engineer Graduate - Account - 2027 Start | San Jose, CA | — | swe | ok | [apply](https://lifeattiktok.com/search/7696779797359233333) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-16 18:05 UTC · 2216 live & eligible postings (showing 40
 | 2026-10-02 | 2026-10-01 | Automation Anywhere | Software Engineer | San Jose, CA | — | swe | unknown | [apply](https://automationanywhere.wd5.myworkdayjobs.com/en-US/automationanywherejobs/job/San-Jose-California/Software-Engineer_JR1492) |
 | 2026-10-02 | 2026-10-01 | Blend | NC Career Fair Software Engineer | Raleigh, NC | — | swe | ok | [apply](https://job-boards.greenhouse.io/blend/jobs/6214287004) |
 | 2026-10-02 | 2026-10-01 | Clay | Early Career Software Engineer | New York City, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273) |
-| 2026-10-02 | 2026-10-01 | CoStar Group | Associate Software Engineer - Sunnyvale - CA | Sunnyvale, CA | — | swe | unknown | [apply](https://costar.wd1.myworkdayjobs.com/en-US/costar_campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942) |

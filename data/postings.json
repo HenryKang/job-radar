@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792108260,
+    "date_found": 1792124745,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792108260,
+    "date_found": 1792124745,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792108260,
+    "date_found": 1792124745,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792021784,
-    "date_found": 1792108260,
+    "date_posted": 1792038259,
+    "date_found": 1792124745,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
@@ -93,11 +93,31 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789602584,
-    "date_found": 1792108260,
+    "date_posted": 1789619059,
+    "date_found": 1792124745,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "692a31879c5b9ac8",
+    "dedup_key": "intern|affirm|software engineer ii mobile card acquisition",
+    "company": "Affirm",
+    "title": "Software Engineer II, Mobile (Card Acquisition)",
+    "locations": [
+      "Remote US"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
+    "season": "",
+    "source": "ats:greenhouse:affirm",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792113011,
+    "date_found": 1792124745,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
   },
   {
     "id": "f758e26930d1ab4d",

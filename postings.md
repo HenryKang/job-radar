@@ -1,9 +1,25 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-19 00:12 UTC · 2279 live & eligible postings (showing 400); 49 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-19 04:39 UTC · 2295 live & eligible postings (showing 400); 49 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-19 | 2026-10-12 | Databricks | Software Engineering Intern | Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, BC | Summer | swe | unknown | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
+| 2026-10-19 | 2026-10-14 | CACI | Software Engineering Intern | Florham Park, NJ | Summer | swe | unknown | [apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543) |
+| 2026-10-19 | 2026-10-14 | Skydio | Software Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application) |
+| 2026-10-19 | 2026-10-16 | Healthpeak Properties | Forward Deployed Software Engineer Intern | NYC | Summer | swe | unknown | [apply](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship) |
+| 2026-10-19 | 2026-10-16 | Healthpeak Properties | Forward Deployed Software Engineer Intern | Irvine, CA | Summer | swe | unknown | [apply](https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship) |
+| 2026-10-19 | 2026-10-16 | Inversion Space | Avionics Embedded Software Engineer Intern | Playa Vista, LA | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) |
+| 2026-10-19 | 2026-10-16 | Apple | SoC Machine Learning Software Engineer Intern | Sunnyvale, CA | Summer | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200689488) |
+| 2026-10-19 | 2026-10-16 | Keysight Technologies | R&D Software Engineer Intern | Santa Rosa, CA | Summer | swe | unknown | [apply](https://jobs.keysight.com/jobs/54673?icims=1) |
+| 2026-10-19 | 2026-10-16 | TikTok | Software Engineer Intern, Recommendation Performance Efficiency | San Jose, CA | Summer | swe | ok | [apply](https://lifeattiktok.com/search/7673636206961641781) |
+| 2026-10-19 | 2026-10-16 | Keysight Technologies | R&D Software Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://jobs.keysight.com/jobs/54848?icims=1) |
+| 2026-10-19 | 2026-10-16 | John Deere | Software Engineering Intern, Technology | Ames, IA | Summer | swe | unknown | [apply](https://johndeere.eightfold.ai/careers/job/137483908089) |
+| 2026-10-19 | 2026-10-16 | Boston Scientific | AI/Data Science Intern | Maple Grove, MN | Summer | ml_data | unknown | [apply](https://bostonscientific.eightfold.ai/careers/job/563602813519129) |
+| 2026-10-19 | 2026-10-16 | Impulse Space | Enterprise Software Engineer Intern | Redondo Beach, CA | Summer | swe | unknown | [apply](https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq) |
+| 2026-10-19 | 2026-10-16 | AGCO | Embedded Software Engineer Intern | Hesston, KS, Jackson, MN | Summer | swe | ok | [apply](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors) |
+| 2026-10-19 | 2026-10-17 | HCSC | Finance Data & Analytics Developer Intern | Chicago, IL, Richardson, TX | Summer | swe | unknown | [apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478) |
+| 2026-10-19 | 2026-10-17 | HCSC | Finance Application Developer Intern | Chicago, IL, Richardson, TX | Summer | swe | unknown | [apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477) |
 | 2026-10-17 | 2026-10-10 | Affirm | IT Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
 | 2026-10-17 | 2026-10-10 | Veolia | Field Engineering Intern | Nanticoke, PA | Summer | swe | ok | [apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779385) |
 | 2026-10-17 | 2026-10-10 | Veolia | Field Engineering Intern | Lincoln, NE | Summer | swe | ok | [apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779699) |
@@ -388,19 +404,3 @@ _Last updated: 2026-10-19 00:12 UTC · 2279 live & eligible postings (showing 40
 | 2026-10-07 | 2026-07-24 | Crafted Staff | Remote AI Software Sales Representative | USA | — | swe | unknown | [apply](https://crafted-staff.breezy.hr/p/5c006a76980e-remote-ai-software-sales-representative) |
 | 2026-10-07 | 2026-07-06 | Notion | Software Engineer - Early Career - AI | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
 | 2026-10-07 | 2026-07-06 | Notion | Software Engineer - Early Career | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
-| 2026-10-07 | 2026-06-16 | Agile Defense | Software Engineer - Secret Clearance Required | Rosslyn, VA | — | swe | unknown | [apply](https://jobs.lever.co/agile-defense/3bb95132-8699-4807-97ec-10fa83b57dad) |
-| 2026-10-07 | 2026-06-15 | Wyetech | iOS-Savvy CNO Developer | Maryland, USA | — | swe | unknown | [apply](https://jobs.lever.co/wyetechllc/b0e6680b-e99c-495e-b452-cd4c1d37da2e) |
-| 2026-10-07 | 2026-10-07 | Pinterest | Software Engineer II, EPD Ads | San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US | — | swe | unknown | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8227344) |
-| 2026-10-07 | 2026-10-07 | Amazon | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) | US, WA, Redmond | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
-| 2026-10-06 | 2026-10-03 | Microsoft | DevOps Cloud Engineering Consultant- CTJ- TS/SCI | Virginia, MN | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557019058) |
-| 2026-10-06 | 2026-10-06 | Alo Yoga | Software Engineers - Retail Systems | San Ramon, CA | — | swe | unknown | [apply](https://boards.greenhouse.io/aloyoga/jobs/6217901004?gh_jid=6217901004) |
-| 2026-10-06 | 2026-10-06 | City of San Francisco | Cloud Engineer - 1042 - Department of Technology | San Francisco, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990015903766-cloud-engineer-1042-department-of-technology?oga=true) |
-| 2026-10-06 | 2026-10-06 | ID.me | Software Engineer II - Developer Portal - New Grad / Early Career | ID.me Mountain View, CA +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/idme/jobs/8011089003) |
-| 2026-10-06 | 2026-10-06 | SimIS | Junior Software Developer - Modeling & Simulation | Suffolk, VA | — | swe | ok | [apply](https://simisinc.applytojob.com/apply/s6iMOEGK1D/Junior-Software-Developer-Modeling-Simulation) |
-| 2026-10-06 | 2026-10-05 | Advocate Health | Data Solutions Developer - Associate | Milwaukee, WI | — | swe | unknown | [apply](https://aah.wd5.myworkdayjobs.com/en-US/external/job/Milwaukee-WI---7800-N-113th-St/Data-Solutions-Developer---Associate_R249061) |
-| 2026-10-06 | 2026-10-05 | Barrios | Software Developer I - Applications and Data | Houston, TX | — | swe | unknown | [apply](https://careers-barrios.icims.com/jobs/2903/software-developer-i-%28applications-and-data%29/job) |
-| 2026-10-06 | 2026-10-05 | Barrios | Data Analytics Developer I | Houston, TX | — | swe | unknown | [apply](https://careers-barrios.icims.com/jobs/2904/data-analytics-developer-i/job) |
-| 2026-10-06 | 2026-10-05 | Booz Allen | C++ Software Engineer - Junior | Beavercreek, OH | — | swe | unknown | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0240412) |
-| 2026-10-06 | 2026-10-05 | Charles Schwab | .Net Developer | Southlake, TX +1 | — | swe | unknown | [apply](https://career-schwab.icims.com/jobs/127637/.net-developer/job) |
-| 2026-10-06 | 2026-10-05 | GDIT | Software Developer Associate - TS/SCI with Polygraph | Chantilly, VA | — | swe | unknown | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1) |
-| 2026-10-06 | 2026-10-05 | Hewlett Packard Enterprise | Graduate Systems/Software Engineer I | Bloomington, MN | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439) |

@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-19 10:17 UTC · 2295 live & eligible postings (showing 400); 49 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-19 17:10 UTC · 2297 live & eligible postings (showing 400); 48 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-19 | 2026-08-09 | Amazon | Software Development Engineer - AWS WorkSpaces | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10504598/apply) |
+| 2026-10-19 | — | Adobe | 2027 Intern - Experience Researcher | San Jose | — | quant | unknown | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996) |
 | 2026-10-19 | 2026-10-12 | Databricks | Software Engineering Intern | Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, BC | Summer | swe | unknown | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
 | 2026-10-19 | 2026-10-14 | CACI | Software Engineering Intern | Florham Park, NJ | Summer | swe | unknown | [apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543) |
 | 2026-10-19 | 2026-10-14 | Skydio | Software Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c/application) |
@@ -402,5 +404,3 @@ _Last updated: 2026-10-19 10:17 UTC · 2295 live & eligible postings (showing 40
 | 2026-10-07 | 2026-08-18 | Dark Wolf Solutions | Junior AI Software Engineer | Chantilly, VA +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003) |
 | 2026-10-07 | 2026-08-05 | Twilio | Software Engineer - Platform Engineering - L2 | Remote - USA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/twilio/jobs/8026207) |
 | 2026-10-07 | 2026-07-24 | Crafted Staff | Remote AI Software Sales Representative | USA | — | swe | unknown | [apply](https://crafted-staff.breezy.hr/p/5c006a76980e-remote-ai-software-sales-representative) |
-| 2026-10-07 | 2026-07-06 | Notion | Software Engineer - Early Career - AI | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
-| 2026-10-07 | 2026-07-06 | Notion | Software Engineer - Early Career | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |

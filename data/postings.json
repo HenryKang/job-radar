@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792405029,
+    "date_found": 1792429825,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792405029,
+    "date_found": 1792429825,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792405029,
+    "date_found": 1792429825,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792059343,
-    "date_found": 1792405029,
+    "date_posted": 1792084127,
+    "date_found": 1792429825,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
@@ -93,8 +93,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789640143,
-    "date_found": 1792405029,
+    "date_posted": 1789664927,
+    "date_found": 1792429825,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790244943,
-    "date_found": 1792405029,
+    "date_posted": 1790269727,
+    "date_found": 1792429825,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -133,11 +133,31 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1786270543,
-    "date_found": 1792405029,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
+    "date_posted": 1786295327,
+    "date_found": 1792429825,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9783b1fa45d2e57e",
+    "dedup_key": "intern|adobe|2027 intern experience researcher",
+    "company": "Adobe",
+    "title": "2027 Intern - Experience Researcher",
+    "locations": [
+      "San Jose"
+    ],
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996",
+    "season": "",
+    "source": "ats:workday:adobe.wd5/external_experienced",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1792429825,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "94054da11218aaff",

@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-19 21:31 UTC · 2297 live & eligible postings (showing 400); 48 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-20 00:39 UTC · 2301 live & eligible postings (showing 400); 48 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-20 | 2026-10-05 | OpenAI | Backend Software Engineer, Cooperative AI (Evals) | San Francisco | — | swe | unknown | [apply](https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2) |
+| 2026-10-20 | 2026-10-19 | Brex | Software Engineer II, Data Enablement Platform | New York, New York, United States | — | swe | unknown | [apply](https://www.brex.com/careers/8605062002?gh_jid=8605062002) |
+| 2026-10-20 | 2026-10-19 | Brex | Software Engineer II, Data Enablement Platform | Seattle, Washington, United States | — | swe | unknown | [apply](https://www.brex.com/careers/8605074002?gh_jid=8605074002) |
+| 2026-10-20 | 2026-10-19 | Brex | Software Engineer II, Data Enablement Platform | San Francisco, California, United States | — | swe | unknown | [apply](https://www.brex.com/careers/8605070002?gh_jid=8605070002) |
 | 2026-10-19 | 2026-08-09 | Amazon | Software Development Engineer - AWS WorkSpaces | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10504598/apply) |
 | 2026-10-19 | — | Adobe | 2027 Intern - Experience Researcher | San Jose | — | quant | unknown | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996) |
 | 2026-10-19 | 2026-10-12 | Databricks | Software Engineering Intern | Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, BC | Summer | swe | unknown | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
@@ -400,7 +404,3 @@ _Last updated: 2026-10-19 21:31 UTC · 2297 live & eligible postings (showing 40
 | 2026-10-07 | 2026-10-06 | rubrik | Software Engineer - Product Platform Security | Palo Alto, CA | — | swe | unknown | [apply](https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737) |
 | 2026-10-07 | 2026-10-06 | Twilio | Software Engineer - Platform Access - L2 | Remote - USA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/twilio/jobs/8026211) |
 | 2026-10-07 | 2026-09-17 | Accenture Federal Services | Software Installation Engineer | San Diego, CA | — | swe | ok | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4712838006?gh_jid=4712838006) |
-| 2026-10-07 | 2026-08-27 | Integral Federal | Junior Java Developer | Fort Meade, MD | — | swe | unknown | [apply](https://careers-integralfed.icims.com/jobs/5439/junior-java-developer/job) |
-| 2026-10-07 | 2026-08-18 | Dark Wolf Solutions | Junior AI Software Engineer | Chantilly, VA +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003) |
-| 2026-10-07 | 2026-08-05 | Twilio | Software Engineer - Platform Engineering - L2 | Remote - USA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/twilio/jobs/8026207) |
-| 2026-10-07 | 2026-07-24 | Crafted Staff | Remote AI Software Sales Representative | USA | — | swe | unknown | [apply](https://crafted-staff.breezy.hr/p/5c006a76980e-remote-ai-software-sales-representative) |

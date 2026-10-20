@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792445517,
+    "date_found": 1792456751,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792445517,
+    "date_found": 1792456751,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792445517,
+    "date_found": 1792456751,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791927023,
-    "date_found": 1792445517,
+    "date_posted": 1791938257,
+    "date_found": 1792456751,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
@@ -93,8 +93,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789594223,
-    "date_found": 1792445517,
+    "date_posted": 1789605457,
+    "date_found": 1792456751,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -113,11 +113,91 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790199023,
-    "date_found": 1792445517,
+    "date_posted": 1790210257,
+    "date_found": 1792456751,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "3638b49530bacb67",
+    "dedup_key": "intern|openai|backend software engineer cooperative ai evals",
+    "company": "OpenAI",
+    "title": "Backend Software Engineer, Cooperative AI (Evals)",
+    "locations": [
+      "San Francisco"
+    ],
+    "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
+    "season": "",
+    "source": "ats:ashby:openai",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1791241859,
+    "date_found": 1792456751,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8592c7fc877f1a98",
+    "dedup_key": "intern|brex|software engineer ii data enablement platform",
+    "company": "Brex",
+    "title": "Software Engineer II, Data Enablement Platform",
+    "locations": [
+      "New York, New York, United States"
+    ],
+    "url": "https://www.brex.com/careers/8605062002?gh_jid=8605062002",
+    "season": "",
+    "source": "ats:greenhouse:brex",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792448743,
+    "date_found": 1792456751,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cbedba81e3136f09",
+    "dedup_key": "intern|brex|software engineer ii data enablement platform",
+    "company": "Brex",
+    "title": "Software Engineer II, Data Enablement Platform",
+    "locations": [
+      "Seattle, Washington, United States"
+    ],
+    "url": "https://www.brex.com/careers/8605074002?gh_jid=8605074002",
+    "season": "",
+    "source": "ats:greenhouse:brex",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792448841,
+    "date_found": 1792456751,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3d11e8097e9d505d",
+    "dedup_key": "intern|brex|software engineer ii data enablement platform",
+    "company": "Brex",
+    "title": "Software Engineer II, Data Enablement Platform",
+    "locations": [
+      "San Francisco, California, United States"
+    ],
+    "url": "https://www.brex.com/careers/8605070002?gh_jid=8605070002",
+    "season": "",
+    "source": "ats:greenhouse:brex",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792448753,
+    "date_found": 1792456751,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "3b9a36978a92b559",

@@ -1,23 +1,5 @@
 [
   {
-    "dedup_key": "new grad|copper river family of companies|junior entry level power platform developer",
-    "id": "4254c4ae0284be14",
-    "company": "Copper River Family of Companies",
-    "title": "Junior/Entry-Level Power Platform Developer",
-    "url": "https://job-boards.greenhouse.io/crfamilyofcompanies/jobs/8006981003",
-    "role_type": "new_grad",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "season": "",
-    "category": "swe",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "date_posted": 1790710638,
-    "date_discovered": 1790710754,
-    "last_checked": 1792524921,
-    "fail_reason": "greenhouse api: job not found"
-  },
-  {
     "dedup_key": "new grad|cayuse|associate software engineer ai solutions",
     "id": "ef7c7568ac0d854e",
     "company": "Cayuse",
@@ -32,7 +14,7 @@
     ],
     "date_posted": 1791997518,
     "date_discovered": 1791997618,
-    "last_checked": 1792524921,
+    "last_checked": 1792535994,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -50,7 +32,7 @@
     ],
     "date_posted": 1789578318,
     "date_discovered": 1791997618,
-    "last_checked": 1792524921,
+    "last_checked": 1792535994,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -68,7 +50,7 @@
     ],
     "date_posted": 1776727395,
     "date_discovered": 1792020462,
-    "last_checked": 1792524921,
+    "last_checked": 1792535994,
     "fail_reason": "http 410"
   },
   {
@@ -86,7 +68,7 @@
     ],
     "date_posted": 1776727516,
     "date_discovered": 1792020462,
-    "last_checked": 1792524921,
+    "last_checked": 1792535994,
     "fail_reason": "http 404"
   },
   {
@@ -104,7 +86,7 @@
     ],
     "date_posted": 1779501421,
     "date_discovered": 1792020462,
-    "last_checked": 1792524921,
+    "last_checked": 1792535994,
     "fail_reason": "http 404"
   },
   {
@@ -122,7 +104,7 @@
     ],
     "date_posted": 1790186618,
     "date_discovered": 1792173907,
-    "last_checked": 1792524921,
+    "last_checked": 1792535994,
     "fail_reason": "http 404"
   },
   {
@@ -140,7 +122,43 @@
     ],
     "date_posted": 1792370374,
     "date_discovered": 1792524921,
-    "last_checked": 1792524921,
+    "last_checked": 1792535994,
     "fail_reason": "closed: 'no longer available'"
+  },
+  {
+    "dedup_key": "intern|general dynamics information technology|software developer intern",
+    "id": "e19f1969b62e586f",
+    "company": "General Dynamics Information Technology",
+    "title": "Software Developer Intern",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Egg Harbor Township, NJ"
+    ],
+    "date_posted": 1792368000,
+    "date_discovered": 1792535994,
+    "last_checked": 1792535994,
+    "fail_reason": "workday gone (http 403)"
+  },
+  {
+    "dedup_key": "intern|allstate|software engineer intern",
+    "id": "9e7d1046ca8817dd",
+    "company": "Allstate",
+    "title": "Software Engineer Intern",
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "North Carolina"
+    ],
+    "date_posted": 1792454400,
+    "date_discovered": 1792535994,
+    "last_checked": 1792535994,
+    "fail_reason": "workday gone (http 403)"
   }
 ]

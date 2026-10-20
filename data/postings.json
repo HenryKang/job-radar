@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792524921,
+    "date_found": 1792535994,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792524921,
+    "date_found": 1792535994,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792524921,
+    "date_found": 1792535994,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,11 +73,593 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789587219,
-    "date_found": 1792524921,
+    "date_posted": 1789598298,
+    "date_found": 1792535994,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "82b0e39dafd24ae6",
+    "dedup_key": "intern|mitre|ai engineering intern",
+    "company": "MITRE",
+    "title": "AI Engineering Intern",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "url": "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792370374,
+    "date_found": 1792535994,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "6fed99daf5ea578e",
+    "dedup_key": "intern|national information solutions cooperative|application analyst intern financials software",
+    "company": "National Information Solutions Cooperative",
+    "title": "Application Analyst Intern, Financials Software",
+    "locations": [
+      "Mandan, ND"
+    ],
+    "url": "https://job-boards.greenhouse.io/nisc/jobs/8301304",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792393200,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "16f385f4240e4985",
+    "dedup_key": "intern|navy federal|ai engineering intern",
+    "company": "Navy Federal",
+    "title": "AI Engineering Intern",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792393200,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "20875b90916aa880",
+    "dedup_key": "intern|the toro company|cloud software development intern",
+    "company": "The Toro Company",
+    "title": "Cloud Software Development Intern",
+    "locations": [
+      "Frederick, CO"
+    ],
+    "url": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1792393200,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "949527f8f483fb52",
+    "dedup_key": "intern|zebra technologies|software engineer intern",
+    "company": "Zebra Technologies",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Holtsville, NY"
+    ],
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792393200,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ca97c7d8be935b1a",
+    "dedup_key": "intern|jpmorganchase|machine learning intern nlp",
+    "company": "JPMorganChase",
+    "title": "Machine Learning Intern, NLP",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1792479600,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e51bcebdd864abcd",
+    "dedup_key": "intern|palantir|software engineer intern query engines",
+    "company": "Palantir",
+    "title": "Software Engineer Intern, Query Engines",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792479600,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "343b71bcac5e0ea4",
+    "dedup_key": "intern|verizon communications|call routing optimization engineering intern verizon consumer group",
+    "company": "Verizon Communications",
+    "title": "Call Routing Optimization Engineering Intern, Verizon Consumer Group",
+    "locations": [
+      "Basking Ridge, NJ"
+    ],
+    "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792479600,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c9efba4de1777156",
+    "dedup_key": "intern|verizon communications|data science intern verizon consumer group",
+    "company": "Verizon Communications",
+    "title": "Data Science Intern, Verizon Consumer Group",
+    "locations": [
+      "Basking Ridge, NJ"
+    ],
+    "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1792479600,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "43a95681cca0cfb5",
+    "dedup_key": "intern|cognex|software engineer intern",
+    "company": "Cognex",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Wauwatosa, WI"
+    ],
+    "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0012549",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368000,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8eff48d0066c7350",
+    "dedup_key": "intern|micron technology|hbm design engineer intern hbm",
+    "company": "Micron Technology",
+    "title": "HBM Design Engineer Intern - HBM",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR112545",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368000,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "834288ac999186f5",
+    "dedup_key": "intern|rogue fitness|ai engineer intern",
+    "company": "Rogue Fitness",
+    "title": "AI Engineer Intern",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792454400,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "e19f1969b62e586f",
+    "dedup_key": "intern|general dynamics information technology|software developer intern",
+    "company": "General Dynamics Information Technology",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Egg Harbor Township, NJ"
+    ],
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368000,
+    "date_found": 1792535994,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "workday gone (http 403)"
+  },
+  {
+    "id": "13dcc2c57481d5a2",
+    "dedup_key": "intern|hewlett packard enterprise|hardware engineering design intern",
+    "company": "Hewlett Packard Enterprise",
+    "title": "Hardware Engineering Design Intern",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368000,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "d6344a65d5971923",
+    "dedup_key": "intern|salesforce|software engineer intern",
+    "company": "Salesforce",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "SF",
+      "Bellevue, WA"
+    ],
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368000,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "workday: no clear disqualifier"
+  },
+  {
+    "id": "117858b20e710b13",
+    "dedup_key": "intern|amplify|software engineer intern",
+    "company": "Amplify",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Remote in USA"
+    ],
+    "url": "https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792447437,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bea4b4d7131b3d3a",
+    "dedup_key": "intern|netapp|software engineer intern",
+    "company": "NetApp",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Wichita, KS"
+    ],
+    "url": "https://jobs.netapp.com/job/Wichita-Software-Engineer-Intern-KS-67208/1441378400/?ats=successfactors",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792448037,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "fad82b7f1873a672",
+    "dedup_key": "intern|keysight technologies|r d hardware engineer intern",
+    "company": "Keysight Technologies",
+    "title": "R&D Hardware Engineer Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://jobs.keysight.com/jobs/54804?icims=1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792448259,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "878f754f0a5db70e",
+    "dedup_key": "intern|inversion space|ai internal tools software engineer intern",
+    "company": "Inversion Space",
+    "title": "AI & Internal Tools Software Engineer Intern",
+    "locations": [
+      "Playa Vista, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792449144,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "06028ff7fa712d24",
+    "dedup_key": "intern|inversion space|vehicle software engineer intern",
+    "company": "Inversion Space",
+    "title": "Vehicle Software Engineer Intern",
+    "locations": [
+      "Playa Vista, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792449144,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "b28b2113cd423415",
+    "dedup_key": "intern|l3harris technologies|software engineering intern",
+    "company": "L3Harris Technologies",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792449175,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a8bc5c39cf76d1d9",
+    "dedup_key": "intern|westinghouse electric company|software development intern",
+    "company": "Westinghouse Electric Company",
+    "title": "Software Development Intern",
+    "locations": [
+      "Cranberry Township, PA"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Software-Development-NC/1441279500/?ats=successfactors",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792449205,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3f0798d9193c1433",
+    "dedup_key": "intern|patreon|software engineer intern",
+    "company": "Patreon",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "url": "https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792449243,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "374992e7aa1b07d2",
+    "dedup_key": "intern|electronic arts|software engineer intern",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216250",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792449799,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9e7d1046ca8817dd",
+    "dedup_key": "intern|allstate|software engineer intern",
+    "company": "Allstate",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "North Carolina"
+    ],
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792454400,
+    "date_found": 1792535994,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "workday gone (http 403)"
+  },
+  {
+    "id": "2fde23b636c60c02",
+    "dedup_key": "intern|boston scientific|r d software engineer intern",
+    "company": "Boston Scientific",
+    "title": "R&D Software Engineer Intern",
+    "locations": [
+      "Arden Hills, MN"
+    ],
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792460036,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5b99f8cf7a76ef26",
+    "dedup_key": "intern|space dynamics laboratory|ai enabled requirements engineering intern",
+    "company": "Space Dynamics Laboratory",
+    "title": "AI-Enabled Requirements Engineering Intern",
+    "locations": [
+      "North Logan, UT"
+    ],
+    "url": "https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792506847,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5e81cbbbbe2dc795",
+    "dedup_key": "intern|texas instruments|software engineer intern compiler",
+    "company": "Texas Instruments",
+    "title": "Software Engineer Intern, Compiler",
+    "locations": [
+      "Sugar Land, TX"
+    ],
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792506992,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "709175632d079e25",
+    "dedup_key": "intern|northrop grumman|cyber systems engineer intern",
+    "company": "Northrop Grumman",
+    "title": "Cyber Systems Engineer Intern",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1792454400,
+    "date_found": 1792535994,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
   },
   {
     "id": "88aeea3d8d5df6ee",
@@ -323,26 +905,6 @@
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "greenhouse api: undergrad markers"
-  },
-  {
-    "id": "82b0e39dafd24ae6",
-    "dedup_key": "intern|mitre|ai engineering intern",
-    "company": "MITRE",
-    "title": "AI Engineering Intern",
-    "locations": [
-      "Bedford, MA"
-    ],
-    "url": "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1792370374,
-    "date_found": 1792524921,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
   },
   {
     "id": "ef60fba2c6c2647e",

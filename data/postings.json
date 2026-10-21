@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792562406,
+    "date_found": 1792582968,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792562406,
+    "date_found": 1792582968,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792562406,
+    "date_found": 1792582968,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789624726,
-    "date_found": 1792562406,
+    "date_posted": 1789645271,
+    "date_found": 1792582968,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792370374,
-    "date_found": 1792562406,
+    "date_found": 1792582968,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792368000,
-    "date_found": 1792562406,
+    "date_found": 1792582968,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
@@ -134,10 +134,30 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792454400,
-    "date_found": 1792562406,
+    "date_found": 1792582968,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
+  },
+  {
+    "id": "f4294f04b72cebe3",
+    "dedup_key": "intern|nvidia|systems software intern aerial phy summer 2027",
+    "company": "Nvidia",
+    "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+    "locations": [
+      "US, CA, Santa Clara"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+    "season": "Summer 2027",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1792582968,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "de6d64e79f83e7ef",

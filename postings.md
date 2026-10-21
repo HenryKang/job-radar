@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-21 06:00 UTC · 2403 live & eligible postings (showing 400); 52 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-21 11:42 UTC · 2404 live & eligible postings (showing 400); 52 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-21 | — | Nvidia | Systems Software Intern, Aerial PHY- Summer 2027 | US, CA, Santa Clara | Summer 2027 | swe | unknown | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530) |
 | 2026-10-21 | 2026-10-20 | AeroVironment | Machine Learning Engineering Intern | Centreville, VA | Summer | swe | unknown | [apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941) |
 | 2026-10-21 | 2026-10-20 | Berkshire Hathaway Energy | Software Engineering Intern | Des Moines, IA | Summer | swe | unknown | [apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930) |
 | 2026-10-21 | 2026-10-20 | General Dynamics Mission Systems | Software Engineer Intern | Pittsburgh, PA | Summer | swe | unknown | [apply](https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-21 06:00 UTC · 2403 live & eligible postings (showing 40
 | 2026-10-09 | 2026-10-09 | Affirm | Software Engineer II, Fullstack (Ads Platform) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8016866003) |
 | 2026-10-09 | 2026-10-09 | Roblox | Software Engineer - Engine Systems | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8159854?gh_jid=8159854) |
 | 2026-10-09 | 2026-10-08 | Amazon | Systems Development Engineer - Leo Avionics Test Software | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10574134/apply) |
-| 2026-10-09 | 2026-10-09 | 66degrees | Associate Software Engineer - Gradient Specialist | Chicago, IL | — | swe | ok | [apply](https://job-boards.greenhouse.io/66degrees/jobs/6220274004) |

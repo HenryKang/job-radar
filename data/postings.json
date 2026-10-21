@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792535994,
+    "date_found": 1792544115,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792535994,
+    "date_found": 1792544115,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792535994,
+    "date_found": 1792544115,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789598298,
-    "date_found": 1792535994,
+    "date_posted": 1789606430,
+    "date_found": 1792544115,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -94,10 +94,290 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792370374,
-    "date_found": 1792535994,
+    "date_found": 1792544115,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "e19f1969b62e586f",
+    "dedup_key": "intern|general dynamics information technology|software developer intern",
+    "company": "General Dynamics Information Technology",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Egg Harbor Township, NJ"
+    ],
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368000,
+    "date_found": 1792544115,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "workday gone (http 403)"
+  },
+  {
+    "id": "9e7d1046ca8817dd",
+    "dedup_key": "intern|allstate|software engineer intern",
+    "company": "Allstate",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "North Carolina"
+    ],
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792454400,
+    "date_found": 1792544115,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "workday gone (http 403)"
+  },
+  {
+    "id": "de6d64e79f83e7ef",
+    "dedup_key": "intern|aerovironment|machine learning engineering intern",
+    "company": "AeroVironment",
+    "title": "Machine Learning Engineering Intern",
+    "locations": [
+      "Centreville, VA"
+    ],
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1792479600,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1faa46642a0d395c",
+    "dedup_key": "intern|berkshire hathaway energy|software engineering intern",
+    "company": "Berkshire Hathaway Energy",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792479600,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "60bd6c0c5cbf0eeb",
+    "dedup_key": "intern|general dynamics mission systems|software engineer intern",
+    "company": "General Dynamics Mission Systems",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1792479600,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2ee2922a344b9ce7",
+    "dedup_key": "intern|micron technology|smai probe ai engineer intern",
+    "company": "Micron Technology",
+    "title": "SMAI Probe AI Engineer Intern",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792479600,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de6dc8b313180ad8",
+    "dedup_key": "intern|skydio|mobile software engineer intern",
+    "company": "Skydio",
+    "title": "Mobile Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792479600,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bc89a1a4e8d83d38",
+    "dedup_key": "intern|keysight technologies|software engineer intern r d",
+    "company": "Keysight Technologies",
+    "title": "Software Engineer Intern, R&D",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://jobs.keysight.com/jobs/54805?icims=1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792448259,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e76adcce3866e14b",
+    "dedup_key": "intern|costar group|security engineer intern",
+    "company": "CoStar Group",
+    "title": "Security Engineer Intern",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792532928,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a8a0528c1bcf3a7e",
+    "dedup_key": "intern|illumio|engineering intern product security",
+    "company": "Illumio",
+    "title": "Engineering Intern, Product Security",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792531848,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f41e8d61443e5b0b",
+    "dedup_key": "intern|sony|research engineer intern ethical creative and protective ai lab",
+    "company": "Sony",
+    "title": "Research Engineer Intern, Ethical Creative and Protective AI Lab",
+    "locations": [
+      "Remote in USA"
+    ],
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792454400,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "workday: phd signal (pursuing a phd)"
+  },
+  {
+    "id": "a0e92889b7aa7abf",
+    "dedup_key": "intern|integrate|software engineering intern",
+    "company": "Integrate",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://jobs.ashbyhq.com/integrate/d619e978-446a-4147-a788-9e53918a1736",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792522551,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6cc804ba730c028c",
+    "dedup_key": "intern|humble robotics|embedded software engineer intern",
+    "company": "Humble Robotics",
+    "title": "Embedded Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792524329,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cebdf6c5c7e39ae6",
+    "dedup_key": "intern|american electric power|data scientist intern",
+    "company": "American Electric Power",
+    "title": "Data Scientist Intern",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1792454400,
+    "date_found": 1792544115,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "workday: no clear disqualifier"
   },
   {
     "id": "6fed99daf5ea578e",
@@ -320,26 +600,6 @@
     "elig_reason": "workday: undergrad markers"
   },
   {
-    "id": "e19f1969b62e586f",
-    "dedup_key": "intern|general dynamics information technology|software developer intern",
-    "company": "General Dynamics Information Technology",
-    "title": "Software Developer Intern",
-    "locations": [
-      "Egg Harbor Township, NJ"
-    ],
-    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1792368000,
-    "date_found": 1792535994,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "workday gone (http 403)"
-  },
-  {
     "id": "13dcc2c57481d5a2",
     "dedup_key": "intern|hewlett packard enterprise|hardware engineering design intern",
     "company": "Hewlett Packard Enterprise",
@@ -560,26 +820,6 @@
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "9e7d1046ca8817dd",
-    "dedup_key": "intern|allstate|software engineer intern",
-    "company": "Allstate",
-    "title": "Software Engineer Intern",
-    "locations": [
-      "North Carolina"
-    ],
-    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1792454400,
-    "date_found": 1792535994,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "workday gone (http 403)"
   },
   {
     "id": "2fde23b636c60c02",

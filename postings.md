@@ -1,9 +1,20 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-20 22:39 UTC · 2392 live & eligible postings (showing 400); 51 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-21 00:55 UTC · 2403 live & eligible postings (showing 400); 52 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-21 | 2026-10-20 | AeroVironment | Machine Learning Engineering Intern | Centreville, VA | Summer | swe | unknown | [apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941) |
+| 2026-10-21 | 2026-10-20 | Berkshire Hathaway Energy | Software Engineering Intern | Des Moines, IA | Summer | swe | unknown | [apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930) |
+| 2026-10-21 | 2026-10-20 | General Dynamics Mission Systems | Software Engineer Intern | Pittsburgh, PA | Summer | swe | unknown | [apply](https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job) |
+| 2026-10-21 | 2026-10-20 | Micron Technology | SMAI Probe AI Engineer Intern | Boise, ID | Summer | swe | unknown | [apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) |
+| 2026-10-21 | 2026-10-20 | Skydio | Mobile Software Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application) |
+| 2026-10-21 | 2026-10-19 | Keysight Technologies | Software Engineer Intern, R&D | Santa Clara, CA | Summer | swe | unknown | [apply](https://jobs.keysight.com/jobs/54805?icims=1) |
+| 2026-10-21 | 2026-10-20 | CoStar Group | Security Engineer Intern | Arlington, VA | Summer | swe | unknown | [apply](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727) |
+| 2026-10-21 | 2026-10-20 | Illumio | Engineering Intern, Product Security | Sunnyvale, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d) |
+| 2026-10-21 | 2026-10-20 | Integrate | Software Engineering Intern | Seattle, WA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/integrate/d619e978-446a-4147-a788-9e53918a1736) |
+| 2026-10-21 | 2026-10-20 | Humble Robotics | Embedded Software Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3) |
+| 2026-10-21 | 2026-10-20 | American Electric Power | Data Scientist Intern | Columbus, OH | Summer | ml_data | unknown | [apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R20499) |
 | 2026-10-20 | 2026-10-19 | National Information Solutions Cooperative | Application Analyst Intern, Financials Software | Mandan, ND | Summer | swe | ok | [apply](https://job-boards.greenhouse.io/nisc/jobs/8301304) |
 | 2026-10-20 | 2026-10-19 | Navy Federal | AI Engineering Intern | Vienna, VA | Summer | swe | unknown | [apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32645) |
 | 2026-10-20 | 2026-10-19 | The Toro Company | Cloud Software Development Intern | Frederick, CO | Summer | swe | unknown | [apply](https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) |
@@ -393,14 +404,3 @@ _Last updated: 2026-10-20 22:39 UTC · 2392 live & eligible postings (showing 40
 | 2026-10-09 | 2026-10-09 | Roblox | Software Engineer - Engine Systems | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8159854?gh_jid=8159854) |
 | 2026-10-09 | 2026-10-08 | Amazon | Systems Development Engineer - Leo Avionics Test Software | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10574134/apply) |
 | 2026-10-09 | 2026-10-09 | 66degrees | Associate Software Engineer - Gradient Specialist | Chicago, IL | — | swe | ok | [apply](https://job-boards.greenhouse.io/66degrees/jobs/6220274004) |
-| 2026-10-09 | 2026-10-09 | Aurelian | Software Engineer - New Grad | Seattle, WA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e) |
-| 2026-10-09 | 2026-10-09 | Brain | Software Engineer I - Firmware | San Diego, CA | — | swe | unknown | [apply](https://www.braincorp.com/open-positions?gh_jid=8879726002) |
-| 2026-10-09 | 2026-10-09 | Bright Vision Technologies | .NET / PostgreSQL Full Stack Developer | Mechanisburg, PA | — | swe | ok | [apply](https://brightvisiontechnologies.applytojob.com/apply/xefS6prO7L/NET-PostgreSQL-Full-Stack-Developer) |
-| 2026-10-09 | 2026-10-09 | Coherent Solutions | DevOps Engineer - RPA domain | Georgia, USA +1 | — | swe | unknown | [apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/5001056101) |
-| 2026-10-09 | 2026-10-09 | Empower AI | Software Licensing Help Desk Specialist | Remote - USA | — | swe | unknown | [apply](https://careers-empowerai.icims.com/jobs/9686/software-licensing-help-desk-specialist/job) |
-| 2026-10-09 | 2026-10-09 | Flatirons Solutions | DevOps Engineer | Boulder, CO | — | swe | unknown | [apply](https://flatironssolutions.pinpointhq.com/en/postings/2b617501-cc1a-4629-8a30-bd0dced697fd) |
-| 2026-10-09 | 2026-10-09 | Forge Nano | Software Engineer I | Thornton, CO | — | swe | ok | [apply](https://forge-nano.breezy.hr/p/66630c61f7e4-software-engineer-i) |
-| 2026-10-09 | 2026-10-09 | Lucid Motors | Software Engineer - ADAS Behavior Planning and Integration | Newark, CA | — | swe | unknown | [apply](https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007) |
-| 2026-10-09 | 2026-10-09 | Raytheon | Embedded Security Software Engineer I - Onsite | El Segundo, CA | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362) |
-| 2026-10-09 | 2026-10-09 | Raytheon | Embedded Security Software Engineer I - Onsite | Tucson, AZ | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370) |
-| 2026-10-09 | 2026-10-09 | Raytheon | Web/Full Stack Software Engineer I - Onsite | Fullerton, CA | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-FULLERTON-611--1801-Hughes-Dr--BLDG-611/Web-Full-Stack-Software-Engineer-I--Onsite-_01881496) |

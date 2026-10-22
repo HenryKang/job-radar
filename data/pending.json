@@ -14,7 +14,7 @@
     ],
     "date_posted": 1791997518,
     "date_discovered": 1791997618,
-    "last_checked": 1792674769,
+    "last_checked": 1792692000,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -32,7 +32,7 @@
     ],
     "date_posted": 1789578318,
     "date_discovered": 1791997618,
-    "last_checked": 1792674769,
+    "last_checked": 1792692000,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -50,7 +50,7 @@
     ],
     "date_posted": 1776727395,
     "date_discovered": 1792020462,
-    "last_checked": 1792674769,
+    "last_checked": 1792692000,
     "fail_reason": "http 410"
   },
   {
@@ -68,7 +68,7 @@
     ],
     "date_posted": 1776727516,
     "date_discovered": 1792020462,
-    "last_checked": 1792674769,
+    "last_checked": 1792692000,
     "fail_reason": "http 404"
   },
   {
@@ -86,7 +86,7 @@
     ],
     "date_posted": 1779501421,
     "date_discovered": 1792020462,
-    "last_checked": 1792674769,
+    "last_checked": 1792692000,
     "fail_reason": "http 404"
   },
   {
@@ -104,7 +104,7 @@
     ],
     "date_posted": 1790186618,
     "date_discovered": 1792173907,
-    "last_checked": 1792674769,
+    "last_checked": 1792692000,
     "fail_reason": "http 404"
   },
   {
@@ -122,7 +122,7 @@
     ],
     "date_posted": 1792370374,
     "date_discovered": 1792524921,
-    "last_checked": 1792674769,
+    "last_checked": 1792692000,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -140,25 +140,7 @@
     ],
     "date_posted": 1792368000,
     "date_discovered": 1792535994,
-    "last_checked": 1792674769,
-    "fail_reason": "workday gone (http 403)"
-  },
-  {
-    "dedup_key": "intern|allstate|software engineer intern",
-    "id": "9e7d1046ca8817dd",
-    "company": "Allstate",
-    "title": "Software Engineer Intern",
-    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "North Carolina"
-    ],
-    "date_posted": 1792454400,
-    "date_discovered": 1792535994,
-    "last_checked": 1792674769,
+    "last_checked": 1792692000,
     "fail_reason": "workday gone (http 403)"
   },
   {
@@ -176,7 +158,25 @@
     ],
     "date_posted": 1792613170,
     "date_discovered": 1792613261,
-    "last_checked": 1792674769,
+    "last_checked": 1792692000,
     "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "new grad|cohere health|software engineer i integrations",
+    "id": "5912f63cc30591eb",
+    "company": "Cohere Health",
+    "title": "Software Engineer I - Integrations",
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/8015082003",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": 1792519099,
+    "date_discovered": 1792692000,
+    "last_checked": 1792692000,
+    "fail_reason": "greenhouse api: job not found"
   }
 ]

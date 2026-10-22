@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792674769,
+    "date_found": 1792692000,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792674769,
+    "date_found": 1792692000,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792674769,
+    "date_found": 1792692000,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789650677,
-    "date_found": 1792674769,
+    "date_posted": 1789581499,
+    "date_found": 1792692000,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -94,10 +94,570 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792370374,
-    "date_found": 1792674769,
+    "date_found": 1792692000,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "206c84d22c53d783",
+    "dedup_key": "new grad|rivian|software engineer",
+    "company": "Rivian",
+    "title": "Software Engineer",
+    "locations": [
+      "Palo Alto, CA +1"
+    ],
+    "url": "https://ca-careers-rivian.icims.com/jobs/34249/software-engineer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cc3f59ffbc2747e0",
+    "dedup_key": "new grad|bln24|junior software developer",
+    "company": "BLN24",
+    "title": "Junior Software Developer",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://bln24.applytojob.com/apply/V6vmomRT9r/Junior-Software-Developer",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792691899,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1833f80ee6ae76da",
+    "dedup_key": "new grad|graham capital management|trading technology software developer",
+    "company": "Graham Capital Management",
+    "title": "Trading Technology Software Developer",
+    "locations": [
+      "Rowayton, CT +1"
+    ],
+    "url": "https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005?gh_jid=4745292005",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792691899,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "57c483bb7a097786",
+    "dedup_key": "new grad|independent software|azure cloud engineer junior level",
+    "company": "Independent Software",
+    "title": "Azure Cloud Engineer - Junior Level",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://independentsoftware.applytojob.com/apply/omj1OSmRUI/Azure-Cloud-Engineer-Junior-Level",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792691899,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2e76590612cb0374",
+    "dedup_key": "new grad|independent software|azure cloud engineer entry level",
+    "company": "Independent Software",
+    "title": "Azure Cloud Engineer - Entry Level",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://independentsoftware.applytojob.com/apply/Dh3mY1P8Ox/Azure-Cloud-Engineer-Entry-Level",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792691899,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a88bce24bd2ccb95",
+    "dedup_key": "new grad|pure storage|junior devops engineer",
+    "company": "Pure Storage",
+    "title": "Junior DevOps Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8282746",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792691899,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "64763df23e4fd3dc",
+    "dedup_key": "new grad|accenture federal services|devops engineer",
+    "company": "Accenture Federal Services",
+    "title": "DevOps Engineer",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4722580006?gh_jid=4722580006",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "7a5cdf70d875de8e",
+    "dedup_key": "new grad|aptiv|associate data developer",
+    "company": "Aptiv",
+    "title": "Associate Data Developer",
+    "locations": [
+      "Walnut Creek, CA"
+    ],
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Associate-Data-Developer_J000705531",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "44b40ad0749767e1",
+    "dedup_key": "new grad|bosch|crm junior engineer with devops",
+    "company": "Bosch",
+    "title": "CRM Junior Engineer with Devops",
+    "locations": [
+      "Telengana, IN"
+    ],
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156714729-crm-junior-engineer-with-devops?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d5bf83151a036172",
+    "dedup_key": "new grad|compassion|software support specialist temporary",
+    "company": "Compassion",
+    "title": "Software Support Specialist - Temporary",
+    "locations": [
+      "Remote - USA"
+    ],
+    "url": "https://compassion.wd5.myworkdayjobs.com/en-US/compassioncareers/job/Remote---USA/Software-Support-Specialist--Temporary-_R8665-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "925d97fe73b95010",
+    "dedup_key": "new grad|comscore|software engineer",
+    "company": "Comscore",
+    "title": "Software Engineer",
+    "locations": [
+      "Portland, OR +1"
+    ],
+    "url": "https://comscore.wd5.myworkdayjobs.com/en-US/external/job/OR---Portland-Airport/Software-Engineer_REQ1765",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1220e458eb184b0f",
+    "dedup_key": "new grad|dentsu|messaging developer",
+    "company": "dentsu",
+    "title": "Messaging Developer",
+    "locations": [
+      "Remote - Colorado, USA"
+    ],
+    "url": "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/USA---Remote---Colorado/Messaging-Developer_R1133106",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3acaee80cd71727b",
+    "dedup_key": "new grad|etsy|software engineer i marketplace makers",
+    "company": "Etsy",
+    "title": "Software Engineer I - Marketplace Makers",
+    "locations": [
+      "Brooklyn, NY"
+    ],
+    "url": "https://etsy.wd5.myworkdayjobs.com/en-US/etsy_careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d15bf01634d38cb9",
+    "dedup_key": "new grad|expedia group|software developer i",
+    "company": "Expedia Group",
+    "title": "Software Developer I",
+    "locations": [
+      "Missouri, USA"
+    ],
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "562361fbf9b32501",
+    "dedup_key": "new grad|globalfoundries|ai software engineer 2027 new college graduate",
+    "company": "GlobalFoundries",
+    "title": "AI Software Engineer - 2027 New College Graduate",
+    "locations": [
+      "California, USA +2"
+    ],
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ef5d5d07018a98da",
+    "dedup_key": "new grad|hp|software quality assurance engineer 1",
+    "company": "HP",
+    "title": "Software Quality Assurance Engineer 1",
+    "locations": [
+      "Vancouver, WA"
+    ],
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Vancouver-Washington-United-States-of-America/Software-Quality-Assurance-Engineer-1_3169763",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b46588c9efc40aa7",
+    "dedup_key": "new grad|icf|seasonal associate full stack developer remote",
+    "company": "ICF",
+    "title": "Seasonal Associate - Full Stack Developer - Remote",
+    "locations": [
+      "Reston, VA"
+    ],
+    "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "449d0afb740a4fc5",
+    "dedup_key": "new grad|icf|seasonal associate full stack developer remote",
+    "company": "ICF",
+    "title": "Seasonal Associate - Full Stack Developer - Remote",
+    "locations": [
+      "Reston, VA"
+    ],
+    "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "00ff1e1380e8b9ce",
+    "dedup_key": "new grad|interactive brokers|software engineer compliance tech",
+    "company": "Interactive Brokers",
+    "title": "Software Engineer - Compliance Tech",
+    "locations": [
+      "Greenwich, CT +1"
+    ],
+    "url": "https://jobs.dayforcehcm.com/en-US/ibgllc/candidateportal/jobs/2701",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "015e87eceeee48bb",
+    "dedup_key": "new grad|invenergy|platform developer i business applications",
+    "company": "Invenergy",
+    "title": "Platform Developer I - Business Applications",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Platform-Developer-I--Business-Applications_R11317-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7e1af08947f71805",
+    "dedup_key": "new grad|motorola solutions|embedded software engineer",
+    "company": "Motorola Solutions",
+    "title": "Embedded Software Engineer",
+    "locations": [
+      "Allen, TX"
+    ],
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7eaf16d7ee2a2957",
+    "dedup_key": "new grad|ncr|software engineer ncr voyix for department and specialty retail",
+    "company": "NCR",
+    "title": "Software Engineer - NCR Voyix for Department and Specialty Retail",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d13c35f6dfa52268",
+    "dedup_key": "new grad|prairie view a m university|software applications developer i",
+    "company": "Prairie View A&M University",
+    "title": "Software Applications Developer I",
+    "locations": [
+      "Prairie View, TX"
+    ],
+    "url": "https://tamus.wd1.myworkdayjobs.com/en-US/pvamu_external/job/Prairie-View-TX/Software-Applications-Developer-I_R-098240-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "659a0317a1cb9a04",
+    "dedup_key": "new grad|the ssi group|software engineer i",
+    "company": "The SSI Group",
+    "title": "Software Engineer I",
+    "locations": [
+      "Mobile, AL"
+    ],
+    "url": "https://jobs.dayforcehcm.com/en-US/ssi/candidateportal/jobs/864",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f373d0370424ab4a",
+    "dedup_key": "new grad|tommy bahama|associate front end web developer",
+    "company": "Tommy Bahama",
+    "title": "Associate Front End Web Developer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://oxford.wd5.myworkdayjobs.com/en-US/tommybahamaus/job/Corporate---SeattleWA/Associate-Front-End-Web-Developer_R49502",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792605499,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5912f63cc30591eb",
+    "dedup_key": "new grad|cohere health|software engineer i integrations",
+    "company": "Cohere Health",
+    "title": "Software Engineer I - Integrations",
+    "locations": [
+      "USA"
+    ],
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/8015082003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792519099,
+    "date_found": 1792692000,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "bdc508ebec5835bd",
+    "dedup_key": "new grad|soft tech consulting|pega developer",
+    "company": "Soft Tech Consulting",
+    "title": "Pega Developer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://careers-softtechconsulting.icims.com/jobs/3448/pega-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788890299,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "287227f0b8837eb0",
+    "dedup_key": "intern|doordash|mechanical engineering intern labs summer 2027",
+    "company": "DoorDash",
+    "title": "Mechanical Engineering, Intern - Labs (Summer 2027)",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8313401",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:doordashusa",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792683696,
+    "date_found": 1792692000,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
   },
   {
     "id": "45aba4167cab71e4",

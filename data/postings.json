@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792654265,
+    "date_found": 1792674769,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792654265,
+    "date_found": 1792674769,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792654265,
+    "date_found": 1792674769,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789630173,
-    "date_found": 1792654265,
+    "date_posted": 1789650677,
+    "date_found": 1792674769,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -94,10 +94,90 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792370374,
-    "date_found": 1792654265,
+    "date_found": 1792674769,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "45aba4167cab71e4",
+    "dedup_key": "new grad|esri|software development engineer in test i sdet arcgis enterprise",
+    "company": "Esri",
+    "title": "Software Development Engineer in Test I - SDET - ArcGIS Enterprise",
+    "locations": [
+      "Redlands, CA"
+    ],
+    "url": "https://www.esri.com/careers/5269847007?gh_jid=5269847007",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792674677,
+    "date_found": 1792674769,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "572af030c9e82a4a",
+    "dedup_key": "intern|aptiv|software development intern",
+    "company": "Aptiv",
+    "title": "Software Development Intern",
+    "locations": [
+      "Troy, MI"
+    ],
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792627200,
+    "date_found": 1792674769,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "8321921c932290e0",
+    "dedup_key": "intern|keysight technologies|software engineer intern",
+    "company": "Keysight Technologies",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Calabasas, CA"
+    ],
+    "url": "https://jobs.keysight.com/jobs/55115?icims=1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792631014,
+    "date_found": 1792674769,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "72ca9d0b8f4d0495",
+    "dedup_key": "intern|uber|2027 software engineering intern",
+    "company": "Uber",
+    "title": "2027 Software Engineering Intern",
+    "locations": [
+      "US, San Francisco, United States"
+    ],
+    "url": "https://jobs.uber.com/en/jobs/303922/",
+    "season": "",
+    "source": "ats:uber:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792454400,
+    "date_found": 1792674769,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "e19f1969b62e586f",
@@ -138,26 +218,6 @@
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
-  },
-  {
-    "id": "45aba4167cab71e4",
-    "dedup_key": "new grad|esri|software development engineer in test i sdet arcgis enterprise",
-    "company": "Esri",
-    "title": "Software Development Engineer in Test I - SDET - ArcGIS Enterprise",
-    "locations": [
-      "Redlands, CA"
-    ],
-    "url": "https://www.esri.com/careers/5269847007?gh_jid=5269847007",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1792654173,
-    "date_found": 1792654265,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
   },
   {
     "id": "d4f15993b4848f30",

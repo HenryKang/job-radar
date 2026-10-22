@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-22 07:31 UTC · 2474 live & eligible postings (showing 400); 54 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-22 13:12 UTC · 2477 live & eligible postings (showing 400); 54 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-22 | 2026-10-22 | Aptiv | Software Development Intern | Troy, MI | Summer | swe | ok | [apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861) |
+| 2026-10-22 | 2026-10-22 | Keysight Technologies | Software Engineer Intern | Calabasas, CA | Summer | swe | unknown | [apply](https://jobs.keysight.com/jobs/55115?icims=1) |
+| 2026-10-22 | 2026-10-20 | Uber | 2027 Software Engineering Intern | US, San Francisco, United States | — | swe | unknown | [apply](https://jobs.uber.com/en/jobs/303922/) |
 | 2026-10-22 | 2026-10-21 | Light & Wonder | Software Engineering Intern | Las Vegas, NV | Summer | swe | unknown | [apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982) |
 | 2026-10-22 | 2026-10-21 | Light & Wonder | Software Engineer Intern | Las Vegas, NV | Summer | swe | unknown | [apply](https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017) |
 | 2026-10-22 | 2026-10-21 | American Family Insurance Group | Data Engineer Intern | Madison, WI | Summer | swe | unknown | [apply](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675) |
@@ -401,6 +404,3 @@ _Last updated: 2026-10-22 07:31 UTC · 2474 live & eligible postings (showing 40
 | 2026-10-13 | 2026-10-05 | Sopra Steria I2S | Software Entwickler Cloud Native - Public Sector - m/w/d | Bundesweit, DE | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/SopraSteria1/744000153522919-software-entwickler-cloud-native-public-sector-m-w-d-?oga=true) |
 | 2026-10-13 | 2026-10-05 | West Monroe | 2027 Software Engineering - AI Concentration Consultant | New York City, NY | — | swe | unknown | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6181199004) |
 | 2026-10-13 | 2026-10-05 | West Monroe | 2027 Software Engineering - AI Concentration Consultant | Seattle, WA | — | swe | unknown | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6183029004) |
-| 2026-10-13 | 2026-10-05 | West Monroe | 2027 Software Engineering - AI Concentration Consultant | Chicago, IL | — | swe | unknown | [apply](https://westmonroe.com/careers/job-details-students?gh_jid=6183016004) |
-| 2026-10-13 | 2026-10-02 | Danaher | Software Quality Engineer I | Irvine, CA | — | swe | unknown | [apply](https://danaher.wd1.myworkdayjobs.com/en-US/danaherjobs/job/Irvine-California-United-States/Software-Quality-Engineer-I_R1320498) |
-| 2026-10-13 | 2026-09-30 | KLA | Engr - Software 1 | Ann Arbor, MI | — | swe | unknown | [apply](https://kla.wd1.myworkdayjobs.com/en-US/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2641480) |

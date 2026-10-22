@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792692000,
+    "date_found": 1792704701,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792692000,
+    "date_found": 1792704701,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792692000,
+    "date_found": 1792704701,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789581499,
-    "date_found": 1792692000,
+    "date_posted": 1789594199,
+    "date_found": 1792704701,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -94,10 +94,214 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792370374,
-    "date_found": 1792692000,
+    "date_found": 1792704701,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "5912f63cc30591eb",
+    "dedup_key": "new grad|cohere health|software engineer i integrations",
+    "company": "Cohere Health",
+    "title": "Software Engineer I - Integrations",
+    "locations": [
+      "USA"
+    ],
+    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/8015082003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792531799,
+    "date_found": 1792704701,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "0bde8c8eb74fa1a5",
+    "dedup_key": "intern|draftkings|data science intern",
+    "company": "DraftKings",
+    "title": "Data Science Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1789084800,
+    "date_found": 1792704701,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "34105f2c4913a5f9",
+    "dedup_key": "intern|uline|software developer intern",
+    "company": "Uline",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Waukegan, IL",
+      "Milwaukee, WI",
+      "Glenview, IL",
+      "Pleasant Prairie, WI",
+      "Kenosha, WI"
+    ],
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792627200,
+    "date_found": 1792704701,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2fc4cd8b693a2838",
+    "dedup_key": "intern|l3harris technologies|image processing engineer intern",
+    "company": "L3Harris Technologies",
+    "title": "Image Processing Engineer Intern",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "url": "https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792677964,
+    "date_found": 1792704701,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5b837613ca5b2e7b",
+    "dedup_key": "intern|northrop grumman|cyber software engineer intern",
+    "company": "Northrop Grumman",
+    "title": "Cyber Software Engineer Intern",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1792627200,
+    "date_found": 1792704701,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "7e3579105c2e6d75",
+    "dedup_key": "intern|copart|qa engineer intern",
+    "company": "Copart",
+    "title": "QA Engineer Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792627200,
+    "date_found": 1792704701,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "workday: no clear disqualifier"
+  },
+  {
+    "id": "870dd74aae7806f1",
+    "dedup_key": "intern|hitachi|test engineering intern",
+    "company": "Hitachi",
+    "title": "Test Engineering Intern",
+    "locations": [
+      "Norman, OK"
+    ],
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792627200,
+    "date_found": 1792704701,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "workday: no clear disqualifier"
+  },
+  {
+    "id": "56d827cb74807284",
+    "dedup_key": "intern|dp world|network engineering intern",
+    "company": "DP World",
+    "title": "Network Engineering Intern",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1792566000,
+    "date_found": 1792704701,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ce1cd9663c79e12c",
+    "dedup_key": "intern|databricks|data science intern 2027 start",
+    "company": "Databricks",
+    "title": "Data Science Intern (2027 Start)",
+    "locations": [
+      "Mountain View, California; San Francisco, California"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+    "season": "",
+    "source": "ats:greenhouse:databricks",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "",
+    "date_posted": 1792699039,
+    "date_found": 1792704701,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: Exceeded 30 redirects."
+  },
+  {
+    "id": "7b36e448b27b4f4b",
+    "dedup_key": "intern|man group|systematic quant intern",
+    "company": "Man Group",
+    "title": "Systematic Quant Intern",
+    "locations": [
+      "Boston; Massachusetts"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101",
+    "season": "",
+    "source": "ats:greenhouse:mangroup",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1792700842,
+    "date_found": 1792704701,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "206c84d22c53d783",
@@ -598,26 +802,6 @@
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "5912f63cc30591eb",
-    "dedup_key": "new grad|cohere health|software engineer i integrations",
-    "company": "Cohere Health",
-    "title": "Software Engineer I - Integrations",
-    "locations": [
-      "USA"
-    ],
-    "url": "https://job-boards.greenhouse.io/coherehealth/jobs/8015082003",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1792519099,
-    "date_found": 1792692000,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "greenhouse api: job not found"
   },
   {
     "id": "bdc508ebec5835bd",

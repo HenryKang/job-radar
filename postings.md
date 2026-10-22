@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-22 18:00 UTC · 2504 live & eligible postings (showing 400); 55 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-22 21:31 UTC · 2513 live & eligible postings (showing 400); 55 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-22 | 2026-09-11 | DraftKings | Data Science Intern | Boston, MA | Summer | ml_data | ok | [apply](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) |
+| 2026-10-22 | 2026-10-22 | Uline | Software Developer Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer | swe | unknown | [apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537) |
+| 2026-10-22 | 2026-10-22 | L3Harris Technologies | Image Processing Engineer Intern | Tulsa, OK | Summer | swe | ok | [apply](https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors) |
+| 2026-10-22 | 2026-10-22 | Northrop Grumman | Cyber Software Engineer Intern | San Antonio, TX | Summer | swe | ok | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311) |
+| 2026-10-22 | 2026-10-22 | Copart | QA Engineer Intern | Dallas, TX | Summer | swe | unknown | [apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineer-Intern_JR112005) |
+| 2026-10-22 | 2026-10-22 | Hitachi | Test Engineering Intern | Norman, OK | Summer | swe | unknown | [apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Norman-Oklahoma-United-States/Test-Engineering-Intern_R0148731) |
+| 2026-10-22 | 2026-10-21 | DP World | Network Engineering Intern | Charlotte, NC | Summer | swe | unknown | [apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27403) |
+| 2026-10-22 | 2026-10-22 | Databricks | Data Science Intern (2027 Start) | Mountain View, California; San Francisco, California | — | ml_data | unknown | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
+| 2026-10-22 | 2026-10-22 | Man Group | Systematic Quant Intern | Boston; Massachusetts | — | quant | ok | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) |
 | 2026-10-22 | 2026-10-21 | Rivian | Software Engineer | Palo Alto, CA +1 | — | swe | unknown | [apply](https://ca-careers-rivian.icims.com/jobs/34249/software-engineer/job) |
 | 2026-10-22 | 2026-10-22 | BLN24 | Junior Software Developer | McLean, VA | — | swe | ok | [apply](https://bln24.applytojob.com/apply/V6vmomRT9r/Junior-Software-Developer) |
 | 2026-10-22 | 2026-10-22 | Graham Capital Management | Trading Technology Software Developer | Rowayton, CT +1 | — | swe | ok | [apply](https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005?gh_jid=4745292005) |
@@ -395,12 +404,3 @@ _Last updated: 2026-10-22 18:00 UTC · 2504 live & eligible postings (showing 40
 | 2026-10-14 | 2026-10-14 | Amazon | Amazon Robotics - Hardware Development Engineer Intern/Co-op - 2027 | US, MA, Westboro | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/10578750/amazon-robotics-hardware-development-engineer-intern-co-op-2027) |
 | 2026-10-14 | 2026-10-14 | Amazon | Amazon Robotics - Software Development Engineer Intern/Co-op - 2027 | US, MA, Westboro | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027) |
 | 2026-10-14 | 2026-10-13 | Amazon | Hardware Development Engineer Intern,  Summer 2027 | US, CA, Sunnyvale | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
-| 2026-10-13 | 2026-10-02 | Snap | Software Engineer - Level 3 | Bellevue, WA +1 | — | swe | unknown | [apply](https://snapchat.wd1.myworkdayjobs.com/en-US/referral19/job/Bellevue-Washington/Software-Engineer--Level-3_R0044231-1) |
-| 2026-10-13 | 2026-10-13 | Arc Institute | Software Engineer - Lab Platform | Palo Alto, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/arcinstitute/jobs/6222737004) |
-| 2026-10-13 | 2026-10-13 | Cortrucent | Junior Full Stack Engineer | Berlin, NJ | — | swe | unknown | [apply](https://jobs.gusto.com/postings/cortrucent-security-junior-full-stack-engineer-30ac76ec-d69b-425f-95b7-f2b4b5bfd962) |
-| 2026-10-13 | 2026-10-13 | Impulse Space | Embedded Software Engineer | Redondo Beach, CA | — | swe | unknown | [apply](https://impulsespace.pinpointhq.com/en/postings/c0221837-8793-4ff0-b8de-de869c3564a3) |
-| 2026-10-13 | 2026-10-13 | OmegaHires | Supervised Fine-Tuning - SFT / Site Reliability Engineer - SRE | Phoenix, AZ | — | swe | unknown | [apply](https://omegahires.applytojob.com/apply/oIb4RdEISn/Supervised-FineTuning-SFT-Site-Reliability-Engineer-SRE) |
-| 2026-10-13 | 2026-10-13 | Primefocus Health | Software Engineer - Solutions | Remote - San Francisco, CA | — | swe | ok | [apply](https://jobs.gusto.com/postings/primefocus-health-inc-software-engineer-solutions-2c8a9f29-83b7-4be5-892d-86678e31b07e) |
-| 2026-10-13 | 2026-10-13 | Primefocus Health | Software Engineer - Solutions | Huntington, WV | — | swe | ok | [apply](https://jobs.gusto.com/postings/primefocus-health-inc-software-engineer-solutions-a9cee059-17ab-403f-948d-6eb21db79265) |
-| 2026-10-13 | 2026-10-13 | Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | — | swe | unknown | [apply](https://careers.wolve.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8) |
-| 2026-10-13 | 2026-10-13 | Wolverine Trading | C++ Software Engineer - Early Career | Chicago, IL | — | swe | unknown | [apply](https://careers.wolve.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648) |

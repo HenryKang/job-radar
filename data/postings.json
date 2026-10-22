@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792624567,
+    "date_found": 1792633847,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792624567,
+    "date_found": 1792633847,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792624567,
+    "date_found": 1792633847,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789600479,
-    "date_found": 1792624567,
+    "date_posted": 1789609752,
+    "date_found": 1792633847,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792370374,
-    "date_found": 1792624567,
+    "date_found": 1792633847,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792368000,
-    "date_found": 1792624567,
+    "date_found": 1792633847,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792454400,
-    "date_found": 1792624567,
+    "date_found": 1792633847,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
@@ -153,11 +153,31 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792624479,
-    "date_found": 1792624567,
+    "date_posted": 1792633752,
+    "date_found": 1792633847,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "1ec331a8a9bd54cb",
+    "dedup_key": "intern|adobe|2027 intern emerging technology innovation",
+    "company": "Adobe",
+    "title": "2027 Intern - Emerging Technology & Innovation",
+    "locations": [
+      "San Jose"
+    ],
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997",
+    "season": "",
+    "source": "ats:workday:adobe.wd5/external_experienced",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1792633847,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "41fba0915d95d63c",

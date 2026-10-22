@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-21 23:16 UTC · 2455 live & eligible postings (showing 400); 54 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-22 01:50 UTC · 2456 live & eligible postings (showing 400); 54 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-22 | — | Adobe | 2027 Intern - Emerging Technology & Innovation | San Jose | — | swe | unknown | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997) |
 | 2026-10-21 | 2026-10-19 | Bosch | Software Engineering Co-op | Fountain Inn, SC | Summer | swe | ok | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000156311682) |
 | 2026-10-21 | 2026-10-20 | Ryan | Application Engineering Intern | Plano, TX | Summer | swe | ok | [apply](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-1) |
 | 2026-10-21 | 2026-10-20 | Inmar Intelligence | Data Science Intern | Raleigh, NC, Winston-Salem, NC | Summer | ml_data | ok | [apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Science-Intern_JY2627711) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-21 23:16 UTC · 2455 live & eligible postings (showing 40
 | 2026-10-13 | 2026-09-14 | Aerospace | 2027 RPO Software Developer/Analyst | El Segundo, CA +2 | — | swe | unknown | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-RPO-Software-Developer-Analyst_R016457) |
 | 2026-10-13 | 2026-09-14 | Woongjin | Jr. AI Developer- Bilingual - Korean/ English | Plano, TX | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/WJCompany/744000149398129-jr-ai-developer-bilingual-korean-english-?oga=true) |
 | 2026-10-13 | 2026-09-12 | PathStone | Placement & Career Services Developer | Bristol, PA +1 | — | swe | unknown | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=89066319-3d2d-43f2-88e4-ea45aa701c73&jobId=601782) |
-| 2026-10-13 | 2026-09-11 | Trane Technologies | Associate Embedded SW Engineer | La Crosse, WI | — | swe | unknown | [apply](https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/La-Crosse-Wisconsin/Associate-Embedded-SW-Engineer_JR-14625-1) |

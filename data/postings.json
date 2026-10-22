@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792633847,
+    "date_found": 1792654265,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792633847,
+    "date_found": 1792654265,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792633847,
+    "date_found": 1792654265,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789609752,
-    "date_found": 1792633847,
+    "date_posted": 1789630173,
+    "date_found": 1792654265,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792370374,
-    "date_found": 1792633847,
+    "date_found": 1792654265,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792368000,
-    "date_found": 1792633847,
+    "date_found": 1792654265,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792454400,
-    "date_found": 1792633847,
+    "date_found": 1792654265,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
@@ -153,11 +153,373 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792633752,
-    "date_found": 1792633847,
+    "date_posted": 1792654173,
+    "date_found": 1792654265,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "d4f15993b4848f30",
+    "dedup_key": "intern|light wonder|software engineering intern",
+    "company": "Light & Wonder",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792566000,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "eb864d1c408be8a1",
+    "dedup_key": "intern|light wonder|software engineer intern",
+    "company": "Light & Wonder",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792566000,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d1ac45f94b8c9b5d",
+    "dedup_key": "intern|american family insurance group|data engineer intern",
+    "company": "American Family Insurance Group",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "Madison, WI"
+    ],
+    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792540800,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3b07ac03e23a39a9",
+    "dedup_key": "intern|icf international|full stack developer intern",
+    "company": "ICF International",
+    "title": "Full-Stack Developer Intern",
+    "locations": [
+      "Remote in USA"
+    ],
+    "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792540800,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "workday: no clear disqualifier"
+  },
+  {
+    "id": "614ca5d4ba28db36",
+    "dedup_key": "intern|the aerospace corporation|embedded software engineer intern multiple teams",
+    "company": "The Aerospace Corporation",
+    "title": "Embedded Software Engineer Intern, Multiple Teams",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792540800,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "fccafca63c57c0dd",
+    "dedup_key": "intern|globalfoundries|ai software intern",
+    "company": "GlobalFoundries",
+    "title": "AI Software Intern",
+    "locations": [
+      "Santa Clara, CA",
+      "Richardson, TX"
+    ],
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792540800,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "997bd9b44ec082e3",
+    "dedup_key": "intern|sierra space|flight software engineer intern",
+    "company": "Sierra Space",
+    "title": "Flight Software Engineer Intern",
+    "locations": [
+      "Louisville, CO"
+    ],
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792540800,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "aabdd75875b4d1d3",
+    "dedup_key": "intern|zillow|software development engineer intern",
+    "company": "Zillow",
+    "title": "Software Development Engineer Intern",
+    "locations": [
+      "Seattle, WA",
+      "Remote in USA"
+    ],
+    "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792540800,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "40a1e3fc87db1892",
+    "dedup_key": "intern|safran|software engineering intern",
+    "company": "Safran",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Bedford, NH"
+    ],
+    "url": "https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792613579,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c1f99427bfa3de45",
+    "dedup_key": "intern|l3harris technologies|software engineer intern",
+    "company": "L3Harris Technologies",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792613877,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "cacfd6515f90af8e",
+    "dedup_key": "intern|metalenz|camera software intern",
+    "company": "Metalenz",
+    "title": "Camera Software Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792620834,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0597fd72ceccb167",
+    "dedup_key": "intern|aon|it ai engineer intern",
+    "company": "Aon",
+    "title": "IT/AI Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://jobs.aon.com/jobs/110099?icims=1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792621144,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "91852ef87e2c7db2",
+    "dedup_key": "intern|trace3|data and analytics engineer intern",
+    "company": "Trace3",
+    "title": "Data and Analytics Engineer Intern",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/trace3/jobs/8274818",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792621334,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "1aebafd7bc454b50",
+    "dedup_key": "intern|john deere|software engineer student intern product engineering",
+    "company": "John Deere",
+    "title": "Software Engineer Student Intern, Product Engineering",
+    "locations": [
+      "Cary, NC"
+    ],
+    "url": "https://johndeere.eightfold.ai/careers/job/137483990019",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792621411,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0814674547d5bffa",
+    "dedup_key": "intern|walrus|full stack developer intern",
+    "company": "Walrus",
+    "title": "Full Stack Developer Intern",
+    "locations": [
+      "NYC"
+    ],
+    "url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792622040,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7d8a0a32028e4020",
+    "dedup_key": "intern|crusoe|software engineering intern",
+    "company": "Crusoe",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792626262,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "16461a90e00a7a54",
+    "dedup_key": "intern|microchip technology|engineering intern asic verification",
+    "company": "Microchip Technology",
+    "title": "Engineering Intern, ASIC Verification",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792540800,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "workday: no clear disqualifier"
+  },
+  {
+    "id": "931d22abf88d43d9",
+    "dedup_key": "intern|aerospace corporation|signal processing and rf engineering intern",
+    "company": "Aerospace Corporation",
+    "title": "Signal Processing and RF Engineering Intern",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-RF-Engineering-Undergrad-Intern_R016849",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1792540800,
+    "date_found": 1792654265,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
   },
   {
     "id": "1ec331a8a9bd54cb",

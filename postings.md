@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-22 21:31 UTC · 2513 live & eligible postings (showing 400); 55 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-23 00:09 UTC · 2514 live & eligible postings (showing 400); 55 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-23 | 2026-10-22 | Amazon | System Development Engineer Intern/Co-op, ROBOTICS -  2027 | US, MA, North Reading | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027) |
 | 2026-10-22 | 2026-09-11 | DraftKings | Data Science Intern | Boston, MA | Summer | ml_data | ok | [apply](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) |
 | 2026-10-22 | 2026-10-22 | Uline | Software Developer Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer | swe | unknown | [apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537) |
 | 2026-10-22 | 2026-10-22 | L3Harris Technologies | Image Processing Engineer Intern | Tulsa, OK | Summer | swe | ok | [apply](https://jobs.l3harris.com/job/Tulsa-Image-Processing-Engineer-Intern-OK-74115/1442671200/?ats=successfactors) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-22 21:31 UTC · 2513 live & eligible postings (showing 40
 | 2026-10-14 | 2026-10-14 | Point72 | 2027 Summer Internship – Software Engineer | New York, NY | — | swe | ok | [apply](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002) |
 | 2026-10-14 | 2026-10-14 | Amazon | Amazon Robotics - Hardware Development Engineer Intern/Co-op - 2027 | US, MA, Westboro | — | swe | unknown | [apply](https://www.amazon.jobs/en/jobs/10578750/amazon-robotics-hardware-development-engineer-intern-co-op-2027) |
 | 2026-10-14 | 2026-10-14 | Amazon | Amazon Robotics - Software Development Engineer Intern/Co-op - 2027 | US, MA, Westboro | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027) |
-| 2026-10-14 | 2026-10-13 | Amazon | Hardware Development Engineer Intern,  Summer 2027 | US, CA, Sunnyvale | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |

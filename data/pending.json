@@ -14,7 +14,7 @@
     ],
     "date_posted": 1791997518,
     "date_discovered": 1791997618,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -32,7 +32,7 @@
     ],
     "date_posted": 1789578318,
     "date_discovered": 1791997618,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -50,7 +50,7 @@
     ],
     "date_posted": 1776727395,
     "date_discovered": 1792020462,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "http 410"
   },
   {
@@ -68,7 +68,7 @@
     ],
     "date_posted": 1776727516,
     "date_discovered": 1792020462,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "http 404"
   },
   {
@@ -86,7 +86,7 @@
     ],
     "date_posted": 1779501421,
     "date_discovered": 1792020462,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "http 404"
   },
   {
@@ -104,7 +104,7 @@
     ],
     "date_posted": 1790186618,
     "date_discovered": 1792173907,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "http 404"
   },
   {
@@ -122,7 +122,7 @@
     ],
     "date_posted": 1792370374,
     "date_discovered": 1792524921,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "http 410"
   },
   {
@@ -140,7 +140,7 @@
     ],
     "date_posted": 1792368000,
     "date_discovered": 1792535994,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "workday gone (http 403)"
   },
   {
@@ -158,7 +158,7 @@
     ],
     "date_posted": 1792613170,
     "date_discovered": 1792613261,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "http 404"
   },
   {
@@ -176,7 +176,25 @@
     ],
     "date_posted": 1792519099,
     "date_discovered": 1792692000,
-    "last_checked": 1792714193,
+    "last_checked": 1792730568,
     "fail_reason": "greenhouse api: job not found"
+  },
+  {
+    "dedup_key": "new grad|cisco|attack surface management security engineer i",
+    "id": "1495c2432966b1c7",
+    "company": "Cisco",
+    "title": "Attack Surface Management Security Engineer I",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Attack-Surface-Management-Security-Engineer-I--Full-Time----United-States_2029031",
+    "role_type": "new_grad",
+    "source": "agg:vanshb03-newgrad2027",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Research Triangle Park, NC"
+    ],
+    "date_posted": 1792698816,
+    "date_discovered": 1792730568,
+    "last_checked": 1792730568,
+    "fail_reason": "workday gone (http 403)"
   }
 ]

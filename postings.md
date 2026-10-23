@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-23 04:42 UTC · 2540 live & eligible postings (showing 400); 59 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-23 09:36 UTC · 2549 live & eligible postings (showing 400); 60 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-23 | 2026-10-23 | Peraton | Junior Data Engineer, ETL/GIS | Remote | — | swe | unknown | [apply](https://careers-peraton.icims.com/jobs/172571/junior-data-engineer-%28etl-gis%29/job) |
+| 2026-10-23 | 2026-10-23 | Rendezvous Robotics | New Grad 2027: Flight Software Engineer | Golden, CO | — | swe | unknown | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009) |
+| 2026-10-23 | 2026-10-22 | Autostore | Software Engineer | Atlanta, GA | — | swe | ok | [apply](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1) |
+| 2026-10-23 | 2026-10-23 | Palantir | New Grad 2027: Forward Deployed Software Engineer, Warp Speed | New York, NY | — | swe | unknown | [apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply) |
+| 2026-10-23 | 2026-10-22 | Booz Allen | New Grad 2027: Software Developer | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | — | swe | ok | [apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280) |
+| 2026-10-23 | 2026-10-22 | Booz Allen | New Grad 2027: Data Scientist | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | — | ml_data | ok | [apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0252282) |
+| 2026-10-23 | 2026-10-22 | Booz Allen | New Grad 2027: Systems Engineer | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | — | swe | ok | [apply](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284) |
+| 2026-10-23 | 2026-10-22 | Guidehouse | New Grad 2027: Technical Associate Application Developer | Chicago, IL | — | swe | ok | [apply](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783) |
+| 2026-10-23 | 2026-10-23 | Amazon | New Grad 2027: Software Development Engineer 1, Annapurna Labs | Seattle, WA, Austin, TX, Cupertino, CA | — | swe | ok | [apply](https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) |
 | 2026-10-23 | 2026-10-22 | Brain Co. | New Grad 2027: AI/ML Engineer | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application) |
 | 2026-10-23 | 2026-10-22 | Brain Co. | New Grad 2027: AI Security Engineer | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/brainco/32c4e1c9-ccd1-4dca-a68b-31ad1b868030/application) |
 | 2026-10-23 | 2026-10-22 | Brain Co. | New Grad 2027: AI Product Engineer | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application) |
@@ -395,12 +404,3 @@ _Last updated: 2026-10-23 04:42 UTC · 2540 live & eligible postings (showing 40
 | 2026-10-14 | 2026-10-13 | TMEIC Corporation Americas | Associate Software Developer - AI - EE26117 | Houston, TX | — | swe | unknown | [apply](https://apply.workable.com/tmeic-corporation-americas/j/C4B8B72648/) |
 | 2026-10-14 | 2026-10-13 | York Space Systems | Site Reliability Engineer | Greenwood Village, CO | — | swe | unknown | [apply](https://jobs.dayforcehcm.com/en-US/yss/candidateportal/jobs/4422) |
 | 2026-10-14 | 2026-10-10 | Galatea Associates | Entry-Level Financial Software Consultant | St. Petersburg, FL | — | swe | ok | [apply](https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b) |
-| 2026-10-14 | 2026-10-08 | Boston Engineering | Embedded Software Engineer | Waltham, MA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/BostonEngineeringCorporation/744000154493769-embedded-software-engineer?oga=true) |
-| 2026-10-14 | 2026-10-08 | Intuitive | Service Software Developer | Santa Clara, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/Intuitive/744000154483468-service-software-developer?oga=true) |
-| 2026-10-14 | 2026-10-08 | STX | Product Developer | Baltimore, MD | — | swe | ok | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3718543) |
-| 2026-10-14 | 2026-10-07 | Wellmark | Software Engineer - Member Experience Delivery | Des Moines, IA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000153843930-software-engineer-member-experience-delivery-?oga=true) |
-| 2026-10-14 | 2026-10-06 | TaxRise | Junior Software Developer | Irvine, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/taxrise/jobs/4434618009) |
-| 2026-10-14 | 2026-10-06 | VivSoft Technologies | Junior Software Developer | Herndon, VA | — | swe | ok | [apply](https://vivsofttechnologiesfa.applytojob.com/apply/LGybK13SLM/Junior-Software-Developer) |
-| 2026-10-14 | 2026-10-02 | Yugabyte | Software Engineer II | Sunnyvale, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/yugabyte/jobs/4683621006) |
-| 2026-10-14 | 2026-10-01 | London Computer Systems | Product Support Specialist - Software | Cincinnati, OH | — | swe | unknown | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&jobId=547652) |
-| 2026-10-14 | 2026-10-01 | M3 USA | AI Software Engineer - Remote | Fort Washington, PA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/M3USA/744000152758649-ai-software-engineer-remote-?oga=true) |

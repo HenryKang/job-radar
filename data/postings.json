@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792816229,
+    "date_found": 1792832833,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792816229,
+    "date_found": 1792832833,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792816229,
+    "date_found": 1792832833,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,11 +73,11 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789619346,
-    "date_found": 1792816229,
+    "date_posted": 1789635950,
+    "date_found": 1792832833,
     "alive": false,
     "eligibility": "na",
-    "elig_reason": "js-rendered 404 (no title)"
+    "elig_reason": "small page + closed/redirect marker"
   },
   {
     "id": "82b0e39dafd24ae6",
@@ -94,10 +94,561 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792370374,
-    "date_found": 1792816229,
+    "date_found": 1792832833,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
+  },
+  {
+    "id": "2555244b225238d7",
+    "dedup_key": "new grad|hyannis port research|platform software engineer i",
+    "company": "Hyannis Port Research",
+    "title": "Platform Software Engineer I",
+    "locations": [
+      "Needham, MA"
+    ],
+    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7985899003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1788599150,
+    "date_found": 1792832833,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "48f8744103c32913",
+    "dedup_key": "intern|asml|application software qa engineer intern",
+    "company": "ASML",
+    "title": "Application Software QA Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Application-Software-QA-Engineer_J-00354565",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792738800,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "be09a8294a473aaa",
+    "dedup_key": "intern|asml|software quality assurance intern",
+    "company": "ASML",
+    "title": "Software Quality Assurance Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792738800,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "31ba1f4180f4df1c",
+    "dedup_key": "intern|auto owners insurance|business intelligence developer intern",
+    "company": "Auto-Owners Insurance",
+    "title": "Business Intelligence Developer Intern",
+    "locations": [
+      "Lansing, MI"
+    ],
+    "url": "https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1792738800,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "586cf7cf81f0f0de",
+    "dedup_key": "intern|id me|analytics engineer intern",
+    "company": "ID.me",
+    "title": "Analytics Engineer Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792738800,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "31c6478040ee6f36",
+    "dedup_key": "intern|sun life|data science intern",
+    "company": "Sun Life",
+    "title": "Data Science Intern",
+    "locations": [
+      "Milwaukee, WI",
+      "Kansas City, MO",
+      "Hartford, CT",
+      "Portland, ME",
+      "Wellesley, MA"
+    ],
+    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0a03a497dc6f2ed4",
+    "dedup_key": "intern|globalfoundries|tapeout engineer intern tapeout operations",
+    "company": "GlobalFoundries",
+    "title": "Tapeout Engineer Intern, Tapeout Operations",
+    "locations": [
+      "Essex Junction, VT"
+    ],
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "621698b33604ef77",
+    "dedup_key": "intern|american family insurance group|ai platform engineering intern",
+    "company": "American Family Insurance Group",
+    "title": "AI Platform Engineering Intern",
+    "locations": [
+      "Madison, WI"
+    ],
+    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "dfb16ed4e1f5fb1c",
+    "dedup_key": "intern|kla|software engineer intern c linux",
+    "company": "KLA",
+    "title": "Software Engineer Intern, C++, Linux",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "09b9cf0b5acea732",
+    "dedup_key": "intern|trace labs|robotics engineer intern hardware software",
+    "company": "Trace Labs",
+    "title": "Robotics Engineer Intern, Hardware & Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "33372a4621138f91",
+    "dedup_key": "intern|citi|technology analyst intern application development",
+    "company": "Citi",
+    "title": "Technology Analyst Intern, Application Development",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "7955e6e4b86b2b2c",
+    "dedup_key": "intern|citi|technology analyst intern application development",
+    "company": "Citi",
+    "title": "Technology Analyst Intern, Application Development",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "3f80f6607b746170",
+    "dedup_key": "intern|citi|technology analyst intern production support",
+    "company": "Citi",
+    "title": "Technology Analyst Intern, Production Support",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "a422dbc59e224df2",
+    "dedup_key": "intern|citi|technology analyst intern application development",
+    "company": "Citi",
+    "title": "Technology Analyst Intern, Application Development",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "b4723d9c95c41783",
+    "dedup_key": "intern|citi|technology analyst intern application development",
+    "company": "Citi",
+    "title": "Technology Analyst Intern, Application Development",
+    "locations": [
+      "Jersey City, NJ",
+      "New York, NY"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "88b927cef0eb7606",
+    "dedup_key": "intern|carrier global|software engineer intern",
+    "company": "Carrier Global",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "East Syracuse, NY"
+    ],
+    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "8effd23303e3cff3",
+    "dedup_key": "intern|sardine|engineering intern",
+    "company": "Sardine",
+    "title": "Engineering Intern",
+    "locations": [
+      "Remote",
+      "United States",
+      "Canada"
+    ],
+    "url": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "36be9893c2c4770b",
+    "dedup_key": "intern|mongodb|software engineer intern",
+    "company": "MongoDB",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "San Francisco, CA",
+      "Austin, TX",
+      "New York, NY"
+    ],
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792765793,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ab88a1c23ee40ef8",
+    "dedup_key": "intern|amperesand|ai ml engineer intern",
+    "company": "Amperesand",
+    "title": "AI/ML Engineer Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4465899009",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792793199,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "9c3f374bffc0bc58",
+    "dedup_key": "intern|multiply labs|software intern",
+    "company": "Multiply Labs",
+    "title": "Software Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792793407,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d629e95492201e7e",
+    "dedup_key": "intern|multiply labs|robotics software engineer intern",
+    "company": "Multiply Labs",
+    "title": "Robotics Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792793407,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fdf5853f0a4588ef",
+    "dedup_key": "intern|siemens|python backend developer intern energy flexibility platform",
+    "company": "Siemens",
+    "title": "Python Backend Developer Intern, Energy Flexibility Platform",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/526984",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792795194,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7f808406c2bad045",
+    "dedup_key": "intern|asml|platform software engineer in test intern",
+    "company": "ASML",
+    "title": "Platform Software Engineer In Test Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "0aca4f1d51d61b24",
+    "dedup_key": "intern|amazon|software development engineer intern amazon leo",
+    "company": "Amazon",
+    "title": "Software Development Engineer Intern, Amazon Leo",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1792726089,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c6a353be7258b596",
+    "dedup_key": "intern|texas instruments|digital design verification engineering intern",
+    "company": "Texas Instruments",
+    "title": "Digital Design Verification Engineering Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1792726089,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0f825295f6136435",
+    "dedup_key": "intern|scout ai|ai engineer intern fury team",
+    "company": "Scout AI",
+    "title": "AI Engineer Intern, Fury Team",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792790493,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e16991aa3b4e4c92",
+    "dedup_key": "intern|hewlett packard enterprise|cybersecurity engineering intern",
+    "company": "Hewlett Packard Enterprise",
+    "title": "Cybersecurity Engineering Intern",
+    "locations": [
+      "Spring, TX"
+    ],
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792832833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
   },
   {
     "id": "1495c2432966b1c7",
@@ -118,26 +669,6 @@
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
-  },
-  {
-    "id": "2555244b225238d7",
-    "dedup_key": "new grad|hyannis port research|platform software engineer i",
-    "company": "Hyannis Port Research",
-    "title": "Platform Software Engineer I",
-    "locations": [
-      "Needham, MA"
-    ],
-    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7985899003",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1788582546,
-    "date_found": 1792816229,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "greenhouse api: job not found"
   },
   {
     "id": "b0a7210d2ea5325f",

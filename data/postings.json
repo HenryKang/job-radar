@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1776727395,
-    "date_found": 1792800172,
+    "date_found": 1792816229,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1776727516,
-    "date_found": 1792800172,
+    "date_found": 1792816229,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1779501421,
-    "date_found": 1792800172,
+    "date_found": 1792816229,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -73,8 +73,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789603283,
-    "date_found": 1792800172,
+    "date_posted": 1789619346,
+    "date_found": 1792816229,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792370374,
-    "date_found": 1792800172,
+    "date_found": 1792816229,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1792698816,
-    "date_found": 1792800172,
+    "date_found": 1792816229,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "workday gone (http 403)"
@@ -133,11 +133,151 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1788566483,
-    "date_found": 1792800172,
+    "date_posted": 1788582546,
+    "date_found": 1792816229,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "b0a7210d2ea5325f",
+    "dedup_key": "new grad|citi|new grad 2027 technology production support analyst",
+    "company": "Citi",
+    "title": "New Grad 2027: Technology, Production Support Analyst",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004420-1",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792812025,
+    "date_found": 1792816229,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fa0f5e1b25ca3d56",
+    "dedup_key": "new grad|servicenow|associate software engineer",
+    "company": "ServiceNow",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157570319",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792812025,
+    "date_found": 1792816229,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "413dbee3df195f39",
+    "dedup_key": "new grad|citi|new grad 2027 technology analyst application development",
+    "company": "Citi",
+    "title": "New Grad 2027: Technology Analyst, Application Development",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792816229,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "367ae4fbabc771ea",
+    "dedup_key": "new grad|citi|new grad 2027 technology cyber security",
+    "company": "Citi",
+    "title": "New Grad 2027: Technology Cyber Security",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Full-Time-Analyst--Irving-2027-_26999831",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792816229,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "be9fc32ad659a90e",
+    "dedup_key": "new grad|citi|new grad 2027 software developer application development",
+    "company": "Citi",
+    "title": "New Grad 2027: Software Developer, Application Development",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792816229,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "32dbcc819d590c09",
+    "dedup_key": "new grad|citi|new grad 2027 technology analyst application development",
+    "company": "Citi",
+    "title": "New Grad 2027: Technology Analyst, Application Development",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2027_261004387",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1792816229,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "workday: undergrad markers"
+  },
+  {
+    "id": "9b48c231b773c4b9",
+    "dedup_key": "new grad|intel|software engineer cad eda tools master s",
+    "company": "Intel",
+    "title": "Software Engineer, CAD/EDA Tools (Master's)",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792812025,
+    "date_found": 1792816229,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
     "id": "3022f49739d391ed",

@@ -1,9 +1,15 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-24 00:02 UTC · 2641 live & eligible postings (showing 400); 64 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-24 04:30 UTC · 2647 live & eligible postings (showing 400); 65 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-24 | 2026-10-24 | Citi | New Grad 2027: Technology, Production Support Analyst | New York, NY | — | swe | unknown | [apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004420-1) |
+| 2026-10-24 | 2026-10-24 | ServiceNow | Associate Software Engineer | Santa Clara, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000157570319) |
+| 2026-10-24 | 2026-10-23 | Citi | New Grad 2027: Technology Analyst, Application Development | Tampa, FL | — | swe | ok | [apply](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424) |
+| 2026-10-24 | 2026-10-23 | Citi | New Grad 2027: Technology Cyber Security | Irving, TX | — | swe | ok | [apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Full-Time-Analyst--Irving-2027-_26999831) |
+| 2026-10-24 | 2026-10-23 | Citi | New Grad 2027: Software Developer, Application Development | Jacksonville, FL | — | swe | ok | [apply](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412) |
+| 2026-10-24 | 2026-10-23 | Citi | New Grad 2027: Technology Analyst, Application Development | Irving, TX | — | swe | ok | [apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Full-Time-Analyst--Irving---USA--2027_261004387) |
 | 2026-10-23 | 2026-10-22 | M&T Bank | Technology Intern, Software Engineering, Enterprise API Services Development Team | Buffalo, NY | Summer | swe | unknown | [apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812) |
 | 2026-10-23 | 2026-10-22 | Skydio | Frontend Software Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application) |
 | 2026-10-23 | 2026-10-22 | Texas Instruments | Software Engineering Intern | Remote, Canada | Summer | swe | unknown | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757) |
@@ -398,9 +404,3 @@ _Last updated: 2026-10-24 00:02 UTC · 2641 live & eligible postings (showing 40
 | 2026-10-17 | 2026-10-14 | General Dynamics Mission Systems | Software Engineer Intern, Crypto and Cross Domain Solutions | Taunton, MA | Summer | swe | unknown | [apply](https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job) |
 | 2026-10-17 | 2026-10-14 | ICF International | AI Engineer Intern | Reston, VA | Summer | swe | unknown | [apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518) |
 | 2026-10-17 | 2026-10-14 | ICF International | AI Engineer Intern | Reston, VA | Summer | swe | unknown | [apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521) |
-| 2026-10-17 | 2026-10-14 | ICF International | Software Engineer Intern | Reston, VA | Summer | swe | unknown | [apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522) |
-| 2026-10-17 | 2026-10-14 | KLA | Computer Vision/Machine Learning Intern | Milpitas, CA | Summer | ml_data | unknown | [apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1) |
-| 2026-10-17 | 2026-10-14 | Monolithic Power Systems | Applications Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Applications-Engineer-Intern_R-2035) |
-| 2026-10-17 | 2026-10-14 | National Life | Data Science Intern | Addison, TX, Montpelier, VT | Summer | ml_data | ok | [apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009) |
-| 2026-10-17 | 2026-10-14 | Point72 | Fundamental Researcher Intern, Canvas | New York, NY | Summer | quant | ok | [apply](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) |
-| 2026-10-17 | 2026-10-14 | Point72 | Software Engineer Intern | New York, NY | Summer | swe | ok | [apply](https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002) |

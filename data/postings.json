@@ -13,11 +13,71 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789607325,
-    "date_found": 1792977015,
+    "date_posted": 1789625196,
+    "date_found": 1792994908,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "ff1d109716274607",
+    "dedup_key": "intern|skydio|autonomy engineer intern deep learning computer vision",
+    "company": "Skydio",
+    "title": "Autonomy Engineer Intern, Deep Learning / Computer Vision",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://go.vansh.nyc/BL",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792886400,
+    "date_found": 1792994908,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7f59533175a65035",
+    "dedup_key": "intern|hewlett packard enterprise|ai ml developer intern",
+    "company": "Hewlett Packard Enterprise",
+    "title": "AI/ML Developer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/BM",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792983984,
+    "date_found": 1792994908,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "74cdce774c6afabe",
+    "dedup_key": "intern|man group|systematic fast trading intern",
+    "company": "Man Group",
+    "title": "Systematic Fast Trading Intern",
+    "locations": [
+      "New York"
+    ],
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101",
+    "season": "",
+    "source": "ats:greenhouse:mangroup",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "",
+    "date_posted": 1792977518,
+    "date_found": 1792994908,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (phd student)"
   },
   {
     "id": "1216ec4b4ef5753f",

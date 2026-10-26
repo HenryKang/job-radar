@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-25 23:13 UTC · 2721 live & eligible postings (showing 400); 66 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-26 01:10 UTC · 2722 live & eligible postings (showing 400); 66 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-26 | 2026-10-25 | Skydio | Autonomy Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/BH) |
 | 2026-10-25 | 2026-10-24 | Roblox | Software Engineer - Notifications | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8261393?gh_jid=8261393) |
 | 2026-10-25 | 2026-10-23 | Microsoft | Security Operations Engineer - Cloud Security | Redmond, WA | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393556923390) |
 | 2026-10-25 | 2026-10-24 | GoFasti | 1182 - Junior Frontend Developer - Part-Time | Remote - Cleveland, OH | — | swe | unknown | [apply](https://careers.gofasti.com/job-application/6233771004?gh_jid=6233771004) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-25 23:13 UTC · 2721 live & eligible postings (showing 40
 | 2026-10-20 | 2026-10-19 | St. Onge | Associate AI Developer | USA | — | swe | unknown | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=32a3e3bf-e484-44b1-b7a8-13d5c885cc97&jobId=571043) |
 | 2026-10-20 | 2026-10-19 | WEX | Software Development Engineer 1 | Remote - Portland, ME | — | swe | unknown | [apply](https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/Portland-ME/Software-Development-Engineer-1_R23233) |
 | 2026-10-20 | 2026-10-18 | SpaceX | Application Software Engineer - Flight Software | Hawthorne, CA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8899128002?gh_jid=8899128002) |
-| 2026-10-20 | 2026-10-17 | Ace IT Careers | Associate Software Test Analyst | Nashville, TN +4 | — | swe | unknown | [apply](https://apply.workable.com/ace-it-careers-1/j/2EC201994A/) |

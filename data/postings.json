@@ -13,11 +13,31 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789600328,
-    "date_found": 1792970007,
+    "date_posted": 1789607325,
+    "date_found": 1792977015,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "1216ec4b4ef5753f",
+    "dedup_key": "intern|skydio|autonomy engineer intern",
+    "company": "Skydio",
+    "title": "Autonomy Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://go.vansh.nyc/BH",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792970176,
+    "date_found": 1792977015,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "39b1564974afee29",

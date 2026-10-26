@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793042129,
+    "date_found": 1793056814,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,10 +34,252 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793042129,
+    "date_found": 1793056814,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "d424b42b7a67a13d",
+    "dedup_key": "intern|glean|software engineer intern",
+    "company": "Glean",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://go.vansh.nyc/SV",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793043054,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (ph.d. in )"
+  },
+  {
+    "id": "775950a46f981927",
+    "dedup_key": "intern|abbvie|cybersecurity intern business technology solutions",
+    "company": "AbbVie",
+    "title": "Cybersecurity Intern, Business Technology Solutions",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/SW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793042934,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "081253183b44a387",
+    "dedup_key": "intern|booz allen hamilton|systems engineer intern",
+    "company": "Booz Allen Hamilton",
+    "title": "Systems Engineer Intern",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://go.vansh.nyc/SX",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793046594,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a17928aeb6fbc7e8",
+    "dedup_key": "intern|booz allen hamilton|systems engineer intern games",
+    "company": "Booz Allen Hamilton",
+    "title": "Systems Engineer Intern, Games",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "url": "https://go.vansh.nyc/T0",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793046983,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de9332f3e7ea2d51",
+    "dedup_key": "intern|general dynamics mission systems|software test engineer intern",
+    "company": "General Dynamics Mission Systems",
+    "title": "Software Test Engineer Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://go.vansh.nyc/T5",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1792972800,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c6e82623e41b1779",
+    "dedup_key": "intern|hcsc|product engineer intern",
+    "company": "HCSC",
+    "title": "Product Engineer Intern",
+    "locations": [
+      "Chicago, IL",
+      "Richardson, TX"
+    ],
+    "url": "https://go.vansh.nyc/T7",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792972800,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "deda82d9c3632f2f",
+    "dedup_key": "intern|highmark health|provider delivery software engineer intern",
+    "company": "Highmark Health",
+    "title": "Provider Delivery Software Engineer Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/T8",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792972800,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7ac0f15c14f6040b",
+    "dedup_key": "intern|hive financial systems|software engineer intern",
+    "company": "Hive Financial Systems",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://go.vansh.nyc/Ta",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793026080,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c037dfdd2b2e2fc2",
+    "dedup_key": "intern|cohesity|software engineering intern",
+    "company": "Cohesity",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/Tc",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793054321,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2d98b589a5a710c4",
+    "dedup_key": "intern|space dynamics laboratory|software engineer intern",
+    "company": "Space Dynamics Laboratory",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Logan, UT"
+    ],
+    "url": "https://go.vansh.nyc/Tf",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793054616,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a158d581cdb8704a",
+    "dedup_key": "intern|chs|data engineer intern",
+    "company": "CHS",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "Inver Grove Heights, MN"
+    ],
+    "url": "https://go.vansh.nyc/Tg",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793054618,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8eae5f70e3965c43",
+    "dedup_key": "new grad|american electric power|data scientist",
+    "company": "American Electric Power",
+    "title": "Data Scientist",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "url": "https://go.vansh.nyc/Tj",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1792972800,
+    "date_found": 1793056814,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "faf373fc1761a01f",

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793131398,
+    "date_found": 1793144738,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,10 +34,497 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793131398,
+    "date_found": 1793144738,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "7031a91b5f5517a1",
+    "dedup_key": "new grad|anduril|early career software engineer battlespace awareness",
+    "company": "Anduril",
+    "title": "Early Career Software Engineer - Battlespace Awareness",
+    "locations": [
+      "Broomfield, CO +1"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793144636,
+    "date_found": 1793144738,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "43582ce175bf3581",
+    "dedup_key": "intern|national interstate insurance|emerging technology intern",
+    "company": "National Interstate Insurance",
+    "title": "Emerging Technology Intern",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://go.vansh.nyc/Wh",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793131026,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f386d56d1e610300",
+    "dedup_key": "intern|national interstate insurance|platform operations developer intern",
+    "company": "National Interstate Insurance",
+    "title": "Platform Operations Developer Intern",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://go.vansh.nyc/Wi",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793131026,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9c8ad597cda85b8c",
+    "dedup_key": "intern|national interstate insurance|claims lab developer intern",
+    "company": "National Interstate Insurance",
+    "title": "Claims Lab Developer Intern",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://go.vansh.nyc/Wm",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793132452,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2ac4a0a6f41d840e",
+    "dedup_key": "intern|asml|frontend developer intern",
+    "company": "ASML",
+    "title": "Frontend Developer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/Wr",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793136542,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e60d3e8c898510dd",
+    "dedup_key": "intern|salesforce|forward deployed engineer intern global public sector",
+    "company": "Salesforce",
+    "title": "Forward Deployed Engineer Intern, Global Public Sector",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/WD",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "eb66a38309752e3c",
+    "dedup_key": "intern|amazon|database engineer intern",
+    "company": "Amazon",
+    "title": "Database Engineer Intern",
+    "locations": [
+      "Seattle, WA",
+      "East Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/WF",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793138653,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f916439c86239e1d",
+    "dedup_key": "intern|emerson electric|software engineer intern",
+    "company": "Emerson Electric",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/WG",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793139142,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bb6dfdfc94cfdf70",
+    "dedup_key": "intern|assurant|ai and data science intern",
+    "company": "Assurant",
+    "title": "AI and Data Science Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://go.vansh.nyc/WN",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fdea163d926aa5a5",
+    "dedup_key": "intern|nomad gcs|software engineer intern",
+    "company": "Nomad GCS",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Columbia Falls, MT"
+    ],
+    "url": "https://go.vansh.nyc/WO",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793140122,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d0d41283e60f4449",
+    "dedup_key": "intern|paccar|data engineer intern",
+    "company": "Paccar",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "Chillicothe, OH"
+    ],
+    "url": "https://go.vansh.nyc/WP",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793140414,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0066baccba458b26",
+    "dedup_key": "new grad|nvidia|new grad 2027 deep learning performance architect",
+    "company": "NVIDIA",
+    "title": "New Grad 2027: Deep Learning Performance Architect",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/Wk",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793131360,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f64df7dbd7c99a98",
+    "dedup_key": "new grad|northrop grumman|new grad 2027 associate software engineer",
+    "company": "Northrop Grumman",
+    "title": "New Grad 2027: Associate Software Engineer",
+    "locations": [
+      "Azusa, CA"
+    ],
+    "url": "https://go.vansh.nyc/Wn",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793059200,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ffe201517d0e4f40",
+    "dedup_key": "new grad|northrop grumman|new grad 2027 associate software engineer",
+    "company": "Northrop Grumman",
+    "title": "New Grad 2027: Associate Software Engineer",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "url": "https://go.vansh.nyc/Wo",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793059200,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e90ae38fdec5329c",
+    "dedup_key": "new grad|nvidia|new grad 2027 formal verification engineer",
+    "company": "NVIDIA",
+    "title": "New Grad 2027: Formal Verification Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/Wq",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793135066,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3b0745bcdfb7eac5",
+    "dedup_key": "new grad|johns hopkins apl|new grad 2027 cybersecurity engineer critical infrastructure protection",
+    "company": "Johns Hopkins APL",
+    "title": "New Grad 2027: Cybersecurity Engineer, Critical Infrastructure Protection",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://go.vansh.nyc/Wt",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793137054,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a4fa84f05e35d900",
+    "dedup_key": "new grad|databricks|new grad 2027 software engineer",
+    "company": "Databricks",
+    "title": "New Grad 2027: Software Engineer",
+    "locations": [
+      "Bellevue, WA",
+      "Mountain View, CA",
+      "San Francisco, CA",
+      "Vancouver, Canada"
+    ],
+    "url": "https://go.vansh.nyc/WA",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9c538ab55c34912f",
+    "dedup_key": "new grad|databricks|new grad 2027 software engineer distributed data systems",
+    "company": "Databricks",
+    "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+    "locations": [
+      "Bellevue, WA",
+      "Mountain View, CA"
+    ],
+    "url": "https://go.vansh.nyc/WB",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e7f7058e7aa4efbc",
+    "dedup_key": "new grad|ge vernova|new grad ai engineer",
+    "company": "GE Vernova",
+    "title": "New Grad: AI Engineer",
+    "locations": [
+      "Greenville, SC"
+    ],
+    "url": "https://go.vansh.nyc/WH",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793059200,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2023347ee4cad87a",
+    "dedup_key": "new grad|at t|ai native software engineer analyst full stack python",
+    "company": "AT&T",
+    "title": "AI-Native Software Engineer Analyst - Full-Stack Python",
+    "locations": [
+      "Bothell, WA",
+      "Dallas, TX",
+      "Alpharetta, GA"
+    ],
+    "url": "https://go.vansh.nyc/WI",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fc883034d47b9534",
+    "dedup_key": "new grad|emerson electric|software engineer",
+    "company": "Emerson Electric",
+    "title": "Software Engineer",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/WK",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793139144,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8722f99ba8eeb998",
+    "dedup_key": "new grad|apple|soc physical design engineer place and route",
+    "company": "Apple",
+    "title": "SoC Physical Design Engineer, Place and Route",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/WL",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793138715,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8f0e1ce072884d4f",
+    "dedup_key": "intern|databricks|software engineer new grad 2027 start",
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad (2027 Start)",
+    "locations": [
+      "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
+    "season": "",
+    "source": "ats:greenhouse:databricks",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793131328,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e423fbf117a86623",
+    "dedup_key": "intern|databricks|software engineer new grad distributed data systems 2027 start",
+    "company": "Databricks",
+    "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start)",
+    "locations": [
+      "Bellevue, Washington; Mountain View, California"
+    ],
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002",
+    "season": "",
+    "source": "ats:greenhouse:databricks",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793132524,
+    "date_found": 1793144738,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "a4ca3ce3fd9c5d13",
@@ -461,26 +948,6 @@
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "7031a91b5f5517a1",
-    "dedup_key": "new grad|anduril|early career software engineer battlespace awareness",
-    "company": "Anduril",
-    "title": "Early Career Software Engineer - Battlespace Awareness",
-    "locations": [
-      "Broomfield, CO +1"
-    ],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1793131299,
-    "date_found": 1793131398,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "greenhouse api: job not found"
   },
   {
     "id": "3c50d443917e04b7",

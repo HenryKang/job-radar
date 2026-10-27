@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793067950,
+    "date_found": 1793089345,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,10 +34,30 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793067950,
+    "date_found": 1793089345,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "4ace934387e3426f",
+    "dedup_key": "intern|visa|data science intern data and ai team",
+    "company": "Visa",
+    "title": "Data Science Intern, Data and AI Team",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "url": "https://go.vansh.nyc/UG",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793085226,
+    "date_found": 1793089345,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "e6f0306317745a40",

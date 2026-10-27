@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-27 02:26 UTC · 3376 live & eligible postings (showing 400); 73 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-27 08:22 UTC · 3377 live & eligible postings (showing 400); 73 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-27 | 2026-10-27 | Visa | Data Science Intern, Data and AI Team | Foster City, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/UG) |
 | 2026-10-27 | 2026-10-26 | Zillow | Data Science Intern | Seattle, WA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/Tk) |
 | 2026-10-27 | 2026-10-26 | Niantic Spatial | Software Engineer Intern, Native SDK & Mobile Platforms | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Uy) |
 | 2026-10-27 | 2026-10-27 | Lockheed Martin | Software Engineer Intern | Huntsville, AL | Summer | swe | unknown | [apply](https://go.vansh.nyc/UC) |
@@ -403,4 +404,3 @@ _Last updated: 2026-10-27 02:26 UTC · 3376 live & eligible postings (showing 40
 | 2026-10-26 | 2026-08-25 | DTCC | New Grad 2027: Application Developer Analyst | Tampa, FL, Dallas, TX, Jersey City, NJ | — | swe | unknown | [apply](https://go.vansh.nyc/Pn) |
 | 2026-10-26 | 2026-08-26 | TikTok | New Grad 2027: Data Engineer, Data Platform E-commerce | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Po) |
 | 2026-10-26 | 2026-08-26 | TikTok | New Grad 2027: Data Engineer, Data Platform Global Live | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Pp) |
-| 2026-10-26 | 2026-08-26 | Embedding VC | AI Engineer | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Pq) |

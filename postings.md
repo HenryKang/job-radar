@@ -1,9 +1,42 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-27 08:22 UTC · 3377 live & eligible postings (showing 400); 73 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-27 14:55 UTC · 3410 live & eligible postings (showing 400); 74 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-27 | 2026-10-27 | L3Harris Technologies | Associate Software Engineering Intern | Greenville, TX | Summer | swe | ok | [apply](https://go.vansh.nyc/UY) |
+| 2026-10-27 | 2026-09-23 | Oceaneering | ROV Software Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/V1) |
+| 2026-10-27 | 2026-09-23 | Oceaneering | Software Intern, C++ | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/V2) |
+| 2026-10-27 | 2024-05-01 | QuantCo | Data Science Intern | United States | Summer | ml_data | ok | [apply](https://go.vansh.nyc/Vh) |
+| 2026-10-27 | 2026-09-17 | Ricoh | Software Development Intern | Boulder, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Vi) |
+| 2026-10-27 | 2026-10-01 | Ricoh | Software Engineer Intern, Microservice Developer | Boulder, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Vj) |
+| 2026-10-27 | 2026-10-19 | Ricoh | Software Engineer Intern, Graphic Communications | Boulder, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Vl) |
+| 2026-10-27 | 2026-10-22 | Ricoh | SW Engineer Intern | Boulder, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Vm) |
+| 2026-10-27 | 2026-10-27 | Visa | Software Engineer Intern | Bellevue, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Vx) |
+| 2026-10-27 | 2026-10-27 | Visa | Software Engineer Intern | Foster City, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Vy) |
+| 2026-10-27 | 2026-10-27 | Visa | Software Engineer Intern | Ashburn, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Vz) |
+| 2026-10-27 | 2026-10-27 | Visa | Software Engineer Intern | Denver, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/VB) |
+| 2026-10-27 | 2026-10-27 | Visa | Software Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/VC) |
+| 2026-10-27 | 2026-10-27 | Visa | Sophomore Program Software Engineer Intern | Ashburn, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/VE) |
+| 2026-10-27 | 2026-10-27 | RTX | Secure Software Intern | Woburn, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/VG) |
+| 2026-10-27 | 2026-10-12 | Apple | ASIC Design Engineer, Fabric/Interconnect | Austin, TX, Santa Clara, CA | — | swe | unknown | [apply](https://go.vansh.nyc/UI) |
+| 2026-10-27 | 2026-10-15 | Apple | Graphics Software Content Engineer | Orlando, FL | — | swe | unknown | [apply](https://go.vansh.nyc/UJ) |
+| 2026-10-27 | 2026-10-22 | Performance Software | Software Engineer | Cedar Rapids, IA | — | swe | unknown | [apply](https://go.vansh.nyc/UK) |
+| 2026-10-27 | 2026-10-19 | Seagate | Embedded Software Engineer I | Longmont, CO | — | swe | ok | [apply](https://go.vansh.nyc/UM) |
+| 2026-10-27 | 2026-10-19 | Susquehanna International Group (SIG) | New Grad: Associate Network Engineer | Bala Cynwyd, PA | — | swe | unknown | [apply](https://go.vansh.nyc/UN) |
+| 2026-10-27 | 2026-10-19 | Susquehanna International Group (SIG) | New Grad: Associate Linux/Windows Engineer | Bala Cynwyd, PA | — | swe | unknown | [apply](https://go.vansh.nyc/UO) |
+| 2026-10-27 | 2026-10-19 | Johns Hopkins APL | New Grad 2027: Systems Engineer/Analyst | Laurel, MD | — | swe | unknown | [apply](https://go.vansh.nyc/US) |
+| 2026-10-27 | 2026-10-19 | Two Sigma | Software Engineering | New York, NY | — | swe | ok | [apply](https://go.vansh.nyc/UT) |
+| 2026-10-27 | 2026-10-19 | Two Sigma | Software Engineering | Houston, TX | — | swe | ok | [apply](https://go.vansh.nyc/UU) |
+| 2026-10-27 | 2026-10-14 | ElevenLabs | Full-Stack Engineer (Backend Leaning), Platform Engineering | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/UV) |
+| 2026-10-27 | 2026-10-14 | ElevenLabs | Full-Stack Engineer (Backend Leaning), Payments Engineering | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/UW) |
+| 2026-10-27 | 2026-10-26 | L3Harris Technologies | Associate, Software Engineering | Rochester, NY | — | swe | ok | [apply](https://go.vansh.nyc/Ve) |
+| 2026-10-27 | 2026-10-27 | Rilla | New Grad: Software Engineer | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/Vn) |
+| 2026-10-27 | 2026-10-27 | Cerebras | New Grad: Kernel Engineer | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Vp) |
+| 2026-10-27 | 2026-10-27 | Northwood Space | New Grad: Software Engineer – General | Torrance, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Vq) |
+| 2026-10-27 | 2026-10-27 | NUVACORE | CPU Design & Verification Engineer | Austin, TX, / Santa Clara, TX, /, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Vs) |
+| 2026-10-27 | 2026-10-27 | Northrop Grumman | New Grad 2027: Associate Software Engineer / Software Engineer | Colorado Springs, CO | — | swe | unknown | [apply](https://go.vansh.nyc/Vw) |
+| 2026-10-27 | 2026-10-27 | RTX | Embedded Software Engineer I | Mckinney, TX | — | swe | unknown | [apply](https://go.vansh.nyc/VA) |
 | 2026-10-27 | 2026-10-27 | Visa | Data Science Intern, Data and AI Team | Foster City, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/UG) |
 | 2026-10-27 | 2026-10-26 | Zillow | Data Science Intern | Seattle, WA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/Tk) |
 | 2026-10-27 | 2026-10-26 | Niantic Spatial | Software Engineer Intern, Native SDK & Mobile Platforms | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Uy) |
@@ -371,36 +404,3 @@ _Last updated: 2026-10-27 08:22 UTC · 3377 live & eligible postings (showing 40
 | 2026-10-26 | 2026-09-11 | L3Harris Technologies | Software Engineer | Salt Lake City, UT | — | swe | unknown | [apply](https://go.vansh.nyc/O1) |
 | 2026-10-26 | 2026-09-11 | L3Harris Technologies | Software Engineer | Salt Lake City, UT | — | swe | unknown | [apply](https://go.vansh.nyc/O2) |
 | 2026-10-26 | 2026-09-13 | Kitware | Software Developer | Clifton Park, NY | — | swe | unknown | [apply](https://go.vansh.nyc/O4) |
-| 2026-10-26 | 2026-09-27 | Fidelity Investments | New Grad 2027: Leap Software Engineer | Westlake, TX, Boston, MA, Durham, NC, Merrimack, NH | — | swe | unknown | [apply](https://go.vansh.nyc/O7) |
-| 2026-10-26 | 2026-09-04 | Applied Intuition | New Grad 2027: Cybersecurity Software Engineer | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/O8) |
-| 2026-10-26 | 2026-09-01 | Blue Origin | New Grad 2027: Avionics / Embedded Software Engineer I | Van Horn, TX, Space Coast, FL, Huntsville, AL, Denver, CO | — | swe | unknown | [apply](https://go.vansh.nyc/O9) |
-| 2026-10-26 | 2026-09-03 | Demiurge Studios | New Grad 2027: Associate Software Engineer | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/Ob) |
-| 2026-10-26 | 2026-09-12 | HPE | Embedded Software Test Engineer | Spring, TX | — | swe | unknown | [apply](https://go.vansh.nyc/Oc) |
-| 2026-10-26 | 2026-09-02 | American Express | New Grad 2027: Software Engineer I, Enterprise Technology Services | Sunrise, FL | — | swe | unknown | [apply](https://go.vansh.nyc/Of) |
-| 2026-10-26 | 2026-09-02 | Stryker | Design Engineer - Software, RISE | Portage, MI | — | swe | unknown | [apply](https://go.vansh.nyc/Og) |
-| 2026-10-26 | 2026-08-30 | Netic | New Grad 2027: Forward Deployed Engineer (FDE) | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/OW) |
-| 2026-10-26 | 2026-08-29 | Atoms | New Grad 2027: Software Engineer | Seattle, WA, San Francisco, CA, Los Angeles, CA, New York, NY, Mountain View, CA | — | swe | unknown | [apply](https://go.vansh.nyc/OX) |
-| 2026-10-26 | 2026-08-29 | Lightfield | Software Engineer, Applied AI | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/OY) |
-| 2026-10-26 | 2026-08-29 | Veeva Systems | New Grad 2027: Associate Software Engineer | Boston, MA | — | swe | unknown | [apply](https://go.vansh.nyc/OZ) |
-| 2026-10-26 | 2026-08-29 | Veeva Systems | New Grad 2027: Associate Software Engineer | Pleasanton, CA | — | swe | unknown | [apply](https://go.vansh.nyc/P0) |
-| 2026-10-26 | 2026-08-29 | Veeva Systems | New Grad 2027: Associate Software Engineer | Columbus, OH | — | swe | unknown | [apply](https://go.vansh.nyc/P1) |
-| 2026-10-26 | 2026-08-29 | WeRide | New Grad 2027: Software Engineer | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/P2) |
-| 2026-10-26 | 2026-08-28 | Applied Intuition | New Grad 2027: Software Engineer | Ann Arbor, MI, Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/P3) |
-| 2026-10-26 | 2026-08-28 | Composio | Fullstack Engineer, Product Team | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/P5) |
-| 2026-10-26 | 2026-08-28 | Freeform | New Grad 2027: Software Engineer | Los Angeles, CA | — | swe | unknown | [apply](https://go.vansh.nyc/P6) |
-| 2026-10-26 | 2026-08-28 | General Matter | Software Engineer | Los Angeles, CA | — | swe | unknown | [apply](https://go.vansh.nyc/P7) |
-| 2026-10-26 | 2026-08-28 | Notion | Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/P8) |
-| 2026-10-26 | 2026-08-28 | Susquehanna International Group | Trading System Engineer | Bala Cynwyd, PA | — | swe | unknown | [apply](https://go.vansh.nyc/P9) |
-| 2026-10-26 | 2026-08-28 | Susquehanna International Group | Quantitative Strategy Developer | Bala Cynwyd, PA | — | swe | unknown | [apply](https://go.vansh.nyc/Pa) |
-| 2026-10-26 | 2026-08-24 | SpaceX | New Grad 2027: Engineer, Software Security, Starlink | Hawthorne, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Pc) |
-| 2026-10-26 | 2026-08-22 | SpaceX | New Grad 2027: Engineer, Software (Application Software) | Hawthorne, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Pd) |
-| 2026-10-26 | 2026-08-22 | SpaceX | Engineer, Software (Starship) | Starbase, TX | — | swe | unknown | [apply](https://go.vansh.nyc/Pe) |
-| 2026-10-26 | 2026-08-20 | JPMorganChase | Software Engineer Program | Palo Alto, CA, Houston, TX, Tampa, FL, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, New York, NY, Wilmington, DE | — | swe | unknown | [apply](https://go.vansh.nyc/Pf) |
-| 2026-10-26 | 2026-08-20 | JPMorganChase | New Grad 2027: Software Engineer Program | Palo Alto, CA, Houston, TX, Tampa, FL, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, New York, NY, Wilmington, DE | — | swe | unknown | [apply](https://go.vansh.nyc/Pg) |
-| 2026-10-26 | 2026-08-24 | Procter & Gamble | New Grad 2027: Data Science (Master's) | Cincinnati, OH | — | ml_data | unknown | [apply](https://go.vansh.nyc/Pj) |
-| 2026-10-26 | 2026-08-24 | Procter & Gamble | New Grad 2027: Data and AI Engineering | Cincinnati, OH | — | swe | unknown | [apply](https://go.vansh.nyc/Pk) |
-| 2026-10-26 | 2026-08-24 | Johns Hopkins Applied Physics Laboratory | New Grad 2027: Artificial Intelligence and Complex Systems BS/MS | Laurel, MD | — | ml_data | unknown | [apply](https://go.vansh.nyc/Pl) |
-| 2026-10-26 | 2026-08-25 | Voleon | New Grad 2027: Software Engineer, University Hire | Berkeley, CA, New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/Pm) |
-| 2026-10-26 | 2026-08-25 | DTCC | New Grad 2027: Application Developer Analyst | Tampa, FL, Dallas, TX, Jersey City, NJ | — | swe | unknown | [apply](https://go.vansh.nyc/Pn) |
-| 2026-10-26 | 2026-08-26 | TikTok | New Grad 2027: Data Engineer, Data Platform E-commerce | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Po) |
-| 2026-10-26 | 2026-08-26 | TikTok | New Grad 2027: Data Engineer, Data Platform Global Live | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Pp) |

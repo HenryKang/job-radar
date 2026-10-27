@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793089345,
+    "date_found": 1793112904,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,10 +34,693 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793089345,
+    "date_found": 1793112904,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "96ee37a467f3633d",
+    "dedup_key": "intern|l3harris technologies|associate software engineering intern",
+    "company": "L3Harris Technologies",
+    "title": "Associate Software Engineering Intern",
+    "locations": [
+      "Greenville, TX"
+    ],
+    "url": "https://go.vansh.nyc/UY",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793064890,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "87e3fb35e0bdace2",
+    "dedup_key": "intern|oceaneering|rov software intern",
+    "company": "Oceaneering",
+    "title": "ROV Software Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/V1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1790121600,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "20f32538ca4f59d6",
+    "dedup_key": "intern|oceaneering|software intern c",
+    "company": "Oceaneering",
+    "title": "Software Intern, C++",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/V2",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1790121600,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c744958dc7feb2ba",
+    "dedup_key": "intern|quantco|data science intern",
+    "company": "QuantCo",
+    "title": "Data Science Intern",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/Vh",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1714602604,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ee8deeb1d4e77aaa",
+    "dedup_key": "intern|ricoh|software development intern",
+    "company": "Ricoh",
+    "title": "Software Development Intern",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "url": "https://go.vansh.nyc/Vi",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1789603200,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "98732c44fd899e4f",
+    "dedup_key": "intern|ricoh|software engineer intern microservice developer",
+    "company": "Ricoh",
+    "title": "Software Engineer Intern, Microservice Developer",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "url": "https://go.vansh.nyc/Vj",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1790812800,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "442efd05b4f26539",
+    "dedup_key": "intern|ricoh|software engineer intern graphic communications",
+    "company": "Ricoh",
+    "title": "Software Engineer Intern, Graphic Communications",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "url": "https://go.vansh.nyc/Vl",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368000,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "831dcd458e67beb2",
+    "dedup_key": "intern|ricoh|sw engineer intern",
+    "company": "Ricoh",
+    "title": "SW Engineer Intern",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "url": "https://go.vansh.nyc/Vm",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792627200,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f8b186847b467bff",
+    "dedup_key": "intern|visa|software engineer intern",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "url": "https://go.vansh.nyc/Vx",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793106025,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3766afe9051adb74",
+    "dedup_key": "intern|visa|software engineer intern",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "url": "https://go.vansh.nyc/Vy",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793106025,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7d3ea8f1756f64e2",
+    "dedup_key": "intern|visa|software engineer intern",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "url": "https://go.vansh.nyc/Vz",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793106025,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cf6242e73edcad12",
+    "dedup_key": "intern|visa|software engineer intern",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://go.vansh.nyc/VB",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793107390,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e99626a66b15461e",
+    "dedup_key": "intern|visa|software engineer intern",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/VC",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793107390,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d2a2c0e2697c8084",
+    "dedup_key": "intern|visa|sophomore program software engineer intern",
+    "company": "Visa",
+    "title": "Sophomore Program Software Engineer Intern",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "url": "https://go.vansh.nyc/VE",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ec3517f1273dae6b",
+    "dedup_key": "intern|rtx|secure software intern",
+    "company": "RTX",
+    "title": "Secure Software Intern",
+    "locations": [
+      "Woburn, MA"
+    ],
+    "url": "https://go.vansh.nyc/VG",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793111100,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f6790e2d51808256",
+    "dedup_key": "new grad|apple|asic design engineer fabric interconnect",
+    "company": "Apple",
+    "title": "ASIC Design Engineer, Fabric/Interconnect",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/UI",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791814276,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "63744b7618424960",
+    "dedup_key": "new grad|apple|graphics software content engineer",
+    "company": "Apple",
+    "title": "Graphics Software Content Engineer",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://go.vansh.nyc/UJ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792103632,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9a099dc48a2efbcd",
+    "dedup_key": "new grad|performance software|software engineer",
+    "company": "Performance Software",
+    "title": "Software Engineer",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "url": "https://go.vansh.nyc/UK",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792707614,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cc3acc12cc44c8b0",
+    "dedup_key": "new grad|netapp|software engineer cloud volumes master s",
+    "company": "NetApp",
+    "title": "Software Engineer, Cloud Volumes (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/UL",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792773632,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "f2e896b218fba7a4",
+    "dedup_key": "new grad|seagate|embedded software engineer i",
+    "company": "Seagate",
+    "title": "Embedded Software Engineer I",
+    "locations": [
+      "Longmont, CO"
+    ],
+    "url": "https://go.vansh.nyc/UM",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368702,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "53e660d56e7909cf",
+    "dedup_key": "new grad|susquehanna international group sig|new grad associate network engineer",
+    "company": "Susquehanna International Group (SIG)",
+    "title": "New Grad: Associate Network Engineer",
+    "locations": [
+      "Bala Cynwyd, PA"
+    ],
+    "url": "https://go.vansh.nyc/UN",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368702,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: HTTPSConnectionPool(host='go.vansh.nyc', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "id": "19c3297c05f2ff9a",
+    "dedup_key": "new grad|susquehanna international group sig|new grad associate linux windows engineer",
+    "company": "Susquehanna International Group (SIG)",
+    "title": "New Grad: Associate Linux/Windows Engineer",
+    "locations": [
+      "Bala Cynwyd, PA"
+    ],
+    "url": "https://go.vansh.nyc/UO",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368702,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ff5b13c8b4a67673",
+    "dedup_key": "new grad|johns hopkins apl|new grad 2027 systems engineer analyst",
+    "company": "Johns Hopkins APL",
+    "title": "New Grad 2027: Systems Engineer/Analyst",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://go.vansh.nyc/US",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368702,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "30f97d54e0b944ef",
+    "dedup_key": "new grad|two sigma|software engineering",
+    "company": "Two Sigma",
+    "title": "Software Engineering",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/UT",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368702,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5f53102ec6e4e8f5",
+    "dedup_key": "new grad|two sigma|software engineering",
+    "company": "Two Sigma",
+    "title": "Software Engineering",
+    "locations": [
+      "Houston, TX"
+    ],
+    "url": "https://go.vansh.nyc/UU",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792368702,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "475747663a47ec73",
+    "dedup_key": "new grad|elevenlabs|full stack engineer backend leaning platform engineering",
+    "company": "ElevenLabs",
+    "title": "Full-Stack Engineer (Backend Leaning), Platform Engineering",
+    "locations": [
+      "Remote"
+    ],
+    "url": "https://go.vansh.nyc/UV",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791981327,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3fe2a1afed7819bf",
+    "dedup_key": "new grad|elevenlabs|full stack engineer backend leaning payments engineering",
+    "company": "ElevenLabs",
+    "title": "Full-Stack Engineer (Backend Leaning), Payments Engineering",
+    "locations": [
+      "Remote"
+    ],
+    "url": "https://go.vansh.nyc/UW",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791981327,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a05df66a6b995dfa",
+    "dedup_key": "new grad|l3harris technologies|associate software engineering",
+    "company": "L3Harris Technologies",
+    "title": "Associate, Software Engineering",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "url": "https://go.vansh.nyc/Ve",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793023624,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "057e32b2f6fef085",
+    "dedup_key": "new grad|rilla|new grad software engineer",
+    "company": "Rilla",
+    "title": "New Grad: Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/Vn",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793099429,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1e706b70bd69cb23",
+    "dedup_key": "new grad|cerebras|new grad kernel engineer",
+    "company": "Cerebras",
+    "title": "New Grad: Kernel Engineer",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://go.vansh.nyc/Vp",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793099429,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c9a30d1adef9100a",
+    "dedup_key": "new grad|northwood space|new grad software engineer general",
+    "company": "Northwood Space",
+    "title": "New Grad: Software Engineer – General",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "url": "https://go.vansh.nyc/Vq",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793099429,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "287b3576f78adc21",
+    "dedup_key": "new grad|nuvacore|cpu design verification engineer",
+    "company": "NUVACORE",
+    "title": "CPU Design & Verification Engineer",
+    "locations": [
+      "Austin, TX",
+      "/ Santa Clara, TX",
+      "/, CA"
+    ],
+    "url": "https://go.vansh.nyc/Vs",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793099429,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "83a7a242d8f6a1aa",
+    "dedup_key": "new grad|northrop grumman|new grad 2027 associate software engineer software engineer",
+    "company": "Northrop Grumman",
+    "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "url": "https://go.vansh.nyc/Vw",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793059200,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ddc0e915b69d95f6",
+    "dedup_key": "new grad|rtx|embedded software engineer i",
+    "company": "RTX",
+    "title": "Embedded Software Engineer I",
+    "locations": [
+      "Mckinney, TX"
+    ],
+    "url": "https://go.vansh.nyc/VA",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793106179,
+    "date_found": 1793112904,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "4ace934387e3426f",

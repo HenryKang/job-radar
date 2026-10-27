@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793112904,
+    "date_found": 1793131398,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,10 +34,953 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793112904,
+    "date_found": 1793131398,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "a4ca3ce3fd9c5d13",
+    "dedup_key": "intern|rtx|embedded software engineer intern",
+    "company": "RTX",
+    "title": "Embedded Software Engineer Intern",
+    "locations": [
+      "Goleta, CA"
+    ],
+    "url": "https://go.vansh.nyc/VI",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "629267ada324ae55",
+    "dedup_key": "intern|bracco|product security engineering intern",
+    "company": "Bracco",
+    "title": "Product Security Engineering Intern",
+    "locations": [
+      "Eden Prairie, MN"
+    ],
+    "url": "https://go.vansh.nyc/VO",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793115417,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3e1aa6113d1c052e",
+    "dedup_key": "intern|micron technology|product yield software engineer intern",
+    "company": "Micron Technology",
+    "title": "Product Yield Software Engineer Intern",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://go.vansh.nyc/VP",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793116696,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9b8c5ef172be211c",
+    "dedup_key": "intern|jm family enterprises|data engineer intern",
+    "company": "JM Family Enterprises",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "Deerfield Beach, FL"
+    ],
+    "url": "https://go.vansh.nyc/VR",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793118444,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6b41aa623a9ed95c",
+    "dedup_key": "intern|cfs energy|scientific software engineer intern",
+    "company": "CFS Energy",
+    "title": "Scientific Software Engineer Intern",
+    "locations": [
+      "Devens, MA"
+    ],
+    "url": "https://go.vansh.nyc/VW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793120022,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4b7c315d4d0cdc17",
+    "dedup_key": "intern|micron technology|ai engineer intern platform",
+    "company": "Micron Technology",
+    "title": "AI Engineer Intern, Platform",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://go.vansh.nyc/VX",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793120262,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8c6ac983a1affcec",
+    "dedup_key": "intern|micron technology|hbm data scientist intern",
+    "company": "Micron Technology",
+    "title": "HBM Data Scientist Intern",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://go.vansh.nyc/VY",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793120262,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d3a1881749778933",
+    "dedup_key": "intern|general dynamics mission systems inc|software test engineering intern space and embedded crypto",
+    "company": "General Dynamics Mission Systems, Inc.",
+    "title": "Software Test Engineering Intern, Space and Embedded Crypto",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "url": "https://go.vansh.nyc/W0",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1792987200,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "99214ec946f2951e",
+    "dedup_key": "intern|apple|software engineer intern core os",
+    "company": "Apple",
+    "title": "Software Engineer Intern, Core OS",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/W1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793024849,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8b5f156bdef9d9da",
+    "dedup_key": "intern|cboe global markets|linux engineer intern",
+    "company": "Cboe Global Markets",
+    "title": "Linux Engineer Intern",
+    "locations": [
+      "Chicago, IL",
+      "Kansas City, MO",
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/W4",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793122559,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6b7adfb17b183a36",
+    "dedup_key": "intern|workiva|machine learning engineering intern",
+    "company": "Workiva",
+    "title": "Machine Learning Engineering Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/W7",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793122856,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5254348ddfd55c04",
+    "dedup_key": "intern|sonos|software engineering intern",
+    "company": "Sonos",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/W9",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793127043,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b6fc06a267618823",
+    "dedup_key": "intern|amazon development center u s inc b02|database engineer intern",
+    "company": "Amazon Development Center U.S., Inc. - B02",
+    "title": "Database Engineer Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/Wb",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059603,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0b07a7ef8aba16a5",
+    "dedup_key": "intern|national interstate insurance|data engineering intern",
+    "company": "National Interstate Insurance",
+    "title": "Data Engineering Intern",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://go.vansh.nyc/Wd",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793129416,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4ee0f890a7dd82de",
+    "dedup_key": "new grad|crosscountry consulting|new grad forward deployed software engineer",
+    "company": "CrossCountry Consulting",
+    "title": "New Grad: Forward Deployed Software Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/VK",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793110514,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: HTTPSConnectionPool(host='jobs.lever.co', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "id": "a430f13487e20dd2",
+    "dedup_key": "new grad|crosscountry consulting|new grad forward deployed software engineer",
+    "company": "CrossCountry Consulting",
+    "title": "New Grad: Forward Deployed Software Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/VL",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793110495,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4634da9b320d2fec",
+    "dedup_key": "new grad|cisco|asic design verification engineer i",
+    "company": "Cisco",
+    "title": "ASIC Design Verification Engineer I",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/Wc",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793041767,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8720187e21d7f54f",
+    "dedup_key": "new grad|roblox|software engineer frontend economy",
+    "company": "Roblox",
+    "title": "Software Engineer - Frontend - Economy",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://careers.roblox.com/jobs/8259453?gh_jid=8259453",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: HTTPSConnectionPool(host='careers.roblox.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "id": "c4348610bdf3dd7c",
+    "dedup_key": "new grad|amazon|software development engineer i aws iot fleet management",
+    "company": "Amazon",
+    "title": "Software Development Engineer I - AWS IoT Fleet Management",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10571756/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790884899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "83d16c921ff05945",
+    "dedup_key": "new grad|amazon|software development engineer aws healthcare ai",
+    "company": "Amazon",
+    "title": "Software Development Engineer - AWS Healthcare AI",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10560530/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1789588899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f963100641ca86e6",
+    "dedup_key": "new grad|amazon|software development engineer gen ai amazon connect",
+    "company": "Amazon",
+    "title": "Software Development Engineer - Gen AI - Amazon Connect",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10500163/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1784836899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7031a91b5f5517a1",
+    "dedup_key": "new grad|anduril|early career software engineer battlespace awareness",
+    "company": "Anduril",
+    "title": "Early Career Software Engineer - Battlespace Awareness",
+    "locations": [
+      "Broomfield, CO +1"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793131299,
+    "date_found": 1793131398,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "3c50d443917e04b7",
+    "dedup_key": "new grad|digital check|embedded windows systems software engineer",
+    "company": "Digital Check",
+    "title": "Embedded & Windows Systems Software Engineer",
+    "locations": [
+      "Meridian, ID"
+    ],
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2151eaf7-7506-401d-a16c-71efc612b9e4&jobId=638031",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793131299,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cf0808a6ec33f6c8",
+    "dedup_key": "new grad|gelber group|associate software engineer trading integrations team",
+    "company": "Gelber Group",
+    "title": "Associate Software Engineer- Trading Integrations Team",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793131299,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "8300fbad6ffe1673",
+    "dedup_key": "new grad|ibc bank|developer i",
+    "company": "IBC Bank",
+    "title": "Developer I",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "url": "https://ibc.wd5.myworkdayjobs.com/en-US/ibc_careers/job/San-Antonio-TX/Developer-I_R16350",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793131299,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f6c8c1c479409da7",
+    "dedup_key": "new grad|lawrence livermore national laboratory|data visualization software engineer",
+    "company": "Lawrence Livermore National Laboratory",
+    "title": "Data Visualization Software Engineer",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990016422126-data-visualization-software-engineer?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793131299,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7004a5aeccaafa73",
+    "dedup_key": "new grad|lumos|software engineer nhi platform",
+    "company": "Lumos",
+    "title": "Software Engineer - NHI Platform",
+    "locations": [
+      "USA"
+    ],
+    "url": "https://jobs.ashbyhq.com/lumos/52e98603-8302-4bf1-9bdb-6ab829c8e701",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793131299,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "be14db11343dc7be",
+    "dedup_key": "new grad|lumos|software engineer ai agent governance",
+    "company": "Lumos",
+    "title": "Software Engineer - AI Agent Governance",
+    "locations": [
+      "USA"
+    ],
+    "url": "https://jobs.ashbyhq.com/lumos/37ecfa5a-f047-4b70-a29b-79cc885df706",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793131299,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1b40a5c845d96f8a",
+    "dedup_key": "new grad|swarm aero|software engineer real time systems early career",
+    "company": "Swarm Aero",
+    "title": "Software Engineer - Real-Time Systems - Early Career",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793131299,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f4de436a32a03762",
+    "dedup_key": "new grad|amentum|entry level software engineer secret",
+    "company": "Amentum",
+    "title": "Entry Level Software Engineer - SECRET",
+    "locations": [
+      "Dahlgren, VA"
+    ],
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6f8d126503f7a9d1",
+    "dedup_key": "new grad|applied materials|algorithm developer ii new college grad masters santa clara ca",
+    "company": "Applied Materials",
+    "title": "Algorithm Developer II - New College Grad - Masters - Santa Clara - CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Algorithm-Developer-II---New-College-Grad--Masters---Santa-Clara--CA-_R2631924",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "952e37ee2f4f966a",
+    "dedup_key": "new grad|ciena|software engineer security new grad",
+    "company": "Ciena",
+    "title": "Software Engineer - Security - New Grad",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7a6ab45810a7e37e",
+    "dedup_key": "new grad|home depot|software engineer backend distributed systems remote",
+    "company": "Home Depot",
+    "title": "Software Engineer - Backend & Distributed Systems - REMOTE",
+    "locations": [
+      "Remote - Georgia, USA"
+    ],
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Backend---Distributed-Systems--REMOTE-_Req197061",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2ac80e1e446bec6b",
+    "dedup_key": "new grad|madhive|software engineer financial systems",
+    "company": "Madhive",
+    "title": "Software Engineer - Financial Systems",
+    "locations": [
+      "New York City, NY"
+    ],
+    "url": "https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cf02bdd3072b59fa",
+    "dedup_key": "new grad|major league baseball|associate software engineer seasonal",
+    "company": "Major League Baseball",
+    "title": "Associate Software Engineer - Seasonal",
+    "locations": [
+      "Remote - New York City, NY"
+    ],
+    "url": "https://job-boards.greenhouse.io/mlbevents/jobs/8300925",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "d16d1e4df487de53",
+    "dedup_key": "new grad|ring power|net developer",
+    "company": "Ring Power",
+    "title": ".NET Developer",
+    "locations": [
+      "Saint Augustine, FL"
+    ],
+    "url": "https://careers-ringpower.icims.com/jobs/15533/.net-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5836aae2eecfc9dc",
+    "dedup_key": "new grad|sierra nevada corporation|devops engineer i",
+    "company": "Sierra Nevada Corporation",
+    "title": "DevOps Engineer I",
+    "locations": [
+      "Folsom, CA"
+    ],
+    "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Folsom-CA/DevOps-Engineer-I_R0031260",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7c87ae5207edc4e1",
+    "dedup_key": "new grad|the cadmus group|jr full stack developer",
+    "company": "The Cadmus Group",
+    "title": "Jr. Full Stack Developer",
+    "locations": [
+      "USA"
+    ],
+    "url": "https://careers-cadmusgroup.icims.com/jobs/3254/jr.-full-stack-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793044899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6ea99cd149fab0d9",
+    "dedup_key": "new grad|palomar products|software engineer onsite",
+    "company": "Palomar Products",
+    "title": "Software Engineer - onsite",
+    "locations": [
+      "Rancho Santa Margarita, CA"
+    ],
+    "url": "https://palomarproducts.applytojob.com/apply/aTfSEvOBcy/Software-Engineer-onsite",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792699299,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "770d85e0d7f2b67e",
+    "dedup_key": "new grad|hive|software engineer frontend",
+    "company": "Hive",
+    "title": "Software Engineer - Frontend",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.lever.co/hive/a9c1f9f1-1f12-4aed-83b5-640c697c9155",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792180899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "734c2a1f9f5e7e0a",
+    "dedup_key": "new grad|hive|forward deployed software engineer",
+    "company": "Hive",
+    "title": "Forward Deployed Software Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792180899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "39386fbe68319d85",
+    "dedup_key": "new grad|hive|systems engineer devops",
+    "company": "Hive",
+    "title": "Systems Engineer / DevOps",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.lever.co/hive/2c362789-c417-4d8c-bef5-d5fe1a5969ac",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792180899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e9c3f34292090415",
+    "dedup_key": "new grad|hive|software engineer frontend",
+    "company": "Hive",
+    "title": "Software Engineer - Frontend",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.lever.co/hive/4947a174-d218-4c83-be26-89b1e889dc16",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792180899,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "06b3065a9ce56406",
+    "dedup_key": "new grad|coreweave|software engineer inference",
+    "company": "CoreWeave",
+    "title": "Software Engineer - Inference",
+    "locations": [
+      "Bellevue, WA +1"
+    ],
+    "url": "https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790366499,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0e6307b6d1a2b7d6",
+    "dedup_key": "intern|affirm|software engineer ii ciam",
+    "company": "Affirm",
+    "title": "Software Engineer II - CIAM",
+    "locations": [
+      "Remote US"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
+    "season": "",
+    "source": "ats:greenhouse:affirm",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793117583,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "091e3848a420baf2",
+    "dedup_key": "intern|amazon|network development engineer intern 2027 summer",
+    "company": "Amazon",
+    "title": "Network Development Engineer Intern, 2027 Summer",
+    "locations": [
+      "US, WA, Seattle"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer",
+    "season": "",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793059200,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "58377b5e1167b832",
+    "dedup_key": "intern|amazon|database engineer intern summer 2027",
+    "company": "Amazon",
+    "title": "Database Engineer Intern - Summer 2027",
+    "locations": [
+      "US, WA, Seattle"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027",
+    "season": "Summer 2027",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793059200,
+    "date_found": 1793131398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "96ee37a467f3633d",

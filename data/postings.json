@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793187485,
+    "date_found": 1793208208,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793187485,
+    "date_found": 1793208208,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -53,11 +53,172 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793187398,
-    "date_found": 1793187485,
+    "date_posted": 1793208069,
+    "date_found": 1793208208,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "379e9e0e194685f1",
+    "dedup_key": "intern|allegion|software engineering intern quality assurance",
+    "company": "Allegion",
+    "title": "Software Engineering Intern, Quality Assurance",
+    "locations": [
+      "Golden, CO"
+    ],
+    "url": "https://go.vansh.nyc/Xt",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793145600,
+    "date_found": 1793208208,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9424b6ab75ea0039",
+    "dedup_key": "intern|allegion|software systems engineering intern",
+    "company": "Allegion",
+    "title": "Software Systems Engineering Intern",
+    "locations": [
+      "Golden, CO"
+    ],
+    "url": "https://go.vansh.nyc/Xv",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793193542,
+    "date_found": 1793208208,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "36fd861e6983028f",
+    "dedup_key": "intern|ace hardware corporation|it associate software engineer intern",
+    "company": "Ace Hardware Corporation",
+    "title": "IT Associate Software Engineer Intern",
+    "locations": [
+      "Oak Brook, IL"
+    ],
+    "url": "https://go.vansh.nyc/Xx",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793194806,
+    "date_found": 1793208208,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "17cf565acff277e9",
+    "dedup_key": "intern|infleqtion|quantum software intern",
+    "company": "Infleqtion",
+    "title": "Quantum Software Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/Xz",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793196709,
+    "date_found": 1793208208,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6f99de294bdbf085",
+    "dedup_key": "intern|micron technology|data science intern",
+    "company": "Micron Technology",
+    "title": "Data Science Intern",
+    "locations": [
+      "San Jose, CA",
+      "Folsom, CA"
+    ],
+    "url": "https://go.vansh.nyc/XF",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793206262,
+    "date_found": 1793208208,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2a71e3ad730c9565",
+    "dedup_key": "new grad|cisco|data science analyst 1",
+    "company": "Cisco",
+    "title": "Data Science Analyst 1",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/XA",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793145600,
+    "date_found": 1793208208,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5f45e13bb7f41c6a",
+    "dedup_key": "new grad|cisco|data science analyst i",
+    "company": "Cisco",
+    "title": "Data Science Analyst I",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/XC",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793146468,
+    "date_found": 1793208208,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "656a408d3ec31b74",
+    "dedup_key": "new grad|american express|new grad 2027 engineer ai engineering enterprise technology services master s",
+    "company": "American Express",
+    "title": "New Grad 2027: Engineer, AI Engineering, Enterprise Technology Services (Master's)",
+    "locations": [
+      "Ca, Canada"
+    ],
+    "url": "https://go.vansh.nyc/XE",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793205514,
+    "date_found": 1793208208,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
     "id": "e342be9873c99943",

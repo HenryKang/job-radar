@@ -1,9 +1,16 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-28 11:38 UTC · 3503 live & eligible postings (showing 400); 76 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-28 17:23 UTC · 3510 live & eligible postings (showing 400); 77 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-28 | 2026-10-28 | Allegion | Software Engineering Intern, Quality Assurance | Golden, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Xt) |
+| 2026-10-28 | 2026-10-28 | Allegion | Software Systems Engineering Intern | Golden, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Xv) |
+| 2026-10-28 | 2026-10-28 | Ace Hardware Corporation | IT Associate Software Engineer Intern | Oak Brook, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/Xx) |
+| 2026-10-28 | 2026-10-28 | Infleqtion | Quantum Software Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/Xz) |
+| 2026-10-28 | 2026-10-28 | Micron Technology | Data Science Intern | San Jose, CA, Folsom, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/XF) |
+| 2026-10-28 | 2026-10-28 | Cisco | Data Science Analyst 1 | San Jose, CA | — | ml_data | unknown | [apply](https://go.vansh.nyc/XA) |
+| 2026-10-28 | 2026-10-28 | Cisco | Data Science Analyst I | San Jose, CA | — | ml_data | unknown | [apply](https://go.vansh.nyc/XC) |
 | 2026-10-28 | 2026-10-28 | VSP Vision | Software Engineer Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/X3) |
 | 2026-10-28 | 2026-10-27 | stealth-startup-community | Embedded Firmware and Controls Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/X4) |
 | 2026-10-28 | 2026-10-28 | chathamfinancial | Software Engineering Intern | Denver, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/X5) |
@@ -397,10 +404,3 @@ _Last updated: 2026-10-28 11:38 UTC · 3503 live & eligible postings (showing 40
 | 2026-10-26 | 2026-09-20 | Bot Auto | Algorithm Engineer, Deep Learning & Vision | Houston, TX, San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Kc) |
 | 2026-10-26 | 2026-09-20 | Garner Health | New Grad 2027: Associate Software Engineer | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/Ke) |
 | 2026-10-26 | 2026-09-20 | Mechanize | Junior Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Kg) |
-| 2026-10-26 | 2026-09-20 | NOV | New Grad 2027: Associate Software Engineer, Pathway | Houston, TX | — | swe | unknown | [apply](https://go.vansh.nyc/Ki) |
-| 2026-10-26 | 2026-09-20 | PMG | AI & Software Engineering | Dallas, TX | — | swe | unknown | [apply](https://go.vansh.nyc/Kj) |
-| 2026-10-26 | 2026-09-20 | RELX | Software Engineer | Alpharetta, GA | — | swe | unknown | [apply](https://go.vansh.nyc/Km) |
-| 2026-10-26 | 2026-09-20 | RELX | New Grad 2027: Software Engineer | Boca Raton, FL | — | swe | unknown | [apply](https://go.vansh.nyc/Kn) |
-| 2026-10-26 | 2026-09-20 | SingleStore | Software Engineer | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/Ko) |
-| 2026-10-26 | 2026-09-19 | Akuna Capital University | New Grad 2027: Junior Quantitative Researcher | Chicago, IL | — | quant | unknown | [apply](https://go.vansh.nyc/Kp) |
-| 2026-10-26 | 2026-09-19 | American Express | Software Engineer 1, Enterprise Technology Services | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/Kq) |

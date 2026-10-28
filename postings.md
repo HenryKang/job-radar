@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-27 23:45 UTC · 3478 live & eligible postings (showing 400); 76 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-28 05:33 UTC · 3487 live & eligible postings (showing 400); 76 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-28 | 2026-10-27 | RTX | Software Engineer Intern, Receiver, Exciter, & Processing Architecture | Marlborough, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/WQ) |
+| 2026-10-28 | 2026-10-27 | Protagonist | Software Engineering Intern | Washington, DC | Summer | swe | unknown | [apply](https://go.vansh.nyc/WS) |
+| 2026-10-28 | 2026-10-27 | Mercor | Research Engineer Intern, Benchmarking | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/WT) |
+| 2026-10-28 | 2026-10-27 | Mercor | Research Engineer Intern, Environments, Data and Post-Training | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/WU) |
+| 2026-10-28 | 2026-10-28 | Paccar | Application Developer Intern | Chillicothe, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/WV) |
+| 2026-10-28 | 2026-10-28 | FUTO | Software Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/WW) |
+| 2026-10-28 | 2026-10-28 | Charles River Associates (CRA) | New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate | Boston, MA, Chicago, IL, Dallas, TX, New York, NY, Washington, DC | — | swe | ok | [apply](https://go.vansh.nyc/WZ) |
+| 2026-10-28 | 2026-10-26 | Atlassian | New Grad 2027: Security Engineer | Seattle, WA | — | swe | unknown | [apply](https://go.vansh.nyc/X1) |
+| 2026-10-28 | 2026-10-28 | Boeing | Software Engineer | Maryland Heights, MO | — | swe | unknown | [apply](https://go.vansh.nyc/X2) |
 | 2026-10-27 | 2026-10-27 | National Interstate Insurance | Emerging Technology Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/Wh) |
 | 2026-10-27 | 2026-10-27 | National Interstate Insurance | Platform Operations Developer Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/Wi) |
 | 2026-10-27 | 2026-10-27 | National Interstate Insurance | Claims Lab Developer Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/Wm) |
@@ -395,12 +404,3 @@ _Last updated: 2026-10-27 23:45 UTC · 3478 live & eligible postings (showing 40
 | 2026-10-26 | 2026-09-15 | OpenAI | New Grad 2027: Software Engineer, Applied Emerging Talent | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/KF) |
 | 2026-10-26 | 2026-09-15 | Solace Health | New Grad 2027: Associate Software Engineer | Redwood City, CA | — | swe | unknown | [apply](https://go.vansh.nyc/KG) |
 | 2026-10-26 | 2026-09-15 | Solace Health | New Grad 2027: Associate Data Scientist | Redwood City, CA | — | ml_data | unknown | [apply](https://go.vansh.nyc/KH) |
-| 2026-10-26 | 2026-09-14 | BlackEdge Capital | New Grad 2027: Quantitative Researcher | Chicago, IL | — | quant | unknown | [apply](https://go.vansh.nyc/KI) |
-| 2026-10-26 | 2026-09-14 | CoStar Group | New Grad 2027: Associate Security Engineer | Richmond, VA | — | swe | unknown | [apply](https://go.vansh.nyc/KJ) |
-| 2026-10-26 | 2026-09-14 | Johns Hopkins Applied Physics Laboratory | New Grad 2027: Engineer/Analyst | Laurel, MD | — | swe | unknown | [apply](https://go.vansh.nyc/KK) |
-| 2026-10-26 | 2026-09-14 | C3.ai | New Grad 2027: Forward Deployed Engineer | Redwood City, CA | — | swe | unknown | [apply](https://go.vansh.nyc/KL) |
-| 2026-10-26 | 2026-09-14 | C3.ai | New Grad 2027: Platform Full-Stack Engineer | Redwood City, CA | — | swe | unknown | [apply](https://go.vansh.nyc/KM) |
-| 2026-10-26 | 2026-09-15 | Texas Instruments | Data Engineer, Career Accelerator Program | Richardson, TX | — | swe | unknown | [apply](https://go.vansh.nyc/KQ) |
-| 2026-10-26 | 2026-09-15 | Clearwater Analytics | Quantitative Financial Analyst 1 (Master's) | Boise, ID | — | quant | unknown | [apply](https://go.vansh.nyc/KR) |
-| 2026-10-26 | 2026-09-17 | think-cell | C++ Developer | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/KS) |
-| 2026-10-26 | 2026-09-18 | TikTok | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Video | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/KU) |

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793144738,
+    "date_found": 1793165578,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793144738,
+    "date_found": 1793165578,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -53,11 +53,195 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793144636,
-    "date_found": 1793144738,
+    "date_posted": 1793165493,
+    "date_found": 1793165578,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "ca4b88e0aa23871c",
+    "dedup_key": "intern|rtx|software engineer intern receiver exciter processing architecture",
+    "company": "RTX",
+    "title": "Software Engineer Intern, Receiver, Exciter, & Processing Architecture",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "url": "https://go.vansh.nyc/WQ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793143329,
+    "date_found": 1793165578,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "22adff10a39f989f",
+    "dedup_key": "intern|protagonist|software engineering intern",
+    "company": "Protagonist",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://go.vansh.nyc/WS",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793135605,
+    "date_found": 1793165578,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5b65d6cb857b5612",
+    "dedup_key": "intern|mercor|research engineer intern benchmarking",
+    "company": "Mercor",
+    "title": "Research Engineer Intern, Benchmarking",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/WT",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793143744,
+    "date_found": 1793165578,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "26ba7d84f568960c",
+    "dedup_key": "intern|mercor|research engineer intern environments data and post training",
+    "company": "Mercor",
+    "title": "Research Engineer Intern, Environments, Data and Post-Training",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/WU",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793143444,
+    "date_found": 1793165578,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7ae7d7020e31f88d",
+    "dedup_key": "intern|paccar|application developer intern",
+    "company": "Paccar",
+    "title": "Application Developer Intern",
+    "locations": [
+      "Chillicothe, OH"
+    ],
+    "url": "https://go.vansh.nyc/WV",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793149905,
+    "date_found": 1793165578,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c1f4282248409fed",
+    "dedup_key": "intern|futo|software engineer intern",
+    "company": "FUTO",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/WW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793150194,
+    "date_found": 1793165578,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f1864d5fabccc076",
+    "dedup_key": "new grad|charles river associates cra|new grad 2027 cyber forensic technology consulting analyst associate",
+    "company": "Charles River Associates (CRA)",
+    "title": "New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate",
+    "locations": [
+      "Boston, MA",
+      "Chicago, IL",
+      "Dallas, TX",
+      "New York, NY",
+      "Washington, DC"
+    ],
+    "url": "https://go.vansh.nyc/WZ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793153552,
+    "date_found": 1793165578,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9f4b5057cdacb5a2",
+    "dedup_key": "new grad|atlassian|new grad 2027 security engineer",
+    "company": "Atlassian",
+    "title": "New Grad 2027: Security Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/X1",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793051775,
+    "date_found": 1793165578,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "37a9fe094710fc7c",
+    "dedup_key": "new grad|boeing|software engineer",
+    "company": "Boeing",
+    "title": "Software Engineer",
+    "locations": [
+      "Maryland Heights, MO"
+    ],
+    "url": "https://go.vansh.nyc/X2",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793164040,
+    "date_found": 1793165578,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "43582ce175bf3581",

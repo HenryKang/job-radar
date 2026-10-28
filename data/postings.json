@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793165578,
+    "date_found": 1793187485,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793165578,
+    "date_found": 1793187485,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -53,11 +53,336 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793165493,
-    "date_found": 1793165578,
+    "date_posted": 1793187398,
+    "date_found": 1793187485,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "greenhouse api: job not found"
+  },
+  {
+    "id": "e342be9873c99943",
+    "dedup_key": "intern|vsp vision|software engineer intern",
+    "company": "VSP Vision",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/X3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793164723,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8504d71bf3738316",
+    "dedup_key": "intern|stealth startup community|embedded firmware and controls engineer intern",
+    "company": "stealth-startup-community",
+    "title": "Embedded Firmware and Controls Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/X4",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1df9b7b5996f001b",
+    "dedup_key": "intern|chathamfinancial|software engineering intern",
+    "company": "chathamfinancial",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://go.vansh.nyc/X5",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793145600,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "567ce803c00af291",
+    "dedup_key": "intern|chathamfinancial|software engineering intern",
+    "company": "chathamfinancial",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Kennett Square, PA"
+    ],
+    "url": "https://go.vansh.nyc/X6",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793145600,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4f57c2edf49239c5",
+    "dedup_key": "intern|shield ai|software engineer intern",
+    "company": "Shield AI",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/X7",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792972800,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "159ffacc459a0ba9",
+    "dedup_key": "intern|vsp vision|software engineer intern technology innovation",
+    "company": "VSP Vision",
+    "title": "Software Engineer Intern, Technology Innovation",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/X8",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793145600,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "95fbf2047b75e271",
+    "dedup_key": "intern|certa|frontend engineer intern",
+    "company": "Certa",
+    "title": "Frontend Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/Xa",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793168940,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c137eb89ce3547f5",
+    "dedup_key": "intern|daimler truck|software release management intern",
+    "company": "Daimler Truck",
+    "title": "Software Release Management Intern",
+    "locations": [
+      "Portland, OR"
+    ],
+    "url": "https://go.vansh.nyc/Xd",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793172051,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ad86affb8148e582",
+    "dedup_key": "intern|visa|network and security engineering intern",
+    "company": "Visa",
+    "title": "Network and Security Engineering Intern",
+    "locations": [
+      "Ashburn, VA"
+    ],
+    "url": "https://go.vansh.nyc/Xg",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793059200,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d3558ce522a17264",
+    "dedup_key": "intern|visa|network and security engineering intern",
+    "company": "Visa",
+    "title": "Network and Security Engineering Intern",
+    "locations": [
+      "Denver, CO"
+    ],
+    "url": "https://go.vansh.nyc/Xh",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793059200,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3614f10d04f0bdd2",
+    "dedup_key": "intern|rosaiclabs|cpu design verification engineer intern",
+    "company": "RosaicLabs",
+    "title": "CPU Design Verification Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/Xn",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793180285,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e5942786d3d763aa",
+    "dedup_key": "intern|rosaiclabs|software engineering intern",
+    "company": "RosaicLabs",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/Xo",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793180285,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6333d0d530d3e339",
+    "dedup_key": "intern|rosaiclabs|ai accelerator design verification engineer intern",
+    "company": "RosaicLabs",
+    "title": "AI Accelerator Design Verification Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/Xp",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793180294,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "120b92c69e4bd589",
+    "dedup_key": "intern|ricoh|robotics engineer intern",
+    "company": "Ricoh",
+    "title": "Robotics Engineer Intern",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "url": "https://go.vansh.nyc/Xq",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1790812800,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9725bb27bd555e4c",
+    "dedup_key": "new grad|shield ai|new grad 2027 autonomous software engineer",
+    "company": "Shield AI",
+    "title": "New Grad 2027: Autonomous Software Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/Xb",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e53043beeb14a8da",
+    "dedup_key": "new grad|agave|new grad full stack software engineer",
+    "company": "Agave",
+    "title": "New Grad: Full-Stack Software Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/Xc",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793059200,
+    "date_found": 1793187485,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "ca4b88e0aa23871c",

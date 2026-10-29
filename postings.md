@@ -1,9 +1,30 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-28 21:54 UTC · 3550 live & eligible postings (showing 400); 77 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-29 01:47 UTC · 3571 live & eligible postings (showing 400); 77 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-29 | 2026-10-28 | ASML | Software Development Engineer in Test Intern | San Diego, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Y2) |
+| 2026-10-29 | 2026-10-28 | Applied Materials | Data Scientist Intern | Austin, TX | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/Y3) |
+| 2026-10-29 | 2026-10-28 | Leidos | Data Engineer Intern | Fort Belvoir, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Y4) |
+| 2026-10-29 | 2026-10-28 | LinkedIn | Software Engineer Intern, First Play | Mountain View, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/Y5) |
+| 2026-10-29 | 2026-10-28 | Workday | Analytics Engineer Intern | Pleasanton, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Y6) |
+| 2026-10-29 | 2026-10-28 | Revantage Corporate Services | Insurance Technology & AI Analytics Intern | Dallas, TX, Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/Y7) |
+| 2026-10-29 | 2026-10-28 | Applied Materials | Data Science Intern | Santa Clara, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/Ya) |
+| 2026-10-29 | 2026-10-28 | Subtotal | Software Engineer Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/Yc) |
+| 2026-10-29 | 2026-10-28 | Pennsylvania State University | Research and Development Engineer Intern | State College, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Yd) |
+| 2026-10-29 | 2026-10-28 | T-Mobile | Software Engineer Intern | Overland Park, KS | Summer | swe | unknown | [apply](https://go.vansh.nyc/Ye) |
+| 2026-10-29 | 2026-10-28 | T-Mobile | Associate AI Engineer Intern | Frisco, TX, Overland Park, KS | Summer | swe | unknown | [apply](https://go.vansh.nyc/Yf) |
+| 2026-10-29 | 2026-10-28 | Clean Harbors | Software & Field Technology Intern | Deer Park, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/Yj) |
+| 2026-10-29 | 2026-10-28 | Booz Allen Hamilton | Design and Verification Engineer Intern | Beavercreek, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/Yk) |
+| 2026-10-29 | 2026-10-28 | Gauss Management Research & Engineering | Web Application Developer Intern | South Ogden, UT | Summer | swe | ok | [apply](https://go.vansh.nyc/Yl) |
+| 2026-10-29 | 2026-10-28 | Marvell | Data Science Intern | Boise, ID | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/Yp) |
+| 2026-10-29 | 2026-10-28 | Regeneron Pharmaceuticals | Data Science & Digital Innovation Intern, Industrial Operations and Product Supply | Rensselaer, NY | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/Yq) |
+| 2026-10-29 | 2026-10-28 | Regeneron Pharmaceuticals | AI/ML & Data Engineering Intern | Cambridge, MA, Armonk, NY, Warren, NJ, Sleepy Hollow, NY, Tarrytown, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/Ys) |
+| 2026-10-29 | 2026-10-28 | Sherwin-Williams | R&D Data Science Co-op | Brecksville, OH | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/Yv) |
+| 2026-10-29 | 2026-10-28 | Apple | Design Verification Engineer Intern | Beaverton, OR | Summer | swe | unknown | [apply](https://go.vansh.nyc/Yx) |
+| 2026-10-29 | 2026-10-28 | Northrop Grumman | Associate Software Engineer, Pathways Program | Aurora, CO | — | swe | unknown | [apply](https://go.vansh.nyc/Yn) |
+| 2026-10-29 | 2026-10-28 | EXL | Junior Developer | United States, US | — | swe | unknown | [apply](https://go.vansh.nyc/Yy) |
 | 2026-10-28 | 2026-10-28 | L3Harris Technologies | Information Security Systems Engineer Intern | Salt Lake City, UT | Summer | swe | ok | [apply](https://go.vansh.nyc/XU) |
 | 2026-10-28 | 2026-10-28 | Micron Technology | Embedded Software Engineer Intern | Boise, ID | Summer | swe | unknown | [apply](https://go.vansh.nyc/XW) |
 | 2026-10-28 | 2026-10-28 | Micron Technology | Embedded Software Engineering Intern | Boise, ID | Summer | swe | unknown | [apply](https://go.vansh.nyc/XX) |
@@ -383,24 +404,3 @@ _Last updated: 2026-10-28 21:54 UTC · 3550 live & eligible postings (showing 40
 | 2026-10-26 | 2026-09-25 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/QH) |
 | 2026-10-26 | 2026-10-01 | Hudson River Trading | FPGA Verification and Developer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/QI) |
 | 2026-10-26 | 2026-10-06 | Qube Research and Technologies | Security Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/QJ) |
-| 2026-10-26 | 2026-10-07 | PDT Partners | Systems Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/QK) |
-| 2026-10-26 | 2026-10-08 | Dell Technologies | Data Science Intern | United States | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/QL) |
-| 2026-10-26 | 2026-10-18 | Booz Allen Hamilton | Games Software Developer Intern | Lexington, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/QM) |
-| 2026-10-26 | 2026-10-18 | Booz Allen Hamilton | Games Data Scientist Intern | Lexington, MA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/QN) |
-| 2026-10-26 | 2026-10-18 | Campbell Soup Company | Data Science Intern | Camden, NJ | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/QO) |
-| 2026-10-26 | 2026-10-18 | LPL Financial Holdings | Platform Engineer Intern | Fort Mill, SC, Charlotte, NC, Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/QR) |
-| 2026-10-26 | 2026-10-18 | Alstom | ATC Software Intern | Pittsburgh, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/QV) |
-| 2026-10-26 | 2026-10-18 | Atlassian | Security Engineer Intern | Seattle, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/QW) |
-| 2026-10-26 | 2026-10-18 | Celestica | AI Engineer Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/QX) |
-| 2026-10-26 | 2026-10-18 | Celestica | AI / Data Science Intern | San Jose, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/QY) |
-| 2026-10-26 | 2026-10-18 | Celestica | Software Testing Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/R0) |
-| 2026-10-26 | 2026-10-18 | Celestica | Software & Hardware Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/R2) |
-| 2026-10-26 | 2026-10-18 | Disney | Product & Technology Software Engineering Intern | Glendale, CA, San Francisco, CA, New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/R3) |
-| 2026-10-26 | 2026-10-18 | Eaton | Software Quality Assurance Engineering Intern | Minneapolis, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/R4) |
-| 2026-10-26 | 2026-10-18 | Garmin | Cyber Security Engineer Intern | Olathe, KS | Summer | swe | unknown | [apply](https://go.vansh.nyc/R5) |
-| 2026-10-26 | 2026-10-18 | Keysight Technologies | R&D Embedded Software Intern | Colorado Springs, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Rd) |
-| 2026-10-26 | 2026-10-18 | Keysight Technologies | R&D Software Engineer QA DevOps Intern | Santa Rosa, CA, San Diego, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Re) |
-| 2026-10-26 | 2026-10-18 | Keysight Technologies | Enterprise Software Development Intern, EDA Tools | Santa Rosa, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Rf) |
-| 2026-10-26 | 2026-10-18 | Keysight Technologies | Engineering Software Developer Intern | Austin, TX, Raleigh, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/Rg) |
-| 2026-10-26 | 2026-10-18 | Keysight Technologies | Software Engineering Intern | Calabasas, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Rh) |
-| 2026-10-26 | 2026-10-18 | NVIDIA | Deep Learning Computer Architecture Intern | Santa Clara, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/Rn) |

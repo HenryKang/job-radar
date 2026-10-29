@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793262306,
+    "date_found": 1793287972,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,10 +34,151 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793262306,
+    "date_found": 1793287972,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "3e52411c7f8e8ccb",
+    "dedup_key": "intern|kla|software engineer intern",
+    "company": "KLA",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "url": "https://go.vansh.nyc/YS",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793287972,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a64bfdec301dad8d",
+    "dedup_key": "intern|jm family enterprises|software engineer intern",
+    "company": "JM Family Enterprises",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Deerfield Beach, FL",
+      "Jacksonville, FL"
+    ],
+    "url": "https://go.vansh.nyc/YU",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793279587,
+    "date_found": 1793287972,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bbfb7824195e87b6",
+    "dedup_key": "intern|sonos|software partner engineering intern",
+    "company": "Sonos",
+    "title": "Software Partner Engineering Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://go.vansh.nyc/YW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793281752,
+    "date_found": 1793287972,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "df1d742daf5d7ec3",
+    "dedup_key": "intern|boston scientific|software systems testing engineering intern",
+    "company": "Boston Scientific",
+    "title": "Software & Systems Testing Engineering Intern",
+    "locations": [
+      "Arden Hills, MN"
+    ],
+    "url": "https://go.vansh.nyc/YX",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793250372,
+    "date_found": 1793287972,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "358b1719dac78c92",
+    "dedup_key": "intern|two six technologies|systems software engineer intern",
+    "company": "Two Six Technologies",
+    "title": "Systems Software Engineer Intern",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "url": "https://go.vansh.nyc/Z3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793283993,
+    "date_found": 1793287972,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3d7a4d3c1ec68b31",
+    "dedup_key": "new grad|kla|system software engineer distributed computing master s",
+    "company": "KLA",
+    "title": "System Software Engineer - Distributed Computing (Master's)",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "url": "https://go.vansh.nyc/YT",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793287972,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "c87f3073136c1267",
+    "dedup_key": "new grad|thoughtworks|new grad software developer",
+    "company": "Thoughtworks",
+    "title": "New Grad: Software Developer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/Z2",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793270498,
+    "date_found": 1793287972,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "221e28de5e92c65d",

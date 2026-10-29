@@ -1,9 +1,15 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-29 08:25 UTC · 3585 live & eligible postings (showing 400); 77 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-29 15:33 UTC · 3591 live & eligible postings (showing 400); 78 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-29 | 2026-10-29 | KLA | Software Engineer Intern | Milpitas, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/YS) |
+| 2026-10-29 | 2026-10-29 | JM Family Enterprises | Software Engineer Intern | Deerfield Beach, FL, Jacksonville, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/YU) |
+| 2026-10-29 | 2026-10-29 | Sonos | Software Partner Engineering Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/YW) |
+| 2026-10-29 | 2026-10-29 | Boston Scientific | Software & Systems Testing Engineering Intern | Arden Hills, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/YX) |
+| 2026-10-29 | 2026-10-29 | Two Six Technologies | Systems Software Engineer Intern | Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Z3) |
+| 2026-10-29 | 2026-10-29 | Thoughtworks | New Grad: Software Developer | Chicago, IL | — | swe | unknown | [apply](https://go.vansh.nyc/Z2) |
 | 2026-10-29 | 2026-10-28 | HP Inc. | Software Systems Intern, IQ | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Yz) |
 | 2026-10-29 | 2026-10-28 | HP Inc. | Software Quality Assurance Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/YA) |
 | 2026-10-29 | 2026-10-28 | Hewlett Packard (HP) | Software Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/YB) |
@@ -398,9 +404,3 @@ _Last updated: 2026-10-29 08:25 UTC · 3585 live & eligible postings (showing 40
 | 2026-10-26 | 2026-10-02 | American Bankers Association | Quantitative Research Intern | Washington, DC | Summer | quant | unknown | [apply](https://go.vansh.nyc/PV) |
 | 2026-10-26 | 2026-10-08 | Amazon | Business Intelligence Engineer Intern | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/PX) |
 | 2026-10-26 | 2026-10-12 | Realty Income | Technology Intern | San Diego, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/PY) |
-| 2026-10-26 | 2026-09-28 | General Dynamics Mission Systems, Inc. | EE/Computer Engineer Intern | Manassas, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/PZ) |
-| 2026-10-26 | 2026-09-28 | General Motors | Data Governance Engineer Intern | Warren, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/Q1) |
-| 2026-10-26 | 2026-09-16 | Analog Devices | Information Technology Intern | Wilmington, MA, Camas, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Q2) |
-| 2026-10-26 | 2026-09-02 | Textron | Software Engineer Intern | Augusta, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Q7) |
-| 2026-10-26 | 2026-08-28 | Aerospace Corporation | Semiconductor Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/Q9) |
-| 2026-10-26 | 2026-10-23 | Americo Financial Life and Annuity | Artificial Intelligence Intern | Kansas City, MO | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/Qh) |

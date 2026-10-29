@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793238440,
+    "date_found": 1793262306,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,10 +34,294 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793238440,
+    "date_found": 1793262306,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "221e28de5e92c65d",
+    "dedup_key": "intern|hp inc|software systems intern iq",
+    "company": "HP Inc.",
+    "title": "Software Systems Intern, IQ",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/Yz",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793145600,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "194fc51849eb4a1b",
+    "dedup_key": "intern|hp inc|software quality assurance intern",
+    "company": "HP Inc.",
+    "title": "Software Quality Assurance Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/YA",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793145600,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "015fd059846c0f67",
+    "dedup_key": "intern|hewlett packard hp|software engineer intern",
+    "company": "Hewlett Packard (HP)",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/YB",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793145600,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f8d2e6acff2c5fb4",
+    "dedup_key": "intern|hewlett packard hp|software engineer intern connectivity",
+    "company": "Hewlett Packard (HP)",
+    "title": "Software Engineer Intern, Connectivity",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/YC",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793145600,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "43ecac9db05405b4",
+    "dedup_key": "intern|boston scientific|r d software design intern",
+    "company": "Boston Scientific",
+    "title": "R&D Software Design Intern",
+    "locations": [
+      "Arden Hills, MN"
+    ],
+    "url": "https://go.vansh.nyc/YD",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793237439,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "37d775e8d5619837",
+    "dedup_key": "intern|hp inc|software product security intern hp iq",
+    "company": "HP Inc.",
+    "title": "Software Product Security Intern, HP IQ",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/YE",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793238312,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8843b89525c363dc",
+    "dedup_key": "intern|ericsson|ai and automation engineer intern",
+    "company": "Ericsson",
+    "title": "AI and Automation Engineer Intern",
+    "locations": [
+      "Plano, TX"
+    ],
+    "url": "https://go.vansh.nyc/YK",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793250347,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "951109bd8db40f88",
+    "dedup_key": "intern|disney|enterprise technology data software engineering intern",
+    "company": "Disney",
+    "title": "Enterprise Technology & Data Software Engineering Intern",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://go.vansh.nyc/YL",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793253948,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "58275f101785b9be",
+    "dedup_key": "intern|boston scientific|ai solutions engineering intern",
+    "company": "Boston Scientific",
+    "title": "AI Solutions Engineering Intern",
+    "locations": [
+      "Arden Hills, MN"
+    ],
+    "url": "https://go.vansh.nyc/YR",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793255197,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "78b2028618223801",
+    "dedup_key": "new grad|pure|ios ui engineer",
+    "company": "Pure",
+    "title": "iOS / UI Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/YG",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "106862bb81895144",
+    "dedup_key": "new grad|clark|new grad 2027 engineering talent",
+    "company": "Clark",
+    "title": "New Grad 2027: Engineering Talent",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/YH",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793051340,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7b3bc6587acdecac",
+    "dedup_key": "new grad|neon|new grad 2027 software engineer distributed data systems",
+    "company": "Neon",
+    "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+    "locations": [
+      "Mountain View, CA",
+      "Bellevue, WA"
+    ],
+    "url": "https://go.vansh.nyc/YI",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793186378,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "526feb545c2f7406",
+    "dedup_key": "new grad|neon|new grad 2027 software engineer",
+    "company": "Neon",
+    "title": "New Grad 2027: Software Engineer",
+    "locations": [
+      "San Francisco, CA",
+      "Mountain View, CA",
+      "Bellevue, WA",
+      "Vancouver, Canada"
+    ],
+    "url": "https://go.vansh.nyc/YJ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793186377,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8b1efefe1ac88bbf",
+    "dedup_key": "new grad|nvidia|gpu verification engineer",
+    "company": "NVIDIA",
+    "title": "GPU Verification Engineer",
+    "locations": [
+      "Westford, MA"
+    ],
+    "url": "https://go.vansh.nyc/YQ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793253264,
+    "date_found": 1793262306,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "1453128cf3fa037e",

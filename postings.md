@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-30 00:21 UTC · 3652 live & eligible postings (showing 400); 78 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-30 06:26 UTC · 3656 live & eligible postings (showing 400); 78 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-30 | 2026-10-29 | Dee Zee | Software Development Intern | Des Moines, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/10k) |
+| 2026-10-30 | 2026-10-30 | Axon | Software Engineer Intern | Seattle, WA, Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/10l) |
+| 2026-10-30 | 2026-10-30 | NVIDIA | AI Systems Software Engineering Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/10o) |
+| 2026-10-30 | 2026-10-30 | Johns Hopkins APL | New Grad 2027: Software Systems Engineer | Laurel, MD | — | swe | unknown | [apply](https://go.vansh.nyc/10j) |
 | 2026-10-30 | 2026-10-29 | PTC | Arena Engineering Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Zw) |
 | 2026-10-30 | 2026-10-29 | Interco | Software Development Intern, React | St. Louis, MO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Zy) |
 | 2026-10-30 | 2026-10-29 | Danaher Corporation | Application Integration Developer Intern | Brea, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/ZF) |
@@ -400,7 +404,3 @@ _Last updated: 2026-10-30 00:21 UTC · 3652 live & eligible postings (showing 40
 | 2026-10-26 | 2026-09-01 | Vermeer | Embedded Software Engineer Intern | Pella, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Ls) |
 | 2026-10-26 | 2026-09-01 | Stanley Black & Decker | Embedded Software Engineering Intern | Towson, MD | Summer | swe | unknown | [apply](https://go.vansh.nyc/Lv) |
 | 2026-10-26 | 2026-09-01 | AeroVironment | Embedded Software Engineer Intern | Dayton, OH, Annapolis Junction, MD, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington, VA, Melbourne, FL, Petaluma, CA, Centreville, VA, Lawrence, KS, Minneapolis, MN, San Luis Obispo, CA, Huntsville, AL, San Diego, CA, Moorpark, CA, Simi Valley, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Ly) |
-| 2026-10-26 | 2026-09-01 | AeroVironment | Software Engineer Intern | Germantown, MD, Annapolis Junction, MD, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington, VA, Melbourne, FL, Petaluma, CA, Minneapolis, MN, San Luis Obispo, CA, Huntsville, AL, San Diego, CA, Moorpark, CA, Simi Valley, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Lz) |
-| 2026-10-26 | 2026-09-01 | RTX | Electrical Engineer Intern | El Segundo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/LA) |
-| 2026-10-26 | 2026-09-01 | Rockwell Automation | Information Technology Intern | Milwaukee, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/LC) |
-| 2026-10-26 | 2026-09-01 | American Express | Data Engineer Intern, Enterprise Technology Services | Sunrise, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/LD) |

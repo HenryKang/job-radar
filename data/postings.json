@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793306134,
+    "date_found": 1793319667,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,10 +34,371 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793306134,
+    "date_found": 1793319667,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "f18eb06ddd30fc16",
+    "dedup_key": "intern|ptc|arena engineering intern",
+    "company": "PTC",
+    "title": "Arena Engineering Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://go.vansh.nyc/Zw",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793307004,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a71c21015ae552aa",
+    "dedup_key": "intern|interco|software development intern react",
+    "company": "Interco",
+    "title": "Software Development Intern, React",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "url": "https://go.vansh.nyc/Zy",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793296295,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a03fe8fb855e2f27",
+    "dedup_key": "intern|danaher corporation|application integration developer intern",
+    "company": "Danaher Corporation",
+    "title": "Application Integration Developer Intern",
+    "locations": [
+      "Brea, CA"
+    ],
+    "url": "https://go.vansh.nyc/ZF",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de5a4beb87776438",
+    "dedup_key": "intern|general motors|ai ml engineer intern autonomous vehicles",
+    "company": "General Motors",
+    "title": "AI/ML Engineer Intern, Autonomous Vehicles",
+    "locations": [
+      "Seattle, WA",
+      "Sunnyvale, CA"
+    ],
+    "url": "https://go.vansh.nyc/ZG",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "68981fc6fca8c2fb",
+    "dedup_key": "intern|centene corporation|ai engineer intern",
+    "company": "Centene Corporation",
+    "title": "AI Engineer Intern",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/ZI",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f3deeba6ebb50e93",
+    "dedup_key": "intern|leidos|software developer intern",
+    "company": "Leidos",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "url": "https://go.vansh.nyc/ZT",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5dbea6e0a2e63b67",
+    "dedup_key": "intern|zoox|software engineer intern",
+    "company": "Zoox",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "url": "https://go.vansh.nyc/ZY",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5f958a9478e3b513",
+    "dedup_key": "intern|nvidia|compiler software engineer intern",
+    "company": "NVIDIA",
+    "title": "Compiler Software Engineer Intern",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://go.vansh.nyc/102",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "290811da42b08c6e",
+    "dedup_key": "intern|genius ai|engineering intern",
+    "company": "Genius AI",
+    "title": "Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/107",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "702f36818bb042a2",
+    "dedup_key": "intern|waggoner financial|software engineer intern",
+    "company": "Waggoner Financial",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Lansing, MI"
+    ],
+    "url": "https://go.vansh.nyc/109",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793313025,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0d9b2004b3c80185",
+    "dedup_key": "new grad|morningstar|associate software engineer central tech ai",
+    "company": "Morningstar",
+    "title": "Associate Software Engineer, Central Tech AI",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/10c",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "587f235cc93282e5",
+    "dedup_key": "new grad|northrop grumman|associate data scientist",
+    "company": "Northrop Grumman",
+    "title": "Associate Data Scientist",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "url": "https://go.vansh.nyc/10d",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5281fe9ef0daf611",
+    "dedup_key": "new grad|draftkings|software engineer",
+    "company": "DraftKings",
+    "title": "Software Engineer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://go.vansh.nyc/10e",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3e62c8cae97f4f34",
+    "dedup_key": "new grad|morningstar|associate software engineer central tech ai",
+    "company": "Morningstar",
+    "title": "Associate Software Engineer, Central Tech AI",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/10f",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a9d458a88ca95325",
+    "dedup_key": "new grad|raydar|new grad engineer",
+    "company": "Raydar",
+    "title": "New Grad: Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/10h",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793312986,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6484ac414a7dcce3",
+    "dedup_key": "intern|nvidia|ai systems software engineering intern summer 2027",
+    "company": "Nvidia",
+    "title": "AI Systems Software Engineering Intern – Summer 2027",
+    "locations": [
+      "US, TX, Austin"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
+    "season": "Summer 2027",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "93a2a9bbab798253",
+    "dedup_key": "intern|nvidia|compiler software engineering intern summer 2027",
+    "company": "Nvidia",
+    "title": "Compiler Software Engineering Intern - Summer 2027",
+    "locations": [
+      "US, WA, Redmond"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+    "season": "Summer 2027",
+    "source": "ats:workday:nvidia.wd5/NVIDIAExternalCareerSite",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": null,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "141d5cd19037273f",
+    "dedup_key": "intern|amazon|data center infrastructure engineer intern summer 2027 midwest southeast",
+    "company": "Amazon",
+    "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast",
+    "locations": [
+      "US, TX, Austin"
+    ],
+    "url": "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
+    "season": "Summer 2027",
+    "source": "ats:amazon:intern",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793232000,
+    "date_found": 1793319667,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "8ead665164edcbfb",

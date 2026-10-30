@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793386250,
+    "date_found": 1793401078,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793386250,
+    "date_found": 1793401078,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,192 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793386250,
+    "date_found": 1793401078,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "058dbfddd1757716",
+    "dedup_key": "intern|dow jones|software engineering intern",
+    "company": "Dow Jones",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/10X",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793387697,
+    "date_found": 1793401078,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "67661afe388bf02f",
+    "dedup_key": "intern|the new york times|backend engineering intern wirecutter",
+    "company": "The New York Times",
+    "title": "Backend Engineering Intern, Wirecutter",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/10Y",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793387337,
+    "date_found": 1793401078,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a43dbde1e592d651",
+    "dedup_key": "intern|gardaworld|infrastructure engineer intern",
+    "company": "GardaWorld",
+    "title": "Infrastructure Engineer Intern",
+    "locations": [
+      "Wayzata, MN"
+    ],
+    "url": "https://go.vansh.nyc/10Z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793388973,
+    "date_found": 1793401078,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2da900f4d31f08b5",
+    "dedup_key": "intern|hewlett packard enterprise|software engineering intern",
+    "company": "Hewlett Packard Enterprise",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://go.vansh.nyc/111",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793394199,
+    "date_found": 1793401078,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6ed9b8977aaf941e",
+    "dedup_key": "intern|vsp vision|agentic machine learning development intern ai",
+    "company": "VSP Vision",
+    "title": "Agentic & Machine Learning Development Intern, AI",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/113",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793394199,
+    "date_found": 1793401078,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "85cf636f41ef3306",
+    "dedup_key": "intern|obsidian entertainment|gameplay engineer intern",
+    "company": "Obsidian Entertainment",
+    "title": "Gameplay Engineer Intern",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "url": "https://go.vansh.nyc/119",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793398023,
+    "date_found": 1793401078,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1c3c8ea43d79c667",
+    "dedup_key": "intern|sophinea|mobile app developer intern",
+    "company": "Sophinea",
+    "title": "Mobile App Developer Intern",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "url": "https://go.vansh.nyc/11a",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793398847,
+    "date_found": 1793401078,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "847cd77396f380a2",
+    "dedup_key": "new grad|intel|new grad software application development engineer",
+    "company": "Intel",
+    "title": "New Grad: Software Application Development Engineer",
+    "locations": [
+      "Hillsboro, OR",
+      "Phoenix, AZ"
+    ],
+    "url": "https://go.vansh.nyc/11c",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793318400,
+    "date_found": 1793401078,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "42967a6d13ae03d6",
+    "dedup_key": "new grad|kairos power|firmware development engineer",
+    "company": "Kairos Power",
+    "title": "Firmware Development Engineer",
+    "locations": [
+      "Alameda, CA"
+    ],
+    "url": "https://go.vansh.nyc/11d",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793380723,
+    "date_found": 1793401078,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "83eea17dadc0a86a",

@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-30 18:51 UTC · 3692 live & eligible postings (showing 400); 81 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-30 22:58 UTC · 3701 live & eligible postings (showing 400); 81 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-30 | 2026-10-30 | Dow Jones | Software Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/10X) |
+| 2026-10-30 | 2026-10-30 | The New York Times | Backend Engineering Intern, Wirecutter | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/10Y) |
+| 2026-10-30 | 2026-10-30 | GardaWorld | Infrastructure Engineer Intern | Wayzata, MN | Summer | swe | ok | [apply](https://go.vansh.nyc/10Z) |
+| 2026-10-30 | 2026-10-30 | Hewlett Packard Enterprise | Software Engineering Intern | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/111) |
+| 2026-10-30 | 2026-10-30 | VSP Vision | Agentic & Machine Learning Development Intern, AI | Remote, United States | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/113) |
+| 2026-10-30 | 2026-10-30 | Obsidian Entertainment | Gameplay Engineer Intern | Irvine, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/119) |
+| 2026-10-30 | 2026-10-30 | Sophinea | Mobile App Developer Intern | Manassas, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/11a) |
+| 2026-10-30 | 2026-10-30 | Intel | New Grad: Software Application Development Engineer | Hillsboro, OR, Phoenix, AZ | — | swe | unknown | [apply](https://go.vansh.nyc/11c) |
+| 2026-10-30 | 2026-10-30 | Kairos Power | Firmware Development Engineer | Alameda, CA | — | swe | ok | [apply](https://go.vansh.nyc/11d) |
 | 2026-10-30 | 2026-10-30 | Barclays | Chief Client Office Intern, Client Data & Engineering Group | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/10x) |
 | 2026-10-30 | 2026-10-30 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/10y) |
 | 2026-10-30 | 2026-10-30 | Wex | Software Engineer Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/10z) |
@@ -395,12 +404,3 @@ _Last updated: 2026-10-30 18:51 UTC · 3692 live & eligible postings (showing 40
 | 2026-10-26 | 2026-09-15 | Gecko Robotics | Embedded Software Engineer Intern, RoboSPLAT Field Infra | Pittsburgh, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/It) |
 | 2026-10-26 | 2026-09-15 | Lunar Outpost | Embedded Software Engineer Intern | Golden, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Iv) |
 | 2026-10-26 | 2026-09-16 | CoStar Group | Associate Software Engineer Intern | Irvine, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Ix) |
-| 2026-10-26 | 2026-09-16 | Decagon | Engineering Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Iz) |
-| 2026-10-26 | 2026-09-17 | LSEG | Engineering Intern, Multiple Teams | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/IC) |
-| 2026-10-26 | 2026-09-17 | Waymo | Software Engineering Intern, Maneuvering Tech | San Francisco, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/IF) |
-| 2026-10-26 | 2026-09-17 | Newell Brands | Sales AI & Analytics Developer Intern | Huntersville, NC | Summer | swe | ok | [apply](https://go.vansh.nyc/IG) |
-| 2026-10-26 | 2026-09-18 | Amazon | Software Development Engineer Intern | Seattle, WA, Arlington, VA | Summer | swe | ok | [apply](https://go.vansh.nyc/IL) |
-| 2026-10-26 | 2026-09-21 | General Motors | Embedded and Systems Engineering Intern, Digital Product | Austin, TX, Milford, MI, Mountain View, CA, Warren, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/IS) |
-| 2026-10-26 | 2026-09-21 | General Motors | Software Engineer Intern, Digital Product | Austin, TX, Milford, MI, Mountain View, CA, Warren, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/IT) |
-| 2026-10-26 | 2026-09-21 | AutoZone | Information Technology Intern | Memphis, TN | Summer | swe | unknown | [apply](https://go.vansh.nyc/IY) |
-| 2026-10-26 | 2026-09-21 | AutoZone | Data Science Intern | Memphis, TN | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/IZ) |

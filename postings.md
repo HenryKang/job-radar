@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-31 08:52 UTC · 3721 live & eligible postings (showing 400); 90 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-31 15:18 UTC · 3723 live & eligible postings (showing 400); 91 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-31 | 2026-10-31 | NVIDIA | Software Engineering Intern | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/12g) |
+| 2026-10-31 | 2026-10-31 | NVIDIA | Deep Learning Intern | Santa Clara, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/12j) |
 | 2026-10-31 | 2026-10-31 | Northrop Grumman | Data Scientist Intern, Product Support | San Diego, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/125) |
 | 2026-10-31 | 2026-10-28 | Systems Planning and Analysis | Data Engineer Intern | Alexandria, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/128) |
 | 2026-10-31 | 2026-10-31 | NVIDIA | Enterprise Platform Technical Marketing Engineer Intern | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/12a) |
@@ -402,5 +404,3 @@ _Last updated: 2026-10-31 08:52 UTC · 3721 live & eligible postings (showing 40
 | 2026-10-27 | 2026-10-19 | SpaceX | New Grad 2027: Engineer, Software, Starlink | Redmond, WA | — | swe | ok | [apply](https://go.vansh.nyc/Uo) |
 | 2026-10-27 | 2026-10-19 | Anduril | New Grad 2027: Software Engineer | Atlanta, GA, Boston, MA, Broomfield, CO, Colorado Springs, CO, Costa Mesa, CA, Fort Collins, CO, Irvine, CA, Reston, VA, Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/Us) |
 | 2026-10-27 | 2026-10-19 | Roblox | New Grad 2027: Software Engineer | San Mateo, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Uu) |
-| 2026-10-27 | 2026-10-19 | Headlands Technologies | New Grad: Quantitative Researcher | Chicago, IL, New York, NY | — | quant | unknown | [apply](https://go.vansh.nyc/Uv) |
-| 2026-10-27 | 2026-10-19 | Fortinet | New Grad: AI Automation Engineer | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Uw) |

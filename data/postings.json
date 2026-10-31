@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793436728,
+    "date_found": 1793459895,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793436728,
+    "date_found": 1793459895,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,71 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793436728,
+    "date_found": 1793459895,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "c12de87dae3c8835",
+    "dedup_key": "intern|nvidia|software engineering intern",
+    "company": "NVIDIA",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/12g",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793448359,
+    "date_found": 1793459895,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7cdb84dfb155d46a",
+    "dedup_key": "intern|nvidia|deep learning intern",
+    "company": "NVIDIA",
+    "title": "Deep Learning Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/12j",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793448359,
+    "date_found": 1793459895,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e86ceb16194eb691",
+    "dedup_key": "new grad|nvidia|asic physical design engineer netlisting master s",
+    "company": "NVIDIA",
+    "title": "ASIC Physical Design Engineer, Netlisting (Master's)",
+    "locations": [
+      "Santa Clara, CA",
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/10i",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793317355,
+    "date_found": 1793459895,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
     "id": "d791a4907490f19c",

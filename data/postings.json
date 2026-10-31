@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793459895,
+    "date_found": 1793475154,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793459895,
+    "date_found": 1793475154,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,450 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793459895,
+    "date_found": 1793475154,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "44572ea88c5c63d3",
+    "dedup_key": "intern|nintendo|software engineer intern cpu debugger",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern, CPU Debugger",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://careers.nintendo.com/?gh_jid=4471972009",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793226293,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ab3e74f5993d9247",
+    "dedup_key": "intern|nintendo|software engineer intern cpu profiler",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern, CPU Profiler",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://careers.nintendo.com/?gh_jid=4469762009",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793226561,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "320cf0301d851f24",
+    "dedup_key": "intern|nintendo|software engineer intern devops",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern, DevOps",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://careers.nintendo.com/?gh_jid=4472002009",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793226660,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fecf505f890dd7ef",
+    "dedup_key": "intern|nintendo|software engineer intern audio",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern, Audio",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://careers.nintendo.com/?gh_jid=4470048009",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793227060,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a7112693a7ab89d9",
+    "dedup_key": "intern|nintendo|software engineer intern platform security",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern, Platform Security",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://careers.nintendo.com/?gh_jid=4469778009",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793227382,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3f6297c6805cddcd",
+    "dedup_key": "intern|nintendo|software engineer intern connectivity",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern, Connectivity",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://careers.nintendo.com/?gh_jid=4472147009",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cbbf564ea0b95f6f",
+    "dedup_key": "intern|nintendo|software engineer intern performance tools",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern, Performance Tools",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://careers.nintendo.com/?gh_jid=4473568009",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793318400,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fd446e6309e9b92a",
+    "dedup_key": "new grad|amazon|software development engineer database early career 2027 us",
+    "company": "Amazon",
+    "title": "Software Development Engineer - Database Early Career- 2027 - US",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10593902/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793215881,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f7a783430aba8eef",
+    "dedup_key": "new grad|blue river technology|embedded software engineer cameras ci",
+    "company": "Blue River Technology",
+    "title": "Embedded Software Engineer - Cameras & CI",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://www.bluerivertechnology.com/job/?gh_jid=8337794",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793475081,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "14f3f4c6050e7591",
+    "dedup_key": "new grad|built technologies|innovation software engineer 1",
+    "company": "Built Technologies",
+    "title": "Innovation Software Engineer 1",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793475081,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "8b6408c5ef200905",
+    "dedup_key": "new grad|handshake|software engineer i promotions",
+    "company": "Handshake",
+    "title": "Software Engineer I - Promotions",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793475081,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e86014ca31e0305a",
+    "dedup_key": "new grad|inductive automation|software solutions engineer i",
+    "company": "Inductive Automation",
+    "title": "Software Solutions Engineer I",
+    "locations": [
+      "Columbia, MD"
+    ],
+    "url": "https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793475081,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b2d5d929151689aa",
+    "dedup_key": "new grad|northrop grumman|associate software engineer hollywood md",
+    "company": "Northrop Grumman",
+    "title": "Associate Software Engineer - Hollywood - MD",
+    "locations": [
+      "Maryland, USA"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793475081,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4f66974537fdfb69",
+    "dedup_key": "new grad|zefr|software engineer",
+    "company": "Zefr",
+    "title": "Software Engineer",
+    "locations": [
+      "Marina del Rey, CA"
+    ],
+    "url": "https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793475081,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f52dc006d542b5ce",
+    "dedup_key": "new grad|accenture federal services|mobile tak developer",
+    "company": "Accenture Federal Services",
+    "title": "Mobile/TAK Developer",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4725823006?gh_jid=4725823006",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793388681,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "ddd266a5f52ec730",
+    "dedup_key": "new grad|allied world|associate application developer it platform awai",
+    "company": "Allied World",
+    "title": "Associate - Application Developer - IT Platform - AWai",
+    "locations": [
+      "New Jersey, USA"
+    ],
+    "url": "https://awac.wd108.myworkdayjobs.com/en-US/alliedworld_careers/job/New-Jersey/Associate--Application-Developer--IT-Platform--AWai_R-158",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793388681,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "407d84b70bbbc9e4",
+    "dedup_key": "new grad|bodyspec|junior developer",
+    "company": "BodySpec",
+    "title": "Junior Developer",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793388681,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c301477a533c25ff",
+    "dedup_key": "new grad|intel|software application development engineer",
+    "company": "Intel",
+    "title": "Software Application Development Engineer",
+    "locations": [
+      "Phoenix, AZ +1"
+    ],
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793388681,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5aed77b44c505b83",
+    "dedup_key": "new grad|raytheon|software engineer ii advanced system tools",
+    "company": "Raytheon",
+    "title": "Software Engineer II - Advanced System Tools",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-II---Advanced-System-Tools_01886082",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793388681,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4d6815b9ca0940e1",
+    "dedup_key": "new grad|sopra steria i2s|developer sap cml cms m w d",
+    "company": "Sopra Steria I2S",
+    "title": "Developer SAP CML / CMS - m/w/d",
+    "locations": [
+      "Bundesweit, DE"
+    ],
+    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158752331-developer-sap-cml-cms-m-w-d-?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793388681,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "580fbab67a3e06f4",
+    "dedup_key": "new grad|sopra steria i2s|developer sap integration m w d",
+    "company": "Sopra Steria I2S",
+    "title": "Developer SAP Integration - m/w/d",
+    "locations": [
+      "Bundesweit, DE"
+    ],
+    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158756490-developer-sap-integration-m-w-d-?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793388681,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "dd5574a841bcc71e",
+    "dedup_key": "new grad|urban science|associate software engineer",
+    "company": "Urban Science",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://careers-urbanscience.icims.com/jobs/5234/associate-software-engineer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793388681,
+    "date_found": 1793475154,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "c12de87dae3c8835",

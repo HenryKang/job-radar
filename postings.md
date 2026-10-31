@@ -1,9 +1,31 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-31 15:18 UTC · 3723 live & eligible postings (showing 400); 91 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-31 19:32 UTC · 3745 live & eligible postings (showing 400); 91 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-31 | 2026-10-28 | Nintendo | Software Engineer Intern, CPU Debugger | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4471972009) |
+| 2026-10-31 | 2026-10-28 | Nintendo | Software Engineer Intern, CPU Profiler | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4469762009) |
+| 2026-10-31 | 2026-10-28 | Nintendo | Software Engineer Intern, DevOps | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4472002009) |
+| 2026-10-31 | 2026-10-28 | Nintendo | Software Engineer Intern, Audio | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4470048009) |
+| 2026-10-31 | 2026-10-28 | Nintendo | Software Engineer Intern, Platform Security | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4469778009) |
+| 2026-10-31 | 2026-10-29 | Nintendo | Software Engineer Intern, Connectivity | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4472147009) |
+| 2026-10-31 | 2026-10-30 | Nintendo | Software Engineer Intern, Performance Tools | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4473568009) |
+| 2026-10-31 | 2026-10-28 | Amazon | Software Development Engineer - Database Early Career- 2027 - US | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10593902/apply) |
+| 2026-10-31 | 2026-10-31 | Blue River Technology | Embedded Software Engineer - Cameras & CI | Santa Clara, CA | — | swe | ok | [apply](https://www.bluerivertechnology.com/job/?gh_jid=8337794) |
+| 2026-10-31 | 2026-10-31 | Built Technologies | Innovation Software Engineer 1 | Nashville, TN | — | swe | unknown | [apply](https://job-boards.greenhouse.io/getbuilt/jobs/4749545005) |
+| 2026-10-31 | 2026-10-31 | Handshake | Software Engineer I - Promotions | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7) |
+| 2026-10-31 | 2026-10-31 | Inductive Automation | Software Solutions Engineer I | Columbia, MD | — | swe | unknown | [apply](https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151) |
+| 2026-10-31 | 2026-10-31 | Northrop Grumman | Associate Software Engineer - Hollywood - MD | Maryland, USA | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018) |
+| 2026-10-31 | 2026-10-31 | Zefr | Software Engineer | Marina del Rey, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640) |
+| 2026-10-31 | 2026-10-30 | Accenture Federal Services | Mobile/TAK Developer | Washington, DC | — | swe | unknown | [apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4725823006?gh_jid=4725823006) |
+| 2026-10-31 | 2026-10-30 | Allied World | Associate - Application Developer - IT Platform - AWai | New Jersey, USA | — | swe | unknown | [apply](https://awac.wd108.myworkdayjobs.com/en-US/alliedworld_careers/job/New-Jersey/Associate--Application-Developer--IT-Platform--AWai_R-158) |
+| 2026-10-31 | 2026-10-30 | BodySpec | Junior Developer | Austin, TX | — | swe | unknown | [apply](https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer) |
+| 2026-10-31 | 2026-10-30 | Intel | Software Application Development Engineer | Phoenix, AZ +1 | — | swe | unknown | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523) |
+| 2026-10-31 | 2026-10-30 | Raytheon | Software Engineer II - Advanced System Tools | Cedar Rapids, IA | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-II---Advanced-System-Tools_01886082) |
+| 2026-10-31 | 2026-10-30 | Sopra Steria I2S | Developer SAP CML / CMS - m/w/d | Bundesweit, DE | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/SopraSteria1/744000158752331-developer-sap-cml-cms-m-w-d-?oga=true) |
+| 2026-10-31 | 2026-10-30 | Sopra Steria I2S | Developer SAP Integration - m/w/d | Bundesweit, DE | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/SopraSteria1/744000158756490-developer-sap-integration-m-w-d-?oga=true) |
+| 2026-10-31 | 2026-10-30 | Urban Science | Associate Software Engineer | Detroit, MI | — | swe | unknown | [apply](https://careers-urbanscience.icims.com/jobs/5234/associate-software-engineer/job) |
 | 2026-10-31 | 2026-10-31 | NVIDIA | Software Engineering Intern | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/12g) |
 | 2026-10-31 | 2026-10-31 | NVIDIA | Deep Learning Intern | Santa Clara, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/12j) |
 | 2026-10-31 | 2026-10-31 | Northrop Grumman | Data Scientist Intern, Product Support | San Diego, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/125) |
@@ -382,25 +404,3 @@ _Last updated: 2026-10-31 15:18 UTC · 3723 live & eligible postings (showing 40
 | 2026-10-27 | 2026-10-19 | Palantir | New Grad: Forward Deployed Infrastructure Engineer, US Government | Palo Alto, CA | — | swe | unknown | [apply](https://go.vansh.nyc/U1) |
 | 2026-10-27 | 2026-10-19 | Palantir | New Grad: Forward Deployed Infrastructure Engineer, US Government | Washington, DC | — | swe | unknown | [apply](https://go.vansh.nyc/U2) |
 | 2026-10-27 | 2026-10-19 | Palantir | New Grad: Forward Deployed Infrastructure Engineer, US Government | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/U3) |
-| 2026-10-27 | 2026-10-19 | Palantir | New Grad: Forward Deployed Software Engineer, Commercial | Chicago, IL | — | swe | unknown | [apply](https://go.vansh.nyc/U4) |
-| 2026-10-27 | 2026-10-19 | Palantir | New Grad: Forward Deployed Software Engineer, Intel, US Government | Washington, DC | — | swe | unknown | [apply](https://go.vansh.nyc/U5) |
-| 2026-10-27 | 2026-10-19 | Palantir | New Grad: Privacy & Civil Liberties Engineer | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/U6) |
-| 2026-10-27 | 2026-10-19 | Palantir | New Grad: Software Engineer, Infrastructure | Palo Alto, CA | — | swe | unknown | [apply](https://go.vansh.nyc/U7) |
-| 2026-10-27 | 2026-10-19 | Palantir | New Grad: Software Engineer, Production Infrastructure | Washington, DC | — | swe | unknown | [apply](https://go.vansh.nyc/U8) |
-| 2026-10-27 | 2026-10-19 | Belvedere Trading | New Grad 2027: Quantitative Trader | Chicago, IL | — | quant | unknown | [apply](https://go.vansh.nyc/U9) |
-| 2026-10-27 | 2026-10-19 | Relativity Space | Software Engineer I, Factory Platform | Long Beach, CA | — | swe | ok | [apply](https://go.vansh.nyc/Ub) |
-| 2026-10-27 | 2026-10-19 | NewsBreak | New Grad: Applied AI Engineer, Advertising Agents | Mountain View, CA | — | swe | ok | [apply](https://go.vansh.nyc/Uc) |
-| 2026-10-27 | 2026-10-19 | DV Trading | New Grad 2027: Software Engineer, DV Commodities | New York, NY | — | swe | ok | [apply](https://go.vansh.nyc/Ud) |
-| 2026-10-27 | 2026-10-19 | TransMarket Group | New Grad 2027: Junior Quantitative Trader | Chicago, IL | — | quant | ok | [apply](https://go.vansh.nyc/Ue) |
-| 2026-10-27 | 2026-10-19 | Five Rings | New Grad 2027: Quantitative Trader | New York, NY | — | quant | unknown | [apply](https://go.vansh.nyc/Uf) |
-| 2026-10-27 | 2026-10-19 | Freeform | New Grad 2027: FPGA Engineer | Los Angeles, CA | — | swe | ok | [apply](https://go.vansh.nyc/Ug) |
-| 2026-10-27 | 2026-10-19 | Freeform | New Grad: Software Engineer | Los Angeles, CA | — | swe | ok | [apply](https://go.vansh.nyc/Uh) |
-| 2026-10-27 | 2026-10-19 | Appian | New Grad 2027: Associate Application Engineer | McLean, VA | — | swe | ok | [apply](https://go.vansh.nyc/Ui) |
-| 2026-10-27 | 2026-10-19 | SpaceX | New Grad 2027: Engineer, GNC | Redmond, WA | — | swe | ok | [apply](https://go.vansh.nyc/Uj) |
-| 2026-10-27 | 2026-10-19 | SpaceX | New Grad 2027: Engineer, GNC | Bastrop, TX | — | swe | ok | [apply](https://go.vansh.nyc/Uk) |
-| 2026-10-27 | 2026-10-19 | SpaceX | New Grad 2027: Engineer, Software | Hawthorne, CA | — | swe | ok | [apply](https://go.vansh.nyc/Ul) |
-| 2026-10-27 | 2026-10-19 | SpaceX | New Grad 2027: Engineer, Software, Starlink | Bastrop, TX | — | swe | ok | [apply](https://go.vansh.nyc/Um) |
-| 2026-10-27 | 2026-10-19 | SpaceX | New Grad 2027: Engineer, Software, Starlink | Palo Alto, CA | — | swe | ok | [apply](https://go.vansh.nyc/Un) |
-| 2026-10-27 | 2026-10-19 | SpaceX | New Grad 2027: Engineer, Software, Starlink | Redmond, WA | — | swe | ok | [apply](https://go.vansh.nyc/Uo) |
-| 2026-10-27 | 2026-10-19 | Anduril | New Grad 2027: Software Engineer | Atlanta, GA, Boston, MA, Broomfield, CO, Colorado Springs, CO, Costa Mesa, CA, Fort Collins, CO, Irvine, CA, Reston, VA, Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/Us) |
-| 2026-10-27 | 2026-10-19 | Roblox | New Grad 2027: Software Engineer | San Mateo, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Uu) |

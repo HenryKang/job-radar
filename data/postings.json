@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793401078,
+    "date_found": 1793413139,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793401078,
+    "date_found": 1793413139,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,534 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793401078,
+    "date_found": 1793413139,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "b0595b11d8b0db32",
+    "dedup_key": "intern|boston scientific|software test engineer intern",
+    "company": "Boston Scientific",
+    "title": "Software Test Engineer Intern",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "url": "https://go.vansh.nyc/11g",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793394351,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9b7d44d3435ba76b",
+    "dedup_key": "intern|university of miami|data science ai intern",
+    "company": "University of Miami",
+    "title": "Data Science & AI Intern",
+    "locations": [
+      "Miami, FL"
+    ],
+    "url": "https://go.vansh.nyc/11t",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793318400,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "761a8d0c3cc60534",
+    "dedup_key": "intern|firework|data engineer intern",
+    "company": "Firework",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://go.vansh.nyc/11I",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793405691,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "909f343f21a88034",
+    "dedup_key": "intern|sephora|ai platform infrastructure intern technology",
+    "company": "Sephora",
+    "title": "AI Platform Infrastructure Intern, Technology",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/11N",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793110684,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "474f025945a865f1",
+    "dedup_key": "intern|toshiba international corporation|firmware engineer intern",
+    "company": "Toshiba International Corporation",
+    "title": "Firmware Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/11O",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793118233,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "587b8af8ecd7f753",
+    "dedup_key": "intern|beli|software engineer intern",
+    "company": "Beli",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/11T",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793221150,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "04cd3f80bdf2e173",
+    "dedup_key": "intern|beli|data science intern",
+    "company": "Beli",
+    "title": "Data Science Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/11U",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793221290,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8229460c11bbf06f",
+    "dedup_key": "intern|syntiant|devops machine learning infrastructure intern",
+    "company": "Syntiant",
+    "title": "DevOps Machine Learning Infrastructure Intern",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "url": "https://go.vansh.nyc/11V",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793232000,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "97708f8f157de46c",
+    "dedup_key": "intern|benchmark space systems|software engineering intern",
+    "company": "Benchmark Space Systems",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Burlington, VT"
+    ],
+    "url": "https://go.vansh.nyc/11X",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793290922,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ca1e74bb0421e771",
+    "dedup_key": "intern|mativ|data science and business analytics intern",
+    "company": "Mativ",
+    "title": "Data Science and Business Analytics Intern",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "url": "https://go.vansh.nyc/11Y",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793307475,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6d19e51780ba23f6",
+    "dedup_key": "intern|nintendo|software engineer intern graphics",
+    "company": "Nintendo",
+    "title": "Software Engineer Intern, Graphics",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://go.vansh.nyc/121",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793318400,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ce8038fc2d1eaab2",
+    "dedup_key": "intern|otto engineering|embedded software intern communications",
+    "company": "OTTO Engineering",
+    "title": "Embedded Software Intern, Communications",
+    "locations": [
+      "Carpentersville, IL"
+    ],
+    "url": "https://go.vansh.nyc/122",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793318400,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1542e5ceeee2bec2",
+    "dedup_key": "new grad|amazon|new grad 2027 software development engineer database",
+    "company": "Amazon",
+    "title": "New Grad 2027: Software Development Engineer, Database",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "Austin, TX",
+      "Redmond, WA",
+      "East Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/11i",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793399898,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8db7d36dbfc2b835",
+    "dedup_key": "new grad|nvidia|asic floorplan design engineer master s",
+    "company": "NVIDIA",
+    "title": "ASIC Floorplan Design Engineer (Master's)",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/11k",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793401641,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "6f52e42d14f2a76e",
+    "dedup_key": "new grad|nvidia|asic design engineer",
+    "company": "NVIDIA",
+    "title": "ASIC Design Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/11m",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793401641,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a02bcd0b14a34ea1",
+    "dedup_key": "new grad|nvidia|architecture energy modeling engineer master s",
+    "company": "NVIDIA",
+    "title": "Architecture Energy Modeling Engineer (Master's)",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/11p",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793401641,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "965da2a6bd7229b0",
+    "dedup_key": "new grad|nvidia|asic physical design and timing engineer master s",
+    "company": "NVIDIA",
+    "title": "ASIC Physical Design and Timing Engineer (Master's)",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/11A",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793403785,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "57981c4de6b5f635",
+    "dedup_key": "new grad|nvidia|cell modeling and verification engineer",
+    "company": "NVIDIA",
+    "title": "Cell Modeling and Verification Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/11B",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793403785,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ce0491c4de198dfa",
+    "dedup_key": "new grad|nvidia|asic design verification engineer master s",
+    "company": "NVIDIA",
+    "title": "ASIC Design Verification Engineer (Master's)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/11C",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793403785,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "88a0047980dea1cb",
+    "dedup_key": "new grad|amazon com services llc|new grad 2027 software development engineer database",
+    "company": "Amazon.com Services LLC",
+    "title": "New Grad 2027: Software Development Engineer (Database)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/11D",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793318868,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3eedd6e1292d60b1",
+    "dedup_key": "new grad|nvidia|rtl power optimization engineer master s",
+    "company": "NVIDIA",
+    "title": "RTL Power Optimization Engineer (Master's)",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/11E",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793405230,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "253984aab1d14ad0",
+    "dedup_key": "new grad|nvidia|asic design engineer",
+    "company": "NVIDIA",
+    "title": "ASIC Design Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/11F",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793405230,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d7b7a0ee9eb62a98",
+    "dedup_key": "new grad|nvidia|software engineer hardware tools and methodology master s",
+    "company": "NVIDIA",
+    "title": "Software Engineer, Hardware Tools and Methodology (Master's)",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/11G",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793405230,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "e7252bcc76fb2c07",
+    "dedup_key": "new grad|nvidia|power methodology and modeling engineer master s",
+    "company": "NVIDIA",
+    "title": "Power Methodology and Modeling Engineer (Master's)",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/11H",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793405230,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "e36a7cea3f161bf0",
+    "dedup_key": "new grad|broadcom|new grad physical design engineer asic products division apd master s",
+    "company": "Broadcom",
+    "title": "New Grad: Physical Design Engineer, ASIC Products Division (APD) (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/123",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793318400,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "bc056aaa0313dd1a",
+    "dedup_key": "new grad|broadcom|physical design engineer asic products division master s",
+    "company": "Broadcom",
+    "title": "Physical Design Engineer, ASIC Products Division (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/124",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793318400,
+    "date_found": 1793413139,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
     "id": "058dbfddd1757716",

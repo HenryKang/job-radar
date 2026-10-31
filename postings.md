@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-31 19:32 UTC · 3745 live & eligible postings (showing 400); 91 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-31 22:49 UTC · 3749 live & eligible postings (showing 400); 91 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-31 | 2026-10-30 | Virginia Tech Applied Research Corporation | Research Intern, Applied AI & Software Development | Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/12r) |
+| 2026-10-31 | 2026-10-30 | Students Plus Startups | Vroom Power Software Engineering Intern | San Antonio, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/12s) |
+| 2026-10-31 | 2026-10-30 | GTI Energy | Data Science Intern | Des Plaines, IL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/12t) |
+| 2026-10-31 | 2026-10-30 | United Methodist Communities | Applied AI Developer, BEAM | Neptune, NJ | — | swe | ok | [apply](https://go.vansh.nyc/12x) |
 | 2026-10-31 | 2026-10-28 | Nintendo | Software Engineer Intern, CPU Debugger | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4471972009) |
 | 2026-10-31 | 2026-10-28 | Nintendo | Software Engineer Intern, CPU Profiler | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4469762009) |
 | 2026-10-31 | 2026-10-28 | Nintendo | Software Engineer Intern, DevOps | Redmond, WA | Summer | swe | unknown | [apply](https://careers.nintendo.com/?gh_jid=4472002009) |
@@ -400,7 +404,3 @@ _Last updated: 2026-10-31 19:32 UTC · 3745 live & eligible postings (showing 40
 | 2026-10-27 | 2026-10-19 | American Express | New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services | Atlanta, GA | — | swe | unknown | [apply](https://go.vansh.nyc/TV) |
 | 2026-10-27 | 2026-10-19 | American Express | New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services | Phoenix, AZ | — | swe | unknown | [apply](https://go.vansh.nyc/TW) |
 | 2026-10-27 | 2026-10-19 | American Express | New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/TX) |
-| 2026-10-27 | 2026-10-19 | American Express | New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services | Sunrise, FL | — | swe | unknown | [apply](https://go.vansh.nyc/TY) |
-| 2026-10-27 | 2026-10-19 | Palantir | New Grad: Forward Deployed Infrastructure Engineer, US Government | Palo Alto, CA | — | swe | unknown | [apply](https://go.vansh.nyc/U1) |
-| 2026-10-27 | 2026-10-19 | Palantir | New Grad: Forward Deployed Infrastructure Engineer, US Government | Washington, DC | — | swe | unknown | [apply](https://go.vansh.nyc/U2) |
-| 2026-10-27 | 2026-10-19 | Palantir | New Grad: Forward Deployed Infrastructure Engineer, US Government | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/U3) |

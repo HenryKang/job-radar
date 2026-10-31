@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793413139,
+    "date_found": 1793436728,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793413139,
+    "date_found": 1793436728,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,70 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793413139,
+    "date_found": 1793436728,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "d791a4907490f19c",
+    "dedup_key": "intern|northrop grumman|data scientist intern product support",
+    "company": "Northrop Grumman",
+    "title": "Data Scientist Intern, Product Support",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/125",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793413073,
+    "date_found": 1793436728,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "69fe288c95d7b399",
+    "dedup_key": "intern|systems planning and analysis|data engineer intern",
+    "company": "Systems Planning and Analysis",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "Alexandria, VA"
+    ],
+    "url": "https://go.vansh.nyc/128",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793223900,
+    "date_found": 1793436728,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f2be24422565c6b3",
+    "dedup_key": "intern|nvidia|enterprise platform technical marketing engineer intern",
+    "company": "NVIDIA",
+    "title": "Enterprise Platform Technical Marketing Engineer Intern",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/12a",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793426777,
+    "date_found": 1793436728,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "b0595b11d8b0db32",

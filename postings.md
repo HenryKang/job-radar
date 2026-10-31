@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-10-31 02:19 UTC · 3718 live & eligible postings (showing 400); 90 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-10-31 08:52 UTC · 3721 live & eligible postings (showing 400); 90 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-10-31 | 2026-10-31 | Northrop Grumman | Data Scientist Intern, Product Support | San Diego, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/125) |
+| 2026-10-31 | 2026-10-28 | Systems Planning and Analysis | Data Engineer Intern | Alexandria, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/128) |
+| 2026-10-31 | 2026-10-31 | NVIDIA | Enterprise Platform Technical Marketing Engineer Intern | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/12a) |
 | 2026-10-31 | 2026-10-30 | Boston Scientific | Software Test Engineer Intern | Waltham, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/11g) |
 | 2026-10-31 | 2026-10-30 | University of Miami | Data Science & AI Intern | Miami, FL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/11t) |
 | 2026-10-31 | 2026-10-31 | Firework | Data Engineer Intern | San Mateo, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/11I) |
@@ -401,6 +404,3 @@ _Last updated: 2026-10-31 02:19 UTC · 3718 live & eligible postings (showing 40
 | 2026-10-27 | 2026-10-19 | Roblox | New Grad 2027: Software Engineer | San Mateo, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Uu) |
 | 2026-10-27 | 2026-10-19 | Headlands Technologies | New Grad: Quantitative Researcher | Chicago, IL, New York, NY | — | quant | unknown | [apply](https://go.vansh.nyc/Uv) |
 | 2026-10-27 | 2026-10-19 | Fortinet | New Grad: AI Automation Engineer | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Uw) |
-| 2026-10-27 | 2026-10-26 | Abacus Insights | Associate Data Engineer | Remote | — | swe | ok | [apply](https://go.vansh.nyc/UE) |
-| 2026-10-26 | 2026-10-26 | AbbVie | Cybersecurity Intern, Business Technology Solutions | North Chicago, IL | Summer | swe | ok | [apply](https://go.vansh.nyc/SW) |
-| 2026-10-26 | 2026-10-26 | Booz Allen Hamilton | Systems Engineer Intern | Detroit, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/SX) |

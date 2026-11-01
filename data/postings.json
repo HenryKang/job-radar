@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793548776,
+    "date_found": 1793564903,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793548776,
+    "date_found": 1793564903,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,130 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793548776,
+    "date_found": 1793564903,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "02162d8f497b14db",
+    "dedup_key": "intern|siemens digital industries software|strategic student program digital enterprise software applications intern",
+    "company": "Siemens Digital Industries Software",
+    "title": "Strategic Student Program Digital Enterprise Software Applications Intern",
+    "locations": [
+      "Charlotte, MI"
+    ],
+    "url": "https://go.vansh.nyc/18U",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793552751,
+    "date_found": 1793564903,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6fb02fcfbfa4df17",
+    "dedup_key": "intern|siemens digital industries software|strategic student program digital enterprise software applications intern",
+    "company": "Siemens Digital Industries Software",
+    "title": "Strategic Student Program Digital Enterprise Software Applications Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/18V",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793552751,
+    "date_found": 1793564903,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2375bb98e1a912f6",
+    "dedup_key": "intern|bytedance|student researcher intern seed model vision",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern, Seed Model - Vision",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://joinbytedance.com/search/7623544831999346997",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793519707,
+    "date_found": 1793564903,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a9486fe30ff2231c",
+    "dedup_key": "new grad|aerospace|ic 2027 software integration engineer",
+    "company": "Aerospace",
+    "title": "IC 2027 Software Integration Engineer",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793392040,
+    "date_found": 1793564903,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "082f28f2461c8820",
+    "dedup_key": "new grad|cambridge associates|jr developer",
+    "company": "Cambridge Associates",
+    "title": "Jr. Developer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/handshake/job/Boston/Jr-Developer_JR0000457-2",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793392040,
+    "date_found": 1793564903,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2263eeefc665d110",
+    "dedup_key": "new grad|cambridge associates|jr developer",
+    "company": "Cambridge Associates",
+    "title": "Jr. Developer",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/cambridge_associates/job/Boston/Jr-Developer_JR0000457",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793392040,
+    "date_found": 1793564903,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "3435339651bcc062",

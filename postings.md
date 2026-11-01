@@ -1,9 +1,15 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-01 15:59 UTC · 4047 live & eligible postings (showing 400); 107 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-01 20:28 UTC · 4053 live & eligible postings (showing 400); 107 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-01 | 2026-11-01 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/18U) |
+| 2026-11-01 | 2026-11-01 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/18V) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Student Researcher Intern, Seed Model - Vision | San Jose, CA | Summer | quant | unknown | [apply](https://joinbytedance.com/search/7623544831999346997) |
+| 2026-11-01 | 2026-10-30 | Aerospace | IC 2027 Software Integration Engineer | Chantilly, VA | — | swe | unknown | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007) |
+| 2026-11-01 | 2026-10-30 | Cambridge Associates | Jr. Developer | Boston, MA | — | swe | unknown | [apply](https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/handshake/job/Boston/Jr-Developer_JR0000457-2) |
+| 2026-11-01 | 2026-10-30 | Cambridge Associates | Jr. Developer | Boston, MA | — | swe | unknown | [apply](https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/cambridge_associates/job/Boston/Jr-Developer_JR0000457) |
 | 2026-11-01 | 2026-05-24 | SCM | Quantitative Research Analyst Intern | Radnor, PA | Summer | quant | ok | [apply](https://go.vansh.nyc/17s) |
 | 2026-11-01 | 2026-08-25 | Hyphenate | Software Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/17t) |
 | 2026-11-01 | 2026-08-27 | Amazon | Software Development Engineer Intern, Annapurna Labs | Cupertino, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17u) |
@@ -398,9 +404,3 @@ _Last updated: 2026-11-01 15:59 UTC · 4047 live & eligible postings (showing 40
 | 2026-10-30 | 2026-10-29 | Dee Zee | Software Development Intern | Des Moines, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/10k) |
 | 2026-10-30 | 2026-10-30 | Axon | Software Engineer Intern | Seattle, WA, Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/10l) |
 | 2026-10-30 | 2026-10-30 | NVIDIA | AI Systems Software Engineering Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/10o) |
-| 2026-10-30 | 2026-10-30 | Johns Hopkins APL | New Grad 2027: Software Systems Engineer | Laurel, MD | — | swe | unknown | [apply](https://go.vansh.nyc/10j) |
-| 2026-10-30 | 2026-10-29 | PTC | Arena Engineering Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Zw) |
-| 2026-10-30 | 2026-10-29 | Interco | Software Development Intern, React | St. Louis, MO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Zy) |
-| 2026-10-30 | 2026-10-29 | Danaher Corporation | Application Integration Developer Intern | Brea, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/ZF) |
-| 2026-10-30 | 2026-10-29 | General Motors | AI/ML Engineer Intern, Autonomous Vehicles | Seattle, WA, Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/ZG) |
-| 2026-10-30 | 2026-10-29 | Centene Corporation | AI Engineer Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/ZI) |

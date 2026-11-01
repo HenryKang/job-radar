@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793564903,
+    "date_found": 1793577228,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793564903,
+    "date_found": 1793577228,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,50 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793564903,
+    "date_found": 1793577228,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "458165dd2e62ff58",
+    "dedup_key": "intern|knowbe4|software engineer intern",
+    "company": "KnowBe4",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Clearwater, FL"
+    ],
+    "url": "https://go.vansh.nyc/191",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793563542,
+    "date_found": 1793577228,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "99c2c1233aa0cccd",
+    "dedup_key": "new grad|oceaneering|robotics software engineer",
+    "company": "Oceaneering",
+    "title": "Robotics Software Engineer",
+    "locations": [
+      "Houston, TX"
+    ],
+    "url": "https://go.vansh.nyc/195",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793318400,
+    "date_found": 1793577228,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "02162d8f497b14db",

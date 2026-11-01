@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-01 20:28 UTC · 4053 live & eligible postings (showing 400); 107 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-01 23:53 UTC · 4055 live & eligible postings (showing 400); 107 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-01 | 2026-11-01 | KnowBe4 | Software Engineer Intern | Clearwater, FL | Summer | swe | ok | [apply](https://go.vansh.nyc/191) |
+| 2026-11-01 | 2026-10-30 | Oceaneering | Robotics Software Engineer | Houston, TX | — | swe | unknown | [apply](https://go.vansh.nyc/195) |
 | 2026-11-01 | 2026-11-01 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/18U) |
 | 2026-11-01 | 2026-11-01 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/18V) |
 | 2026-11-01 | 2026-11-01 | ByteDance | Student Researcher Intern, Seed Model - Vision | San Jose, CA | Summer | quant | unknown | [apply](https://joinbytedance.com/search/7623544831999346997) |
@@ -402,5 +404,3 @@ _Last updated: 2026-11-01 20:28 UTC · 4053 live & eligible postings (showing 40
 | 2026-10-30 | 2026-08-26 | True Anomaly | Flight Software Engineer I - Temp-to-hire | Denver, CO +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007) |
 | 2026-10-30 | 2026-10-30 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
 | 2026-10-30 | 2026-10-29 | Dee Zee | Software Development Intern | Des Moines, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/10k) |
-| 2026-10-30 | 2026-10-30 | Axon | Software Engineer Intern | Seattle, WA, Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/10l) |
-| 2026-10-30 | 2026-10-30 | NVIDIA | AI Systems Software Engineering Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/10o) |

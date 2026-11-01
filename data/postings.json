@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793498984,
+    "date_found": 1793524244,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793498984,
+    "date_found": 1793524244,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,1790 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793498984,
+    "date_found": 1793524244,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "b03ac2229bc4ac4e",
+    "dedup_key": "intern|farmers mutual hail|qa automation engineer intern",
+    "company": "Farmers Mutual Hail",
+    "title": "QA Automation Engineer Intern",
+    "locations": [
+      "West Des Moines, IA"
+    ],
+    "url": "https://go.vansh.nyc/13V",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1789504897,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9e10541ef75e7bc9",
+    "dedup_key": "intern|fedex|data science intern",
+    "company": "FedEx",
+    "title": "Data Science Intern",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "url": "https://go.vansh.nyc/13Z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793387004,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3ab91a07473ea09b",
+    "dedup_key": "intern|bytedance|student researcher intern seed model ai foundation model infrastructure",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/140",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "69b5473fb700e1af",
+    "dedup_key": "intern|bytedance|student researcher intern seed model speech",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern, Seed Model - Speech",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/141",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "298b0341e272b86a",
+    "dedup_key": "intern|bytedance|student researcher intern seed model llm",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern, Seed Model - LLM",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/142",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f6809328cbf2d84e",
+    "dedup_key": "intern|bytedance|software engineer intern global traffic architecture",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, Global Traffic Architecture",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/143",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "82bb7c7e1a2b4cf0",
+    "dedup_key": "intern|bytedance|machine learning engineer intern aml engine orchestration",
+    "company": "ByteDance",
+    "title": "Machine Learning Engineer Intern, AML-Engine-Orchestration",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/144",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e95817c52ec8bde7",
+    "dedup_key": "intern|bytedance|site reliability engineer intern data infra",
+    "company": "ByteDance",
+    "title": "Site Reliability Engineer Intern, Data Infra",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/145",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "78323d4fcc8b69da",
+    "dedup_key": "intern|bytedance|software engineer intern traffic infrastructure",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, Traffic Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/146",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "72f667c6768c67ea",
+    "dedup_key": "intern|bytedance|visual generation multimodal evaluation machine learning engineer intern aml ark us",
+    "company": "ByteDance",
+    "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/147",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "94226878e1e6c80e",
+    "dedup_key": "intern|bytedance|student researcher intern seed model infra compiler",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern, Seed Model - Infra - Compiler",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/148",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8405d327b0432856",
+    "dedup_key": "intern|bytedance|agent evaluation evolution machine learning engineer intern aml ark us",
+    "company": "ByteDance",
+    "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/149",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d403d30f4f719926",
+    "dedup_key": "intern|bytedance|software engineer project intern developer infrastructure",
+    "company": "ByteDance",
+    "title": "Software Engineer Project Intern, Developer Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14a",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3fb983dae08950f0",
+    "dedup_key": "intern|bytedance|data lake infrastructure data analytics research engineer intern aml ark us",
+    "company": "ByteDance",
+    "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14c",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2bc51d1e93b70772",
+    "dedup_key": "intern|bytedance|software engineer intern relational database",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, Relational Database",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14d",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "fafd11c8a3b150ae",
+    "dedup_key": "intern|bytedance|production system engineer project intern server devops",
+    "company": "ByteDance",
+    "title": "Production System Engineer Project Intern, Server DevOps",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14e",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "879598c77d4f9372",
+    "dedup_key": "intern|bytedance|agent evaluation evolution machine learning engineer intern aml ark us",
+    "company": "ByteDance",
+    "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14f",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c883cca879f3faa3",
+    "dedup_key": "intern|bytedance|software engineer intern aml engine orchestration",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, AML-Engine-Orchestration",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14g",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "81a07d465bc8ada2",
+    "dedup_key": "intern|bytedance|data lake infrastructure data analytics research engineer intern aml ark us",
+    "company": "ByteDance",
+    "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14h",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "023def415fa03692",
+    "dedup_key": "intern|bytedance|software engineer intern aml engine orchestration",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, AML-Engine-Orchestration",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14i",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "651da6e890c122ac",
+    "dedup_key": "intern|bytedance|production system engineer project intern server devops",
+    "company": "ByteDance",
+    "title": "Production System Engineer Project Intern, Server DevOps",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/14j",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "718eacc9b137073f",
+    "dedup_key": "intern|bytedance|software engineer intern global payment risk compliance",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, Global Payment - Risk & Compliance",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14k",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d66d6d41b152176d",
+    "dedup_key": "intern|bytedance|visual generation multimodal evaluation machine learning engineer intern aml ark us",
+    "company": "ByteDance",
+    "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14m",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "32d020dfc663f0f9",
+    "dedup_key": "intern|bytedance|software engineer intern global payment",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, Global Payment",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14n",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8fc4d978fb8d50ab",
+    "dedup_key": "intern|bytedance|ai infrastructure engineer intern compute efficiency scheduling",
+    "company": "ByteDance",
+    "title": "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14o",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "500b289f5ef26e65",
+    "dedup_key": "intern|bytedance|multi cloud cdn scheduling platform engineer intern cdn platform",
+    "company": "ByteDance",
+    "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14q",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4270dd11f1452045",
+    "dedup_key": "intern|bytedance|ai infrastructure engineer intern compute efficiency scheduling",
+    "company": "ByteDance",
+    "title": "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14r",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6be681386b5e20e4",
+    "dedup_key": "intern|bytedance|student researcher intern seed model ai foundation model infrastructure",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14s",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7dc8223e8c828a71",
+    "dedup_key": "intern|bytedance|site reliability engineer intern data infra",
+    "company": "ByteDance",
+    "title": "Site Reliability Engineer Intern, Data Infra",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14t",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "232332030a0689d3",
+    "dedup_key": "intern|bytedance|asic design engineer intern video silicon ip",
+    "company": "ByteDance",
+    "title": "ASIC Design Engineer Intern, Video Silicon IP",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14u",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c907ccd8a9a08589",
+    "dedup_key": "intern|bytedance|self built engineer intern cdn platform",
+    "company": "ByteDance",
+    "title": "Self-Built Engineer Intern, CDN Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14w",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "092a7ba8c407b1ca",
+    "dedup_key": "intern|bytedance|network software development engineer intern network observation",
+    "company": "ByteDance",
+    "title": "Network Software Development Engineer Intern, Network Observation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14x",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "09a3b18e3a124cc4",
+    "dedup_key": "intern|bytedance|network software development engineer intern network switch",
+    "company": "ByteDance",
+    "title": "Network Software Development Engineer Intern, Network Switch",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14y",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b1cd62f182ccd731",
+    "dedup_key": "intern|bytedance|software engineer intern global payment infra and sre",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern, Global Payment Infra and SRE",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "096da3c7ddd336fa",
+    "dedup_key": "intern|bytedance|machine learning engineer project intern security data",
+    "company": "ByteDance",
+    "title": "Machine Learning Engineer Project Intern, Security-Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14A",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "93ae354083badd95",
+    "dedup_key": "intern|bytedance|security software engineer project intern network security",
+    "company": "ByteDance",
+    "title": "Security Software Engineer Project Intern, Network Security",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14B",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2db5d963e590b8a1",
+    "dedup_key": "intern|bytedance|software engineer project intern security data",
+    "company": "ByteDance",
+    "title": "Software Engineer Project Intern, Security-Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14C",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1926643cd27537a7",
+    "dedup_key": "new grad|rockwell automation|new grad 2027 edge information technology rotational program",
+    "company": "Rockwell Automation",
+    "title": "New Grad 2027: EDGE, Information Technology Rotational Program",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "url": "https://go.vansh.nyc/13X",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793393300,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e9900d6c3edf4a66",
+    "dedup_key": "new grad|huntington ingalls industries|software engineer 1",
+    "company": "Huntington Ingalls Industries",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Newport News, VA"
+    ],
+    "url": "https://go.vansh.nyc/14G",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793514591,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b56ee83d66957152",
+    "dedup_key": "new grad|bytedance|new grad 2027 multi cloud cdn scheduling platform engineer cdn platform master s",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14K",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "897786bd9ec023de",
+    "dedup_key": "new grad|bytedance|new grad 2027 multi cloud cdn scheduling platform engineer cdn platform master s",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14L",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "053b3ebf164eb51d",
+    "dedup_key": "new grad|bytedance|new grad 2027 machine learning engineer aml engine orchestration",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14N",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d464e996da81c579",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer data infrastructure network application network global traffic architecture",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer (Data-Infrastructure-Network-Application Network-Global Traffic Architecture)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14O",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0f2a4430ebcb41ea",
+    "dedup_key": "new grad|bytedance|new grad 2027 multi cloud cdn data platform engineer cdn platform",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14P",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "01762099d5e7d768",
+    "dedup_key": "new grad|bytedance|new grad 2027 machine learning engineer e commerce risk control",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14Q",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1989121c5b2c4228",
+    "dedup_key": "new grad|bytedance|new grad 2027 machine learning backend engineer aml mldev",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Machine Learning Backend Engineer (AML MLDev)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14R",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f73f275f104fc18b",
+    "dedup_key": "new grad|bytedance|new grad 2027 machine learning engineer e commerce risk control",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14T",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8fe6ab07d8528d5c",
+    "dedup_key": "new grad|bytedance|new grad 2027 backend inference runtime engineer aml inference",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Backend Inference Runtime Engineer (AML Inference)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14U",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ddc9214ae41c2713",
+    "dedup_key": "new grad|bytedance|new grad 2027 machine learning system scheduling engineer applied machine learning",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Learning)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14V",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6d6f58d511e11358",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer aml engine orchestration",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer, AML-Engine-Orchestration",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/14W",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "255aafd2db508628",
+    "dedup_key": "new grad|bytedance|new grad 2027 visual generation multimodal evaluation machine learning engineer",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14X",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "beea9edef92bdc93",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer aml engine orchestration",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer (AML-Engine-Orchestration)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/14Y",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "81e0c71c346e2766",
+    "dedup_key": "new grad|bytedance|new grad 2027 multi cloud cdn data platform engineer cdn platform master s",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/150",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "abb620490cdfab1e",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer ai agent infra security engineering",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/151",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "32daa04ada37c5ae",
+    "dedup_key": "new grad|bytedance|new grad 2027 backend inference framework engineer aml inference",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Backend Inference Framework Engineer (AML Inference)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/152",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "74d33693216b6f7a",
+    "dedup_key": "new grad|bytedance|new grad 2027 multi cloud cdn data platform engineer cdn platform master s",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/153",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "5d1ceb3db3200642",
+    "dedup_key": "new grad|bytedance|new grad 2027 data lake infrastructure data analytics research engineer aml ark us",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/154",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3fdcfa8ae95ebed5",
+    "dedup_key": "new grad|bytedance|new grad 2027 infrastructure delivery engineer server delivery",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Infrastructure Delivery Engineer (Server Delivery)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/155",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7815e01c4e56b093",
+    "dedup_key": "new grad|bytedance|new grad 2027 production system engineer server management",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Production System Engineer (Server Management)",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/156",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "78eccd8bdeea3874",
+    "dedup_key": "new grad|bytedance|new grad 2027 3d graphics innovation engineer pico foundation developer technology",
+    "company": "ByteDance",
+    "title": "New Grad 2027: 3D Graphics Innovation Engineer (PICO Foundation-Developer Technology)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/158",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6d902886345cc746",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer data speech product rd engineering us",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer (Data-Speech-Product RD-Engineering-US)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/159",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0e39c3bd6050e789",
+    "dedup_key": "new grad|bytedance|new grad 2027 large language model inference system engineer applied machine learning",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15a",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "08bb93725e766984",
+    "dedup_key": "new grad|bytedance|new grad 2027 dev ai software engineer dev infra us",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Dev AI Software Engineer (Dev Infra US)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15b",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "eab3fa1c9d659f58",
+    "dedup_key": "new grad|bytedance|new grad 2027 multi cloud cdn scheduling platform engineer cdn platform",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15d",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e60a4e85520cb250",
+    "dedup_key": "new grad|bytedance|new grad 2027 multi cloud cdn scheduling platform engineer cdn platform",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/15e",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e71698427ff74632",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer aml engine forge platform",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer (AML-Engine-Forge Platform)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15f",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3901bd1fbe3a9092",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer ai infrastructure compute efficiency scheduling",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer (AI Infrastructure — Compute Efficiency & Scheduling)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15g",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c91bd7d31a6b50e1",
+    "dedup_key": "new grad|bytedance|new grad 2027 visual generation multimodal evaluation machine learning engineer",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/15h",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "26b08887218be1de",
+    "dedup_key": "new grad|bytedance|new grad 2027 agent evaluation evolution machine learning engineer",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/15i",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "20eab92a828ed98c",
+    "dedup_key": "new grad|bytedance|new grad 2027 ai agent security software engineer security engineering",
+    "company": "ByteDance",
+    "title": "New Grad 2027: AI Agent Security Software Engineer (Security Engineering)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15j",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "33408d6f48a613cb",
+    "dedup_key": "new grad|bytedance|new grad 2027 agent evaluation evolution machine learning engineer",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15k",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "facae78bda834b4c",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer ai infrastructure compute efficiency scheduling",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer (AI Infrastructure-Compute Efficiency & Scheduling)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/15l",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4499f7b4f73c60b6",
+    "dedup_key": "new grad|bytedance|new grad 2027 llm backend engineer applied machine learning",
+    "company": "ByteDance",
+    "title": "New Grad 2027: LLM Backend Engineer (Applied Machine Learning)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15m",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "92bf9e213a61fffe",
+    "dedup_key": "new grad|bytedance|new grad 2027 product security engineer security bp",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Product Security Engineer (Security BP)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15n",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ffab3e09eb4f7263",
+    "dedup_key": "new grad|bytedance|new grad 2027 large language model training system engineer applied machine learning",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15o",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "306c4005b713d05c",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer ai infra compute master s",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer, AI Infra Compute (Master's)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/15p",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "d52f9de0f1e74ccd",
+    "dedup_key": "new grad|bytedance|new grad 2027 production system engineer server management",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Production System Engineer (Server Management)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15q",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "537f8593f99b0955",
+    "dedup_key": "new grad|bytedance|new grad 2027 machine learning engineer aml engine orchestration",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15r",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "aff72c83645f599c",
+    "dedup_key": "new grad|bytedance|new grad 2027 data lake infrastructure data analytics research engineer aml ark us",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15s",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d25f7692adb0c6ea",
+    "dedup_key": "new grad|bytedance|new grad 2027 asic design engineer video silicon ip",
+    "company": "ByteDance",
+    "title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15t",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "804212e2395c3376",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer data intelligent creation ai platform global vision engineering",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer (Data-Intelligent Creation-AI Platform-Global Vision Engineering)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15u",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a83b90e3db62a943",
+    "dedup_key": "new grad|bytedance|new grad 2027 llm ai ops development engineer data center networking",
+    "company": "ByteDance",
+    "title": "New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15v",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5f5350c4635a5914",
+    "dedup_key": "new grad|bytedance|new grad 2027 backend and infra software engineer dev infra us",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Backend and Infra Software Engineer (Dev Infra US)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15w",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "923d00bd3d388bc1",
+    "dedup_key": "new grad|bytedance|new grad 2027 asic design engineer video silicon ip master s",
+    "company": "ByteDance",
+    "title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP) (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15x",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "bef6cc2cb678bfaf",
+    "dedup_key": "new grad|bytedance|new grad 2027 backend development engineer infrastructure platform delivery",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Backend Development Engineer (Infrastructure Platform Delivery)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15z",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4be770cf8aa1e383",
+    "dedup_key": "new grad|bytedance|new grad 2027 network engineer physical network infra",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Network Engineer, Physical Network Infra",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15A",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "bf699a507e1d2419",
+    "dedup_key": "new grad|bytedance|new grad 2027 software development engineer intent based networking",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Development Engineer (Intent-Based Networking)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15B",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6fc6110a26172672",
+    "dedup_key": "new grad|bytedance|new grad 2027 test software engineer douyin research and development middle platform",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Test Software Engineer, Douyin Research and Development Middle Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15C",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "db254fbaa9074622",
+    "dedup_key": "new grad|bytedance|new grad 2027 software engineer traffic infrastructure",
+    "company": "ByteDance",
+    "title": "New Grad 2027: Software Engineer, Traffic Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15D",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519973,
+    "date_found": 1793524244,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "d2ff9c7f37ce25cd",

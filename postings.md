@@ -1,9 +1,92 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-01 02:09 UTC · 3807 live & eligible postings (showing 400); 91 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-01 09:11 UTC · 3890 live & eligible postings (showing 400); 97 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-01 | 2026-09-15 | Farmers Mutual Hail | QA Automation Engineer Intern | West Des Moines, IA | Summer | swe | ok | [apply](https://go.vansh.nyc/13V) |
+| 2026-11-01 | 2026-10-30 | FedEx | Data Science Intern | Memphis, TN | Summer | ml_data | ok | [apply](https://go.vansh.nyc/13Z) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | San Jose, CA | Summer | quant | ok | [apply](https://go.vansh.nyc/140) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Student Researcher Intern, Seed Model - Speech | San Jose, CA | Summer | quant | unknown | [apply](https://go.vansh.nyc/141) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Student Researcher Intern, Seed Model - LLM | San Jose, CA | Summer | quant | unknown | [apply](https://go.vansh.nyc/142) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, Global Traffic Architecture | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/143) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Machine Learning Engineer Intern, AML-Engine-Orchestration | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/144) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Site Reliability Engineer Intern, Data Infra | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/145) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, Traffic Infrastructure | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/146) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/147) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Student Researcher Intern, Seed Model - Infra - Compiler | San Jose, CA | Summer | quant | ok | [apply](https://go.vansh.nyc/148) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/149) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Project Intern, Developer Infrastructure | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14a) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/14c) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, Relational Database | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14d) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Production System Engineer Project Intern, Server DevOps | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14e) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14f) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, AML-Engine-Orchestration | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14g) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14h) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, AML-Engine-Orchestration | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/14i) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Production System Engineer Project Intern, Server DevOps | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/14j) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, Global Payment - Risk & Compliance | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14k) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14m) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, Global Payment | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14n) |
+| 2026-11-01 | 2026-11-01 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/14o) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/14q) |
+| 2026-11-01 | 2026-11-01 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14r) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure | Seattle, WA | Summer | quant | ok | [apply](https://go.vansh.nyc/14s) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Site Reliability Engineer Intern, Data Infra | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14t) |
+| 2026-11-01 | 2026-11-01 | ByteDance | ASIC Design Engineer Intern, Video Silicon IP | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14u) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Self-Built Engineer Intern, CDN Platform | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14w) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Network Software Development Engineer Intern, Network Observation | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14x) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Network Software Development Engineer Intern, Network Switch | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14y) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, Global Payment Infra and SRE | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14z) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Machine Learning Engineer Project Intern, Security-Data | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14A) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Security Software Engineer Project Intern, Network Security | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14B) |
+| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Project Intern, Security-Data | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14C) |
+| 2026-11-01 | 2026-10-30 | Rockwell Automation | New Grad 2027: EDGE, Information Technology Rotational Program | Milwaukee, WI | — | swe | unknown | [apply](https://go.vansh.nyc/13X) |
+| 2026-11-01 | 2026-11-01 | Huntington Ingalls Industries | Software Engineer 1 | Newport News, VA | — | swe | ok | [apply](https://go.vansh.nyc/14G) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/14N) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer (Data-Infrastructure-Network-Application Network-Global Traffic Architecture) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/14O) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/14P) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/14Q) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Machine Learning Backend Engineer (AML MLDev) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/14R) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/14T) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Backend Inference Runtime Engineer (AML Inference) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/14U) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Learning) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/14V) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer, AML-Engine-Orchestration | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/14W) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/14X) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer (AML-Engine-Orchestration) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/14Y) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/151) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Backend Inference Framework Engineer (AML Inference) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/152) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US) | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/154) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Infrastructure Delivery Engineer (Server Delivery) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/155) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Production System Engineer (Server Management) | New York, NY | — | swe | ok | [apply](https://go.vansh.nyc/156) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: 3D Graphics Innovation Engineer (PICO Foundation-Developer Technology) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/158) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer (Data-Speech-Product RD-Engineering-US) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/159) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15a) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Dev AI Software Engineer (Dev Infra US) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15b) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15d) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/15e) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer (AML-Engine-Forge Platform) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15f) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer (AI Infrastructure — Compute Efficiency & Scheduling) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15g) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/15h) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/15i) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: AI Agent Security Software Engineer (Security Engineering) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15j) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15k) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer (AI Infrastructure-Compute Efficiency & Scheduling) | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/15l) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: LLM Backend Engineer (Applied Machine Learning) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15m) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Product Security Engineer (Security BP) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15n) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15o) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Production System Engineer (Server Management) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15q) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15r) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15s) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: ASIC Design Engineer (Video Silicon IP) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15t) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer (Data-Intelligent Creation-AI Platform-Global Vision Engineering) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15u) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15v) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Backend and Infra Software Engineer (Dev Infra US) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15w) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Backend Development Engineer (Infrastructure Platform Delivery) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15z) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Network Engineer, Physical Network Infra | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15A) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Development Engineer (Intent-Based Networking) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15B) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Test Software Engineer, Douyin Research and Development Middle Platform | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/15C) |
+| 2026-11-01 | 2026-11-01 | ByteDance | New Grad 2027: Software Engineer, Traffic Infrastructure | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/15D) |
 | 2026-11-01 | 2026-10-31 | ADT | Technology & Engineering Intern | Boca Raton, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/12y) |
 | 2026-11-01 | 2026-10-31 | Arcesium | Software Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/12z) |
 | 2026-11-01 | 2026-10-31 | Arista Networks | Software Engineer Intern, C/C++ | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/12B) |
@@ -321,86 +404,3 @@ _Last updated: 2026-11-01 02:09 UTC · 3807 live & eligible postings (showing 40
 | 2026-10-28 | 2026-10-28 | RosaicLabs | CPU Design Verification Engineer Intern | Austin, TX, Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Xn) |
 | 2026-10-28 | 2026-10-28 | RosaicLabs | Software Engineering Intern | Austin, TX, Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Xo) |
 | 2026-10-28 | 2026-10-28 | RosaicLabs | AI Accelerator Design Verification Engineer Intern | Austin, TX, Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Xp) |
-| 2026-10-28 | 2026-10-01 | Ricoh | Robotics Engineer Intern | Boulder, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/Xq) |
-| 2026-10-28 | 2026-10-27 | Shield AI | New Grad 2027: Autonomous Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Xb) |
-| 2026-10-28 | 2026-10-27 | Agave | New Grad: Full-Stack Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Xc) |
-| 2026-10-28 | 2026-10-27 | RTX | Software Engineer Intern, Receiver, Exciter, & Processing Architecture | Marlborough, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/WQ) |
-| 2026-10-28 | 2026-10-27 | Protagonist | Software Engineering Intern | Washington, DC | Summer | swe | unknown | [apply](https://go.vansh.nyc/WS) |
-| 2026-10-28 | 2026-10-27 | Mercor | Research Engineer Intern, Benchmarking | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/WT) |
-| 2026-10-28 | 2026-10-27 | Mercor | Research Engineer Intern, Environments, Data and Post-Training | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/WU) |
-| 2026-10-28 | 2026-10-28 | Paccar | Application Developer Intern | Chillicothe, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/WV) |
-| 2026-10-28 | 2026-10-28 | FUTO | Software Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/WW) |
-| 2026-10-28 | 2026-10-28 | Charles River Associates (CRA) | New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate | Boston, MA, Chicago, IL, Dallas, TX, New York, NY, Washington, DC | — | swe | ok | [apply](https://go.vansh.nyc/WZ) |
-| 2026-10-28 | 2026-10-26 | Atlassian | New Grad 2027: Security Engineer | Seattle, WA | — | swe | unknown | [apply](https://go.vansh.nyc/X1) |
-| 2026-10-28 | 2026-10-28 | Boeing | Software Engineer | Maryland Heights, MO | — | swe | unknown | [apply](https://go.vansh.nyc/X2) |
-| 2026-10-27 | 2026-10-27 | National Interstate Insurance | Emerging Technology Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/Wh) |
-| 2026-10-27 | 2026-10-27 | National Interstate Insurance | Platform Operations Developer Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/Wi) |
-| 2026-10-27 | 2026-10-27 | National Interstate Insurance | Claims Lab Developer Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/Wm) |
-| 2026-10-27 | 2026-10-27 | ASML | Frontend Developer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/Wr) |
-| 2026-10-27 | 2026-10-27 | Salesforce | Forward Deployed Engineer Intern, Global Public Sector | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/WD) |
-| 2026-10-27 | 2026-10-27 | Amazon | Database Engineer Intern | Seattle, WA, East Palo Alto, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/WF) |
-| 2026-10-27 | 2026-10-27 | Emerson Electric | Software Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/WG) |
-| 2026-10-27 | 2026-10-27 | Assurant | AI and Data Science Intern | Atlanta, GA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/WN) |
-| 2026-10-27 | 2026-10-27 | Nomad GCS | Software Engineer Intern | Columbia Falls, MT | Summer | swe | unknown | [apply](https://go.vansh.nyc/WO) |
-| 2026-10-27 | 2026-10-27 | Paccar | Data Engineer Intern | Chillicothe, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/WP) |
-| 2026-10-27 | 2026-10-27 | NVIDIA | New Grad 2027: Deep Learning Performance Architect | Santa Clara, CA | — | ml_data | unknown | [apply](https://go.vansh.nyc/Wk) |
-| 2026-10-27 | 2026-10-27 | Northrop Grumman | New Grad 2027: Associate Software Engineer | Azusa, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Wn) |
-| 2026-10-27 | 2026-10-27 | Northrop Grumman | New Grad 2027: Associate Software Engineer | Boulder, CO | — | swe | unknown | [apply](https://go.vansh.nyc/Wo) |
-| 2026-10-27 | 2026-10-27 | NVIDIA | New Grad 2027: Formal Verification Engineer | Santa Clara, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Wq) |
-| 2026-10-27 | 2026-10-27 | Johns Hopkins APL | New Grad 2027: Cybersecurity Engineer, Critical Infrastructure Protection | Laurel, MD | — | swe | unknown | [apply](https://go.vansh.nyc/Wt) |
-| 2026-10-27 | 2026-10-27 | Databricks | New Grad 2027: Software Engineer | Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, Canada | — | swe | unknown | [apply](https://go.vansh.nyc/WA) |
-| 2026-10-27 | 2026-10-27 | Databricks | New Grad 2027: Software Engineer, Distributed Data Systems | Bellevue, WA, Mountain View, CA | — | swe | unknown | [apply](https://go.vansh.nyc/WB) |
-| 2026-10-27 | 2026-10-27 | GE Vernova | New Grad: AI Engineer | Greenville, SC | — | swe | unknown | [apply](https://go.vansh.nyc/WH) |
-| 2026-10-27 | 2026-10-27 | AT&T | AI-Native Software Engineer Analyst - Full-Stack Python | Bothell, WA, Dallas, TX, Alpharetta, GA | — | swe | unknown | [apply](https://go.vansh.nyc/WI) |
-| 2026-10-27 | 2026-10-27 | Emerson Electric | Software Engineer | Austin, TX | — | swe | unknown | [apply](https://go.vansh.nyc/WK) |
-| 2026-10-27 | 2026-10-27 | Apple | SoC Physical Design Engineer, Place and Route | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/WL) |
-| 2026-10-27 | 2026-10-27 | Databricks | Software Engineer - New Grad (2027 Start) | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | — | swe | unknown | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) |
-| 2026-10-27 | 2026-10-27 | Databricks | Software Engineer - New Grad, Distributed Data Systems (2027 Start) | Bellevue, Washington; Mountain View, California | — | swe | unknown | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) |
-| 2026-10-27 | 2026-10-27 | RTX | Embedded Software Engineer Intern | Goleta, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/VI) |
-| 2026-10-27 | 2026-10-27 | Bracco | Product Security Engineering Intern | Eden Prairie, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/VO) |
-| 2026-10-27 | 2026-10-27 | Micron Technology | Product Yield Software Engineer Intern | Boise, ID | Summer | swe | unknown | [apply](https://go.vansh.nyc/VP) |
-| 2026-10-27 | 2026-10-27 | JM Family Enterprises | Data Engineer Intern | Deerfield Beach, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/VR) |
-| 2026-10-27 | 2026-10-27 | CFS Energy | Scientific Software Engineer Intern | Devens, MA | Summer | swe | ok | [apply](https://go.vansh.nyc/VW) |
-| 2026-10-27 | 2026-10-27 | Micron Technology | AI Engineer Intern, Platform | Boise, ID | Summer | swe | unknown | [apply](https://go.vansh.nyc/VX) |
-| 2026-10-27 | 2026-10-27 | Micron Technology | HBM Data Scientist Intern | Richardson, TX | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/VY) |
-| 2026-10-27 | 2026-10-26 | General Dynamics Mission Systems, Inc. | Software Test Engineering Intern, Space and Embedded Crypto | Scottsdale, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/W0) |
-| 2026-10-27 | 2026-10-26 | Apple | Software Engineer Intern, Core OS | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/W1) |
-| 2026-10-27 | 2026-10-27 | Cboe Global Markets | Linux Engineer Intern | Chicago, IL, Kansas City, MO, New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/W4) |
-| 2026-10-27 | 2026-10-27 | Workiva | Machine Learning Engineering Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/W7) |
-| 2026-10-27 | 2026-10-27 | Sonos | Software Engineering Intern | Seattle, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/W9) |
-| 2026-10-27 | 2026-10-27 | Amazon Development Center U.S., Inc. - B02 | Database Engineer Intern | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/Wb) |
-| 2026-10-27 | 2026-10-27 | National Interstate Insurance | Data Engineering Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/Wd) |
-| 2026-10-27 | 2026-10-27 | CrossCountry Consulting | New Grad: Forward Deployed Software Engineer | Chicago, IL | — | swe | unknown | [apply](https://go.vansh.nyc/VK) |
-| 2026-10-27 | 2026-10-27 | CrossCountry Consulting | New Grad: Forward Deployed Software Engineer | Chicago, IL | — | swe | unknown | [apply](https://go.vansh.nyc/VL) |
-| 2026-10-27 | 2026-10-26 | Cisco | ASIC Design Verification Engineer I | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/Wc) |
-| 2026-10-27 | 2026-10-26 | Roblox | Software Engineer - Frontend - Economy | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8259453?gh_jid=8259453) |
-| 2026-10-27 | 2026-10-01 | Amazon | Software Development Engineer I - AWS IoT Fleet Management | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10571756/apply) |
-| 2026-10-27 | 2026-09-16 | Amazon | Software Development Engineer - AWS Healthcare AI | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10560530/apply) |
-| 2026-10-27 | 2026-07-23 | Amazon | Software Development Engineer - Gen AI - Amazon Connect | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10500163/apply) |
-| 2026-10-27 | 2026-10-27 | Digital Check | Embedded & Windows Systems Software Engineer | Meridian, ID | — | swe | unknown | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2151eaf7-7506-401d-a16c-71efc612b9e4&jobId=638031) |
-| 2026-10-27 | 2026-10-27 | Gelber Group | Associate Software Engineer- Trading Integrations Team | Chicago, IL | — | swe | ok | [apply](https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006) |
-| 2026-10-27 | 2026-10-27 | IBC Bank | Developer I | San Antonio, TX | — | swe | unknown | [apply](https://ibc.wd5.myworkdayjobs.com/en-US/ibc_careers/job/San-Antonio-TX/Developer-I_R16350) |
-| 2026-10-27 | 2026-10-27 | Lawrence Livermore National Laboratory | Data Visualization Software Engineer | Livermore, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/LLNL/3743990016422126-data-visualization-software-engineer?oga=true) |
-| 2026-10-27 | 2026-10-27 | Lumos | Software Engineer - NHI Platform | USA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/lumos/52e98603-8302-4bf1-9bdb-6ab829c8e701) |
-| 2026-10-27 | 2026-10-27 | Lumos | Software Engineer - AI Agent Governance | USA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/lumos/37ecfa5a-f047-4b70-a29b-79cc885df706) |
-| 2026-10-27 | 2026-10-27 | Swarm Aero | Software Engineer - Real-Time Systems - Early Career | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) |
-| 2026-10-27 | 2026-10-26 | Amentum | Entry Level Software Engineer - SECRET | Dahlgren, VA | — | swe | unknown | [apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771) |
-| 2026-10-27 | 2026-10-26 | Ciena | Software Engineer - Security - New Grad | Atlanta, GA | — | swe | unknown | [apply](https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1) |
-| 2026-10-27 | 2026-10-26 | Home Depot | Software Engineer - Backend & Distributed Systems - REMOTE | Remote - Georgia, USA | — | swe | unknown | [apply](https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer--Backend---Distributed-Systems--REMOTE-_Req197061) |
-| 2026-10-27 | 2026-10-26 | Madhive | Software Engineer - Financial Systems | New York City, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c) |
-| 2026-10-27 | 2026-10-26 | Major League Baseball | Associate Software Engineer - Seasonal | Remote - New York City, NY | — | swe | ok | [apply](https://job-boards.greenhouse.io/mlbevents/jobs/8300925) |
-| 2026-10-27 | 2026-10-26 | Ring Power | .NET Developer | Saint Augustine, FL | — | swe | unknown | [apply](https://careers-ringpower.icims.com/jobs/15533/.net-developer/job) |
-| 2026-10-27 | 2026-10-26 | Sierra Nevada Corporation | DevOps Engineer I | Folsom, CA | — | swe | unknown | [apply](https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Folsom-CA/DevOps-Engineer-I_R0031260) |
-| 2026-10-27 | 2026-10-26 | The Cadmus Group | Jr. Full Stack Developer | USA | — | swe | unknown | [apply](https://careers-cadmusgroup.icims.com/jobs/3254/jr.-full-stack-developer/job) |
-| 2026-10-27 | 2026-10-22 | Palomar Products | Software Engineer - onsite | Rancho Santa Margarita, CA | — | swe | ok | [apply](https://palomarproducts.applytojob.com/apply/aTfSEvOBcy/Software-Engineer-onsite) |
-| 2026-10-27 | 2026-10-16 | Hive | Software Engineer - Frontend | San Francisco, CA | — | swe | ok | [apply](https://jobs.lever.co/hive/a9c1f9f1-1f12-4aed-83b5-640c697c9155) |
-| 2026-10-27 | 2026-10-16 | Hive | Forward Deployed Software Engineer | San Francisco, CA | — | swe | ok | [apply](https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42) |
-| 2026-10-27 | 2026-10-16 | Hive | Systems Engineer / DevOps | San Francisco, CA | — | swe | unknown | [apply](https://jobs.lever.co/hive/2c362789-c417-4d8c-bef5-d5fe1a5969ac) |
-| 2026-10-27 | 2026-10-16 | Hive | Software Engineer - Frontend | San Francisco, CA | — | swe | ok | [apply](https://jobs.lever.co/hive/4947a174-d218-4c83-be26-89b1e889dc16) |
-| 2026-10-27 | 2026-09-25 | CoreWeave | Software Engineer - Inference | Bellevue, WA +1 | — | swe | unknown | [apply](https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006) |
-| 2026-10-27 | 2026-10-27 | Affirm | Software Engineer II - CIAM | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/8040751003) |
-| 2026-10-27 | 2026-10-27 | Amazon | Network Development Engineer Intern, 2027 Summer | US, WA, Seattle | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer) |
-| 2026-10-27 | 2026-10-27 | Amazon | Database Engineer Intern - Summer 2027 | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) |
-| 2026-10-27 | 2026-10-27 | L3Harris Technologies | Associate Software Engineering Intern | Greenville, TX | Summer | swe | ok | [apply](https://go.vansh.nyc/UY) |
-| 2026-10-27 | 2026-09-23 | Oceaneering | ROV Software Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/V1) |
-| 2026-10-27 | 2026-09-23 | Oceaneering | Software Intern, C++ | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/V2) |

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793486982,
+    "date_found": 1793498984,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793486982,
+    "date_found": 1793498984,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,1178 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793486982,
+    "date_found": 1793498984,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "d2ff9c7f37ce25cd",
+    "dedup_key": "intern|adt|technology engineering intern",
+    "company": "ADT",
+    "title": "Technology & Engineering Intern",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "url": "https://go.vansh.nyc/12y",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cd61b65965330444",
+    "dedup_key": "intern|arcesium|software engineer intern",
+    "company": "Arcesium",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/12z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f0c8a9f80ad5e9b0",
+    "dedup_key": "intern|arista networks|software engineer intern c c",
+    "company": "Arista Networks",
+    "title": "Software Engineer Intern, C/C++",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/12B",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0ac9128d7e96c2aa",
+    "dedup_key": "intern|astronics|software engineer intern",
+    "company": "Astronics",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Kirkland, WA"
+    ],
+    "url": "https://go.vansh.nyc/12C",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "374112555193bab0",
+    "dedup_key": "intern|braze|software engineering intern",
+    "company": "Braze",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/12D",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "585bee5105ba7242",
+    "dedup_key": "intern|c s wholesale grocers|is intern data analytics data science",
+    "company": "C&S Wholesale Grocers",
+    "title": "IS Intern, Data Analytics & Data Science",
+    "locations": [
+      "Edison, NJ"
+    ],
+    "url": "https://go.vansh.nyc/12E",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "aafbf191ead4fd66",
+    "dedup_key": "intern|chubb|technology intern",
+    "company": "Chubb",
+    "title": "Technology Intern",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "url": "https://go.vansh.nyc/12G",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c76d2663cb2b51f8",
+    "dedup_key": "intern|clay|software engineering intern",
+    "company": "Clay",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/12H",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "82d5c6f5d77d3ccf",
+    "dedup_key": "intern|corgan|software development intern",
+    "company": "Corgan",
+    "title": "Software Development Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://go.vansh.nyc/12K",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5bfcb779be3c51c7",
+    "dedup_key": "intern|cowboy space|software engineering intern",
+    "company": "Cowboy Space",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "url": "https://go.vansh.nyc/12L",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a94c292adb588726",
+    "dedup_key": "intern|creatify lab|software engineer intern",
+    "company": "Creatify Lab",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://go.vansh.nyc/12M",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "26df77e2d90985bc",
+    "dedup_key": "intern|datacor|ai engineer intern",
+    "company": "Datacor",
+    "title": "AI Engineer Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/12N",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4c94c57796c51d73",
+    "dedup_key": "intern|drivewealth|engineering intern ai consulting associate program ai cap",
+    "company": "DriveWealth",
+    "title": "Engineering Intern, AI Consulting Associate Program (AI CAP)",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/12O",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f5ea53f404936246",
+    "dedup_key": "intern|farmers mutual hail|software developer intern",
+    "company": "Farmers Mutual Hail",
+    "title": "Software Developer Intern",
+    "locations": [
+      "West Des Moines, IA"
+    ],
+    "url": "https://go.vansh.nyc/12R",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e0aeb9245296607e",
+    "dedup_key": "intern|general dynamics mission systems|devops engineer intern",
+    "company": "General Dynamics Mission Systems",
+    "title": "DevOps Engineer Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://go.vansh.nyc/12S",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cfd0f3423a73d3f6",
+    "dedup_key": "intern|genesis molecular ai|software engineer intern",
+    "company": "Genesis Molecular AI",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://go.vansh.nyc/12U",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b36709d67b79a6b1",
+    "dedup_key": "intern|idemia|software engineer intern",
+    "company": "IDEMIA",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/12W",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b54e5f59d6b00395",
+    "dedup_key": "intern|idemia|software engineering intern enrollment and credentialing services",
+    "company": "IDEMIA",
+    "title": "Software Engineering Intern, Enrollment and Credentialing Services",
+    "locations": [
+      "Brentwood, TN"
+    ],
+    "url": "https://go.vansh.nyc/12X",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9606669ea464fea2",
+    "dedup_key": "intern|instead|software engineering intern",
+    "company": "Instead",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/12Y",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f3483de35c51a2a3",
+    "dedup_key": "intern|intercontinental exchange|data science intern",
+    "company": "Intercontinental Exchange",
+    "title": "Data Science Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/12Z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "05fd2df0881097fb",
+    "dedup_key": "intern|intercontinental exchange|software engineering intern",
+    "company": "Intercontinental Exchange",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/130",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7ccb9f8cb793aa6e",
+    "dedup_key": "intern|intercontinental exchange|software engineering intern java",
+    "company": "Intercontinental Exchange",
+    "title": "Software Engineering Intern, Java",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://go.vansh.nyc/131",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1f5cfa1fdc9aee21",
+    "dedup_key": "intern|intercontinental exchange|software engineering intern",
+    "company": "Intercontinental Exchange",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://go.vansh.nyc/132",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "43ffc44c42b7ebf7",
+    "dedup_key": "intern|intercontinental exchange|software developer intern",
+    "company": "Intercontinental Exchange",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://go.vansh.nyc/133",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f52fb93e945b566e",
+    "dedup_key": "intern|intercontinental exchange|agentic ai data science intern",
+    "company": "Intercontinental Exchange",
+    "title": "Agentic AI Data Science Intern",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://go.vansh.nyc/134",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e32eaf2bf1575b19",
+    "dedup_key": "intern|intercontinental exchange|software development engineer in test intern",
+    "company": "Intercontinental Exchange",
+    "title": "Software Development Engineer in Test Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://go.vansh.nyc/135",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d3a2e202d1a50156",
+    "dedup_key": "intern|iridium communications|software engineering intern",
+    "company": "Iridium Communications",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "McLean, VA",
+      "Tempe, AZ",
+      "Leesburg, VA",
+      "Chandler, AZ"
+    ],
+    "url": "https://go.vansh.nyc/137",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1059ef6cf8eb68a5",
+    "dedup_key": "intern|ixian robotics|software intern",
+    "company": "Ixian Robotics",
+    "title": "Software Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/138",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6c5fd3d68aa73c5c",
+    "dedup_key": "intern|keenfinity|software engineering intern",
+    "company": "Keenfinity",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "url": "https://go.vansh.nyc/139",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8165d1794bc83830",
+    "dedup_key": "intern|kla|software engineering intern c and unix",
+    "company": "KLA",
+    "title": "Software Engineering Intern, C++ and Unix",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "url": "https://go.vansh.nyc/13b",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3eadc91db43fa83f",
+    "dedup_key": "intern|modernizing medicine|software engineering intern",
+    "company": "Modernizing Medicine",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "url": "https://go.vansh.nyc/13e",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "553dc72697ee1646",
+    "dedup_key": "intern|new york iso|it software development intern",
+    "company": "New York ISO",
+    "title": "IT Software Development Intern",
+    "locations": [
+      "Rensselaer, NY"
+    ],
+    "url": "https://go.vansh.nyc/13f",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "401f12f1c7f1bba4",
+    "dedup_key": "intern|nordson|software engineering intern",
+    "company": "Nordson",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "East Providence, RI"
+    ],
+    "url": "https://go.vansh.nyc/13g",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c569808d1da6966f",
+    "dedup_key": "intern|one robot|machine learning intern",
+    "company": "One Robot",
+    "title": "Machine Learning Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/13h",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9b904a8d062afcb1",
+    "dedup_key": "intern|patreon|software engineering intern",
+    "company": "Patreon",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/13j",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a31c0d52288dfa8b",
+    "dedup_key": "intern|powertown|machine learning engineer intern",
+    "company": "Powertown",
+    "title": "Machine Learning Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://go.vansh.nyc/13k",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7265bbfb12479e1a",
+    "dedup_key": "intern|range|software engineering intern",
+    "company": "Range",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://go.vansh.nyc/13l",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "eddc7b35ad321da8",
+    "dedup_key": "intern|relling|robotics software engineering intern",
+    "company": "Relling",
+    "title": "Robotics Software Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/13m",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "26eb9876526d9124",
+    "dedup_key": "intern|rhoda ai|software engineer intern rhoda platform",
+    "company": "Rhoda AI",
+    "title": "Software Engineer Intern, Rhoda Platform",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://go.vansh.nyc/13n",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6394b2235e1210a6",
+    "dedup_key": "intern|shopback|software engineer intern",
+    "company": "ShopBack",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/13o",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5cc8a665158c7108",
+    "dedup_key": "intern|shopback|software engineer intern",
+    "company": "ShopBack",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/13p",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5f648c87633d5530",
+    "dedup_key": "intern|tensorwave|software engineering intern",
+    "company": "TensorWave",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "url": "https://go.vansh.nyc/13q",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d49442339812c420",
+    "dedup_key": "intern|usafacts|ai software engineering intern",
+    "company": "USAFacts",
+    "title": "AI & Software Engineering Intern",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "url": "https://go.vansh.nyc/13s",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9af5a86499e049e6",
+    "dedup_key": "intern|vantor|ai engineer intern",
+    "company": "Vantor",
+    "title": "AI Engineer Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/13t",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "54ec95f55c3ac555",
+    "dedup_key": "intern|wabtec|lead information technology intern",
+    "company": "Wabtec",
+    "title": "LEAD Information Technology Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://go.vansh.nyc/13u",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "21af78dfb1f714d5",
+    "dedup_key": "intern|webfx|web developer intern",
+    "company": "WebFX",
+    "title": "Web Developer Intern",
+    "locations": [
+      "Harrisburg, PA"
+    ],
+    "url": "https://go.vansh.nyc/13v",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a300466d67b19480",
+    "dedup_key": "intern|west bend insurance|data scientist intern",
+    "company": "West Bend Insurance",
+    "title": "Data Scientist Intern",
+    "locations": [
+      "West Bend, WI"
+    ],
+    "url": "https://go.vansh.nyc/13w",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6c0ba2b5ae7e69e7",
+    "dedup_key": "intern|west bend insurance|it software engineer intern",
+    "company": "West Bend Insurance",
+    "title": "IT Software Engineer Intern",
+    "locations": [
+      "West Bend, WI"
+    ],
+    "url": "https://go.vansh.nyc/13x",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4a1a0d9bde04022e",
+    "dedup_key": "intern|western magnetics|software engineer intern",
+    "company": "Western Magnetics",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/13y",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c17272a61bf4ddd2",
+    "dedup_key": "intern|wurl|data science intern",
+    "company": "Wurl",
+    "title": "Data Science Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/13z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2d8ce7623a952d60",
+    "dedup_key": "intern|ziprecruiter|software engineer intern",
+    "company": "ZipRecruiter",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Santa Monica, CA"
+    ],
+    "url": "https://go.vansh.nyc/13A",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de4f63c0e7e04761",
+    "dedup_key": "new grad|endeavorai com|forward deployed engineer",
+    "company": "endeavorai.com",
+    "title": "Forward Deployed Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/13O",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fbfc6573c5890368",
+    "dedup_key": "new grad|goaly|applied ai engineer",
+    "company": "Goaly",
+    "title": "Applied AI Engineer",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/13P",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "15a99ff102543002",
+    "dedup_key": "new grad|hyphenate|new grad software engineer",
+    "company": "Hyphenate",
+    "title": "New Grad: Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/13Q",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cabcdf2666ee9173",
+    "dedup_key": "new grad|liveflow|graduate engineer ai agents",
+    "company": "LiveFlow",
+    "title": "Graduate Engineer - AI Agents",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/13R",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a88b3bd6137b6602",
+    "dedup_key": "new grad|relling|new grad robotics software engineer",
+    "company": "Relling",
+    "title": "New Grad: Robotics Software Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/13S",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "adf3b51f0b4aa847",
+    "dedup_key": "new grad|superapp|new grad 2027 software engineer",
+    "company": "SuperApp",
+    "title": "New Grad 2027: Software Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/13T",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "15c10183dcc207ce",
+    "dedup_key": "new grad|wiltshire farm foods|software developer in test",
+    "company": "Wiltshire Farm Foods",
+    "title": "Software Developer in Test",
+    "locations": [
+      "Remote"
+    ],
+    "url": "https://go.vansh.nyc/13U",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793404800,
+    "date_found": 1793498984,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "3a7b41dd8880998e",

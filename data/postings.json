@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793524244,
+    "date_found": 1793548776,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1792728000,
-    "date_found": 1793524244,
+    "date_found": 1793548776,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -54,10 +54,3352 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793524244,
+    "date_found": 1793548776,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "3435339651bcc062",
+    "dedup_key": "intern|scm|quantitative research analyst intern",
+    "company": "SCM",
+    "title": "Quantitative Research Analyst Intern",
+    "locations": [
+      "Radnor, PA"
+    ],
+    "url": "https://go.vansh.nyc/17s",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1779598817,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "25f4a082334ecb3b",
+    "dedup_key": "intern|hyphenate|software engineering intern",
+    "company": "Hyphenate",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/17t",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1787688907,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0cfb7ef2b6e224fc",
+    "dedup_key": "intern|amazon|software development engineer intern annapurna labs",
+    "company": "Amazon",
+    "title": "Software Development Engineer Intern, Annapurna Labs",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "url": "https://go.vansh.nyc/17u",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1787788800,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b70ecf061fcc3d2a",
+    "dedup_key": "intern|powertown|forward deployed engineer intern",
+    "company": "Powertown",
+    "title": "Forward Deployed Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://go.vansh.nyc/17w",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1788631357,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e996f6838fb84a3e",
+    "dedup_key": "intern|microsoft|software engineering intern",
+    "company": "Microsoft",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://go.vansh.nyc/17x",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1789151907,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ac86b3797ed3cd32",
+    "dedup_key": "intern|microsoft|software engineering intern",
+    "company": "Microsoft",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Reston, VA"
+    ],
+    "url": "https://go.vansh.nyc/17y",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1789151972,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a0978f73a40dae59",
+    "dedup_key": "intern|antares|reactor software engineering intern",
+    "company": "Antares",
+    "title": "Reactor Software Engineering Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://go.vansh.nyc/17z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1789538706,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "904dabf4f5f94e6b",
+    "dedup_key": "intern|antares|multiphysics software intern",
+    "company": "Antares",
+    "title": "Multiphysics Software Intern",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://go.vansh.nyc/17A",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1789540851,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fe767e630ff0dc47",
+    "dedup_key": "intern|ixl learning|software engineer intern",
+    "company": "IXL Learning",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://go.vansh.nyc/17D",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791409419,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1a36e990240110ca",
+    "dedup_key": "intern|samsung semiconductor|systems software engineering intern",
+    "company": "Samsung Semiconductor",
+    "title": "Systems Software Engineering Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17G",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793311495,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "phd_only",
+    "elig_reason": "phd signal (phd in )"
+  },
+  {
+    "id": "211c22fe680eb67b",
+    "dedup_key": "intern|intuit|software engineering intern full stack",
+    "company": "Intuit",
+    "title": "Software Engineering Intern, Full Stack",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/17H",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793361975,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "449ac222debb262c",
+    "dedup_key": "intern|bytedance|student researcher intern seed model multimodal interaction world model",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern, Seed Model: Multimodal Interaction & World Model",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17J",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793519707,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b8d0d7fd0008f343",
+    "dedup_key": "intern|bytedance|backend development engineer intern infrastructure platform delivery",
+    "company": "ByteDance",
+    "title": "Backend Development Engineer Intern, Infrastructure Platform Delivery",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17L",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0f33beaf0f734d66",
+    "dedup_key": "intern|bytedance|software development engineer intern network automation",
+    "company": "ByteDance",
+    "title": "Software Development Engineer Intern, Network Automation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17M",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793519707,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "55c1f26a01f2e7a2",
+    "dedup_key": "intern|tiktok|machine learning engineer intern brand ads",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Brand Ads",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17N",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "aebd1c8346eedf48",
+    "dedup_key": "intern|tiktok|data science intern tiktok live",
+    "company": "TikTok",
+    "title": "Data Science Intern, TikTok LIVE",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17O",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c1d6229af8676901",
+    "dedup_key": "intern|tiktok|ai engineer intern tiktok client arch",
+    "company": "TikTok",
+    "title": "AI Engineer Intern, TikTok-Client Arch",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17P",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b9f02c55842ff6bb",
+    "dedup_key": "intern|tiktok|machine learning engineer intern ads signal measurement",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Ads Signal & Measurement",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17Q",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8383f2e4a96a6908",
+    "dedup_key": "intern|tiktok|data science intern tiktok integrity and safety",
+    "company": "TikTok",
+    "title": "Data Science Intern, TikTok Integrity and Safety",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17R",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b82123500c08cf6a",
+    "dedup_key": "intern|tiktok|machine learning mlops intern global sre",
+    "company": "TikTok",
+    "title": "Machine Learning MLOps Intern, Global SRE",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17S",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "27ee3258688744cb",
+    "dedup_key": "intern|tiktok|frontend engineer intern ads interface",
+    "company": "TikTok",
+    "title": "Frontend Engineer Intern, Ads Interface",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17T",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2368e0302d13da6f",
+    "dedup_key": "intern|tiktok|research engineer intern agentic systems ai infrastructure tiktok generalized arch",
+    "company": "TikTok",
+    "title": "Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/17U",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3417623a871f3bf9",
+    "dedup_key": "intern|tiktok|ml infra engineer intern ads infra",
+    "company": "TikTok",
+    "title": "ML Infra Engineer Intern, Ads Infra",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17V",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c50dd04ce8a1cf55",
+    "dedup_key": "intern|tiktok|software engineer intern global e commerce search",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Global E-commerce-Search",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/17W",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "acc24d0e2f63a48e",
+    "dedup_key": "intern|tiktok|machine learning engineer intern app ads and gaming",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, App Ads and Gaming",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17X",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "633028836b966499",
+    "dedup_key": "intern|tiktok|data science intern tiktok product",
+    "company": "TikTok",
+    "title": "Data Science Intern, TikTok Product",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17Y",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d5bb7422011be00b",
+    "dedup_key": "intern|tiktok|machine learning engineer intern commerce ads",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Commerce Ads",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17Z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "830878113789cd69",
+    "dedup_key": "intern|tiktok|machine learning engineer intern search ads",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Search Ads",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/180",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e99474a0f19c2569",
+    "dedup_key": "intern|tiktok|machine learning engineer intern performance monetization",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Performance Monetization",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/181",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "77fb850187c75e73",
+    "dedup_key": "intern|tiktok|machine learning engineer intern lead ads",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Lead Ads",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/182",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4e4fe5bd4ca55fec",
+    "dedup_key": "intern|tiktok|software engineer intern tiktok ai search visual search infra team",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, TikTok AI Search & Visual Search Infra Team",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/183",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b79785973d4f793b",
+    "dedup_key": "intern|tiktok|software engineer intern tiktok search architecture",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, TikTok Search Architecture",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/184",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "fc2a6aa1abd7d398",
+    "dedup_key": "intern|tiktok|research scientist intern monetization technology business integrity",
+    "company": "TikTok",
+    "title": "Research Scientist Intern, Monetization Technology - Business Integrity",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/185",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c9ce35ee159164c6",
+    "dedup_key": "intern|tiktok|data engineering project intern ads targeting",
+    "company": "TikTok",
+    "title": "Data Engineering Project Intern, Ads Targeting",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/186",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9c1627cdacee89c4",
+    "dedup_key": "intern|tiktok|research engineer intern monetization technology business integrity",
+    "company": "TikTok",
+    "title": "Research Engineer Intern, Monetization Technology - Business Integrity",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/187",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "dea3896def6e1ed9",
+    "dedup_key": "intern|tiktok|machine learning engineer intern tiktok data search local service",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, TikTok-Data-Search-Local Service",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/189",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1496eb6f016b0ad5",
+    "dedup_key": "intern|tiktok|data engineer intern data platform tiktok bp",
+    "company": "TikTok",
+    "title": "Data Engineer Intern, Data Platform TikTok BP",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18a",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3d4e4de50c867c2a",
+    "dedup_key": "intern|tiktok|data scientist project intern tiktok integrity and safety",
+    "company": "TikTok",
+    "title": "Data Scientist Project Intern, TikTok Integrity and Safety",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18b",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c39a6016b192b443",
+    "dedup_key": "intern|tiktok|machine learning engineer intern tiktok data search basic ranking",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18c",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b9019df3b293a59c",
+    "dedup_key": "intern|tiktok|data engineer intern data platform global live",
+    "company": "TikTok",
+    "title": "Data Engineer Intern, Data Platform Global Live",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18d",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "bef342df443bea86",
+    "dedup_key": "intern|tiktok|software engineer intern tiktok search data infra",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, TikTok Search Data Infra",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18e",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f479c27ce07b0c3d",
+    "dedup_key": "intern|tiktok|data engineer intern monetization data",
+    "company": "TikTok",
+    "title": "Data Engineer Intern, Monetization Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18f",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "86732263dea0347c",
+    "dedup_key": "intern|tiktok|fullstack software engineer intern global e commerce",
+    "company": "TikTok",
+    "title": "Fullstack Software Engineer Intern, Global E-Commerce",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/18g",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2f0c18d9862bb29c",
+    "dedup_key": "intern|tiktok|recommendation architecture ai ml infrastructure engineer intern data arch tiktok live",
+    "company": "TikTok",
+    "title": "Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18h",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7a41764a8b51153a",
+    "dedup_key": "intern|tiktok|fullstack software engineer intern global e commerce",
+    "company": "TikTok",
+    "title": "Fullstack Software Engineer Intern, Global E-Commerce",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18i",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8c8aec3e29d1c154",
+    "dedup_key": "intern|tiktok|machine learning engineer intern visual search",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Visual Search",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18j",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e1508f766f16e610",
+    "dedup_key": "intern|tiktok|data science project intern advertisement",
+    "company": "TikTok",
+    "title": "Data Science Project Intern, Advertisement",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18k",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2194db77b217178f",
+    "dedup_key": "intern|tiktok|machine learning engineer intern recommendation global e commerce",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Recommendation Global E-Commerce",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/18l",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d251f7b6f39e814f",
+    "dedup_key": "intern|tiktok|software engineer intern ads infrastructure",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Ads Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18m",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d3fd5f8737241635",
+    "dedup_key": "intern|tiktok|software engineer intern recommendation architecture feeds infrastructure",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18o",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9961ec8ca19af478",
+    "dedup_key": "intern|tiktok|machine learning engineer intern search quality",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Search Quality",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18p",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a399ea79e90b0f4c",
+    "dedup_key": "intern|tiktok|machine learning engineer intern global e commerce search",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Global E-Commerce Search",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/18r",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0b01794462b9ab2d",
+    "dedup_key": "intern|tiktok|software engineer intern recommendation infra performance efficiency",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Recommendation Infra, Performance Efficiency",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18s",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "827c0fc2236632e8",
+    "dedup_key": "intern|tiktok|ai software engineer project intern transaction platform",
+    "company": "TikTok",
+    "title": "AI Software Engineer Project Intern, Transaction Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18t",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f60223f2a5dc7a1b",
+    "dedup_key": "intern|tiktok|software engineer intern recommendation architecture feeds infrastructure",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/18u",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e7bbbdca88d8feb7",
+    "dedup_key": "intern|tiktok|data scientist intern vod data",
+    "company": "TikTok",
+    "title": "Data Scientist Intern, VOD Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18w",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1387943093fa2d1e",
+    "dedup_key": "intern|tiktok|machine learning engineer intern recommendation",
+    "company": "TikTok",
+    "title": "Machine Learning Engineer Intern, Recommendation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18B",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ba20bdf56d6ec4f5",
+    "dedup_key": "intern|tiktok|software engineer intern foundation platform",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Foundation Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18C",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "05d2a4b9857a4ae8",
+    "dedup_key": "intern|tiktok|software engineer intern media engine",
+    "company": "TikTok",
+    "title": "Software Engineer Intern, Media Engine",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18D",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e08329e86c91f64f",
+    "dedup_key": "intern|tiktok|backend software engineer intern creation platform",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern, Creation Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18E",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1b14716a6613ffe9",
+    "dedup_key": "intern|tiktok|software engineer project intern recommendation infrastructure video social",
+    "company": "TikTok",
+    "title": "Software Engineer Project Intern, Recommendation Infrastructure, Video Social",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18F",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5d6d7b47f04ac7ff",
+    "dedup_key": "intern|tiktok|software engineer project intern content ai infrastructure",
+    "company": "TikTok",
+    "title": "Software Engineer Project Intern, Content AI Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18G",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6ca24018e069a141",
+    "dedup_key": "intern|tiktok|software engineer project intern lead ads",
+    "company": "TikTok",
+    "title": "Software Engineer Project Intern, Lead Ads",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/18H",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793525855,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3328d0610fd5bba1",
+    "dedup_key": "intern|everest|technology intern",
+    "company": "Everest",
+    "title": "Technology Intern",
+    "locations": [
+      "Warren, NJ"
+    ],
+    "url": "https://go.vansh.nyc/18M",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793491200,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "977ed85064754ffd",
+    "dedup_key": "intern|hps investment partners|technology intern app dev",
+    "company": "HPS Investment Partners",
+    "title": "Technology Intern, App Dev",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/18O",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793491200,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1434274b159d5ea7",
+    "dedup_key": "intern|insomniac games|undergraduate gameplay programming intern",
+    "company": "Insomniac Games",
+    "title": "Undergraduate Gameplay Programming Intern",
+    "locations": [
+      "Burbank, CA",
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/18P",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793491200,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "76396ca2d678eb31",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer business governance",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer, Business Governance",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15K",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8523c7bf33befde7",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer risk response",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer (Risk & Response)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/15L",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a73ad60ea387a5f7",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer emerging products ai safety",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer, Emerging Products & AI Safety",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15M",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2793ee09f8e38ead",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer tiktok pgc digital content center",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer (TikTok-PGC-Digital Content Center)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15N",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4eb0329676501fc6",
+    "dedup_key": "new grad|tiktok|new grad 2027 frontend software engineer global crm",
+    "company": "TikTok",
+    "title": "New Grad 2027: Frontend Software Engineer (Global CRM)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15O",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "23b9710c9f78dfc0",
+    "dedup_key": "new grad|tiktok|new grad 2027 ai software engineer tiktok pgc ogc creator strategy",
+    "company": "TikTok",
+    "title": "New Grad 2027: AI Software Engineer (TikTok-PGC-OGC&Creator Strategy)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15P",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "bbcd3c811fad830d",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer feed safety",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer (Feed Safety)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/15R",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0f7dd99d8d63dcd2",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer ads infrastructure",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Ads Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15S",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1bcaccf13b78e6b8",
+    "dedup_key": "new grad|tiktok|new grad 2027 site reliability engineer global sre",
+    "company": "TikTok",
+    "title": "New Grad 2027: Site Reliability Engineer (Global SRE)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15T",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5fa7a0b2053ab762",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer ads signal measurement",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (Ads Signal & Measurement)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15U",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ea3688535c633ba1",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer transaction platform",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Transaction Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15W",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "cfc683d3d23d17ff",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer tiktok recommendation",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, TikTok Recommendation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15X",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5ab38d19ccfe05d9",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer mobile engineer ads core demonstration",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer/Mobile Engineer (Ads Core Demonstration)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/15Y",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6addda8c8ae45fd6",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer data arch e commerce",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Data Arch - E-commerce)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/15Z",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "8bf734f64fcfb126",
+    "dedup_key": "new grad|tiktok|new grad 2027 data engineer monetization data",
+    "company": "TikTok",
+    "title": "New Grad 2027: Data Engineer, Monetization Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/160",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0edf634acee86157",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce recommendation search alliance",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/161",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "925a6fef22c9942d",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer commerce ads",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, Commerce Ads",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/162",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "77067fb80d71ad21",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce recommendation mall",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/163",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c0acb3540782b7bb",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce recommendation search alliance",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/164",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "28a98c5b36b0354a",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce supply chain logistics",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/165",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d9ca298e0fb880cd",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce recommendation live",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Live)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/166",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d3bfd9c7e9efc122",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer trust safety",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer (Trust & Safety)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/167",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7fb0a37811304611",
+    "dedup_key": "new grad|tiktok|new grad 2027 ml infra engineer ads infra",
+    "company": "TikTok",
+    "title": "New Grad 2027: ML Infra Engineer, Ads Infra",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/168",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c750d93e62871135",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer ai agent global revenue platform",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (AI Agent & Global Revenue Platform)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/169",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e04a9b000dd2d623",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce supply chain logistics",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16a",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "eb2f9786edb55629",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce recommendation foundation",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16b",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d05ffbbe9b2735d9",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer machine moderation platform",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer (Machine Moderation Platform)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16c",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e95531b34b3c26f9",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer trust safety",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer (Trust & Safety)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16d",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "83f9766959d4abc5",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce recommendation live",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16e",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "951b6dcd40aee861",
+    "dedup_key": "new grad|tiktok|new grad 2027 self built engineer cdn platform",
+    "company": "TikTok",
+    "title": "New Grad 2027: Self-Built Engineer (CDN Platform)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16f",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "db561eada6974574",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer ads interface",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Ads Interface",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16g",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "04a8a7d09de17a7d",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer search ads",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (Search Ads)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16h",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9612889715bbc6a8",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer commercial ai crm and transaction master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (Commercial AI-CRM and Transaction) (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16i",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "af23ef5e025d88df",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer search quality",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, Search Quality",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16j",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "71927f99796749a6",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer tiktok trust and safety",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16k",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c808d73a7b457329",
+    "dedup_key": "new grad|tiktok|new grad 2027 research scientist monetization technology business integrity master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Research Scientist, Monetization Technology - Business Integrity (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16l",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "68baa19eabfd2a0c",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce recommendation foundation",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16m",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5af6b6f3f71c4831",
+    "dedup_key": "new grad|tiktok|new grad 2027 frontend software engineer ads interface",
+    "company": "TikTok",
+    "title": "New Grad 2027: Frontend Software Engineer (Ads Interface)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16n",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9944730c6c779dfb",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce governance",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Governance",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16o",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f067023cbf9ec0e8",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer tiktok trust and safety",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16p",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "285d835ba1ae336a",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer ads infra",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Ads Infra",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16q",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a1934597b7124931",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce recommendation mall",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16r",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4576230d9ee47618",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer global e commerce search",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Global E-commerce-Search)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16s",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6448ccd9ae1f3b88",
+    "dedup_key": "new grad|tiktok|new grad 2027 ai systems engineer ai code infrastructure agentic ops us",
+    "company": "TikTok",
+    "title": "New Grad 2027: AI Systems Engineer (AI Code Infrastructure-Agentic Ops US)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16t",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f10fd4c9ccb88362",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend engineer user growth",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Engineer, User Growth",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16u",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f494e44ad738c82f",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer tiktok data search recommendation",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Recommendation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16v",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "928f776c737cdf35",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer media engine",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Media Engine)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16w",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3fc3db34b91d75c2",
+    "dedup_key": "new grad|tiktok|new grad 2027 recommendation architecture ai ml infrastructure engineer data arch tiktok live",
+    "company": "TikTok",
+    "title": "New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16x",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "98db98a23afce2e4",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer global e commerce",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer, Global E-commerce",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16y",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7e127199f5daf0b3",
+    "dedup_key": "new grad|tiktok|new grad 2027 fullstack software engineer global e commerce",
+    "company": "TikTok",
+    "title": "New Grad 2027: Fullstack Software Engineer, Global E-commerce",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16z",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f1a540b1fba499ba",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer tiktok ai search visual search infra team",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (TikTok AI Search & Visual Search Infra Team)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16A",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "18e0a85144d876aa",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer performance monetization",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, Performance Monetization",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16B",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4ca64a59f2f150f5",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer ads targeting",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (Ads Targeting)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16C",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c96934681c9e35fd",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer brand ads master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, Brand Ads (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16D",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "e3514baac7c7218e",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer ads delivery",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Ads Delivery)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16E",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "98e7193c6ad72c5d",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer ads measurement signal technology",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Ads Measurement Signal Technology)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16F",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9161cd98e0aed05e",
+    "dedup_key": "new grad|tiktok|new grad 2027 ai engineer client arch",
+    "company": "TikTok",
+    "title": "New Grad 2027: AI Engineer (Client Arch)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16G",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0d23578f609e26d2",
+    "dedup_key": "new grad|tiktok|new grad 2027 software development engineer global e commerce quality platform ai test automation",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Development Engineer (Global E-Commerce-Quality Platform & AI Test Automation)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16H",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b7837bbe91bb4bc4",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer search basic ranking",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, Search-Basic Ranking",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16I",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6897968f2b840d19",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning mlops engineer",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning MLOps Engineer",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16J",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9229996b096900b8",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer ads signal measurement",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Ads Signal & Measurement)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16K",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "df8e6e1c06191a87",
+    "dedup_key": "new grad|tiktok|new grad 2027 self built engineer cdn platform",
+    "company": "TikTok",
+    "title": "New Grad 2027: Self-Built Engineer, CDN Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16L",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "9c672699e294d7a4",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer global crm",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Global CRM",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16M",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e426da8423862bd2",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer tiktok data search recommendation global e commerce",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (TikTok-Data-Search-Recommendation-Global E-Commerce)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16N",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "37f9fe7cb7462b37",
+    "dedup_key": "new grad|tiktok|new grad 2027 data scientist multimedia master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Data Scientist (Multimedia) (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16O",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "5c8151bfb12c2e5b",
+    "dedup_key": "new grad|tiktok|new grad 2027 self built engineer cdn platform master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Self-Built Engineer (CDN Platform) (Master's)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16P",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "54c1d1a796ad2131",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer data arch e commerce",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Data Arch - E-commerce)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16Q",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "fa2728f064890f03",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer video on demand algorithm master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Video-on-Demand Algorithm) (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16R",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "5d46bcd871573c71",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer app ads and gaming",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (App Ads and Gaming)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16S",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "815283c45f148dca",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer creation platform",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer, Creation Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16T",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "de9abf1c6c3679d3",
+    "dedup_key": "new grad|tiktok|new grad 2027 ai infra engineer recommendation llm",
+    "company": "TikTok",
+    "title": "New Grad 2027: AI Infra Engineer (Recommendation & LLM)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16U",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2d1c6189e19cefdf",
+    "dedup_key": "new grad|tiktok|new grad 2027 data scientist multimedia",
+    "company": "TikTok",
+    "title": "New Grad 2027: Data Scientist (Multimedia)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16V",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2b8ec141c502c771",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer e commerce governance",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Governance",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/16W",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ff9cf1571516fc43",
+    "dedup_key": "new grad|tiktok|new grad 2027 research engineer monetization technology business integrity master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Research Engineer, Monetization Technology - Business Integrity (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16X",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "fe7a88ac6889432f",
+    "dedup_key": "new grad|tiktok|new grad 2027 llm post training engineer research product",
+    "company": "TikTok",
+    "title": "New Grad 2027: LLM Post-training Engineer (Research & Product)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16Y",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c201fa449f2706b2",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer monetization technology ads core global",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, Monetization Technology - Ads Core Global",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/16Z",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0d88d08023665419",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer recommendation architecture feeds infrastructure",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastructure)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/170",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "47c910bc9d94f82e",
+    "dedup_key": "new grad|tiktok|new grad 2027 llm post training engineer research product master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: LLM Post-Training Engineer (Research & Product) (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/171",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "37e9f064e44654e6",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer ads delivery",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, Ads Delivery",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/172",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f2423b4649a12fe4",
+    "dedup_key": "new grad|tiktok|new grad 2027 testing engineer social user and relation",
+    "company": "TikTok",
+    "title": "New Grad 2027: Testing Engineer, Social-User and Relation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/173",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5b9e67a6bd93a7fc",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer foundation platform master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Foundation Platform (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/175",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "fbc6887ed18f3eea",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer video on demand algorithm",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer (Video-on-Demand Algorithm)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/176",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "064e7d30021754c5",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer foundation platform",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Foundation Platform",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/177",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "c3ea59413495a44f",
+    "dedup_key": "new grad|tiktok|new grad 2027 software development engineer tiktok testing growth",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Development Engineer (TikTok - Testing - Growth)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/178",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "caa2a4bafef49233",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer tiktok data search local service",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Local Service",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/179",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "9022cf51252c8f5a",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer privacy and security product",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer, Privacy and Security - Product",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17a",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "c16cc4016d66aa2c",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer global e commerce",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer (Global E-commerce)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/17b",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "5944d55269699eb1",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer media engine master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Media Engine (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17c",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "e1fbd3eaa72fd46c",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend engineer tiktok vertical recommendation architecture",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Engineer, TikTok Vertical Recommendation Architecture",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17d",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "7d25fd7113f7ffdf",
+    "dedup_key": "new grad|tiktok|new grad 2027 testing engineer intelligent creation",
+    "company": "TikTok",
+    "title": "New Grad 2027: Testing Engineer, Intelligent Creation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17e",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "1cd5fbd9804ad684",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer data global e commerce search",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer (Data-Global E-Commerce-Search)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/17f",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "541077cfcbd721d0",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer business integrity",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Business Integrity",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17g",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "2937f09c011ff68d",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer tiktok vertical recommendation",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17h",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "312a639a17b316a3",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer data lifecycle management",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer, Data Lifecycle Management",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17i",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "1f92225ef9ab0e6d",
+    "dedup_key": "new grad|tiktok|new grad 2027 machine learning engineer visual search",
+    "company": "TikTok",
+    "title": "New Grad 2027: Machine Learning Engineer, Visual Search",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17j",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "0f2ac481f39e80a3",
+    "dedup_key": "new grad|tiktok|new grad 2027 backend software engineer creation platform master s",
+    "company": "TikTok",
+    "title": "New Grad 2027: Backend Software Engineer, Creation Platform (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17k",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "448b92ad17825e31",
+    "dedup_key": "new grad|tiktok|new grad 2027 software engineer recommendation infrastructure",
+    "company": "TikTok",
+    "title": "New Grad 2027: Software Engineer, Recommendation Infrastructure",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17l",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "d329cb4e48153a9b",
+    "dedup_key": "new grad|tiktok|new grad 2027 big data engineer tiktok recommendation architecture",
+    "company": "TikTok",
+    "title": "New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/17m",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "1979b07b7ef417f4",
+    "dedup_key": "new grad|amazon|new grad 2027 asic engineer i annapurna labs",
+    "company": "Amazon",
+    "title": "New Grad 2027: ASIC Engineer I, Annapurna Labs",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "url": "https://go.vansh.nyc/17n",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "39431bd9acc831ee",
+    "dedup_key": "new grad|amazon|software development engineer amazon dedicated cloud",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Dedicated Cloud",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/17p",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
+  },
+  {
+    "id": "7571c9d035672116",
+    "dedup_key": "new grad|amazon|software development engineer amazon leo",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Amazon Leo",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://go.vansh.nyc/17q",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793526076,
+    "date_found": 1793548776,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "over max_checks"
   },
   {
     "id": "b03ac2229bc4ac4e",

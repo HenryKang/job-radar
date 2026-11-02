@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-01 23:53 UTC · 4055 live & eligible postings (showing 400); 107 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-02 05:56 UTC · 4056 live & eligible postings (showing 400); 107 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-02 | 2026-11-02 | Microsoft | First-Year Explore Program Engineering Intern | Redmond, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/199) |
 | 2026-11-01 | 2026-11-01 | KnowBe4 | Software Engineer Intern | Clearwater, FL | Summer | swe | ok | [apply](https://go.vansh.nyc/191) |
 | 2026-11-01 | 2026-10-30 | Oceaneering | Robotics Software Engineer | Houston, TX | — | swe | unknown | [apply](https://go.vansh.nyc/195) |
 | 2026-11-01 | 2026-11-01 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/18U) |
@@ -403,4 +404,3 @@ _Last updated: 2026-11-01 23:53 UTC · 4055 live & eligible postings (showing 40
 | 2026-10-30 | 2026-10-28 | Zoox | Contract Student Worker - Software Engineer - 40 hrs/wk | Foster City, CA +1 | — | swe | ok | [apply](https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d) |
 | 2026-10-30 | 2026-08-26 | True Anomaly | Flight Software Engineer I - Temp-to-hire | Denver, CO +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007) |
 | 2026-10-30 | 2026-10-30 | Amazon | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 | US, WA, Seattle | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
-| 2026-10-30 | 2026-10-29 | Dee Zee | Software Development Intern | Des Moines, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/10k) |

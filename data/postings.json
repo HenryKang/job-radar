@@ -1,5 +1,554 @@
 [
   {
+    "id": "e5028025c8c996e0",
+    "dedup_key": "intern|mitre|data science and engineering intern",
+    "company": "MITRE",
+    "title": "Data Science and Engineering Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://go.vansh.nyc/10t",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793322383,
+    "date_found": 1793661234,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "04439252713168a2",
+    "dedup_key": "intern|zebra technologies|software ai engineer intern handheld mobile computers",
+    "company": "Zebra Technologies",
+    "title": "Software/AI Engineer Intern, Handheld Mobile Computers",
+    "locations": [
+      "Holtsville, NY"
+    ],
+    "url": "https://go.vansh.nyc/19p",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793638254,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "202eb73898bc6724",
+    "dedup_key": "intern|t mobile|software engineering intern",
+    "company": "T-Mobile",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "url": "https://go.vansh.nyc/19q",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793640067,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8c3c786a3e4dc02a",
+    "dedup_key": "intern|t mobile|software engineering intern",
+    "company": "T-Mobile",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/19r",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793640067,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "32da50d645b91b80",
+    "dedup_key": "intern|booz allen hamilton|data scientist intern",
+    "company": "Booz Allen Hamilton",
+    "title": "Data Scientist Intern",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://go.vansh.nyc/19s",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793639347,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e0ab612811731b46",
+    "dedup_key": "intern|sierra nevada corporation|devops engineer intern",
+    "company": "Sierra Nevada Corporation",
+    "title": "DevOps Engineer Intern",
+    "locations": [
+      "Southern Pines, NC"
+    ],
+    "url": "https://go.vansh.nyc/19u",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793642215,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7211c1677cf00169",
+    "dedup_key": "intern|sierra nevada corporation|software engineer intern",
+    "company": "Sierra Nevada Corporation",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Southern Pines, NC"
+    ],
+    "url": "https://go.vansh.nyc/19v",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793642215,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c207e92778c31066",
+    "dedup_key": "intern|intuitive|data science intern",
+    "company": "Intuitive",
+    "title": "Data Science Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://go.vansh.nyc/19w",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793641495,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1878d7668082d8af",
+    "dedup_key": "intern|northrop grumman|engineering software and analysis intern",
+    "company": "Northrop Grumman",
+    "title": "Engineering Software and Analysis Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://go.vansh.nyc/19x",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793642215,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1a9b9876ebd06b52",
+    "dedup_key": "intern|microsoft|software engineer intern",
+    "company": "Microsoft",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Aliso Viejo, CA"
+    ],
+    "url": "https://go.vansh.nyc/19z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793640795,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "56ff84c481c25f1a",
+    "dedup_key": "intern|intuitive|ai ml engineer intern",
+    "company": "Intuitive",
+    "title": "AI/ML Engineer Intern",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://go.vansh.nyc/19B",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793644437,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7c901d7cc809de94",
+    "dedup_key": "intern|rtx|systems security engineering intern",
+    "company": "RTX",
+    "title": "Systems Security Engineering Intern",
+    "locations": [
+      "Fullerton, CA"
+    ],
+    "url": "https://go.vansh.nyc/19G",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793647209,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "eec9cf4f74fd3cd3",
+    "dedup_key": "intern|rtx|systems security engineer intern raytheon",
+    "company": "RTX",
+    "title": "Systems Security Engineer Intern, Raytheon",
+    "locations": [
+      "Woburn, MA"
+    ],
+    "url": "https://go.vansh.nyc/19I",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793649540,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "05b8f7258eff319f",
+    "dedup_key": "intern|nxp|hw sw system and application engineer intern",
+    "company": "NXP",
+    "title": "HW/SW System and Application Engineer Intern",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "url": "https://go.vansh.nyc/19K",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793649540,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "175fcecfee806842",
+    "dedup_key": "intern|motorola solutions|software engineer intern cybersecurity services",
+    "company": "Motorola Solutions",
+    "title": "Software Engineer Intern, Cybersecurity Services",
+    "locations": [
+      "Remote",
+      "United States",
+      "Chicago, IL",
+      "Ashburn, VA",
+      "Plantation, FL",
+      "Schaumburg, IL",
+      "Salt Lake City, UT"
+    ],
+    "url": "https://go.vansh.nyc/19M",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793650911,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "288be7a0b77f5f4a",
+    "dedup_key": "intern|northrop grumman|engineering intern software mission assurance quality",
+    "company": "Northrop Grumman",
+    "title": "Engineering Intern, Software, Mission Assurance, Quality",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "url": "https://go.vansh.nyc/19N",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793653138,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a76e36ec145c796d",
+    "dedup_key": "intern|aerospace corporation|software engineering undergrad intern",
+    "company": "Aerospace Corporation",
+    "title": "Software Engineering Undergrad Intern",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://go.vansh.nyc/19W",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793656370,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "65701072583a76de",
+    "dedup_key": "intern|samsung semiconductor|ai application engineer intern",
+    "company": "Samsung Semiconductor",
+    "title": "AI Application Engineer Intern",
+    "locations": [
+      "Folsom, CA"
+    ],
+    "url": "https://go.vansh.nyc/19X",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793654810,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "ace0e4b6982dac53",
+    "dedup_key": "intern|apple|machine learning and artificial intelligence undergrad intern",
+    "company": "Apple",
+    "title": "Machine Learning and Artificial Intelligence Undergrad Intern",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/19Z",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1779396848,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d727708bfe43241d",
+    "dedup_key": "new grad|corgi|full stack engineer new product line",
+    "company": "Corgi",
+    "title": "Full Stack Engineer, New Product Line",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/19o",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793538424,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de0a36379899e8ca",
+    "dedup_key": "new grad|amazon|software development engineer robotics",
+    "company": "Amazon",
+    "title": "Software Development Engineer, Robotics",
+    "locations": [
+      "Austin, TX",
+      "Bellevue, WA",
+      "North Reading, MA",
+      "Westborough, MA"
+    ],
+    "url": "https://go.vansh.nyc/19D",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6d2afc88259a358c",
+    "dedup_key": "new grad|amazon|software development engineer aws data services",
+    "company": "Amazon",
+    "title": "Software Development Engineer, AWS Data Services",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/19E",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b252de4fef6aad01",
+    "dedup_key": "new grad|verkada|new grad 2027 backend software engineer",
+    "company": "Verkada",
+    "title": "New Grad 2027: Backend Software Engineer",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://go.vansh.nyc/19H",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793645823,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "11bd75c2e9826ac1",
+    "dedup_key": "new grad|boeing|asic fpga digital design engineer master s",
+    "company": "Boeing",
+    "title": "ASIC / FPGA Digital Design Engineer (Master's)",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://go.vansh.nyc/19R",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793652989,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "b69582836fc8c638",
+    "dedup_key": "new grad|boeing|asic fpga design verification engineer master s",
+    "company": "Boeing",
+    "title": "ASIC / FPGA Design Verification Engineer (Master's)",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://go.vansh.nyc/19S",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793652989,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "f3a04f8cbf29aaa5",
+    "dedup_key": "new grad|brown brown|junior hubspot developer",
+    "company": "Brown & Brown",
+    "title": "Junior HubSpot Developer",
+    "locations": [
+      "Plano, TX"
+    ],
+    "url": "https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793574748,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7e967db35caf20ff",
+    "dedup_key": "new grad|northrop grumman|2027 associate software engineer bellevue ne",
+    "company": "Northrop Grumman",
+    "title": "2027 Associate Software Engineer - Bellevue - NE",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793574748,
+    "date_found": 1793661234,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
     "id": "9e1d4a4be4c4099d",
     "dedup_key": "intern|docusign|ai platform engineer intern",
     "company": "DocuSign",
@@ -38,26 +587,6 @@
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
-  },
-  {
-    "id": "e5028025c8c996e0",
-    "dedup_key": "intern|mitre|data science and engineering intern",
-    "company": "MITRE",
-    "title": "Data Science and Engineering Intern",
-    "locations": [
-      "McLean, VA"
-    ],
-    "url": "https://go.vansh.nyc/10t",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1793322383,
-    "date_found": 1793634085,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
   },
   {
     "id": "2b73447569a35754",

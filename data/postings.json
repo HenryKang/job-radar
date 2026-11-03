@@ -14,10 +14,616 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793661234,
+    "date_found": 1793678225,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "54c91cc4f1a0b4ef",
+    "dedup_key": "intern|tesla|software engineering intern people products",
+    "company": "Tesla",
+    "title": "Software Engineering Intern, People Products",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/1as",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793660574,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f9ee62446680bd9f",
+    "dedup_key": "intern|tesla|physics engine development engineer intern optimus",
+    "company": "Tesla",
+    "title": "Physics Engine Development Engineer Intern, Optimus",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/1aT",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793660574,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ecb7283d8521e60a",
+    "dedup_key": "intern|globalfoundries|design verification engineer intern",
+    "company": "GlobalFoundries",
+    "title": "Design Verification Engineer Intern",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://go.vansh.nyc/1ba",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e704cf2cef38589c",
+    "dedup_key": "intern|cincinnati children s hospital and medical center|software engineer intern",
+    "company": "Cincinnati Children’s Hospital and Medical Center",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1bb",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e34295c82caad64c",
+    "dedup_key": "intern|leidos|software engineer intern",
+    "company": "Leidos",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "url": "https://go.vansh.nyc/1bc",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2661f658dd98bbd2",
+    "dedup_key": "intern|cincinnati children s hospital and medical center|data management engineer intern",
+    "company": "Cincinnati Children’s Hospital and Medical Center",
+    "title": "Data Management Engineer Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1bd",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b20a2afb672ef9b6",
+    "dedup_key": "intern|cincinnati children s hospital and medical center|software engineering developer intern",
+    "company": "Cincinnati Children’s Hospital and Medical Center",
+    "title": "Software Engineering Developer Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1be",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1b1d087e9be9cc03",
+    "dedup_key": "intern|leidos|data science intern",
+    "company": "Leidos",
+    "title": "Data Science Intern",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "url": "https://go.vansh.nyc/1bf",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a0ea4cc5ba6f73b0",
+    "dedup_key": "intern|astro mechanica|software engineer intern",
+    "company": "Astro Mechanica",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1bg",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "45450a8484ce0b9b",
+    "dedup_key": "intern|marriott vacations worldwide|corporate information technology intern",
+    "company": "Marriott Vacations Worldwide",
+    "title": "Corporate Information Technology Intern",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://go.vansh.nyc/1bh",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4353b15a1fa32686",
+    "dedup_key": "intern|wellmark|software engineer intern ai platform team",
+    "company": "Wellmark",
+    "title": "Software Engineer Intern, AI Platform Team",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "url": "https://go.vansh.nyc/1bl",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793661150,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f7cdcb9579e70e2d",
+    "dedup_key": "intern|valmont|embedded systems engineer intern",
+    "company": "Valmont",
+    "title": "Embedded Systems Engineer Intern",
+    "locations": [
+      "Valley, NE"
+    ],
+    "url": "https://go.vansh.nyc/1br",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "849bec620001d4e6",
+    "dedup_key": "intern|constellation brands|full stack engineer intern",
+    "company": "Constellation Brands",
+    "title": "Full Stack Engineer Intern",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "url": "https://go.vansh.nyc/1bs",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3823bf2bfc64fd23",
+    "dedup_key": "intern|resideo|embedded firmware engineer intern",
+    "company": "Resideo",
+    "title": "Embedded Firmware Engineer Intern",
+    "locations": [
+      "Melville, NY"
+    ],
+    "url": "https://go.vansh.nyc/1bv",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793662104,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5b8b767ec60b164e",
+    "dedup_key": "intern|resideo|mobile software engineer intern",
+    "company": "Resideo",
+    "title": "Mobile Software Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/1bw",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793662105,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1eee2c0a3c981cbc",
+    "dedup_key": "intern|resideo|firmware engineer intern",
+    "company": "Resideo",
+    "title": "Firmware Engineer Intern",
+    "locations": [
+      "Aurora, IL"
+    ],
+    "url": "https://go.vansh.nyc/1bx",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793662105,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "939b93803071730f",
+    "dedup_key": "intern|resideo|data science intern",
+    "company": "Resideo",
+    "title": "Data Science Intern",
+    "locations": [
+      "Austin, TX",
+      "Golden Valley, MN"
+    ],
+    "url": "https://go.vansh.nyc/1by",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793662105,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "635563ed815c7e7c",
+    "dedup_key": "intern|resideo|firmware engineer intern",
+    "company": "Resideo",
+    "title": "Firmware Engineer Intern",
+    "locations": [
+      "Golden Valley, MN"
+    ],
+    "url": "https://go.vansh.nyc/1bz",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793662105,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bd1e17fe740901e0",
+    "dedup_key": "intern|costco|software engineer intern it retail media",
+    "company": "Costco",
+    "title": "Software Engineer Intern, IT Retail Media",
+    "locations": [
+      "Issaquah, WA"
+    ],
+    "url": "https://go.vansh.nyc/1bB",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793662816,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6c83df130f42de0b",
+    "dedup_key": "intern|costco|software engineer intern international depot",
+    "company": "Costco",
+    "title": "Software Engineer Intern, International Depot",
+    "locations": [
+      "Issaquah, WA"
+    ],
+    "url": "https://go.vansh.nyc/1bC",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793662816,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b9c950ed9a5a4209",
+    "dedup_key": "intern|micron technology|system engineer intern hbm",
+    "company": "Micron Technology",
+    "title": "System Engineer Intern, HBM",
+    "locations": [
+      "Boise, ID"
+    ],
+    "url": "https://go.vansh.nyc/1bI",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793670846,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b9f3a57eb696bb20",
+    "dedup_key": "intern|shield|software engineer intern",
+    "company": "Shield",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Mateo, CA",
+      "Dallas, TX"
+    ],
+    "url": "https://go.vansh.nyc/1bL",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1790195201,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f49da1dfec62c3ab",
+    "dedup_key": "intern|id me|product security engineering intern",
+    "company": "ID.me",
+    "title": "Product Security Engineering Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://go.vansh.nyc/1bM",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793640450,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "85724db2e5db330b",
+    "dedup_key": "intern|shield|software engineer intern",
+    "company": "Shield",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/1bN",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793660426,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0cc095e2cb0a9704",
+    "dedup_key": "new grad|globalfoundries|new grad 2027 design verification engineer",
+    "company": "GlobalFoundries",
+    "title": "New Grad 2027: Design Verification Engineer",
+    "locations": [
+      "Plano, TX"
+    ],
+    "url": "https://go.vansh.nyc/1bo",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "35c83127eae584a8",
+    "dedup_key": "new grad|rtx|new grad electrical engineer 1",
+    "company": "RTX",
+    "title": "New Grad: Electrical Engineer 1",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "url": "https://go.vansh.nyc/1bq",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793577600,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0af315f2743835f1",
+    "dedup_key": "new grad|rothera|associate software engineer",
+    "company": "Rothera",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1bF",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793666339,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7059ba4a1ed6b46d",
+    "dedup_key": "new grad|amax|junior system engineer",
+    "company": "AMAX",
+    "title": "Junior System Engineer",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "url": "https://go.vansh.nyc/1bO",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793672441,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "64403842516c958e",
+    "dedup_key": "new grad|shield|new grad software engineer i",
+    "company": "Shield",
+    "title": "New Grad: Software Engineer I",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/1bP",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793675362,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "296e4a1cd4b5fd0c",
+    "dedup_key": "new grad|shield|new grad 2027 software development engineer",
+    "company": "Shield",
+    "title": "New Grad 2027: Software Development Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/1bQ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793675362,
+    "date_found": 1793678225,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "04439252713168a2",

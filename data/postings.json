@@ -14,10 +14,213 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793751163,
+    "date_found": 1793773022,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "0e3688ae79170a9d",
+    "dedup_key": "intern|nex|software engineer intern sports fitness game development",
+    "company": "Nex",
+    "title": "Software Engineer Intern, Sports & Fitness Game Development",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/1fL",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793728513,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "cffd5144f213f467",
+    "dedup_key": "intern|electronic arts|anticheat engineer intern",
+    "company": "Electronic Arts",
+    "title": "Anticheat Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/1fN",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793748580,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6df3488845f8989a",
+    "dedup_key": "intern|northrop grumman|s w embedded engineering intern",
+    "company": "Northrop Grumman",
+    "title": "S/W Embedded Engineering Intern",
+    "locations": [
+      "Sykesville, MD"
+    ],
+    "url": "https://go.vansh.nyc/1fW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793770191,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e6140c257922aeae",
+    "dedup_key": "intern|viam|software engineering intern",
+    "company": "Viam",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1fY",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1789071572,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "fc4a4f7eedacfeee",
+    "dedup_key": "intern|baidu usa|forward deployed engineer intern",
+    "company": "Baidu USA",
+    "title": "Forward Deployed Engineer Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://go.vansh.nyc/1fZ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1789154331,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "341212510cf373ee",
+    "dedup_key": "intern|covar|machine learning intern",
+    "company": "CoVar",
+    "title": "Machine Learning Intern",
+    "locations": [
+      "Durham, NC"
+    ],
+    "url": "https://go.vansh.nyc/1g3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1789595303,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "229f05654ce7b592",
+    "dedup_key": "intern|pacific fusion|software engineering intern",
+    "company": "Pacific Fusion",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "San Leandro, CA",
+      "Fremont, CA",
+      "Los Lunas, NM"
+    ],
+    "url": "https://go.vansh.nyc/1g4",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1790884576,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f939035437d05cf5",
+    "dedup_key": "new grad|deloitte|new grad 2027 tax technology services consultant",
+    "company": "Deloitte",
+    "title": "New Grad 2027: Tax Technology Services Consultant",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://go.vansh.nyc/1fO",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793749888,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e6ae9caba32cd125",
+    "dedup_key": "new grad|endeavorai com|new grad 2027 forward deployed engineer",
+    "company": "endeavorai.com",
+    "title": "New Grad 2027: Forward Deployed Engineer",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/1fT",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793750400,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c46e4c3d0d2871ce",
+    "dedup_key": "new grad|shield ai|new grad engineer ii simulation framework master s",
+    "company": "Shield AI",
+    "title": "New Grad: Engineer II, Simulation Framework (Master's)",
+    "locations": [
+      "San Diego, CA",
+      "Washington, DC"
+    ],
+    "url": "https://go.vansh.nyc/1g6",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793772640,
+    "date_found": 1793773022,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
     "id": "d0f7245f4fd14526",

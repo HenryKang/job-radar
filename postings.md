@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-04 00:12 UTC · 4264 live & eligible postings (showing 400); 110 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-04 06:17 UTC · 4273 live & eligible postings (showing 400); 111 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-04 | 2026-11-03 | Nex | Software Engineer Intern, Sports & Fitness Game Development | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1fL) |
+| 2026-11-04 | 2026-11-03 | Electronic Arts | Anticheat Engineer Intern | Austin, TX | Summer | swe | ok | [apply](https://go.vansh.nyc/1fN) |
+| 2026-11-04 | 2026-11-04 | Northrop Grumman | S/W Embedded Engineering Intern | Sykesville, MD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1fW) |
+| 2026-11-04 | 2026-09-10 | Viam | Software Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1fY) |
+| 2026-11-04 | 2026-09-11 | Baidu USA | Forward Deployed Engineer Intern | Mountain View, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1fZ) |
+| 2026-11-04 | 2026-09-16 | CoVar | Machine Learning Intern | Durham, NC | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1g3) |
+| 2026-11-04 | 2026-10-01 | Pacific Fusion | Software Engineering Intern | San Leandro, CA, Fremont, CA, Los Lunas, NM | Summer | swe | unknown | [apply](https://go.vansh.nyc/1g4) |
+| 2026-11-04 | 2026-11-03 | Deloitte | New Grad 2027: Tax Technology Services Consultant | Atlanta, GA | — | swe | ok | [apply](https://go.vansh.nyc/1fO) |
+| 2026-11-04 | 2026-11-04 | endeavorai.com | New Grad 2027: Forward Deployed Engineer | Chicago, IL | — | swe | unknown | [apply](https://go.vansh.nyc/1fT) |
 | 2026-11-04 | 2026-11-03 | Hewlett Packard (HP) | Software Engineering Intern, AIML Platform | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1e0) |
 | 2026-11-04 | 2026-11-03 | Hewlett Packard (HP) | Software Engineering Intern, Product & Developer Productivity | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1e4) |
 | 2026-11-04 | 2026-11-03 | Northrop Grumman | Ground Software Engineer Intern | Redondo Beach, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1e5) |
@@ -395,12 +404,3 @@ _Last updated: 2026-11-04 00:12 UTC · 4264 live & eligible postings (showing 40
 | 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, Relational Database | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14d) |
 | 2026-11-01 | 2026-11-01 | ByteDance | Production System Engineer Project Intern, Server DevOps | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14e) |
 | 2026-11-01 | 2026-11-01 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14f) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, AML-Engine-Orchestration | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14g) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14h) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, AML-Engine-Orchestration | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/14i) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Production System Engineer Project Intern, Server DevOps | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/14j) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, Global Payment - Risk & Compliance | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14k) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14m) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Software Engineer Intern, Global Payment | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/14n) |
-| 2026-11-01 | 2026-11-01 | ByteDance | AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/14o) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/14q) |

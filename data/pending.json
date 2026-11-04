@@ -1,41 +1,5 @@
 [
   {
-    "dedup_key": "new grad|cayuse|associate software engineer ai solutions",
-    "id": "ef7c7568ac0d854e",
-    "company": "Cayuse",
-    "title": "Associate Software Engineer - AI Solutions",
-    "url": "https://job-boards.greenhouse.io/cayuse/jobs/8885769002",
-    "role_type": "new_grad",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "season": "",
-    "category": "swe",
-    "locations": [
-      "Remote - USA"
-    ],
-    "date_posted": 1791997518,
-    "date_discovered": 1791997618,
-    "last_checked": 1793803959,
-    "fail_reason": "greenhouse api: job not found"
-  },
-  {
-    "dedup_key": "new grad|prime inc|junior rpgle developer",
-    "id": "cd85607aac216912",
-    "company": "Prime Inc.",
-    "title": "Junior RPGLE Developer",
-    "url": "https://careers-primeinc.icims.com/jobs/5263/junior-rpgle-developer/job",
-    "role_type": "new_grad",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "season": "",
-    "category": "swe",
-    "locations": [
-      "Springfield, MO"
-    ],
-    "date_posted": 1789578318,
-    "date_discovered": 1791997618,
-    "last_checked": 1793803959,
-    "fail_reason": "http 410"
-  },
-  {
     "dedup_key": "intern|intercontinental exchange inc|artificial intelligence data machine learning intern",
     "id": "ede53bd3245f0d23",
     "company": "Intercontinental Exchange, Inc.",
@@ -50,7 +14,7 @@
     ],
     "date_posted": 1776727516,
     "date_discovered": 1792020462,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "http 404"
   },
   {
@@ -68,7 +32,7 @@
     ],
     "date_posted": 1779501421,
     "date_discovered": 1792020462,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "http 404"
   },
   {
@@ -86,7 +50,7 @@
     ],
     "date_posted": 1790186618,
     "date_discovered": 1792173907,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "http 404"
   },
   {
@@ -104,7 +68,7 @@
     ],
     "date_posted": 1792370374,
     "date_discovered": 1792524921,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -122,7 +86,7 @@
     ],
     "date_posted": 1792613170,
     "date_discovered": 1792613261,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "http 404"
   },
   {
@@ -140,7 +104,7 @@
     ],
     "date_posted": 1792698816,
     "date_discovered": 1792730568,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "workday gone (http 403)"
   },
   {
@@ -158,7 +122,7 @@
     ],
     "date_posted": 1788547306,
     "date_discovered": 1792780994,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -176,7 +140,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "http 410"
   },
   {
@@ -194,7 +158,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "http 410"
   },
   {
@@ -212,7 +176,7 @@
     ],
     "date_posted": 1793131299,
     "date_discovered": 1793131398,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -230,7 +194,7 @@
     ],
     "date_posted": 1793322383,
     "date_discovered": 1793367132,
-    "last_checked": 1793803959,
+    "last_checked": 1793827054,
     "fail_reason": "closed: 'no longer available'"
   }
 ]

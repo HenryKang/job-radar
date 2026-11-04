@@ -14,10 +14,291 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793773022,
+    "date_found": 1793803959,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "d80b36e9c7020094",
+    "dedup_key": "intern|rtx|control diagnostic software intern",
+    "company": "RTX",
+    "title": "Control/Diagnostic Software Intern",
+    "locations": [
+      "Jupiter, FL"
+    ],
+    "url": "https://go.vansh.nyc/1g8",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793775177,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "79d9c52e9b4c3612",
+    "dedup_key": "intern|quantiq|software developer intern",
+    "company": "Quantiq",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/1gf",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1784145553,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "92ca03c758a9d553",
+    "dedup_key": "intern|sesco|quantitative research and trading intern",
+    "company": "SESCO",
+    "title": "Quantitative Research and Trading Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://go.vansh.nyc/1gg",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1789218404,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "78038dd146123fa8",
+    "dedup_key": "intern|northrop grumman|software test engineering intern",
+    "company": "Northrop Grumman",
+    "title": "Software Test Engineering Intern",
+    "locations": [
+      "Roy, UT"
+    ],
+    "url": "https://go.vansh.nyc/1gj",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793793413,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "60ced59d9700b4d8",
+    "dedup_key": "intern|northrop grumman|devops software engineering intern",
+    "company": "Northrop Grumman",
+    "title": "DevOps Software Engineering Intern",
+    "locations": [
+      "Roy, UT"
+    ],
+    "url": "https://go.vansh.nyc/1gk",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793793413,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "90d10f0f01ce0f68",
+    "dedup_key": "intern|northrop grumman|cybersecurity software engineering intern",
+    "company": "Northrop Grumman",
+    "title": "Cybersecurity Software Engineering Intern",
+    "locations": [
+      "Clearfield, UT"
+    ],
+    "url": "https://go.vansh.nyc/1gl",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793793413,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c95996ed8c095769",
+    "dedup_key": "intern|workshop|software engineer intern",
+    "company": "Workshop",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "url": "https://go.vansh.nyc/1gm",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793305256,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0fb69acab153ce69",
+    "dedup_key": "new grad|nooks|software engineer",
+    "company": "Nooks",
+    "title": "Software Engineer",
+    "locations": [
+      "Seattle, WA",
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1g9",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793750400,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "95e34916798f1ef6",
+    "dedup_key": "new grad|northrop grumman|associate software embedded engineer",
+    "company": "Northrop Grumman",
+    "title": "Associate Software Embedded Engineer",
+    "locations": [
+      "Sykesville, MD"
+    ],
+    "url": "https://go.vansh.nyc/1ga",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793750400,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3d6d89867c135216",
+    "dedup_key": "new grad|intel|physical design clocking engineer",
+    "company": "Intel",
+    "title": "Physical Design Clocking Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/1gb",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793664000,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "82957c29b146ccdc",
+    "dedup_key": "new grad|shield|new grad engineer ii simulation framework master s",
+    "company": "Shield",
+    "title": "New Grad: Engineer II, Simulation Framework (Master's)",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/1gc",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793779944,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "272cffbbb4b51bb4",
+    "dedup_key": "new grad|shield|new grad engineer i simulation framework",
+    "company": "Shield",
+    "title": "New Grad: Engineer I, Simulation Framework",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://go.vansh.nyc/1gd",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793779944,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4a6289c2d4ad4a20",
+    "dedup_key": "new grad|shield|new grad engineer i software factory team",
+    "company": "Shield",
+    "title": "New Grad: Engineer I, Software, Factory Team",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://go.vansh.nyc/1ge",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793779944,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "eebc178703a15919",
+    "dedup_key": "new grad|human interest|software engineer i",
+    "company": "Human Interest",
+    "title": "Software Engineer I",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1gi",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793790744,
+    "date_found": 1793803959,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "0e3688ae79170a9d",

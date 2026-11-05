@@ -1,9 +1,74 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-05 17:38 UTC · 4388 live & eligible postings (showing 400); 115 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-05 22:51 UTC · 4453 live & eligible postings (showing 400); 116 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-05 | 2026-11-05 | Shield AI | Software Engineer Co-op | Dallas, TX, Washington, DC, Seattle, WA, San Diego, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1iN) |
+| 2026-11-05 | 2026-11-05 | Sierra Nevada Corporation | Firmware Engineer Intern | Sparks, NV | Summer | swe | unknown | [apply](https://go.vansh.nyc/1iR) |
+| 2026-11-05 | 2026-11-05 | Lumbermen's | Software Developer Intern | Grand Rapids, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1iS) |
+| 2026-11-05 | 2026-11-05 | Legrand | Firmware Engineering Intern | Reno, NV | Summer | swe | unknown | [apply](https://go.vansh.nyc/1iV) |
+| 2026-11-05 | 2026-11-05 | Shield | Software Engineer Co-op | Dallas, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1iW) |
+| 2026-11-05 | 2026-11-05 | Palantir Technologies | Software Engineer Intern, Sovereign AI Systems | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1j0) |
+| 2026-11-05 | 2026-11-04 | STARKEY DE MÉXICO S.A. DE C.V. | Software Engineering Intern | Eden Prairie, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1j1) |
+| 2026-11-05 | 2026-11-05 | BorgWarner | Software Test Intern | Auburn Hills, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1jb) |
+| 2026-11-05 | 2026-11-05 | JM Family Enterprises | Data Engineering Intern | Deerfield Beach, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1jd) |
+| 2026-11-05 | 2026-11-05 | Western Alliance Bancorporation | Platform Engineering Intern | Columbus, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1jh) |
+| 2026-11-05 | 2026-11-05 | Nordson | Software Intern | Minneapolis, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1jk) |
+| 2026-11-05 | 2026-11-05 | Western Alliance Bancorporation | Platform Engineering Intern | Dallas, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1jm) |
+| 2026-11-05 | 2026-11-05 | Tenet Healthcare | Data Engineer Intern | Dallas, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1jn) |
+| 2026-11-05 | 2026-11-05 | Amazon | New Grad 2027: Software Development Engineer, Amazon Leo | Redmond, WA | — | swe | ok | [apply](https://go.vansh.nyc/1iP) |
+| 2026-11-05 | 2026-11-05 | StubHub | New Grad: Software Engineer I, Consumer Experience | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1iQ) |
+| 2026-11-05 | 2026-11-05 | Booz Allen Hamilton | New Grad 2027: Software Developer | McLean, VA | — | swe | unknown | [apply](https://go.vansh.nyc/1iX) |
+| 2026-11-05 | 2026-11-04 | Abbott | Software Test Engineer | Pleasanton, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1iZ) |
+| 2026-11-05 | 2026-11-05 | Annapurna Labs (U.S.) Inc. | ASIC Formal Verification Engineer I, Annapurna Labs | Austin, TX | — | swe | ok | [apply](https://go.vansh.nyc/1j2) |
+| 2026-11-05 | 2026-11-04 | M&T Bank | New Grad 2027: Technology Development Program - Cybersecurity (Encryption Services) | Buffalo, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1j5) |
+| 2026-11-05 | 2026-11-04 | M&T Bank | New Grad 2027: Technology Development Program, Cybersecurity (Insider Threat) | Buffalo, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1j6) |
+| 2026-11-05 | 2026-11-04 | M&T Bank | New Grad 2027: Technology Development Program, Cybersecurity (Vulnerability Risk Management) | Buffalo, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1j8) |
+| 2026-11-05 | 2026-11-04 | M&T Bank | New Grad 2027: Technology Development Program - Cybersecurity (Workforce Identity & Access Management) | Buffalo, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1j9) |
+| 2026-11-05 | 2026-11-05 | WGU | Associate Software Engineer | Salt Lake City, UT | — | swe | unknown | [apply](https://go.vansh.nyc/1ji) |
+| 2026-11-05 | 2026-11-05 | Twitch | Software Dev Engineer I - Security Platform | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8929545002) |
+| 2026-11-05 | 2026-11-05 | Twitch | Software Dev Engineer I - Security Platform | San Francisco, CA +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8931345002) |
+| 2026-11-05 | 2026-11-05 | Twitch | Software Dev Engineer I - Security Platform | San Francisco, CA +1 | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8931343002) |
+| 2026-11-05 | 2026-11-04 | Amazon | Software Dev Engineer I - Security Platform | San Francisco, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10597112/apply) |
+| 2026-11-05 | 2026-10-30 | Amazon | Front End Engineer II - Amazon Connect - Contact Control Panel | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10596640/apply) |
+| 2026-11-05 | 2026-11-05 | Genova Technologies | Embedded Software Engineer - Aerospace | Cedar Rapids, IA | — | swe | unknown | [apply](https://jobs.lever.co/genovatech/e2bf49c4-97c8-4dc3-8b85-087dfc64ad78) |
+| 2026-11-05 | 2026-11-05 | NBCUniversal | Jr. Software Engineer | Universal City, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000159723020-jr-software-engineer?oga=true) |
+| 2026-11-05 | 2026-11-05 | SpaceX | Software Engineer - Telemetry - Top Secret Clearance - Starlink | Hawthorne, CA +1 | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8918317002?gh_jid=8918317002) |
+| 2026-11-05 | 2026-11-05 | Two Six Technologies | Full Stack Software Engineer | Arlington, VA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6241576004) |
+| 2026-11-05 | 2026-11-04 | Accenture | Custom Application engineering Analyst Java Backend 6577060 | Bentonville, AR | — | swe | unknown | [apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bentonville-805-S-Walton-Blvd-Corp/Custom-Application-engineering-Analyst-Java-Backend-6577060_14881195) |
+| 2026-11-05 | 2026-11-04 | Booz Allen | Software and Documentation Support Engineer - Junior | Port Hueneme, CA | — | swe | unknown | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Port-Hueneme-CA/Software-and-Documentation-Support-Engineer--Junior_R0252799-1) |
+| 2026-11-05 | 2026-11-04 | Cisco | Full-Stack UI Engineer - AI Platforms NC - Hybrid | North Carolina, USA | — | swe | unknown | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Full-Stack-UI-Engineer--AI-Platforms--NC---Hybrid_2023063) |
+| 2026-11-05 | 2026-11-04 | Cisco | Software Engineer Full Stack / Backend I - Full Time - United States | Austin, TX +22 | — | swe | unknown | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Austin-Texas-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2028784) |
+| 2026-11-05 | 2026-11-04 | Cisco | Cloud Engineer II - Full Time - United States | Milpitas, CA | — | swe | unknown | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Cloud-Engineer_2018124) |
+| 2026-11-05 | 2026-11-04 | Credigy | Junior.Net Developer | Norcross, GA | — | swe | ok | [apply](https://job-boards.greenhouse.io/credigysolutionsinc/jobs/4750895005) |
+| 2026-11-05 | 2026-11-04 | Daifuku | Software Support Specialist I | Bolingbrook, IL | — | swe | unknown | [apply](https://careers-daifuku-america.icims.com/jobs/22040/ilus---software-support-specialist-i/job) |
+| 2026-11-05 | 2026-11-04 | Daifuku | Software Support Specialist I | Ellabell, GA | — | swe | unknown | [apply](https://careers-daifuku-america.icims.com/jobs/22041/ilus---software-support-specialist-i/job) |
+| 2026-11-05 | 2026-11-04 | Draper | Software Flight Engr | Cambridge, MA | — | swe | unknown | [apply](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Software-Flight-Engr_JR003108) |
+| 2026-11-05 | 2026-11-04 | Extra Space Storage | Associate Software Engineer | Salt Lake City, UT | — | swe | unknown | [apply](https://extraspace.wd5.myworkdayjobs.com/en-US/ess_external/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836) |
+| 2026-11-05 | 2026-11-04 | Great American Insurance Group | Associate Application Analyst & Developer | Lakeland, FL | — | swe | unknown | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/summit_external/job/Lakeland-FL-USA/Associate-Application-Analyst---Developer_R9850) |
+| 2026-11-05 | 2026-11-04 | Great American Insurance Group | Associate Application Analyst & Developer | Lakeland, FL | — | swe | unknown | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/gaig_external/job/Lakeland-FL-USA/Associate-Application-Analyst---Developer_R9850-1) |
+| 2026-11-05 | 2026-11-04 | Guidewire | Software Engineer | Exton, PA | — | swe | unknown | [apply](https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---Exton-PA/Software-Engineer_JR_15373-1) |
+| 2026-11-05 | 2026-11-04 | Guidewire | Software Engineer | Exton, PA | — | swe | unknown | [apply](https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---Exton-PA/Software-Engineer_JR_15376-1) |
+| 2026-11-05 | 2026-11-04 | Hewlett Packard Enterprise | Software Engineer 2 - Wireless Access Point Development | Cupertino, CA +1 | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217742) |
+| 2026-11-05 | 2026-11-04 | Hewlett Packard Enterprise | Software Engineer 2 - Wireless Access Point Development | Cupertino, CA +1 | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217743-2) |
+| 2026-11-05 | 2026-11-04 | Hewlett Packard Enterprise | Software Engineer 2 - Wireless Access Point Development | Cupertino, CA +1 | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217743-1) |
+| 2026-11-05 | 2026-11-04 | Hewlett Packard Enterprise | Software Engineer 2 - Wireless Access Point Development | Cupertino, CA +1 | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217742-3) |
+| 2026-11-05 | 2026-11-04 | Hewlett Packard Enterprise | Software Engineer 2 - Wireless Access Point Development | Cupertino, CA +1 | — | swe | unknown | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217741-1) |
+| 2026-11-05 | 2026-11-04 | HouseMax Funding | Junior AI Application Developer | Austin, TX | — | swe | unknown | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4641203) |
+| 2026-11-05 | 2026-11-04 | HP | Software Systems Engineer - HP IQ | San Francisco, CA | — | swe | unknown | [apply](https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815) |
+| 2026-11-05 | 2026-11-04 | HP | Software Systems Engineer - HP IQ | San Francisco, CA | — | swe | unknown | [apply](https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Engineer---HP-IQ_UNI4815-1) |
+| 2026-11-05 | 2026-11-04 | Northrop Grumman | 2027 Associate Embedded Software Engineer - Roy UT | Roy, UT | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Embedded-Software-Engineer---Roy-UT_R10259313-1) |
+| 2026-11-05 | 2026-11-04 | Northrop Grumman | 2027 Converting Associate Embedded Software Engineer - Roy UT | Roy, UT | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Converting-Associate-Embedded-Software-Engineer---Roy-UT_R10259300) |
+| 2026-11-05 | 2026-11-04 | Rockstar | Backend Software Engineer - ML Infra | San Francisco, CA | — | swe | unknown | [apply](https://apply.workable.com/rockstar-3/j/F8E3C78E76/) |
+| 2026-11-05 | 2026-11-04 | SEI | Software Engineer | USA | — | swe | unknown | [apply](https://seic.wd1.myworkdayjobs.com/en-US/sei_global_services/job/USA---PA---Oaks/Software-Engineer_R0038203-1) |
+| 2026-11-05 | 2026-11-04 | Sopra Steria I2S | Software Architect Java - m/w/d | Bundesweit, DE | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/SopraSteria1/744000159676269-software-architect-java-m-w-d-?oga=true) |
+| 2026-11-05 | 2026-11-04 | Syncreon Consulting | Full-Stack Java Developer - Java 17 or Higher - Independents profiles only W2 | Lake Mary, FL | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/SyncreonConsulting/744000159659039-full-stack-java-developer-java-17-or-higher-independents-profiles-only-w2-?oga=true) |
+| 2026-11-05 | 2026-10-10 | Shield AI | Engineer II - Software Test and Automation - New Grad - 6221 | Washington, DC | — | swe | unknown | [apply](https://jobs.lever.co/shieldai/ebf49595-032b-493d-a80e-3ac00eb4d0ab) |
+| 2026-11-05 | 2026-10-10 | Shield AI | Engineer II - Software - Factory - New Grad - 6217 | Washington, DC +1 | — | swe | unknown | [apply](https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5) |
+| 2026-11-05 | 2026-10-10 | Shield AI | Engineer I - Software Integration - New Grad - 6214 | Washington, DC +1 | — | swe | ok | [apply](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69) |
+| 2026-11-05 | 2026-10-10 | Shield AI | Engineer I - Software - Factory Team - New Grad - 6235 | Washington, DC +1 | — | swe | ok | [apply](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68) |
+| 2026-11-05 | 2026-08-04 | xAI | Software Engineer - Linux Kernel | Seattle, WA +1 | — | swe | unknown | [apply](https://job-boards.greenhouse.io/xai/jobs/5202187007) |
 | 2026-11-05 | 2026-11-02 | Noblis | Data Science and Innovation Intern | Springfield, VA, Reston, VA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1i2) |
 | 2026-11-05 | 2026-11-05 | Innovative Systems | Software Engineering Co-op | Pittsburgh, PA | Summer | swe | ok | [apply](https://go.vansh.nyc/1i4) |
 | 2026-11-05 | 2026-11-05 | METECS | Software Intern | Houston, TX | Summer | swe | ok | [apply](https://go.vansh.nyc/1i5) |
@@ -339,68 +404,3 @@ _Last updated: 2026-11-05 17:38 UTC · 4388 live & eligible postings (showing 40
 | 2026-11-02 | 2026-11-02 | Microsoft | First-Year Explore Program Engineering Intern | Redmond, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/199) |
 | 2026-11-01 | 2026-11-01 | KnowBe4 | Software Engineer Intern | Clearwater, FL | Summer | swe | ok | [apply](https://go.vansh.nyc/191) |
 | 2026-11-01 | 2026-10-30 | Oceaneering | Robotics Software Engineer | Houston, TX | — | swe | unknown | [apply](https://go.vansh.nyc/195) |
-| 2026-11-01 | 2026-11-01 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/18U) |
-| 2026-11-01 | 2026-11-01 | Siemens Digital Industries Software | Strategic Student Program Digital Enterprise Software Applications Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/18V) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Student Researcher Intern, Seed Model - Vision | San Jose, CA | Summer | quant | unknown | [apply](https://joinbytedance.com/search/7623544831999346997) |
-| 2026-11-01 | 2026-10-30 | Aerospace | IC 2027 Software Integration Engineer | Chantilly, VA | — | swe | unknown | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007) |
-| 2026-11-01 | 2026-10-30 | Cambridge Associates | Jr. Developer | Boston, MA | — | swe | unknown | [apply](https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/handshake/job/Boston/Jr-Developer_JR0000457-2) |
-| 2026-11-01 | 2026-10-30 | Cambridge Associates | Jr. Developer | Boston, MA | — | swe | unknown | [apply](https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/cambridge_associates/job/Boston/Jr-Developer_JR0000457) |
-| 2026-11-01 | 2026-05-24 | SCM | Quantitative Research Analyst Intern | Radnor, PA | Summer | quant | ok | [apply](https://go.vansh.nyc/17s) |
-| 2026-11-01 | 2026-08-25 | Hyphenate | Software Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/17t) |
-| 2026-11-01 | 2026-08-27 | Amazon | Software Development Engineer Intern, Annapurna Labs | Cupertino, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17u) |
-| 2026-11-01 | 2026-09-05 | Powertown | Forward Deployed Engineer Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/17w) |
-| 2026-11-01 | 2026-09-11 | Microsoft | Software Engineering Intern | Redmond, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/17x) |
-| 2026-11-01 | 2026-09-11 | Microsoft | Software Engineering Intern | Reston, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/17y) |
-| 2026-11-01 | 2026-09-16 | Antares | Reactor Software Engineering Intern | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/17z) |
-| 2026-11-01 | 2026-09-16 | Antares | Multiphysics Software Intern | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/17A) |
-| 2026-11-01 | 2026-10-07 | IXL Learning | Software Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/17D) |
-| 2026-11-01 | 2026-10-30 | Intuit | Software Engineering Intern, Full Stack | United States | Summer | swe | ok | [apply](https://go.vansh.nyc/17H) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Student Researcher Intern, Seed Model: Multimodal Interaction & World Model | San Jose, CA | Summer | quant | unknown | [apply](https://go.vansh.nyc/17J) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Backend Development Engineer Intern, Infrastructure Platform Delivery | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17L) |
-| 2026-11-01 | 2026-11-01 | ByteDance | Software Development Engineer Intern, Network Automation | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17M) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Brand Ads | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17N) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Science Intern, TikTok LIVE | San Jose, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/17O) |
-| 2026-11-01 | 2026-11-01 | TikTok | AI Engineer Intern, TikTok-Client Arch | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17P) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Ads Signal & Measurement | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17Q) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Science Intern, TikTok Integrity and Safety | San Jose, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/17R) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning MLOps Intern, Global SRE | San Jose, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/17S) |
-| 2026-11-01 | 2026-11-01 | TikTok | Frontend Engineer Intern, Ads Interface | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/17T) |
-| 2026-11-01 | 2026-11-01 | TikTok | Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/17U) |
-| 2026-11-01 | 2026-11-01 | TikTok | ML Infra Engineer Intern, Ads Infra | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17V) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, Global E-commerce-Search | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/17W) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, App Ads and Gaming | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17X) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Science Intern, TikTok Product | San Jose, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/17Y) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Commerce Ads | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/17Z) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Search Ads | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/180) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Performance Monetization | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/181) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Lead Ads | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/182) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, TikTok AI Search & Visual Search Infra Team | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/183) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, TikTok Search Architecture | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/184) |
-| 2026-11-01 | 2026-11-01 | TikTok | Research Scientist Intern, Monetization Technology - Business Integrity | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/185) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Engineering Project Intern, Ads Targeting | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/186) |
-| 2026-11-01 | 2026-11-01 | TikTok | Research Engineer Intern, Monetization Technology - Business Integrity | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/187) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, TikTok-Data-Search-Local Service | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/189) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Engineer Intern, Data Platform TikTok BP | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18a) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Scientist Project Intern, TikTok Integrity and Safety | San Jose, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/18b) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18c) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Engineer Intern, Data Platform Global Live | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18d) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, TikTok Search Data Infra | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18e) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Engineer Intern, Monetization Data | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18f) |
-| 2026-11-01 | 2026-11-01 | TikTok | Fullstack Software Engineer Intern, Global E-Commerce | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/18g) |
-| 2026-11-01 | 2026-11-01 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18h) |
-| 2026-11-01 | 2026-11-01 | TikTok | Fullstack Software Engineer Intern, Global E-Commerce | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18i) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Visual Search | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18j) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Science Project Intern, Advertisement | San Jose, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/18k) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Recommendation Global E-Commerce | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/18l) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, Ads Infrastructure | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18m) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18o) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Search Quality | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18p) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Global E-Commerce Search | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/18r) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, Recommendation Infra, Performance Efficiency | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18s) |
-| 2026-11-01 | 2026-11-01 | TikTok | AI Software Engineer Project Intern, Transaction Platform | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18t) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure | Seattle, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/18u) |
-| 2026-11-01 | 2026-11-01 | TikTok | Data Scientist Intern, VOD Data | San Jose, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/18w) |
-| 2026-11-01 | 2026-11-01 | TikTok | Machine Learning Engineer Intern, Recommendation | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18B) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, Foundation Platform | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18C) |
-| 2026-11-01 | 2026-11-01 | TikTok | Software Engineer Intern, Media Engine | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18D) |
-| 2026-11-01 | 2026-11-01 | TikTok | Backend Software Engineer Intern, Creation Platform | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/18E) |

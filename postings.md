@@ -1,9 +1,17 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-04 21:17 UTC · 4333 live & eligible postings (showing 400); 112 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-05 01:47 UTC · 4341 live & eligible postings (showing 400); 113 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-05 | 2026-11-04 | ASML | Machine Learning and Image-Based EUV System Setup Intern | San Diego, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1h9) |
+| 2026-11-05 | 2026-11-04 | GM Financial | Cloud Engineer Intern | Irving, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1hc) |
+| 2026-11-05 | 2026-11-04 | Logiqal | Quantum Error Correction and Architecture Intern | Princeton, NJ | Summer | quant | unknown | [apply](https://go.vansh.nyc/1hg) |
+| 2026-11-05 | 2026-11-05 | Badger Meter | Firmware Test Engineer Intern | Milwaukee, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1hi) |
+| 2026-11-05 | 2026-11-04 | General Motors | Software Systems Engineer, Data Labeling Engineering | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1h6) |
+| 2026-11-05 | 2026-11-04 | M&T Bank | New Grad 2027: Technology Development Program - Operating Systems Engineer | Buffalo, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1hd) |
+| 2026-11-05 | 2026-11-04 | M&T Bank | New Grad 2027: Technology Development Program - Cloud Storage & Data Protection Engineer | Buffalo, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1he) |
+| 2026-11-05 | 2026-11-05 | RTX | Infrastructure Engineer I | West Valley City, UT | — | swe | unknown | [apply](https://go.vansh.nyc/1hj) |
 | 2026-11-04 | 2026-11-04 | Zebra Technologies | Systems Engineer Intern | Germantown, MD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1gw) |
 | 2026-11-04 | 2026-11-04 | Zebra Technologies | Software Engineer Intern, AI Features & Product Convergence | Kennesaw, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1gx) |
 | 2026-11-04 | 2026-11-04 | Moog | Software Engineering Intern | Torrance, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1gy) |
@@ -396,11 +404,3 @@ _Last updated: 2026-11-04 21:17 UTC · 4333 live & eligible postings (showing 40
 | 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Software Engineer, Ads Infra | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/16q) |
 | 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/16r) |
 | 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Software Engineer (Global E-commerce-Search) | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/16s) |
-| 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: AI Systems Engineer (AI Code Infrastructure-Agentic Ops US) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/16t) |
-| 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Backend Engineer, User Growth | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/16u) |
-| 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Machine Learning Engineer, TikTok-Data-Search-Recommendation | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/16v) |
-| 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Software Engineer (Media Engine) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/16w) |
-| 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/16x) |
-| 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Backend Software Engineer, Global E-commerce | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/16y) |
-| 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Fullstack Software Engineer, Global E-commerce | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/16z) |
-| 2026-11-01 | 2026-11-01 | TikTok | New Grad 2027: Software Engineer (TikTok AI Search & Visual Search Infra Team) | San Jose, CA | — | swe | ok | [apply](https://go.vansh.nyc/16A) |

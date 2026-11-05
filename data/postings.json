@@ -14,10 +14,191 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793827054,
+    "date_found": 1793843247,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "7f3a6bb7d034895a",
+    "dedup_key": "intern|asml|machine learning and image based euv system setup intern",
+    "company": "ASML",
+    "title": "Machine Learning and Image-Based EUV System Setup Intern",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/1h9",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793831808,
+    "date_found": 1793843247,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0fe1a53efab8265a",
+    "dedup_key": "intern|gm financial|cloud engineer intern",
+    "company": "GM Financial",
+    "title": "Cloud Engineer Intern",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://go.vansh.nyc/1hc",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793752575,
+    "date_found": 1793843247,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e933b43f78b3c680",
+    "dedup_key": "intern|idemia|information technology intern",
+    "company": "IDEMIA",
+    "title": "Information Technology Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1hf",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793750400,
+    "date_found": 1793843247,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 410"
+  },
+  {
+    "id": "5bf6ec374128afe3",
+    "dedup_key": "intern|logiqal|quantum error correction and architecture intern",
+    "company": "Logiqal",
+    "title": "Quantum Error Correction and Architecture Intern",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "url": "https://go.vansh.nyc/1hg",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1793750400,
+    "date_found": 1793843247,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6a287850207eb8dd",
+    "dedup_key": "intern|badger meter|firmware test engineer intern",
+    "company": "Badger Meter",
+    "title": "Firmware Test Engineer Intern",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "url": "https://go.vansh.nyc/1hi",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793836800,
+    "date_found": 1793843247,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0ce12c652ee91821",
+    "dedup_key": "new grad|general motors|software systems engineer data labeling engineering",
+    "company": "General Motors",
+    "title": "Software Systems Engineer, Data Labeling Engineering",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://go.vansh.nyc/1h6",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793827551,
+    "date_found": 1793843247,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1642db5a3e5882cb",
+    "dedup_key": "new grad|m t bank|new grad 2027 technology development program operating systems engineer",
+    "company": "M&T Bank",
+    "title": "New Grad 2027: Technology Development Program - Operating Systems Engineer",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "url": "https://go.vansh.nyc/1hd",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793750400,
+    "date_found": 1793843247,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e9d5d59129a0e5dd",
+    "dedup_key": "new grad|m t bank|new grad 2027 technology development program cloud storage data protection engineer",
+    "company": "M&T Bank",
+    "title": "New Grad 2027: Technology Development Program - Cloud Storage & Data Protection Engineer",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "url": "https://go.vansh.nyc/1he",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793750400,
+    "date_found": 1793843247,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "539c576dfc94711d",
+    "dedup_key": "new grad|rtx|infrastructure engineer i",
+    "company": "RTX",
+    "title": "Infrastructure Engineer I",
+    "locations": [
+      "West Valley City, UT"
+    ],
+    "url": "https://go.vansh.nyc/1hj",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793839956,
+    "date_found": 1793843247,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "664eab2f9e689bbb",

@@ -14,10 +14,371 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793919066,
+    "date_found": 1793935476,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "7b683e846f42d10d",
+    "dedup_key": "intern|riverside research|software applications intern",
+    "company": "Riverside Research",
+    "title": "Software Applications Intern",
+    "locations": [
+      "Fairborn, OH"
+    ],
+    "url": "https://go.vansh.nyc/1ju",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793836800,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "792f65069b42085f",
+    "dedup_key": "intern|dwyeromega|software engineer intern",
+    "company": "DwyerOmega",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Westerville, OH"
+    ],
+    "url": "https://go.vansh.nyc/1jv",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793920540,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "cd0ca5fa2f62d55e",
+    "dedup_key": "intern|cintas|it engineer intern customer channels",
+    "company": "Cintas",
+    "title": "IT Engineer Intern, Customer Channels",
+    "locations": [
+      "Mason, OH"
+    ],
+    "url": "https://go.vansh.nyc/1jw",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793921173,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d50e27961bcc4ee3",
+    "dedup_key": "intern|walmart|data science intern last mile delivery",
+    "company": "Walmart",
+    "title": "Data Science Intern, Last Mile Delivery",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "url": "https://go.vansh.nyc/1jy",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1793922039,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cad7240c3c3fc3c0",
+    "dedup_key": "intern|versant|technology product design engineering intern golfnow full swing rotten tomatoes fandango",
+    "company": "Versant",
+    "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
+    "locations": [
+      "North Hollywood, CA"
+    ],
+    "url": "https://go.vansh.nyc/1jE",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793836800,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7c69614616a9a981",
+    "dedup_key": "intern|versant|technology product design engineering intern golfnow full swing rotten tomatoes fandango",
+    "company": "Versant",
+    "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "url": "https://go.vansh.nyc/1jF",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793836800,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "dd793b696c3331d9",
+    "dedup_key": "intern|versant|technology product design engineering intern golfnow full swing rotten tomatoes fandango",
+    "company": "Versant",
+    "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "url": "https://go.vansh.nyc/1jG",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793836800,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ada2d21eeadb7a4e",
+    "dedup_key": "intern|v2x|ai engineering intern",
+    "company": "V2X",
+    "title": "AI Engineering Intern",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "url": "https://go.vansh.nyc/1jH",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793916120,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a5cf857da8e1861c",
+    "dedup_key": "intern|v2x|ai engineer intern",
+    "company": "V2X",
+    "title": "AI Engineer Intern",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "url": "https://go.vansh.nyc/1jI",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793916480,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "79ae97c75cba8423",
+    "dedup_key": "intern|raft company website|full stack engineering intern",
+    "company": "Raft Company Website",
+    "title": "Full Stack Engineering Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://go.vansh.nyc/1jS",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793923200,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "16dc9eb6b7b2eac1",
+    "dedup_key": "intern|raft company website|devops engineering intern",
+    "company": "Raft Company Website",
+    "title": "DevOps Engineering Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://go.vansh.nyc/1jT",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793923200,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "67cb9ff05d1bdeb5",
+    "dedup_key": "intern|raft company website|data engineering intern",
+    "company": "Raft Company Website",
+    "title": "Data Engineering Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://go.vansh.nyc/1jU",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793925842,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e98476cf905f2a85",
+    "dedup_key": "intern|zoox|software engineer intern software platforms product",
+    "company": "Zoox",
+    "title": "Software Engineer Intern, Software Platforms & Product",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "url": "https://go.vansh.nyc/1jV",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793932595,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6c7f0425035dbcb3",
+    "dedup_key": "intern|zoox|software engineer intern software systems",
+    "company": "Zoox",
+    "title": "Software Engineer Intern, Software Systems",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "url": "https://go.vansh.nyc/1jW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793932597,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0ed670f285adefbb",
+    "dedup_key": "new grad|persimmons ai|new grad design verification engineer ai driven",
+    "company": "Persimmons.ai",
+    "title": "New Grad: Design Verification Engineer, AI-Driven",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/1jA",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793920375,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "67eeede424a7ddd9",
+    "dedup_key": "new grad|first national bank|data analytics engineer 1",
+    "company": "First National Bank",
+    "title": "Data Analytics Engineer 1",
+    "locations": [
+      "Pittsburgh, PA",
+      "Hermitage, PA"
+    ],
+    "url": "https://go.vansh.nyc/1jO",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793836800,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8927b9e0610b6a41",
+    "dedup_key": "new grad|salesforce|systems engineering associate",
+    "company": "Salesforce",
+    "title": "Systems Engineering Associate",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://go.vansh.nyc/1jP",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793923488,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "af98e4c9ece485fc",
+    "dedup_key": "new grad|persimmons ai|new grad design verification engineer",
+    "company": "Persimmons.ai",
+    "title": "New Grad: Design Verification Engineer",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/1jQ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793924234,
+    "date_found": 1793935476,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "2ef770e55d15aff5",

@@ -14,10 +14,50 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1793935476,
+    "date_found": 1793964534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "61a19680de050f31",
+    "dedup_key": "intern|asm|product intelligence engineering intern ai ml",
+    "company": "ASM",
+    "title": "Product Intelligence Engineering Intern, AI/ML",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://go.vansh.nyc/1jZ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793938921,
+    "date_found": 1793964534,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4d45d4e70d63d9d4",
+    "dedup_key": "new grad|amazon|software development engineer soc hardware abstraction layer",
+    "company": "Amazon",
+    "title": "Software Development Engineer, SoC Hardware Abstraction Layer",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "url": "https://go.vansh.nyc/1k0",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793950073,
+    "date_found": 1793964534,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "7b683e846f42d10d",

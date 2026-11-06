@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-06 03:24 UTC · 4471 live & eligible postings (showing 400); 116 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-06 11:29 UTC · 4473 live & eligible postings (showing 400); 116 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-06 | 2026-11-06 | ASM | Product Intelligence Engineering Intern, AI/ML | Phoenix, AZ | Summer | swe | ok | [apply](https://go.vansh.nyc/1jZ) |
+| 2026-11-06 | 2026-11-06 | Amazon | Software Development Engineer, SoC Hardware Abstraction Layer | Cupertino, CA | — | swe | ok | [apply](https://go.vansh.nyc/1k0) |
 | 2026-11-06 | 2026-11-05 | Riverside Research | Software Applications Intern | Fairborn, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/1ju) |
 | 2026-11-06 | 2026-11-05 | DwyerOmega | Software Engineer Intern | Westerville, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/1jv) |
 | 2026-11-06 | 2026-11-05 | Cintas | IT Engineer Intern, Customer Channels | Mason, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/1jw) |
@@ -402,5 +404,3 @@ _Last updated: 2026-11-06 03:24 UTC · 4471 live & eligible postings (showing 40
 | 2026-11-02 | 2026-11-02 | Northrop Grumman | Engineering Software and Analysis Intern | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/19x) |
 | 2026-11-02 | 2026-11-02 | Microsoft | Software Engineer Intern | Aliso Viejo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/19z) |
 | 2026-11-02 | 2026-11-02 | Intuitive | AI/ML Engineer Intern | Sunnyvale, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/19B) |
-| 2026-11-02 | 2026-11-02 | RTX | Systems Security Engineering Intern | Fullerton, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/19G) |
-| 2026-11-02 | 2026-11-02 | RTX | Systems Security Engineer Intern, Raytheon | Woburn, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/19I) |

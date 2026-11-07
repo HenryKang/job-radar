@@ -1,9 +1,17 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-06 23:31 UTC · 4545 live & eligible postings (showing 400); 119 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-07 03:12 UTC · 4553 live & eligible postings (showing 400); 121 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-07 | 2026-11-06 | Intercontinental Exchange | Trading System Development Intern | New York, NY | Summer | quant | unknown | [apply](https://go.vansh.nyc/1lC) |
+| 2026-11-07 | 2026-11-06 | Intercontinental Exchange | Release Engineering Intern | Jacksonville, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1lD) |
+| 2026-11-07 | 2026-11-06 | Parspec | Applied AI Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1lJ) |
+| 2026-11-07 | 2026-11-06 | Enovation Controls | Embedded Machine Learning Engineer Intern | Tulsa, OK | Summer | swe | ok | [apply](https://go.vansh.nyc/1lN) |
+| 2026-11-07 | 2026-11-06 | Enovation Controls | Manufacturing Software Engineer Intern | Tulsa, OK | Summer | swe | ok | [apply](https://go.vansh.nyc/1lO) |
+| 2026-11-07 | 2026-11-06 | Zoox | Data Science Intern | Foster City, CA, Boston, MA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1lQ) |
+| 2026-11-07 | 2026-11-06 | Cisco | Software Engineer Embedded Systems I | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1lU) |
+| 2026-11-07 | 2026-11-06 | Cisco | ASIC DFT Engineer I | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1lV) |
 | 2026-11-06 | 2026-11-06 | Notion | Software Engineering Intern, Frontend | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1kP) |
 | 2026-11-06 | 2026-11-06 | Notion | Software Engineering Intern, iOS | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1kQ) |
 | 2026-11-06 | 2026-07-13 | Serval | Software Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1kU) |
@@ -396,11 +404,3 @@ _Last updated: 2026-11-06 23:31 UTC · 4545 live & eligible postings (showing 40
 | 2026-11-03 | 2026-11-03 | Clarios | Forward Deployed Engineering Intern | Milwaukee, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ck) |
 | 2026-11-03 | 2026-11-03 | CWAN | Software Development Intern | Boise, ID | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cl) |
 | 2026-11-03 | 2026-11-03 | CWAN | Software Development Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cm) |
-| 2026-11-03 | 2026-11-03 | onepot | Research Intern, Machine Learning | South San Francisco, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1cp) |
-| 2026-11-03 | 2026-11-03 | DriveTime | Software Engineering Intern | Tempe, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cr) |
-| 2026-11-03 | 2026-11-03 | DriveTime | Database Engineering Intern | Tempe, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cs) |
-| 2026-11-03 | 2026-11-03 | DriveTime | Data Science Intern | Tempe, AZ, Dallas, TX | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1ct) |
-| 2026-11-03 | 2026-11-03 | Gordon Food Service | Data Science Engineer Intern | Atlanta, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cu) |
-| 2026-11-03 | 2026-11-03 | Gordon Food Service | Data Engineering Intern | Atlanta, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cw) |
-| 2026-11-03 | 2026-11-03 | Johnson & Johnson | Software Engineering Co-op | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cA) |
-| 2026-11-03 | 2026-11-03 | Johnson & Johnson | Data Science Co-op | Cincinnati, OH | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1cB) |

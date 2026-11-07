@@ -14,10 +14,211 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794007870,
+    "date_found": 1794021146,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "0105078e040d180f",
+    "dedup_key": "intern|intercontinental exchange|trading system development intern",
+    "company": "Intercontinental Exchange",
+    "title": "Trading System Development Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1lC",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1793923200,
+    "date_found": 1794021146,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d2a2091eb098120b",
+    "dedup_key": "intern|intercontinental exchange|release engineering intern",
+    "company": "Intercontinental Exchange",
+    "title": "Release Engineering Intern",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://go.vansh.nyc/1lD",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793923200,
+    "date_found": 1794021146,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2df49fe1d7da8004",
+    "dedup_key": "intern|parspec|applied ai engineer intern",
+    "company": "Parspec",
+    "title": "Applied AI Engineer Intern",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "url": "https://go.vansh.nyc/1lJ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794005807,
+    "date_found": 1794021146,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "894ba7146fe299a0",
+    "dedup_key": "intern|enovation controls|embedded machine learning engineer intern",
+    "company": "Enovation Controls",
+    "title": "Embedded Machine Learning Engineer Intern",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "url": "https://go.vansh.nyc/1lN",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794008744,
+    "date_found": 1794021146,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6892ca44cbd5d24e",
+    "dedup_key": "intern|enovation controls|manufacturing software engineer intern",
+    "company": "Enovation Controls",
+    "title": "Manufacturing Software Engineer Intern",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "url": "https://go.vansh.nyc/1lO",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794008744,
+    "date_found": 1794021146,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4ff187264f4bc0d7",
+    "dedup_key": "intern|zoox|data science intern",
+    "company": "Zoox",
+    "title": "Data Science Intern",
+    "locations": [
+      "Foster City, CA",
+      "Boston, MA"
+    ],
+    "url": "https://go.vansh.nyc/1lQ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1794007076,
+    "date_found": 1794021146,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "962cb5a41c672b5d",
+    "dedup_key": "intern|mitre|data science intern",
+    "company": "MITRE",
+    "title": "Data Science Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://go.vansh.nyc/1lR",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793923616,
+    "date_found": 1794021146,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "15346ba91acce51d",
+    "dedup_key": "new grad|intel|new grad 2027 software performance engineer master s",
+    "company": "Intel",
+    "title": "New Grad 2027: Software Performance Engineer (Master's)",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "url": "https://go.vansh.nyc/1lS",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793923200,
+    "date_found": 1794021146,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "dda1815e4467aaca",
+    "dedup_key": "new grad|cisco|software engineer embedded systems i",
+    "company": "Cisco",
+    "title": "Software Engineer Embedded Systems I",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/1lU",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794009308,
+    "date_found": 1794021146,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de88d35bbc2d8628",
+    "dedup_key": "new grad|cisco|asic dft engineer i",
+    "company": "Cisco",
+    "title": "ASIC DFT Engineer I",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/1lV",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794009308,
+    "date_found": 1794021146,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "28892e6fc49aa99b",

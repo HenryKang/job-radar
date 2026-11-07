@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-07 03:12 UTC · 4553 live & eligible postings (showing 400); 121 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-07 10:04 UTC · 4554 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-07 | 2026-11-07 | Corning | HPC DevOps Engineer Intern, Science & Technology | Corning, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1lY) |
 | 2026-11-07 | 2026-11-06 | Intercontinental Exchange | Trading System Development Intern | New York, NY | Summer | quant | unknown | [apply](https://go.vansh.nyc/1lC) |
 | 2026-11-07 | 2026-11-06 | Intercontinental Exchange | Release Engineering Intern | Jacksonville, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1lD) |
 | 2026-11-07 | 2026-11-06 | Parspec | Applied AI Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1lJ) |
@@ -403,4 +404,3 @@ _Last updated: 2026-11-07 03:12 UTC · 4553 live & eligible postings (showing 40
 | 2026-11-03 | 2026-11-03 | Cambridge Investment Research | Data Engineering Intern | Phoenix, AZ, Fairfield, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cj) |
 | 2026-11-03 | 2026-11-03 | Clarios | Forward Deployed Engineering Intern | Milwaukee, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ck) |
 | 2026-11-03 | 2026-11-03 | CWAN | Software Development Intern | Boise, ID | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cl) |
-| 2026-11-03 | 2026-11-03 | CWAN | Software Development Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cm) |

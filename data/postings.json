@@ -14,10 +14,70 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794021146,
+    "date_found": 1794045833,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "962cb5a41c672b5d",
+    "dedup_key": "intern|mitre|data science intern",
+    "company": "MITRE",
+    "title": "Data Science Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://go.vansh.nyc/1lR",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793923616,
+    "date_found": 1794045833,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "604ff341ad3e5fea",
+    "dedup_key": "intern|mitre|computer science or software engineering intern",
+    "company": "MITRE",
+    "title": "Computer Science or Software Engineering Intern",
+    "locations": [
+      "McLean, VA"
+    ],
+    "url": "https://go.vansh.nyc/1lX",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793934463,
+    "date_found": 1794045833,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "81d60d72e9834aca",
+    "dedup_key": "intern|corning|hpc devops engineer intern science technology",
+    "company": "Corning",
+    "title": "HPC DevOps Engineer Intern, Science & Technology",
+    "locations": [
+      "Corning, NY"
+    ],
+    "url": "https://go.vansh.nyc/1lY",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794028004,
+    "date_found": 1794045833,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "0105078e040d180f",
@@ -139,26 +199,6 @@
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "962cb5a41c672b5d",
-    "dedup_key": "intern|mitre|data science intern",
-    "company": "MITRE",
-    "title": "Data Science Intern",
-    "locations": [
-      "McLean, VA"
-    ],
-    "url": "https://go.vansh.nyc/1lR",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "ml_data",
-    "sponsorship": "U.S. Citizenship is Required",
-    "date_posted": 1793923616,
-    "date_found": 1794021146,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
   },
   {
     "id": "15346ba91acce51d",

@@ -1,9 +1,22 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-07 16:24 UTC · 4557 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-07 20:30 UTC · 4570 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-07 | 2026-11-04 | Stoke Space | Software Intern | Kent, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/1m5) |
+| 2026-11-07 | 2026-11-07 | Framatome | AI and Software Innovation Intern | Lynchburg, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m6) |
+| 2026-11-07 | 2026-11-07 | Blackhawk Network | Technology Intern | Coppell, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m7) |
+| 2026-11-07 | 2026-11-07 | Blackhawk Network | Technology Intern | Pleasanton, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m8) |
+| 2026-11-07 | 2026-11-07 | Dayton Freight | Software Developer Intern | Dayton, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m9) |
+| 2026-11-07 | 2026-11-07 | Springs Window Fashions | Textile Engineering Analytics & Software Intern | Middleton, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1me) |
+| 2026-11-07 | 2026-11-07 | Springs Window Fashions | Software Engineering Intern | Long Island City, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mf) |
+| 2026-11-07 | 2026-11-07 | empirical | Software Engineering Intern | Dakota Dunes, SD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mg) |
+| 2026-11-07 | 2026-11-06 | Apple | AI Operations, Applied AI Research and Design Developer | Cupertino, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1mi) |
+| 2026-11-07 | 2026-11-06 | Wavestone1 | AI Full Stack Engineer | Pittsburgh, PA | — | swe | unknown | [apply](https://go.vansh.nyc/1mj) |
+| 2026-11-07 | 2026-11-06 | Secfix | Backend Engineer, GTM Engineering | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1mk) |
+| 2026-11-07 | 2026-11-07 | ElevenLabs | Full-Stack Engineer | New York, NY, Boston, MA | — | swe | unknown | [apply](https://go.vansh.nyc/1ml) |
+| 2026-11-07 | 2026-11-07 | ElevenLabs | Full-Stack Engineer (Backend Leaning) | New York, NY, Boston, MA | — | swe | unknown | [apply](https://go.vansh.nyc/1mm) |
 | 2026-11-07 | 2026-11-07 | IDEMIA | Service Platform Engineering Intern | Brentwood, TN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m1) |
 | 2026-11-07 | 2026-08-13 | Aechelon Technology | Junior Software Engineer Intern | Overland Park, KS | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m2) |
 | 2026-11-07 | 2026-08-13 | Aechelon Technology | Junior Software Engineer Intern, RTK | Farmer's Branch, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m3) |
@@ -391,16 +404,3 @@ _Last updated: 2026-11-07 16:24 UTC · 4557 live & eligible postings (showing 40
 | 2026-11-03 | 2026-11-03 | Alcon | Software, Data & AI Engineering Intern | Fort Worth, TX, Lake Forest, CA, Johns Creek, GA, Houston, TX, Goleta, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1bZ) |
 | 2026-11-03 | 2026-11-03 | Allegion | Software Engineering Intern, DevOps | Carmel, IN, Golden, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c0) |
 | 2026-11-03 | 2026-11-03 | Allegion | Firmware Engineer Intern, Advanced Development | Indianapolis, IN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c1) |
-| 2026-11-03 | 2026-11-03 | Allegion | Software Engineering Intern | Golden, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c3) |
-| 2026-11-03 | 2026-11-03 | Auto-Owners Insurance | Analytics Web Systems Developer Intern | Lansing, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c4) |
-| 2026-11-03 | 2026-11-03 | Auto-Owners Insurance | Intelligent Automation Developer Intern | Lansing, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c5) |
-| 2026-11-03 | 2026-11-03 | Auto-Owners Insurance | IT Security Engineer Intern | Lansing, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c6) |
-| 2026-11-03 | 2026-11-03 | AspenTech | Software Development Intern, Digital Grid Management | Medina, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c7) |
-| 2026-11-03 | 2026-11-03 | CNA Insurance | Software Engineering Intern, Technology | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c9) |
-| 2026-11-03 | 2026-11-03 | CNA Insurance | AI Engineering Intern, Technology | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ca) |
-| 2026-11-03 | 2026-11-03 | CNA Insurance | Data Engineering Intern, Technology | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cb) |
-| 2026-11-03 | 2026-11-03 | CNA Insurance | Cybersecurity Intern, Technology | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cc) |
-| 2026-11-03 | 2026-11-03 | CAI | GIS Software Developer Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ce) |
-| 2026-11-03 | 2026-11-03 | C.H. Robinson | Software Engineering Intern | Eden Prairie, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cg) |
-| 2026-11-03 | 2026-11-03 | Cambridge Investment Research | Software Engineering Intern | Fairfield, IA, West Des Moines, IA, Phoenix, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ch) |
-| 2026-11-03 | 2026-11-03 | Cambridge Investment Research | Salesforce Developer Intern | Phoenix, AZ, Fairfield, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ci) |

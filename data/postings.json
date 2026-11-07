@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794068630,
+    "date_found": 1794083398,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794068630,
+    "date_found": 1794083398,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,10 +54,272 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794068630,
+    "date_found": 1794083398,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "650e18cff2abc4af",
+    "dedup_key": "intern|stoke space|software intern",
+    "company": "Stoke Space",
+    "title": "Software Intern",
+    "locations": [
+      "Kent, WA"
+    ],
+    "url": "https://go.vansh.nyc/1m5",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1793811305,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a1057b2036481011",
+    "dedup_key": "intern|framatome|ai and software innovation intern",
+    "company": "Framatome",
+    "title": "AI and Software Innovation Intern",
+    "locations": [
+      "Lynchburg, VA"
+    ],
+    "url": "https://go.vansh.nyc/1m6",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794071215,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c48064f845dda050",
+    "dedup_key": "intern|blackhawk network|technology intern",
+    "company": "Blackhawk Network",
+    "title": "Technology Intern",
+    "locations": [
+      "Coppell, TX"
+    ],
+    "url": "https://go.vansh.nyc/1m7",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794071215,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "512c1f6db75da0ed",
+    "dedup_key": "intern|blackhawk network|technology intern",
+    "company": "Blackhawk Network",
+    "title": "Technology Intern",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "url": "https://go.vansh.nyc/1m8",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794071215,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1ed99703f2df786f",
+    "dedup_key": "intern|dayton freight|software developer intern",
+    "company": "Dayton Freight",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "url": "https://go.vansh.nyc/1m9",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794071215,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5811e79dc1ceab52",
+    "dedup_key": "intern|springs window fashions|textile engineering analytics software intern",
+    "company": "Springs Window Fashions",
+    "title": "Textile Engineering Analytics & Software Intern",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "url": "https://go.vansh.nyc/1me",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794071215,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ab8c64e6ffb18850",
+    "dedup_key": "intern|springs window fashions|software engineering intern",
+    "company": "Springs Window Fashions",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Long Island City, NY"
+    ],
+    "url": "https://go.vansh.nyc/1mf",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794071215,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0ef7ce675ff98406",
+    "dedup_key": "intern|empirical|software engineering intern",
+    "company": "empirical",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Dakota Dunes, SD"
+    ],
+    "url": "https://go.vansh.nyc/1mg",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794071215,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "375bc8331dafa179",
+    "dedup_key": "new grad|apple|ai operations applied ai research and design developer",
+    "company": "Apple",
+    "title": "AI Operations, Applied AI Research and Design Developer",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "url": "https://go.vansh.nyc/1mi",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794001356,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ea08792704ee5222",
+    "dedup_key": "new grad|wavestone1|ai full stack engineer",
+    "company": "Wavestone1",
+    "title": "AI Full Stack Engineer",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://go.vansh.nyc/1mj",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1793989856,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "69247bfb83ad5021",
+    "dedup_key": "new grad|secfix|backend engineer gtm engineering",
+    "company": "Secfix",
+    "title": "Backend Engineer, GTM Engineering",
+    "locations": [
+      "Remote"
+    ],
+    "url": "https://go.vansh.nyc/1mk",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793992618,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1ade8bba69f0ac09",
+    "dedup_key": "new grad|elevenlabs|full stack engineer",
+    "company": "ElevenLabs",
+    "title": "Full-Stack Engineer",
+    "locations": [
+      "New York, NY",
+      "Boston, MA"
+    ],
+    "url": "https://go.vansh.nyc/1ml",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794057643,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "712d7d3fc5a2e215",
+    "dedup_key": "new grad|elevenlabs|full stack engineer backend leaning",
+    "company": "ElevenLabs",
+    "title": "Full-Stack Engineer (Backend Leaning)",
+    "locations": [
+      "New York, NY",
+      "Boston, MA"
+    ],
+    "url": "https://go.vansh.nyc/1mm",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794057641,
+    "date_found": 1794083398,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "684fc97340ec30f3",

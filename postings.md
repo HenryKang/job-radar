@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-07 20:30 UTC · 4570 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-07 23:57 UTC · 4572 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-07 | 2026-11-06 | Marmon Holdings | AI Technology Solutions Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mo) |
+| 2026-11-07 | 2026-11-06 | Axiom Consultants | AI Developer Intern | Rockville, MD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mp) |
 | 2026-11-07 | 2026-11-04 | Stoke Space | Software Intern | Kent, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/1m5) |
 | 2026-11-07 | 2026-11-07 | Framatome | AI and Software Innovation Intern | Lynchburg, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m6) |
 | 2026-11-07 | 2026-11-07 | Blackhawk Network | Technology Intern | Coppell, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m7) |
@@ -402,5 +404,3 @@ _Last updated: 2026-11-07 20:30 UTC · 4570 live & eligible postings (showing 40
 | 2026-11-03 | 2026-11-03 | Bracco | Software Engineering Intern | Eden Prairie, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1bX) |
 | 2026-11-03 | 2026-11-03 | AllianceBernstein | Software Development Intern | Nashville, TN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1bY) |
 | 2026-11-03 | 2026-11-03 | Alcon | Software, Data & AI Engineering Intern | Fort Worth, TX, Lake Forest, CA, Johns Creek, GA, Houston, TX, Goleta, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1bZ) |
-| 2026-11-03 | 2026-11-03 | Allegion | Software Engineering Intern, DevOps | Carmel, IN, Golden, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c0) |
-| 2026-11-03 | 2026-11-03 | Allegion | Firmware Engineer Intern, Advanced Development | Indianapolis, IN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1c1) |

@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-07 10:04 UTC · 4554 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-07 16:24 UTC · 4557 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-07 | 2026-11-07 | IDEMIA | Service Platform Engineering Intern | Brentwood, TN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m1) |
+| 2026-11-07 | 2026-08-13 | Aechelon Technology | Junior Software Engineer Intern | Overland Park, KS | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m2) |
+| 2026-11-07 | 2026-08-13 | Aechelon Technology | Junior Software Engineer Intern, RTK | Farmer's Branch, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1m3) |
 | 2026-11-07 | 2026-11-07 | Corning | HPC DevOps Engineer Intern, Science & Technology | Corning, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1lY) |
 | 2026-11-07 | 2026-11-06 | Intercontinental Exchange | Trading System Development Intern | New York, NY | Summer | quant | unknown | [apply](https://go.vansh.nyc/1lC) |
 | 2026-11-07 | 2026-11-06 | Intercontinental Exchange | Release Engineering Intern | Jacksonville, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1lD) |
@@ -401,6 +404,3 @@ _Last updated: 2026-11-07 10:04 UTC · 4554 live & eligible postings (showing 40
 | 2026-11-03 | 2026-11-03 | C.H. Robinson | Software Engineering Intern | Eden Prairie, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cg) |
 | 2026-11-03 | 2026-11-03 | Cambridge Investment Research | Software Engineering Intern | Fairfield, IA, West Des Moines, IA, Phoenix, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ch) |
 | 2026-11-03 | 2026-11-03 | Cambridge Investment Research | Salesforce Developer Intern | Phoenix, AZ, Fairfield, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ci) |
-| 2026-11-03 | 2026-11-03 | Cambridge Investment Research | Data Engineering Intern | Phoenix, AZ, Fairfield, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cj) |
-| 2026-11-03 | 2026-11-03 | Clarios | Forward Deployed Engineering Intern | Milwaukee, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ck) |
-| 2026-11-03 | 2026-11-03 | CWAN | Software Development Intern | Boise, ID | Summer | swe | unknown | [apply](https://go.vansh.nyc/1cl) |

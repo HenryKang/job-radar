@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794045833,
+    "date_found": 1794068630,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794045833,
+    "date_found": 1794068630,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,10 +54,70 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794045833,
+    "date_found": 1794068630,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "684fc97340ec30f3",
+    "dedup_key": "intern|idemia|service platform engineering intern",
+    "company": "IDEMIA",
+    "title": "Service Platform Engineering Intern",
+    "locations": [
+      "Brentwood, TN"
+    ],
+    "url": "https://go.vansh.nyc/1m1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794009600,
+    "date_found": 1794068630,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "48afd4bb4f1df6a1",
+    "dedup_key": "intern|aechelon technology|junior software engineer intern",
+    "company": "Aechelon Technology",
+    "title": "Junior Software Engineer Intern",
+    "locations": [
+      "Overland Park, KS"
+    ],
+    "url": "https://go.vansh.nyc/1m2",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1786652134,
+    "date_found": 1794068630,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8c40120169f9fdd7",
+    "dedup_key": "intern|aechelon technology|junior software engineer intern rtk",
+    "company": "Aechelon Technology",
+    "title": "Junior Software Engineer Intern, RTK",
+    "locations": [
+      "Farmer's Branch, TX"
+    ],
+    "url": "https://go.vansh.nyc/1m3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1786652313,
+    "date_found": 1794068630,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "81d60d72e9834aca",

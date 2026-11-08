@@ -1,9 +1,24 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-08 13:17 UTC · 4583 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-08 18:30 UTC · 4598 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-08 | 2026-10-05 | Center for AI Safety (CAIS) | Research Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mP) |
+| 2026-11-08 | 2026-10-23 | John Deere | Software Engineer Intern, Product Engineering | Waterloo, IA, Cary, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mU) |
+| 2026-11-08 | 2026-10-26 | Qube Research and Technologies | Technology Intern | Chicago, IL, New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mW) |
+| 2026-11-08 | 2026-10-15 | Amazon | Software Development Engineer - Amazon Connect Team | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10583348/apply) |
+| 2026-11-08 | 2026-11-07 | Engine | Software Engineer - GTM Engineering | Remote - USA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/engine/jobs/8046374003) |
+| 2026-11-08 | 2026-11-07 | Keyfactor | Associate Software Engineer | Remote - USA | — | swe | ok | [apply](https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004) |
+| 2026-11-08 | 2026-11-07 | Lawrence Livermore National Laboratory | Embedded Systems Engineer - Super Intelligence Integration | Livermore, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/LLNL/3743990016713546-embedded-systems-engineer-super-intelligence-integration?oga=true) |
+| 2026-11-08 | 2026-11-07 | Wavestone | AI Full Stack Engineer | Pittsburgh, PA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/Wavestone1/744000160277010-ai-full-stack-engineer?oga=true) |
+| 2026-11-08 | 2026-11-06 | ASM | Software Engineer - Early Career | Phoenix, AZ +1 | — | swe | ok | [apply](https://www.asm.com/open-vacancies/?gh_jid=5019821101) |
+| 2026-11-08 | 2026-11-06 | BlackRock | ETF Product Developer - Associate - ETF Platform | San Francisco, CA | — | swe | unknown | [apply](https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/San-Francisco-CA/ETF-Product-Developer--Associate---ETF-Platform_R267103-1) |
+| 2026-11-08 | 2026-11-06 | Charles Schwab | Jr. Software Developer | Omaha, NE +1 | — | swe | unknown | [apply](https://career-schwab.icims.com/jobs/129410/jr.-software-developer/job) |
+| 2026-11-08 | 2026-11-06 | Cook Medical | Software Engineer 1 - Full-Stack | Bloomington, IN +2 | — | swe | unknown | [apply](https://americas-cookmedical.icims.com/jobs/20446/software-engineer-1%2c-full-stack/job) |
+| 2026-11-08 | 2026-11-06 | Intel | Software Performance Engineer | Hillsboro, OR | — | swe | unknown | [apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Performance-Engineer_JR0288983) |
+| 2026-11-08 | 2026-11-06 | Raytheon | Software Platform Engineer I - Onsite | Richardson, TX | — | swe | unknown | [apply](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Platform-Engineer-I--Onsite-_01888024) |
+| 2026-11-08 | 2026-11-06 | Vanguard | Automation Developer - Specialist | Malvern, PA | — | swe | unknown | [apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Automation-Developer--Specialist_183641-1) |
 | 2026-11-08 | 2026-11-08 | D3 | New Grad: Backend Engineer | Los Angeles, CA | — | swe | ok | [apply](https://go.vansh.nyc/1mR) |
 | 2026-11-08 | 2026-11-08 | D3 | New Grad: Frontend Engineer | Los Angeles, CA | — | swe | ok | [apply](https://go.vansh.nyc/1mS) |
 | 2026-11-08 | 2026-11-07 | United Wholesale Mortgage | Technology Intern Program | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mx) |
@@ -389,18 +404,3 @@ _Last updated: 2026-11-08 13:17 UTC · 4583 live & eligible postings (showing 40
 | 2026-11-03 | 2026-11-03 | CareSource | Data Science Intern | Remote, United States | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1dQ) |
 | 2026-11-03 | 2026-11-03 | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dS) |
 | 2026-11-03 | 2026-11-03 | Northrop Grumman | Flight Software Engineer Intern | Manhattan Beach, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dV) |
-| 2026-11-03 | 2026-11-03 | Microsoft | Software Engineer Intern, Teamwork Experiences | Redmond, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dY) |
-| 2026-11-03 | 2026-11-03 | SpaceX | Software Engineer, Starlink Enterprise | Palo Alto, CA | — | swe | ok | [apply](https://go.vansh.nyc/1dT) |
-| 2026-11-03 | 2026-11-03 | Applied Intuition | Software Engineer - Sunnyvale - CA | Sunnyvale, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3) |
-| 2026-11-03 | 2026-11-03 | Aurora Innovation | Developer Support Engineer I | Pittsburgh, PA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/aurora-operations-inc/3083054b-aa88-4cd5-86c2-96af5ddf1ee3) |
-| 2026-11-03 | 2026-11-03 | Intuitive | Software Engineer | Sunnyvale, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/Intuitive/744000159276636-software-engineer-?oga=true) |
-| 2026-11-03 | 2026-11-03 | Smartsheet | Software Engineer I - Remote Eligible | Remote - USA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/smartsheet/jobs/8347710) |
-| 2026-11-03 | 2026-11-03 | SpaceX | Software Engineer - Starlink Enterprise | Palo Alto, CA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002) |
-| 2026-11-03 | 2026-11-02 | CACI | RPA Developer | Remote - O'Fallon, IL | — | swe | unknown | [apply](https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/RPA-Developer_334297) |
-| 2026-11-03 | 2026-11-02 | Centene Corporation | Cloud Platform Engineer I | Remote - Kansas, USA +13 | — | swe | unknown | [apply](https://centene.wd5.myworkdayjobs.com/en-US/centene_external/job/Remote-MO/Cloud-Platform-Engineer-I_1671976) |
-| 2026-11-03 | 2026-11-02 | Kemper | Software Developer | Jacksonville, FL | — | swe | unknown | [apply](https://kemper.wd5.myworkdayjobs.com/en-US/kemper_careers/job/Jacksonville-Florida/Software-Developer_R-26-0038930) |
-| 2026-11-03 | 2026-11-02 | Leidos | Website & Multimedia Content Developer | Chesapeake, VA | — | swe | unknown | [apply](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Chesapeake-VA/Website---Multimedia-Content-Developer_R-00196046) |
-| 2026-11-03 | 2026-11-02 | Lineage Logistics | Associate Report Developer | Novi, MI | — | swe | unknown | [apply](https://onelineage.wd1.myworkdayjobs.com/en-US/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0111033) |
-| 2026-11-03 | 2026-11-02 | Qualtrics | Software Engineer I - XMD | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652) |
-| 2026-11-03 | 2026-11-02 | Qualtrics | Software Development Engineer I - Data Platform | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245) |
-| 2026-11-03 | 2026-11-02 | Skyward | Software Quality Specialist | Stevens Point, WI | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/Skyward1/744000159208369-software-quality-specialist?oga=true) |

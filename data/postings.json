@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794143824,
+    "date_found": 1794162632,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794143824,
+    "date_found": 1794162632,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,10 +54,312 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794143824,
+    "date_found": 1794162632,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "e620c2726a2be17e",
+    "dedup_key": "intern|center for ai safety cais|research engineer intern",
+    "company": "Center for AI Safety (CAIS)",
+    "title": "Research Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1mP",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791230497,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "146d09ab4e743fab",
+    "dedup_key": "intern|john deere|software engineer intern product engineering",
+    "company": "John Deere",
+    "title": "Software Engineer Intern, Product Engineering",
+    "locations": [
+      "Waterloo, IA",
+      "Cary, NC"
+    ],
+    "url": "https://go.vansh.nyc/1mU",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792795459,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "04d5aa3499d39766",
+    "dedup_key": "intern|qube research and technologies|technology intern",
+    "company": "Qube Research and Technologies",
+    "title": "Technology Intern",
+    "locations": [
+      "Chicago, IL",
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1mW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793012494,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "46a0a59b56626e27",
+    "dedup_key": "new grad|amazon|software development engineer amazon connect team",
+    "company": "Amazon",
+    "title": "Software Development Engineer - Amazon Connect Team",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10583348/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1792088960,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "207ad2dbdd418244",
+    "dedup_key": "new grad|engine|software engineer gtm engineering",
+    "company": "Engine",
+    "title": "Software Engineer - GTM Engineering",
+    "locations": [
+      "Remote - USA"
+    ],
+    "url": "https://job-boards.greenhouse.io/engine/jobs/8046374003",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794076160,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
+  },
+  {
+    "id": "7d4ce674523f1d42",
+    "dedup_key": "new grad|keyfactor|associate software engineer",
+    "company": "Keyfactor",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Remote - USA"
+    ],
+    "url": "https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794076160,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "eaf0c520a4ca432e",
+    "dedup_key": "new grad|lawrence livermore national laboratory|embedded systems engineer super intelligence integration",
+    "company": "Lawrence Livermore National Laboratory",
+    "title": "Embedded Systems Engineer - Super Intelligence Integration",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990016713546-embedded-systems-engineer-super-intelligence-integration?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794076160,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7235f53abf6e1bc1",
+    "dedup_key": "new grad|wavestone|ai full stack engineer",
+    "company": "Wavestone",
+    "title": "AI Full Stack Engineer",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Wavestone1/744000160277010-ai-full-stack-engineer?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794076160,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9a8dd3db2d05cd99",
+    "dedup_key": "new grad|asm|software engineer early career",
+    "company": "ASM",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "Phoenix, AZ +1"
+    ],
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=5019821101",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793989760,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c209865b6ce73294",
+    "dedup_key": "new grad|blackrock|etf product developer associate etf platform",
+    "company": "BlackRock",
+    "title": "ETF Product Developer - Associate - ETF Platform",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/San-Francisco-CA/ETF-Product-Developer--Associate---ETF-Platform_R267103-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793989760,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e8fc3916ed2460d3",
+    "dedup_key": "new grad|charles schwab|jr software developer",
+    "company": "Charles Schwab",
+    "title": "Jr. Software Developer",
+    "locations": [
+      "Omaha, NE +1"
+    ],
+    "url": "https://career-schwab.icims.com/jobs/129410/jr.-software-developer/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793989760,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "22cf7dfc4036f35c",
+    "dedup_key": "new grad|cook medical|software engineer 1 full stack",
+    "company": "Cook Medical",
+    "title": "Software Engineer 1 - Full-Stack",
+    "locations": [
+      "Bloomington, IN +2"
+    ],
+    "url": "https://americas-cookmedical.icims.com/jobs/20446/software-engineer-1%2c-full-stack/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793989760,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "46532d6c98fcaf8d",
+    "dedup_key": "new grad|intel|software performance engineer",
+    "company": "Intel",
+    "title": "Software Performance Engineer",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Performance-Engineer_JR0288983",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793989760,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9818d26242fd1cbb",
+    "dedup_key": "new grad|raytheon|software platform engineer i onsite",
+    "company": "Raytheon",
+    "title": "Software Platform Engineer I - Onsite",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Platform-Engineer-I--Onsite-_01888024",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793989760,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "66cfba31b2b9a612",
+    "dedup_key": "new grad|vanguard|automation developer specialist",
+    "company": "Vanguard",
+    "title": "Automation Developer - Specialist",
+    "locations": [
+      "Malvern, PA"
+    ],
+    "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Automation-Developer--Specialist_183641-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793989760,
+    "date_found": 1794162632,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "60a649f49edf828f",

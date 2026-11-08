@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794117309,
+    "date_found": 1794143824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794117309,
+    "date_found": 1794143824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,10 +54,50 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794117309,
+    "date_found": 1794143824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "60a649f49edf828f",
+    "dedup_key": "new grad|d3|new grad backend engineer",
+    "company": "D3",
+    "title": "New Grad: Backend Engineer",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://go.vansh.nyc/1mR",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794143551,
+    "date_found": 1794143824,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "12e3b1971259d151",
+    "dedup_key": "new grad|d3|new grad frontend engineer",
+    "company": "D3",
+    "title": "New Grad: Frontend Engineer",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "url": "https://go.vansh.nyc/1mS",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794143551,
+    "date_found": 1794143824,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "262381f0b92f10cb",

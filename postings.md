@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-08 05:55 UTC · 4581 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-08 13:17 UTC · 4583 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-08 | 2026-11-08 | D3 | New Grad: Backend Engineer | Los Angeles, CA | — | swe | ok | [apply](https://go.vansh.nyc/1mR) |
+| 2026-11-08 | 2026-11-08 | D3 | New Grad: Frontend Engineer | Los Angeles, CA | — | swe | ok | [apply](https://go.vansh.nyc/1mS) |
 | 2026-11-08 | 2026-11-07 | United Wholesale Mortgage | Technology Intern Program | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mx) |
 | 2026-11-08 | 2026-11-07 | West Bend Insurance | Data Solution Engineer Intern | West Bend, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1my) |
 | 2026-11-08 | 2026-11-05 | General Dynamics Mission Systems | Software Engineering Intern | Lakewood, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mz) |
@@ -402,5 +404,3 @@ _Last updated: 2026-11-08 05:55 UTC · 4581 live & eligible postings (showing 40
 | 2026-11-03 | 2026-11-02 | Qualtrics | Software Engineer I - XMD | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652) |
 | 2026-11-03 | 2026-11-02 | Qualtrics | Software Development Engineer I - Data Platform | Seattle, WA | — | swe | unknown | [apply](https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245) |
 | 2026-11-03 | 2026-11-02 | Skyward | Software Quality Specialist | Stevens Point, WI | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/Skyward1/744000159208369-software-quality-specialist?oga=true) |
-| 2026-11-03 | 2026-11-02 | Taxwell | Software Engineer I | Remote - Texas, USA | — | swe | unknown | [apply](https://taxwell.wd1.myworkdayjobs.com/en-US/taxwellcareers/job/Remote---Texas/Software-Engineer-I_R0003951) |
-| 2026-11-03 | 2026-11-02 | Trexquant | C++ Developer | Stamford, CT +1 | — | swe | unknown | [apply](https://apply.workable.com/trexquant/j/AADE688F5F/) |

@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-07 23:57 UTC · 4572 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-08 05:55 UTC · 4581 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-08 | 2026-11-07 | United Wholesale Mortgage | Technology Intern Program | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mx) |
+| 2026-11-08 | 2026-11-07 | West Bend Insurance | Data Solution Engineer Intern | West Bend, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1my) |
+| 2026-11-08 | 2026-11-05 | General Dynamics Mission Systems | Software Engineering Intern | Lakewood, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mz) |
+| 2026-11-08 | 2026-11-05 | General Dynamics Mission Systems | Software Engineering Intern | Manassas, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mA) |
+| 2026-11-08 | 2026-09-21 | Conifer Health Solutions | BI Developer Intern | Dallas, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mE) |
+| 2026-11-08 | 2026-10-30 | Klaviyo | Software Engineer Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mK) |
+| 2026-11-08 | 2026-11-07 | Rovisys | New Grad 2027: Entry Level Engineer/Developer | Houston, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1mG) |
+| 2026-11-08 | 2026-11-07 | Rovisys | New Grad 2027: Entry Level Engineer/Developer | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1mH) |
+| 2026-11-08 | 2026-11-07 | Rovisys | New Grad 2027: Entry Level Engineer/Developer | Holly Springs, NC | — | swe | unknown | [apply](https://go.vansh.nyc/1mI) |
 | 2026-11-07 | 2026-11-06 | Marmon Holdings | AI Technology Solutions Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mo) |
 | 2026-11-07 | 2026-11-06 | Axiom Consultants | AI Developer Intern | Rockville, MD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mp) |
 | 2026-11-07 | 2026-11-04 | Stoke Space | Software Intern | Kent, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/1m5) |
@@ -395,12 +404,3 @@ _Last updated: 2026-11-07 23:57 UTC · 4572 live & eligible postings (showing 40
 | 2026-11-03 | 2026-11-02 | Skyward | Software Quality Specialist | Stevens Point, WI | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/Skyward1/744000159208369-software-quality-specialist?oga=true) |
 | 2026-11-03 | 2026-11-02 | Taxwell | Software Engineer I | Remote - Texas, USA | — | swe | unknown | [apply](https://taxwell.wd1.myworkdayjobs.com/en-US/taxwellcareers/job/Remote---Texas/Software-Engineer-I_R0003951) |
 | 2026-11-03 | 2026-11-02 | Trexquant | C++ Developer | Stamford, CT +1 | — | swe | unknown | [apply](https://apply.workable.com/trexquant/j/AADE688F5F/) |
-| 2026-11-03 | 2026-11-02 | Verkada | Backend Software Engineer - University Graduate 2027 | San Mateo, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) |
-| 2026-11-03 | 2026-10-30 | northwoodspace | Software Engineer- Early Career - Platform | Los Angeles, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) |
-| 2026-11-03 | 2026-07-08 | Klaviyo | Software Engineer II - Mobile Developer - Android/Kotlin - Remote | Boston, MA | — | swe | unknown | [apply](https://www.klaviyo.com/careers/jobs/7792539003?gh_jid=7792539003) |
-| 2026-11-03 | 2026-11-03 | Affirm | Software Engineer II, Fullstack (Capital Orchestration) | Remote US | — | swe | ok | [apply](https://job-boards.greenhouse.io/affirm/jobs/7749755003) |
-| 2026-11-03 | 2026-11-03 | Axos Bank | Software Development Intern | San Diego, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1bT) |
-| 2026-11-03 | 2026-11-03 | Axos Bank | AI Engineer Intern | San Diego, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1bU) |
-| 2026-11-03 | 2026-11-03 | Bracco | Software Engineering Intern | Eden Prairie, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1bX) |
-| 2026-11-03 | 2026-11-03 | AllianceBernstein | Software Development Intern | Nashville, TN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1bY) |
-| 2026-11-03 | 2026-11-03 | Alcon | Software, Data & AI Engineering Intern | Fort Worth, TX, Lake Forest, CA, Johns Creek, GA, Houston, TX, Goleta, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1bZ) |

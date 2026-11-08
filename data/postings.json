@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794095852,
+    "date_found": 1794117309,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794095852,
+    "date_found": 1794117309,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,10 +54,191 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794095852,
+    "date_found": 1794117309,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "262381f0b92f10cb",
+    "dedup_key": "intern|united wholesale mortgage|technology intern program",
+    "company": "United Wholesale Mortgage",
+    "title": "Technology Intern Program",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1mx",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794009600,
+    "date_found": 1794117309,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3780b228a3180db5",
+    "dedup_key": "intern|west bend insurance|data solution engineer intern",
+    "company": "West Bend Insurance",
+    "title": "Data Solution Engineer Intern",
+    "locations": [
+      "West Bend, WI"
+    ],
+    "url": "https://go.vansh.nyc/1my",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794009600,
+    "date_found": 1794117309,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "66311c719fe6342d",
+    "dedup_key": "intern|general dynamics mission systems|software engineering intern",
+    "company": "General Dynamics Mission Systems",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Lakewood, OH"
+    ],
+    "url": "https://go.vansh.nyc/1mz",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793864887,
+    "date_found": 1794117309,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f402dc27d79d86cd",
+    "dedup_key": "intern|general dynamics mission systems|software engineering intern",
+    "company": "General Dynamics Mission Systems",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Manassas, VA"
+    ],
+    "url": "https://go.vansh.nyc/1mA",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793864887,
+    "date_found": 1794117309,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2873525e6e2e8494",
+    "dedup_key": "intern|conifer health solutions|bi developer intern",
+    "company": "Conifer Health Solutions",
+    "title": "BI Developer Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://go.vansh.nyc/1mE",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1789948800,
+    "date_found": 1794117309,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "49a66ba92774d64c",
+    "dedup_key": "intern|klaviyo|software engineer intern",
+    "company": "Klaviyo",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://go.vansh.nyc/1mK",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793363833,
+    "date_found": 1794117309,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ea854d2a8fc6e99f",
+    "dedup_key": "new grad|rovisys|new grad 2027 entry level engineer developer",
+    "company": "Rovisys",
+    "title": "New Grad 2027: Entry Level Engineer/Developer",
+    "locations": [
+      "Houston, TX"
+    ],
+    "url": "https://go.vansh.nyc/1mG",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794009600,
+    "date_found": 1794117309,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3e2f233dca89a2dd",
+    "dedup_key": "new grad|rovisys|new grad 2027 entry level engineer developer",
+    "company": "Rovisys",
+    "title": "New Grad 2027: Entry Level Engineer/Developer",
+    "locations": [
+      "Remote"
+    ],
+    "url": "https://go.vansh.nyc/1mH",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794009600,
+    "date_found": 1794117309,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1ddbd1a5c393d6dc",
+    "dedup_key": "new grad|rovisys|new grad 2027 entry level engineer developer",
+    "company": "Rovisys",
+    "title": "New Grad 2027: Entry Level Engineer/Developer",
+    "locations": [
+      "Holly Springs, NC"
+    ],
+    "url": "https://go.vansh.nyc/1mI",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794009600,
+    "date_found": 1794117309,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "a45786247bbd9466",

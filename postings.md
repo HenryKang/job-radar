@@ -1,9 +1,16 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-08 18:30 UTC · 4598 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-08 22:29 UTC · 4605 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-08 | 2026-10-23 | Copart | Software Engineer Intern | Dallas, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1n1) |
+| 2026-11-08 | 2026-10-23 | Quadric | AI Kernel Engineer Intern | Burlingame, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1n3) |
+| 2026-11-08 | 2026-10-23 | Quadric | Deep Learning Compiler Intern | Burlingame, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1n4) |
+| 2026-11-08 | 2026-10-23 | Intercontinental Exchange | Software Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1n6) |
+| 2026-11-08 | 2026-10-23 | Intercontinental Exchange | Software Engineer Intern, Java | Jacksonville, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1n7) |
+| 2026-11-08 | 2026-10-23 | Intercontinental Exchange | Software Engineer Intern | Jacksonville, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1n8) |
+| 2026-11-08 | 2026-11-06 | ASM | Software Engineer | Phoenix, AZ | — | swe | ok | [apply](https://go.vansh.nyc/1na) |
 | 2026-11-08 | 2026-10-05 | Center for AI Safety (CAIS) | Research Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mP) |
 | 2026-11-08 | 2026-10-23 | John Deere | Software Engineer Intern, Product Engineering | Waterloo, IA, Cary, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mU) |
 | 2026-11-08 | 2026-10-26 | Qube Research and Technologies | Technology Intern | Chicago, IL, New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1mW) |
@@ -397,10 +404,3 @@ _Last updated: 2026-11-08 18:30 UTC · 4598 live & eligible postings (showing 40
 | 2026-11-03 | 2026-11-03 | Marvell | Security Verification/Validation Engineer Intern | Chandler, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dy) |
 | 2026-11-03 | 2026-11-03 | The Mosaic Company | Artificial Intelligence Co-op | Tampa, FL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1dB) |
 | 2026-11-03 | 2026-11-03 | American Express | Undergraduate Program Software Engineer Intern, Enterprise Technology Services | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dH) |
-| 2026-11-03 | 2026-11-03 | Arrowstreet Capital | Software Engineer Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dK) |
-| 2026-11-03 | 2026-11-03 | Trimble | AI Developer Intern | Westminster, CO, Dayton, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dM) |
-| 2026-11-03 | 2026-11-03 | Dell Technologies | Software Engineering Undergraduate Intern, CSG | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dN) |
-| 2026-11-03 | 2026-11-03 | Northrop Grumman | Engineering Software Tool Development Intern, Field Engineering | Baltimore, MD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dO) |
-| 2026-11-03 | 2026-11-03 | CareSource | Data Science Intern | Remote, United States | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1dQ) |
-| 2026-11-03 | 2026-11-03 | American Express | Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services | Phoenix, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dS) |
-| 2026-11-03 | 2026-11-03 | Northrop Grumman | Flight Software Engineer Intern | Manhattan Beach, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dV) |

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794162632,
+    "date_found": 1794176951,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794162632,
+    "date_found": 1794176951,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,10 +54,150 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794162632,
+    "date_found": 1794176951,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "3139a53cc8ffd913",
+    "dedup_key": "intern|copart|software engineer intern",
+    "company": "Copart",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://go.vansh.nyc/1n1",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1794176951,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3b03a7aeeb64698d",
+    "dedup_key": "intern|quadric|ai kernel engineer intern",
+    "company": "Quadric",
+    "title": "AI Kernel Engineer Intern",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "url": "https://go.vansh.nyc/1n3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1794176951,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2648107163a876be",
+    "dedup_key": "intern|quadric|deep learning compiler intern",
+    "company": "Quadric",
+    "title": "Deep Learning Compiler Intern",
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "url": "https://go.vansh.nyc/1n4",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1792713600,
+    "date_found": 1794176951,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "526129375a837219",
+    "dedup_key": "intern|intercontinental exchange|software engineer intern",
+    "company": "Intercontinental Exchange",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1n6",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792786140,
+    "date_found": 1794176951,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0df3f8b35c6e6a1a",
+    "dedup_key": "intern|intercontinental exchange|software engineer intern java",
+    "company": "Intercontinental Exchange",
+    "title": "Software Engineer Intern, Java",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://go.vansh.nyc/1n7",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792786140,
+    "date_found": 1794176951,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b72ddf9a804bf2b6",
+    "dedup_key": "intern|intercontinental exchange|software engineer intern",
+    "company": "Intercontinental Exchange",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "url": "https://go.vansh.nyc/1n8",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792786140,
+    "date_found": 1794176951,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "a59a10507dfa500c",
+    "dedup_key": "new grad|asm|software engineer",
+    "company": "ASM",
+    "title": "Software Engineer",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "url": "https://go.vansh.nyc/1na",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793999600,
+    "date_found": 1794176951,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "e620c2726a2be17e",

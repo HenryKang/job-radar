@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794176951,
+    "date_found": 1794189487,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794176951,
+    "date_found": 1794189487,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,10 +54,150 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794176951,
+    "date_found": 1794189487,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "206e80df549d841e",
+    "dedup_key": "intern|systems planning and analysis|data engineering analytics tools intern",
+    "company": "Systems Planning and Analysis",
+    "title": "Data Engineering & Analytics Tools Intern",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://go.vansh.nyc/1ne",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792186320,
+    "date_found": 1794189487,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "842f64879b78817a",
+    "dedup_key": "intern|integrate|software engineer intern",
+    "company": "Integrate",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/1ng",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1792454400,
+    "date_found": 1794189487,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5049a9ffcbcc84d2",
+    "dedup_key": "intern|national interstate insurance|data scientist intern",
+    "company": "National Interstate Insurance",
+    "title": "Data Scientist Intern",
+    "locations": [
+      "Lakeland, FL"
+    ],
+    "url": "https://go.vansh.nyc/1ni",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1794186525,
+    "date_found": 1794189487,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3dfc2a506c25363a",
+    "dedup_key": "new grad|shield ai|new grad 2027 engineer i software autonomy capabilities",
+    "company": "Shield AI",
+    "title": "New Grad 2027: Engineer I, Software - Autonomy Capabilities",
+    "locations": [
+      "Remote"
+    ],
+    "url": "https://go.vansh.nyc/1nj",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1794096000,
+    "date_found": 1794189487,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6b7e0397af15d3af",
+    "dedup_key": "new grad|shield ai|new grad 2027 engineer 1 software autonomous pilot integration",
+    "company": "Shield AI",
+    "title": "New Grad 2027: Engineer 1 - Software - Autonomous Pilot Integration",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://go.vansh.nyc/1nk",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1794179354,
+    "date_found": 1794189487,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "62e4743d8078d3cc",
+    "dedup_key": "new grad|shield ai|new grad 2027 engineer 1 software perception",
+    "company": "Shield AI",
+    "title": "New Grad 2027: Engineer 1 - Software - Perception",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://go.vansh.nyc/1nl",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1794179352,
+    "date_found": 1794189487,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "6d90bf733e34c9e9",
+    "dedup_key": "new grad|shield ai|new grad 2027 engineer ii software ground control station full stack",
+    "company": "Shield AI",
+    "title": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack",
+    "locations": [
+      "Washington, DC"
+    ],
+    "url": "https://go.vansh.nyc/1nm",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1794186872,
+    "date_found": 1794189487,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "3139a53cc8ffd913",

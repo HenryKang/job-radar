@@ -1,9 +1,16 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-08 22:29 UTC · 4605 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-09 01:58 UTC · 4612 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-09 | 2026-10-16 | Systems Planning and Analysis | Data Engineering & Analytics Tools Intern | Washington, DC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ne) |
+| 2026-11-09 | 2026-10-20 | Integrate | Software Engineer Intern | Seattle, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ng) |
+| 2026-11-09 | 2026-11-09 | National Interstate Insurance | Data Scientist Intern | Lakeland, FL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1ni) |
+| 2026-11-09 | 2026-11-08 | Shield AI | New Grad 2027: Engineer I, Software - Autonomy Capabilities | Remote | — | swe | ok | [apply](https://go.vansh.nyc/1nj) |
+| 2026-11-09 | 2026-11-08 | Shield AI | New Grad 2027: Engineer 1 - Software - Autonomous Pilot Integration | Washington, DC | — | swe | ok | [apply](https://go.vansh.nyc/1nk) |
+| 2026-11-09 | 2026-11-08 | Shield AI | New Grad 2027: Engineer 1 - Software - Perception | Washington, DC | — | swe | ok | [apply](https://go.vansh.nyc/1nl) |
+| 2026-11-09 | 2026-11-09 | Shield AI | New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack | Washington, DC | — | swe | ok | [apply](https://go.vansh.nyc/1nm) |
 | 2026-11-08 | 2026-10-23 | Copart | Software Engineer Intern | Dallas, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1n1) |
 | 2026-11-08 | 2026-10-23 | Quadric | AI Kernel Engineer Intern | Burlingame, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1n3) |
 | 2026-11-08 | 2026-10-23 | Quadric | Deep Learning Compiler Intern | Burlingame, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1n4) |
@@ -397,10 +404,3 @@ _Last updated: 2026-11-08 22:29 UTC · 4605 live & eligible postings (showing 40
 | 2026-11-04 | 2026-11-03 | FSH Technologies | New Grad: Engineer | Philadelphia, PA | — | swe | unknown | [apply](https://go.vansh.nyc/1f9) |
 | 2026-11-04 | 2026-11-03 | Julius AI | New Grad: Software Engineer - Product | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1fn) |
 | 2026-11-04 | 2026-11-03 | Cylake | New Grad 2027: Software Engineer | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1fu) |
-| 2026-11-04 | 2026-11-03 | TRM Labs | New Grad 2027: Product Engineer | Los Angeles, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1fv) |
-| 2026-11-04 | 2026-11-03 | Northrop Grumman | New Grad 2027: Associate Flight Software Engineer | Manhattan Beach, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1fG) |
-| 2026-11-04 | 2026-11-03 | Faros AI | New Grad: Software Engineer | San Mateo, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1fH) |
-| 2026-11-04 | 2026-11-03 | Nooks | New Grad: Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1fJ) |
-| 2026-11-03 | 2026-11-03 | Marvell | Security Verification/Validation Engineer Intern | Chandler, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dy) |
-| 2026-11-03 | 2026-11-03 | The Mosaic Company | Artificial Intelligence Co-op | Tampa, FL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1dB) |
-| 2026-11-03 | 2026-11-03 | American Express | Undergraduate Program Software Engineer Intern, Enterprise Technology Services | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1dH) |

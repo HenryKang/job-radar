@@ -1,23 +1,5 @@
 [
   {
-    "dedup_key": "intern|mitre|ai engineering intern",
-    "id": "82b0e39dafd24ae6",
-    "company": "MITRE",
-    "title": "AI Engineering Intern",
-    "url": "https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "Bedford, MA"
-    ],
-    "date_posted": 1792370374,
-    "date_discovered": 1792524921,
-    "last_checked": 1794334482,
-    "fail_reason": "closed: 'no longer available'"
-  },
-  {
     "dedup_key": "new grad|esri|software development engineer in test i sdet arcgis enterprise",
     "id": "45aba4167cab71e4",
     "company": "Esri",
@@ -32,7 +14,7 @@
     ],
     "date_posted": 1792613170,
     "date_discovered": 1792613261,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "http 404"
   },
   {
@@ -50,7 +32,7 @@
     ],
     "date_posted": 1792698816,
     "date_discovered": 1792730568,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "workday gone (http 403)"
   },
   {
@@ -68,7 +50,7 @@
     ],
     "date_posted": 1788547306,
     "date_discovered": 1792780994,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -86,7 +68,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "http 410"
   },
   {
@@ -104,7 +86,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -122,7 +104,7 @@
     ],
     "date_posted": 1793131299,
     "date_discovered": 1793131398,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -140,7 +122,7 @@
     ],
     "date_posted": 1793322383,
     "date_discovered": 1793367132,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -159,7 +141,7 @@
     ],
     "date_posted": 1793750400,
     "date_discovered": 1793843247,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "http 410"
   },
   {
@@ -177,7 +159,7 @@
     ],
     "date_posted": 1793923616,
     "date_discovered": 1794021146,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -195,7 +177,7 @@
     ],
     "date_posted": 1793934463,
     "date_discovered": 1794045833,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -213,7 +195,7 @@
     ],
     "date_posted": 1794273212,
     "date_discovered": 1794306423,
-    "last_checked": 1794334482,
+    "last_checked": 1794354218,
     "fail_reason": "http 404"
   }
 ]

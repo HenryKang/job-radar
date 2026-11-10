@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794278554,
+    "date_found": 1794306423,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794278554,
+    "date_found": 1794306423,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,10 +54,295 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794278554,
+    "date_found": 1794306423,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "ca5b2c0f4fba7179",
+    "dedup_key": "intern|pika|applied ai engineer intern creative experiences",
+    "company": "Pika",
+    "title": "Applied AI Engineer Intern, Creative Experiences",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/1pR",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794268800,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "69dc142d5659330c",
+    "dedup_key": "intern|general dynamics mission systems|ontology and semantic engineering intern",
+    "company": "General Dynamics Mission Systems",
+    "title": "Ontology and Semantic Engineering Intern",
+    "locations": [
+      "Chantilly, VA",
+      "Pittsfield, MA",
+      "Scottsdale, AZ"
+    ],
+    "url": "https://go.vansh.nyc/1pS",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794268800,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "76af8a6271f82f1a",
+    "dedup_key": "intern|johns hopkins apl|ai data science intern analytic capabilities",
+    "company": "Johns Hopkins APL",
+    "title": "AI & Data Science Intern, Analytic Capabilities",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://go.vansh.nyc/1pW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1794283631,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b61e1929fbe32dcd",
+    "dedup_key": "intern|kiewit|machine learning intern kiewit data services",
+    "company": "Kiewit",
+    "title": "Machine Learning Intern, Kiewit Data Services",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "url": "https://go.vansh.nyc/1pX",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1794283631,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "4abe5adab04e18df",
+    "dedup_key": "intern|lockheed martin|software development intern",
+    "company": "Lockheed Martin",
+    "title": "Software Development Intern",
+    "locations": [
+      "Bethesda, MD",
+      "Rockville, MD"
+    ],
+    "url": "https://go.vansh.nyc/1pZ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794283631,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c1de52baccd4cade",
+    "dedup_key": "intern|lg ai research|ai scientist engineer intern",
+    "company": "LG AI Research",
+    "title": "AI Scientist/Engineer Intern",
+    "locations": [
+      "Ann Arbor, MI"
+    ],
+    "url": "https://go.vansh.nyc/1q2",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1790581196,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4b449b21588b32c0",
+    "dedup_key": "intern|equipmentshare|engineering intern embedded",
+    "company": "EquipmentShare",
+    "title": "Engineering Intern, Embedded",
+    "locations": [
+      "Columbia, MO"
+    ],
+    "url": "https://go.vansh.nyc/1q3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1793726451,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "99bc7195ee9e0856",
+    "dedup_key": "intern|domino data lab|software engineer intern campus recruiting",
+    "company": "Domino Data Lab",
+    "title": "Software Engineer Intern, Campus Recruiting",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1q4",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1790191365,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8b341b3a238d9eaa",
+    "dedup_key": "intern|trilogy health services|information systems developer of ai and automated solutions intern",
+    "company": "Trilogy Health Services",
+    "title": "Information Systems Developer of AI and Automated Solutions Intern",
+    "locations": [
+      "Louisville, KY"
+    ],
+    "url": "https://go.vansh.nyc/1qb",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794237780,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "346d3f72c47177de",
+    "dedup_key": "new grad|domino|new grad 2027 software engineer",
+    "company": "Domino",
+    "title": "New Grad 2027: Software Engineer",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1q7",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794294569,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3b162b9f13e57e23",
+    "dedup_key": "new grad|intel|soc design verification engineer",
+    "company": "Intel",
+    "title": "SoC Design Verification Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/1q8",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794182400,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b37f138c0c6a2490",
+    "dedup_key": "new grad|intel|soc logic design engineer",
+    "company": "Intel",
+    "title": "SoC Logic Design Engineer",
+    "locations": [
+      "Santa Clara, CA",
+      "Hillsboro, OR",
+      "Folsom, CA"
+    ],
+    "url": "https://go.vansh.nyc/1q9",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794182400,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ef1382240518a416",
+    "dedup_key": "new grad|cursor|new grad 2027 software engineer",
+    "company": "Cursor",
+    "title": "New Grad 2027: Software Engineer",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1qa",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794273212,
+    "date_found": 1794306423,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "9d442ceabe1d98b9",
+    "dedup_key": "new grad|eagle wireless|junior integration developer netsuite",
+    "company": "Eagle Wireless",
+    "title": "Junior Integration Developer - NetSuite",
+    "locations": [
+      "Solon, OH"
+    ],
+    "url": "https://go.vansh.nyc/1qd",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794301806,
+    "date_found": 1794306423,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "29b1ea92d594c7a4",

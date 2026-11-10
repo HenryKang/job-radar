@@ -1,9 +1,22 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-10 02:42 UTC · 4694 live & eligible postings (showing 400); 122 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-10 10:27 UTC · 4707 live & eligible postings (showing 400); 123 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-10 | 2026-11-10 | Pika | Applied AI Engineer Intern, Creative Experiences | Palo Alto, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1pR) |
+| 2026-11-10 | 2026-11-10 | General Dynamics Mission Systems | Ontology and Semantic Engineering Intern | Chantilly, VA, Pittsfield, MA, Scottsdale, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1pS) |
+| 2026-11-10 | 2026-11-10 | Johns Hopkins APL | AI & Data Science Intern, Analytic Capabilities | Laurel, MD | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1pW) |
+| 2026-11-10 | 2026-11-10 | Kiewit | Machine Learning Intern, Kiewit Data Services | Omaha, NE | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1pX) |
+| 2026-11-10 | 2026-11-10 | Lockheed Martin | Software Development Intern | Bethesda, MD, Rockville, MD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1pZ) |
+| 2026-11-10 | 2026-09-28 | LG AI Research | AI Scientist/Engineer Intern | Ann Arbor, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1q2) |
+| 2026-11-10 | 2026-11-03 | EquipmentShare | Engineering Intern, Embedded | Columbia, MO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1q3) |
+| 2026-11-10 | 2026-09-23 | Domino Data Lab | Software Engineer Intern, Campus Recruiting | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1q4) |
+| 2026-11-10 | 2026-11-09 | Trilogy Health Services | Information Systems Developer of AI and Automated Solutions Intern | Louisville, KY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1qb) |
+| 2026-11-10 | 2026-11-10 | Domino | New Grad 2027: Software Engineer | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1q7) |
+| 2026-11-10 | 2026-11-09 | Intel | SoC Design Verification Engineer | Santa Clara, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1q8) |
+| 2026-11-10 | 2026-11-09 | Intel | SoC Logic Design Engineer | Santa Clara, CA, Hillsboro, OR, Folsom, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1q9) |
+| 2026-11-10 | 2026-11-10 | Eagle Wireless | Junior Integration Developer - NetSuite | Solon, OH | — | swe | unknown | [apply](https://go.vansh.nyc/1qd) |
 | 2026-11-10 | 2026-11-09 | Persona AI | Humanoid Robotics Software Intern | Pensacola, FL, Houston, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1p9) |
 | 2026-11-10 | 2026-11-09 | General Dynamics Mission Systems, Inc. | FPGA Engineer Intern | Scottsdale, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1pc) |
 | 2026-11-10 | 2026-11-09 | Illumio | Engineering Intern, SRE | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1pl) |
@@ -391,16 +404,3 @@ _Last updated: 2026-11-10 02:42 UTC · 4694 live & eligible postings (showing 40
 | 2026-11-04 | 2026-11-04 | Astrolab | Full Stack Developer - All Levels | Hawthorne, CA | — | swe | unknown | [apply](https://astrolab.pinpointhq.com/en/postings/abbcb25b-97b0-4676-8925-55a4e15cb18a) |
 | 2026-11-04 | 2026-11-04 | Northrop Grumman | 2027 Associate S/W Embedded Engineer - Sykesville MD | Sykesville, MD | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626) |
 | 2026-11-04 | 2026-11-04 | Rocket Lab | AI Software Engineer I | Long Beach, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8182050003) |
-| 2026-11-04 | 2026-11-04 | ServiceNow | Software Engineer - Agent Eval Platform | Mountain View, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000159509479-software-engineer-agent-eval-platform?oga=true) |
-| 2026-11-04 | 2026-11-04 | Skyward | Software Engineer - Entry Level | Stevens Point, WI | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/Skyward1/744000159491899-software-engineer-entry-level?oga=true) |
-| 2026-11-04 | 2026-11-04 | SpaceX | Embedded Software Engineer - Satellite Antenna - Starlink | Redmond, WA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002) |
-| 2026-11-04 | 2026-11-03 | Alarm.com | Software Rotation Program Associate | Tysons, VA | — | swe | ok | [apply](https://job-boards.greenhouse.io/alarmcom/jobs/8923631002) |
-| 2026-11-04 | 2026-11-03 | BlueCross BlueShield of Tennessee | Associate Software Engineer II | Remote - Chattanooga, TN | — | swe | unknown | [apply](https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-II_R-51813) |
-| 2026-11-04 | 2026-11-03 | Digital Hands | Associate DevOps Engineer | Tampa, FL | — | swe | unknown | [apply](https://www.digitalhands.com/careers?gh_jid=5283173007) |
-| 2026-11-04 | 2026-11-03 | FlexCompute | Rarefied Flow Solver Developer | Watertown, MA | — | swe | unknown | [apply](https://apply.workable.com/flexcompute/j/9DB3D67B83/) |
-| 2026-11-04 | 2026-11-03 | LexisNexis Risk Solutions | Tech Accelerate Graduate Program - Software Engineer I | Alpharetta, GA | — | swe | unknown | [apply](https://relx.wd3.myworkdayjobs.com/en-US/risksolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836) |
-| 2026-11-04 | 2026-11-03 | Northrop Grumman | Associate Software Engineer - Boulder CO | Boulder, CO | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908) |
-| 2026-11-04 | 2026-11-03 | Northrop Grumman | 2027 Associate Flight Software Engineer - Manhattan Beach CA | Manhattan Beach, CA | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061) |
-| 2026-11-04 | 2026-11-03 | RELX | Tech Accelerate Graduate Program - Software Engineer I | Alpharetta, GA | — | swe | unknown | [apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1) |
-| 2026-11-04 | 2026-11-03 | Riverside Research Institute | Jr Software Engineer | Beavercreek, OH | — | swe | unknown | [apply](https://careers-riversideresearch.icims.com/jobs/4454/jr-software-engineer/job) |
-| 2026-11-04 | 2026-11-03 | Riverside Research Institute | Jr Software Engineer | Beavercreek, OH | — | swe | unknown | [apply](https://careers-riversideresearch.icims.com/jobs/4456/jr-software-engineer/job) |

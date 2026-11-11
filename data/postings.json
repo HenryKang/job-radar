@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794394125,
+    "date_found": 1794422400,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794394125,
+    "date_found": 1794422400,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794394125,
+    "date_found": 1794422400,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -74,10 +74,436 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1794273212,
-    "date_found": 1794394125,
+    "date_found": 1794422400,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "dd8dc0e851265b11",
+    "dedup_key": "intern|wing|data scientist intern",
+    "company": "Wing",
+    "title": "Data Scientist Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/1tB",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1791488345,
+    "date_found": 1794422400,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "3438e276a464bba2",
+    "dedup_key": "intern|wing|data infrastructure software engineering intern",
+    "company": "Wing",
+    "title": "Data Infrastructure Software Engineering Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/1tD",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791849600,
+    "date_found": 1794422400,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "080ac34edf487f56",
+    "dedup_key": "intern|wing|route planning software engineering intern",
+    "company": "Wing",
+    "title": "Route Planning Software Engineering Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/1tE",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791849600,
+    "date_found": 1794422400,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "b47c382ff9f5002c",
+    "dedup_key": "intern|wing|execution topology software engineering intern",
+    "company": "Wing",
+    "title": "Execution & Topology Software Engineering Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/1tF",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791849600,
+    "date_found": 1794422400,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "82abe47ff783e61c",
+    "dedup_key": "intern|wing|manufacturing software test intern",
+    "company": "Wing",
+    "title": "Manufacturing Software Test Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/1tG",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791849600,
+    "date_found": 1794422400,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "9de36fa298f468a8",
+    "dedup_key": "intern|wing|machine learning engineering intern",
+    "company": "Wing",
+    "title": "Machine Learning Engineering Intern",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://go.vansh.nyc/1tH",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1791928801,
+    "date_found": 1794422400,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "cde760800bff58c8",
+    "dedup_key": "intern|cisco|software engineer intern embedded systems i",
+    "company": "Cisco",
+    "title": "Software Engineer Intern, Embedded Systems I",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/1uy",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794308773,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6c8811167d56e3ae",
+    "dedup_key": "intern|unisys|software engineer intern",
+    "company": "Unisys",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Eagan, MN"
+    ],
+    "url": "https://go.vansh.nyc/1uC",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794355200,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "73fd5fa8e5737879",
+    "dedup_key": "intern|rockwell automation|software developer engineering intern",
+    "company": "Rockwell Automation",
+    "title": "Software Developer/Engineering Intern",
+    "locations": [
+      "Mequon, WI"
+    ],
+    "url": "https://go.vansh.nyc/1uD",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1794409556,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "85d788274179b760",
+    "dedup_key": "intern|state of wisconsin investment board|data analytics engineering intern",
+    "company": "State of Wisconsin Investment Board",
+    "title": "Data Analytics Engineering Intern",
+    "locations": [
+      "Madison, WI"
+    ],
+    "url": "https://go.vansh.nyc/1uG",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794411584,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "82e893ee825c3b6a",
+    "dedup_key": "intern|globalfoundries|ai processor hardware software integration engineer intern",
+    "company": "GlobalFoundries",
+    "title": "AI Processor Hardware/Software Integration Engineer Intern",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://go.vansh.nyc/1uH",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794413169,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "19b7aebae246c835",
+    "dedup_key": "intern|brex|software engineer intern",
+    "company": "Brex",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1uO",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794414481,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2b5c5de4c46ec195",
+    "dedup_key": "new grad|globalfoundries|new grad 2027 ai processor hardware software integration engineer",
+    "company": "GlobalFoundries",
+    "title": "New Grad 2027: AI Processor Hardware/Software Integration Engineer",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://go.vansh.nyc/1uA",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794402128,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5fdd37f3b0a065cf",
+    "dedup_key": "new grad|manhattan associates|new grad 2027 technology consultant",
+    "company": "Manhattan Associates",
+    "title": "New Grad 2027: Technology Consultant",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://go.vansh.nyc/1uB",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794355200,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f7a5bcff6af1b95e",
+    "dedup_key": "new grad|bae systems|new grad 2027 software engineer",
+    "company": "BAE Systems",
+    "title": "New Grad 2027: Software Engineer",
+    "locations": [
+      "Hudson, NH"
+    ],
+    "url": "https://go.vansh.nyc/1uE",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794355879,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "73624cd4461ef49e",
+    "dedup_key": "new grad|rtx|software engineer i",
+    "company": "RTX",
+    "title": "Software Engineer I",
+    "locations": [
+      "Ft Wayne, IN"
+    ],
+    "url": "https://go.vansh.nyc/1uF",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1794409386,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "31155f7bef010593",
+    "dedup_key": "new grad|salesforce|new grad software engineering amts",
+    "company": "Salesforce",
+    "title": "New Grad: Software Engineering AMTS",
+    "locations": [
+      "Palo Alto, CA",
+      "Seattle, WA",
+      "Indianapolis, IN",
+      "San Francisco, CA",
+      "Dallas, TX",
+      "New York, NY",
+      "Bellevue, WA"
+    ],
+    "url": "https://go.vansh.nyc/1uI",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794355200,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "dce9c6466c04f596",
+    "dedup_key": "new grad|maven securities|floor trader",
+    "company": "Maven Securities",
+    "title": "Floor Trader",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/1uK",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1794407916,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4ceb40f7cbc994bd",
+    "dedup_key": "new grad|rtx|software engineer i",
+    "company": "RTX",
+    "title": "Software Engineer I",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "url": "https://go.vansh.nyc/1uL",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794413487,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bd0e5465dbfa1e06",
+    "dedup_key": "new grad|symbotic|new grad robotics software engineer",
+    "company": "Symbotic",
+    "title": "New Grad: Robotics Software Engineer",
+    "locations": [
+      "Wilmington, MA"
+    ],
+    "url": "https://go.vansh.nyc/1uP",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794416651,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "16c95f724d722cdf",
+    "dedup_key": "intern|brex|software engineer intern summer 2027",
+    "company": "Brex",
+    "title": "Software Engineer, Intern  (Summer 2027)",
+    "locations": [
+      "San Francisco, California, United States"
+    ],
+    "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+    "season": "Summer 2027",
+    "source": "ats:greenhouse:brex",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794414459,
+    "date_found": 1794422400,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "6d2ad7e275c51b75",
@@ -666,26 +1092,6 @@
     "elig_reason": "no clear disqualifier"
   },
   {
-    "id": "dd8dc0e851265b11",
-    "dedup_key": "intern|wing|data scientist intern",
-    "company": "Wing",
-    "title": "Data Scientist Intern",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://go.vansh.nyc/1tB",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "ml_data",
-    "sponsorship": "Other",
-    "date_posted": 1791488345,
-    "date_found": 1794394125,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
-  },
-  {
     "id": "dcdad920fbb010bc",
     "dedup_key": "intern|versant3|technology product design engineering intern",
     "company": "Versant3",
@@ -704,106 +1110,6 @@
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "3438e276a464bba2",
-    "dedup_key": "intern|wing|data infrastructure software engineering intern",
-    "company": "Wing",
-    "title": "Data Infrastructure Software Engineering Intern",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://go.vansh.nyc/1tD",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1791849600,
-    "date_found": 1794394125,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
-  },
-  {
-    "id": "080ac34edf487f56",
-    "dedup_key": "intern|wing|route planning software engineering intern",
-    "company": "Wing",
-    "title": "Route Planning Software Engineering Intern",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://go.vansh.nyc/1tE",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1791849600,
-    "date_found": 1794394125,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
-  },
-  {
-    "id": "b47c382ff9f5002c",
-    "dedup_key": "intern|wing|execution topology software engineering intern",
-    "company": "Wing",
-    "title": "Execution & Topology Software Engineering Intern",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://go.vansh.nyc/1tF",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1791849600,
-    "date_found": 1794394125,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
-  },
-  {
-    "id": "82abe47ff783e61c",
-    "dedup_key": "intern|wing|manufacturing software test intern",
-    "company": "Wing",
-    "title": "Manufacturing Software Test Intern",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://go.vansh.nyc/1tG",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1791849600,
-    "date_found": 1794394125,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
-  },
-  {
-    "id": "9de36fa298f468a8",
-    "dedup_key": "intern|wing|machine learning engineering intern",
-    "company": "Wing",
-    "title": "Machine Learning Engineering Intern",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "url": "https://go.vansh.nyc/1tH",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "swe",
-    "sponsorship": "Other",
-    "date_posted": 1791928801,
-    "date_found": 1794394125,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
   },
   {
     "id": "17d84a17513307e9",

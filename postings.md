@@ -1,9 +1,24 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-11 10:48 UTC · 4869 live & eligible postings (showing 400); 133 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-11 18:40 UTC · 4884 live & eligible postings (showing 400); 133 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-11 | 2026-11-10 | Cisco | Software Engineer Intern, Embedded Systems I | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1uy) |
+| 2026-11-11 | 2026-11-11 | Unisys | Software Engineer Intern | Eagan, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1uC) |
+| 2026-11-11 | 2026-11-11 | Rockwell Automation | Software Developer/Engineering Intern | Mequon, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1uD) |
+| 2026-11-11 | 2026-11-11 | State of Wisconsin Investment Board | Data Analytics Engineering Intern | Madison, WI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1uG) |
+| 2026-11-11 | 2026-11-11 | GlobalFoundries | AI Processor Hardware/Software Integration Engineer Intern | Richardson, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1uH) |
+| 2026-11-11 | 2026-11-11 | Brex | Software Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1uO) |
+| 2026-11-11 | 2026-11-11 | GlobalFoundries | New Grad 2027: AI Processor Hardware/Software Integration Engineer | Richardson, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1uA) |
+| 2026-11-11 | 2026-11-11 | Manhattan Associates | New Grad 2027: Technology Consultant | Atlanta, GA | — | swe | unknown | [apply](https://go.vansh.nyc/1uB) |
+| 2026-11-11 | 2026-11-11 | BAE Systems | New Grad 2027: Software Engineer | Hudson, NH | — | swe | unknown | [apply](https://go.vansh.nyc/1uE) |
+| 2026-11-11 | 2026-11-11 | RTX | Software Engineer I | Ft Wayne, IN | — | swe | unknown | [apply](https://go.vansh.nyc/1uF) |
+| 2026-11-11 | 2026-11-11 | Salesforce | New Grad: Software Engineering AMTS | Palo Alto, CA, Seattle, WA, Indianapolis, IN, San Francisco, CA, Dallas, TX, New York, NY, Bellevue, WA | — | swe | unknown | [apply](https://go.vansh.nyc/1uI) |
+| 2026-11-11 | 2026-11-11 | Maven Securities | Floor Trader | Chicago, IL | — | quant | unknown | [apply](https://go.vansh.nyc/1uK) |
+| 2026-11-11 | 2026-11-11 | RTX | Software Engineer I | Cedar Rapids, IA | — | swe | unknown | [apply](https://go.vansh.nyc/1uL) |
+| 2026-11-11 | 2026-11-11 | Symbotic | New Grad: Robotics Software Engineer | Wilmington, MA | — | swe | unknown | [apply](https://go.vansh.nyc/1uP) |
+| 2026-11-11 | 2026-11-11 | Brex | Software Engineer, Intern  (Summer 2027) | San Francisco, California, United States | Summer 2027 | swe | unknown | [apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
 | 2026-11-11 | 2026-11-08 | Formulary Financial | Software Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sP) |
 | 2026-11-11 | 2026-11-11 | Riot Games | Data Engineering Intern | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sS) |
 | 2026-11-11 | 2026-11-11 | Astranis | Embedded Software Developer Intern, Network/Payload | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sT) |
@@ -389,18 +404,3 @@ _Last updated: 2026-11-11 10:48 UTC · 4869 live & eligible postings (showing 40
 | 2026-11-06 | 2026-11-06 | The New York Times | Interactive News Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1km) |
 | 2026-11-06 | 2026-11-06 | Match Group | Android Engineer Intern | Los Angeles, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1ko) |
 | 2026-11-06 | 2026-11-06 | Invitation-charter | Data Science Intern | Greenwood Village, CO | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1ku) |
-| 2026-11-06 | 2026-11-06 | Invitation-charter | Software Engineer Intern | Englewood, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1kv) |
-| 2026-11-06 | 2026-11-06 | Invitation-charter | Data Developer Intern | Greenwood Village, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1kw) |
-| 2026-11-06 | 2026-11-06 | T-Mobile | AI Engineering Intern | Bellevue, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1kC) |
-| 2026-11-06 | 2026-11-06 | T-Mobile | Software Engineer Intern, HR Data Products | Bellevue, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1kD) |
-| 2026-11-06 | 2026-11-06 | T-Mobile | Data Engineering Intern | Frisco, TX, Atlanta, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1kE) |
-| 2026-11-06 | 2026-11-06 | ICD | AI/ML Engineering Intern | Jersey City, NJ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1kF) |
-| 2026-11-06 | 2026-11-06 | Celonis | Associate Deployment Engineer | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1kh) |
-| 2026-11-06 | 2026-11-06 | Celonis | Associate Deployment Engineer | Raleigh, NC | — | swe | unknown | [apply](https://go.vansh.nyc/1ki) |
-| 2026-11-06 | 2026-11-06 | Charles Schwab | Associate Software Development & Engineering | Austin, TX, Southlake, TX | — | swe | ok | [apply](https://go.vansh.nyc/1ky) |
-| 2026-11-06 | 2026-11-06 | Nightwing | Software Developer I, System Security | Huntsville, AL | — | swe | unknown | [apply](https://go.vansh.nyc/1kI) |
-| 2026-11-06 | 2026-11-05 | Medtronic | Software Test Engineer I | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1kL) |
-| 2026-11-06 | 2026-11-06 | ASM | Product Intelligence Engineering Intern, AI/ML | Phoenix, AZ | Summer | swe | ok | [apply](https://go.vansh.nyc/1jZ) |
-| 2026-11-06 | 2026-11-06 | Amazon | Software Development Engineer, SoC Hardware Abstraction Layer | Cupertino, CA | — | swe | ok | [apply](https://go.vansh.nyc/1k0) |
-| 2026-11-06 | 2026-11-05 | Riverside Research | Software Applications Intern | Fairborn, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/1ju) |
-| 2026-11-06 | 2026-11-05 | DwyerOmega | Software Engineer Intern | Westerville, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/1jv) |

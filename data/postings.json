@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794354218,
+    "date_found": 1794366213,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794354218,
+    "date_found": 1794366213,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794354218,
+    "date_found": 1794366213,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -74,10 +74,333 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1794273212,
-    "date_found": 1794354218,
+    "date_found": 1794366213,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
+  },
+  {
+    "id": "3e0bd0b9bf3b6ed4",
+    "dedup_key": "intern|walmart|data science data analytics intern last mile delivery",
+    "company": "Walmart",
+    "title": "Data Science & Data Analytics Intern, Last Mile Delivery",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "url": "https://go.vansh.nyc/1sh",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1794268800,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6aceb1c515f98541",
+    "dedup_key": "intern|mcdonald s|software development engineer intern",
+    "company": "McDonald's",
+    "title": "Software Development Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/1si",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794268155,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "cb0e1beac76bdff1",
+    "dedup_key": "intern|mcdonald s|software engineer intern",
+    "company": "McDonald's",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/1sj",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794268155,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "eafaa670b53bb39f",
+    "dedup_key": "intern|renesas electronics|applications engineer intern",
+    "company": "Renesas Electronics",
+    "title": "Applications Engineer Intern",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "url": "https://go.vansh.nyc/1sk",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794347885,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "72cd1dc47da5731e",
+    "dedup_key": "intern|general motors|machine learning engineer intern av ai platform",
+    "company": "General Motors",
+    "title": "Machine Learning Engineer Intern, AV/AI Platform",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://go.vansh.nyc/1sp",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1790899200,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "eff260b19c46aaf7",
+    "dedup_key": "intern|jmp statistical discovery|software development intern c",
+    "company": "JMP Statistical Discovery",
+    "title": "Software Development Intern, C++",
+    "locations": [
+      "Cary, NC"
+    ],
+    "url": "https://go.vansh.nyc/1sw",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794268800,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "7fc86cf159d772c5",
+    "dedup_key": "intern|rambus|cad engineer intern",
+    "company": "Rambus",
+    "title": "CAD Engineer Intern",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/1sx",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794268800,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3e42ed19eed61a7b",
+    "dedup_key": "intern|international|artificial intelligence machine learning intern",
+    "company": "International",
+    "title": "Artificial Intelligence/Machine Learning Intern",
+    "locations": [
+      "Lisle, IL"
+    ],
+    "url": "https://go.vansh.nyc/1sz",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1794347340,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cd85c001a9b871cf",
+    "dedup_key": "intern|art of problem solving|data science intern",
+    "company": "Art of Problem Solving",
+    "title": "Data Science Intern",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/1sA",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1794353114,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d5220e6ad5f91728",
+    "dedup_key": "intern|cisco|software engineer embedded systems i intern",
+    "company": "Cisco",
+    "title": "Software Engineer Embedded Systems I Intern",
+    "locations": [
+      "San Jose, CA",
+      "Austin, TX",
+      "Research Triangle Park, NC"
+    ],
+    "url": "https://go.vansh.nyc/1sE",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794357721,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "74e05ed388f56c1e",
+    "dedup_key": "new grad|autodesk|software engineer ai fusion engineering fusion engineering",
+    "company": "Autodesk",
+    "title": "Software Engineer: AI & Fusion Engineering, Fusion Engineering",
+    "locations": [
+      "Novi, MI"
+    ],
+    "url": "https://go.vansh.nyc/1sq",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794268800,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "066130e04ef1eb37",
+    "dedup_key": "new grad|techstra solutions|ai engineer master s",
+    "company": "Techstra Solutions",
+    "title": "AI Engineer (Master's)",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://go.vansh.nyc/1sr",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794352898,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
+  },
+  {
+    "id": "68607bf620337928",
+    "dedup_key": "new grad|wise|new grad 2027 data scientist",
+    "company": "Wise",
+    "title": "New Grad 2027: Data Scientist",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/1su",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1794331435,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "5865b79b506800cf",
+    "dedup_key": "new grad|amazon|new grad 2027 software development engineer amazon dedicated cloud",
+    "company": "Amazon",
+    "title": "New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/1sv",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1794355773,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e9eb1f8ce4588ec6",
+    "dedup_key": "new grad|johns hopkins apl|new grad 2027 algorithm development engineer",
+    "company": "Johns Hopkins APL",
+    "title": "New Grad 2027: Algorithm Development Engineer",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://go.vansh.nyc/1sJ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794359472,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "237d2146cfa53ea8",
+    "dedup_key": "new grad|intel|new grad 2027 junior cpu verification engineer",
+    "company": "Intel",
+    "title": "New Grad 2027: Junior CPU Verification Engineer",
+    "locations": [
+      "Austin, TX",
+      "Hillsboro, OR"
+    ],
+    "url": "https://go.vansh.nyc/1sO",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794361956,
+    "date_found": 1794366213,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "f6e2b8ca0bdd18de",

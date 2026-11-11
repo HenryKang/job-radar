@@ -1,9 +1,24 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-10 23:44 UTC · 4807 live & eligible postings (showing 400); 123 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-11 03:03 UTC · 4822 live & eligible postings (showing 400); 124 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-11 | 2026-11-10 | Walmart | Data Science & Data Analytics Intern, Last Mile Delivery | Bentonville, AR | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1sh) |
+| 2026-11-11 | 2026-11-09 | McDonald's | Software Development Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://go.vansh.nyc/1si) |
+| 2026-11-11 | 2026-11-09 | McDonald's | Software Engineer Intern | Chicago, IL | Summer | swe | ok | [apply](https://go.vansh.nyc/1sj) |
+| 2026-11-11 | 2026-11-10 | Renesas Electronics | Applications Engineer Intern | Morrisville, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sk) |
+| 2026-11-11 | 2026-10-02 | General Motors | Machine Learning Engineer Intern, AV/AI Platform | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sp) |
+| 2026-11-11 | 2026-11-10 | JMP Statistical Discovery | Software Development Intern, C++ | Cary, NC | Summer | swe | ok | [apply](https://go.vansh.nyc/1sw) |
+| 2026-11-11 | 2026-11-10 | Rambus | CAD Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1sx) |
+| 2026-11-11 | 2026-11-10 | International | Artificial Intelligence/Machine Learning Intern | Lisle, IL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1sz) |
+| 2026-11-11 | 2026-11-10 | Art of Problem Solving | Data Science Intern | San Diego, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1sA) |
+| 2026-11-11 | 2026-11-11 | Cisco | Software Engineer Embedded Systems I Intern | San Jose, CA, Austin, TX, Research Triangle Park, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sE) |
+| 2026-11-11 | 2026-11-10 | Autodesk | Software Engineer: AI & Fusion Engineering, Fusion Engineering | Novi, MI | — | swe | unknown | [apply](https://go.vansh.nyc/1sq) |
+| 2026-11-11 | 2026-11-10 | Wise | New Grad 2027: Data Scientist | Austin, TX | — | ml_data | ok | [apply](https://go.vansh.nyc/1su) |
+| 2026-11-11 | 2026-11-11 | Amazon | New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/1sv) |
+| 2026-11-11 | 2026-11-11 | Johns Hopkins APL | New Grad 2027: Algorithm Development Engineer | Laurel, MD | — | swe | unknown | [apply](https://go.vansh.nyc/1sJ) |
+| 2026-11-11 | 2026-11-11 | Intel | New Grad 2027: Junior CPU Verification Engineer | Austin, TX, Hillsboro, OR | — | swe | unknown | [apply](https://go.vansh.nyc/1sO) |
 | 2026-11-10 | 2026-11-10 | General Dynamics Mission Systems, Inc. | ASIC/FPGA Engineer Intern | Scottsdale, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1rJ) |
 | 2026-11-10 | 2026-11-10 | Trimble | Software Engineering Intern | Knoxville, TN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1rP) |
 | 2026-11-10 | 2026-11-10 | General Motors | Machine Learning Engineer Intern, Embodied AI | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1rQ) |
@@ -389,18 +404,3 @@ _Last updated: 2026-11-10 23:44 UTC · 4807 live & eligible postings (showing 40
 | 2026-11-05 | 2026-11-05 | Genova Technologies | Embedded Software Engineer - Aerospace | Cedar Rapids, IA | — | swe | unknown | [apply](https://jobs.lever.co/genovatech/e2bf49c4-97c8-4dc3-8b85-087dfc64ad78) |
 | 2026-11-05 | 2026-11-05 | NBCUniversal | Jr. Software Engineer | Universal City, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000159723020-jr-software-engineer?oga=true) |
 | 2026-11-05 | 2026-11-05 | SpaceX | Software Engineer - Telemetry - Top Secret Clearance - Starlink | Hawthorne, CA +1 | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8918317002?gh_jid=8918317002) |
-| 2026-11-05 | 2026-11-05 | Two Six Technologies | Full Stack Software Engineer | Arlington, VA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6241576004) |
-| 2026-11-05 | 2026-11-04 | Accenture | Custom Application engineering Analyst Java Backend 6577060 | Bentonville, AR | — | swe | unknown | [apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bentonville-805-S-Walton-Blvd-Corp/Custom-Application-engineering-Analyst-Java-Backend-6577060_14881195) |
-| 2026-11-05 | 2026-11-04 | Booz Allen | Software and Documentation Support Engineer - Junior | Port Hueneme, CA | — | swe | unknown | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Port-Hueneme-CA/Software-and-Documentation-Support-Engineer--Junior_R0252799-1) |
-| 2026-11-05 | 2026-11-04 | Cisco | Full-Stack UI Engineer - AI Platforms NC - Hybrid | North Carolina, USA | — | swe | unknown | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Full-Stack-UI-Engineer--AI-Platforms--NC---Hybrid_2023063) |
-| 2026-11-05 | 2026-11-04 | Cisco | Software Engineer Full Stack / Backend I - Full Time - United States | Austin, TX +22 | — | swe | unknown | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Austin-Texas-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2028784) |
-| 2026-11-05 | 2026-11-04 | Cisco | Cloud Engineer II - Full Time - United States | Milpitas, CA | — | swe | unknown | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Cloud-Engineer_2018124) |
-| 2026-11-05 | 2026-11-04 | Credigy | Junior.Net Developer | Norcross, GA | — | swe | ok | [apply](https://job-boards.greenhouse.io/credigysolutionsinc/jobs/4750895005) |
-| 2026-11-05 | 2026-11-04 | Daifuku | Software Support Specialist I | Bolingbrook, IL | — | swe | unknown | [apply](https://careers-daifuku-america.icims.com/jobs/22040/ilus---software-support-specialist-i/job) |
-| 2026-11-05 | 2026-11-04 | Daifuku | Software Support Specialist I | Ellabell, GA | — | swe | unknown | [apply](https://careers-daifuku-america.icims.com/jobs/22041/ilus---software-support-specialist-i/job) |
-| 2026-11-05 | 2026-11-04 | Draper | Software Flight Engr | Cambridge, MA | — | swe | unknown | [apply](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Software-Flight-Engr_JR003108) |
-| 2026-11-05 | 2026-11-04 | Extra Space Storage | Associate Software Engineer | Salt Lake City, UT | — | swe | unknown | [apply](https://extraspace.wd5.myworkdayjobs.com/en-US/ess_external/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836) |
-| 2026-11-05 | 2026-11-04 | Great American Insurance Group | Associate Application Analyst & Developer | Lakeland, FL | — | swe | unknown | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/summit_external/job/Lakeland-FL-USA/Associate-Application-Analyst---Developer_R9850) |
-| 2026-11-05 | 2026-11-04 | Great American Insurance Group | Associate Application Analyst & Developer | Lakeland, FL | — | swe | unknown | [apply](https://gaig.wd1.myworkdayjobs.com/en-US/gaig_external/job/Lakeland-FL-USA/Associate-Application-Analyst---Developer_R9850-1) |
-| 2026-11-05 | 2026-11-04 | Guidewire | Software Engineer | Exton, PA | — | swe | unknown | [apply](https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---Exton-PA/Software-Engineer_JR_15373-1) |
-| 2026-11-05 | 2026-11-04 | Guidewire | Software Engineer | Exton, PA | — | swe | unknown | [apply](https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/United-States---Exton-PA/Software-Engineer_JR_15376-1) |

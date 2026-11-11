@@ -14,7 +14,7 @@
     ],
     "date_posted": 1792613170,
     "date_discovered": 1792613261,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "http 404"
   },
   {
@@ -32,7 +32,7 @@
     ],
     "date_posted": 1792698816,
     "date_discovered": 1792730568,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "workday gone (http 403)"
   },
   {
@@ -50,7 +50,7 @@
     ],
     "date_posted": 1788547306,
     "date_discovered": 1792780994,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -68,7 +68,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "http 410"
   },
   {
@@ -86,7 +86,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -104,7 +104,7 @@
     ],
     "date_posted": 1793131299,
     "date_discovered": 1793131398,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -122,7 +122,7 @@
     ],
     "date_posted": 1793322383,
     "date_discovered": 1793367132,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -141,7 +141,7 @@
     ],
     "date_posted": 1793750400,
     "date_discovered": 1793843247,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "http 410"
   },
   {
@@ -159,7 +159,7 @@
     ],
     "date_posted": 1793923616,
     "date_discovered": 1794021146,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -177,7 +177,7 @@
     ],
     "date_posted": 1793934463,
     "date_discovered": 1794045833,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -195,7 +195,115 @@
     ],
     "date_posted": 1794273212,
     "date_discovered": 1794306423,
-    "last_checked": 1794366213,
+    "last_checked": 1794394125,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "intern|wing|data scientist intern",
+    "id": "dd8dc0e851265b11",
+    "company": "Wing",
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1tB",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "ml_data",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "date_posted": 1791488345,
+    "date_discovered": 1794394125,
+    "last_checked": 1794394125,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "intern|wing|data infrastructure software engineering intern",
+    "id": "3438e276a464bba2",
+    "company": "Wing",
+    "title": "Data Infrastructure Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1tD",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "date_posted": 1791849600,
+    "date_discovered": 1794394125,
+    "last_checked": 1794394125,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "intern|wing|route planning software engineering intern",
+    "id": "080ac34edf487f56",
+    "company": "Wing",
+    "title": "Route Planning Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1tE",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "date_posted": 1791849600,
+    "date_discovered": 1794394125,
+    "last_checked": 1794394125,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "intern|wing|execution topology software engineering intern",
+    "id": "b47c382ff9f5002c",
+    "company": "Wing",
+    "title": "Execution & Topology Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1tF",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "date_posted": 1791849600,
+    "date_discovered": 1794394125,
+    "last_checked": 1794394125,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "intern|wing|manufacturing software test intern",
+    "id": "82abe47ff783e61c",
+    "company": "Wing",
+    "title": "Manufacturing Software Test Intern",
+    "url": "https://go.vansh.nyc/1tG",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "date_posted": 1791849600,
+    "date_discovered": 1794394125,
+    "last_checked": 1794394125,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "intern|wing|machine learning engineering intern",
+    "id": "9de36fa298f468a8",
+    "company": "Wing",
+    "title": "Machine Learning Engineering Intern",
+    "url": "https://go.vansh.nyc/1tH",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "date_posted": 1791928801,
+    "date_discovered": 1794394125,
+    "last_checked": 1794394125,
     "fail_reason": "http 404"
   }
 ]

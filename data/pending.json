@@ -1,23 +1,5 @@
 [
   {
-    "dedup_key": "new grad|esri|software development engineer in test i sdet arcgis enterprise",
-    "id": "45aba4167cab71e4",
-    "company": "Esri",
-    "title": "Software Development Engineer in Test I - SDET - ArcGIS Enterprise",
-    "url": "https://www.esri.com/careers/5269847007?gh_jid=5269847007",
-    "role_type": "new_grad",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "season": "",
-    "category": "swe",
-    "locations": [
-      "Redlands, CA"
-    ],
-    "date_posted": 1792613170,
-    "date_discovered": 1792613261,
-    "last_checked": 1794422400,
-    "fail_reason": "http 404"
-  },
-  {
     "dedup_key": "new grad|cisco|attack surface management security engineer i",
     "id": "1495c2432966b1c7",
     "company": "Cisco",
@@ -32,7 +14,7 @@
     ],
     "date_posted": 1792698816,
     "date_discovered": 1792730568,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "workday gone (http 403)"
   },
   {
@@ -50,7 +32,7 @@
     ],
     "date_posted": 1788547306,
     "date_discovered": 1792780994,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -68,7 +50,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "http 410"
   },
   {
@@ -86,7 +68,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -104,7 +86,7 @@
     ],
     "date_posted": 1793131299,
     "date_discovered": 1793131398,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -122,7 +104,7 @@
     ],
     "date_posted": 1793322383,
     "date_discovered": 1793367132,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -141,7 +123,7 @@
     ],
     "date_posted": 1793750400,
     "date_discovered": 1793843247,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "http 410"
   },
   {
@@ -159,7 +141,7 @@
     ],
     "date_posted": 1793923616,
     "date_discovered": 1794021146,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -177,7 +159,7 @@
     ],
     "date_posted": 1793934463,
     "date_discovered": 1794045833,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -195,7 +177,7 @@
     ],
     "date_posted": 1794273212,
     "date_discovered": 1794306423,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "http 404"
   },
   {
@@ -213,7 +195,7 @@
     ],
     "date_posted": 1791488345,
     "date_discovered": 1794394125,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "http 404"
   },
   {
@@ -231,7 +213,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "http 404"
   },
   {
@@ -249,7 +231,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "http 404"
   },
   {
@@ -267,7 +249,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "http 404"
   },
   {
@@ -285,7 +267,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "http 404"
   },
   {
@@ -303,7 +285,169 @@
     ],
     "date_posted": 1791928801,
     "date_discovered": 1794394125,
-    "last_checked": 1794422400,
+    "last_checked": 1794445189,
     "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "new grad|amazon|software dev engineer ii amz27744 1",
+    "id": "8445cadf59575664",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II - AMZ27744.1",
+    "url": "https://www.amazon.jobs/jobs/10516899/apply",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Cupertino, CA"
+    ],
+    "date_posted": 1787878716,
+    "date_discovered": 1794445189,
+    "last_checked": 1794445189,
+    "fail_reason": "http 404"
+  },
+  {
+    "dedup_key": "new grad|paychex|software engineer ii net developer",
+    "id": "c29521a8e9b99218",
+    "company": "Paychex",
+    "title": "Software Engineer II - .Net Developer",
+    "url": "https://careers-paychex.icims.com/jobs/49211/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "date_posted": 1794358716,
+    "date_discovered": 1794445189,
+    "last_checked": 1794445189,
+    "fail_reason": "http 410"
+  },
+  {
+    "dedup_key": "new grad|medpace|junior software engineer",
+    "id": "15db22957568db22",
+    "company": "Medpace",
+    "title": "Junior Software Engineer",
+    "url": "https://uscareers-medpace.icims.com/jobs/12385/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "date_posted": 1793753916,
+    "date_discovered": 1794445189,
+    "last_checked": 1794445189,
+    "fail_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "dedup_key": "new grad|medpace|software qa test engineer etl tester",
+    "id": "8222043835e3c512",
+    "company": "Medpace",
+    "title": "Software QA Test Engineer/ ETL Tester",
+    "url": "https://uscareers-medpace.icims.com/jobs/12953/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "date_posted": 1793753916,
+    "date_discovered": 1794445189,
+    "last_checked": 1794445189,
+    "fail_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "dedup_key": "new grad|msa safety|embedded software engineer",
+    "id": "3319422ba4b1c808",
+    "company": "MSA Safety",
+    "title": "Embedded Software Engineer",
+    "url": "https://careers-msasafety.icims.com/jobs/10038/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Cranberry Township, PA"
+    ],
+    "date_posted": 1793753916,
+    "date_discovered": 1794445189,
+    "last_checked": 1794445189,
+    "fail_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "dedup_key": "new grad|arrow child family ministries|family home developer",
+    "id": "cff1b4fc79bc4202",
+    "company": "Arrow Child & Family Ministries",
+    "title": "Family Home Developer",
+    "url": "https://careers-arrow.icims.com/jobs/3721/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Tyler, TX"
+    ],
+    "date_posted": 1792544316,
+    "date_discovered": 1794445189,
+    "last_checked": 1794445189,
+    "fail_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "dedup_key": "new grad|bank ozk|software engineer ii",
+    "id": "3d0a37c33ddd05a1",
+    "company": "Bank OZK",
+    "title": "Software Engineer II",
+    "url": "https://careers-ozk.icims.com/jobs/6588/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "St. Petersburg, FL"
+    ],
+    "date_posted": 1790297916,
+    "date_discovered": 1794445189,
+    "last_checked": 1794445189,
+    "fail_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "dedup_key": "new grad|medpace|entry level business analyst software development",
+    "id": "256615618a6d3053",
+    "company": "Medpace",
+    "title": "Entry-Level Business Analyst - Software Development",
+    "url": "https://uscareers-medpace.icims.com/jobs/12450/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "date_posted": 1788915516,
+    "date_discovered": 1794445189,
+    "last_checked": 1794445189,
+    "fail_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "dedup_key": "new grad|arcfield|software engineer",
+    "id": "6f9a4ca9a7728771",
+    "company": "Arcfield",
+    "title": "Software Engineer",
+    "url": "https://careers-arcfield1.icims.com/jobs/8489/job",
+    "role_type": "new_grad",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "season": "",
+    "category": "swe",
+    "locations": [
+      "Rome, NY"
+    ],
+    "date_posted": 1785805116,
+    "date_discovered": 1794445189,
+    "last_checked": 1794445189,
+    "fail_reason": "js-rendered 404 (no title)"
   }
 ]

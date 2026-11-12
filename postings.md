@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-12 01:00 UTC · 5013 live & eligible postings (showing 400); 144 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-12 08:16 UTC · 5022 live & eligible postings (showing 400); 144 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-12 | 2026-11-12 | ServiceNow | Associate Security Engineering & Automation Intern | Santa Clara, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1vX) |
+| 2026-11-12 | 2026-11-12 | ServiceNow | Associate Information Security Engineer Intern | San Diego, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1vY) |
+| 2026-11-12 | 2026-11-12 | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | Santa Clara, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1vZ) |
+| 2026-11-12 | 2026-11-12 | ServiceNow | Associate Detection Engineering Intern | Kirkland, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/1w0) |
+| 2026-11-12 | 2026-11-12 | RTX | Associate Software Engineer I, CDS / Engine System Software | Etc, CT | — | swe | unknown | [apply](https://go.vansh.nyc/1w2) |
+| 2026-11-12 | 2026-11-12 | GlobalFoundries | New Grad 2027: Tapeout Biz Products & Engineering | Austin, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1w3) |
+| 2026-11-12 | 2026-11-10 | MITRE | Associate Software Engineer | Clarksburg, WV | — | swe | unknown | [apply](https://go.vansh.nyc/1w5) |
+| 2026-11-12 | 2026-11-11 | MITRE | Associate Data Scientist | Clarksburg, WV | — | ml_data | unknown | [apply](https://go.vansh.nyc/1w6) |
+| 2026-11-12 | 2026-10-19 | MITRE | Associate Data Scientist | McLean, VA | — | ml_data | unknown | [apply](https://go.vansh.nyc/1w7) |
 | 2026-11-12 | 2026-11-10 | 7-Eleven | Enterprise Technology Intern | Irving, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1uR) |
 | 2026-11-12 | 2026-10-28 | Astera Labs | Firmware Engineer Intern, SCO2 | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1uT) |
 | 2026-11-12 | 2026-10-28 | Astera Labs | Firmware Engineer Intern, Leo | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1uU) |
@@ -395,12 +404,3 @@ _Last updated: 2026-11-12 01:00 UTC · 5013 live & eligible postings (showing 40
 | 2026-11-09 | 2026-10-02 | Nelnet | IT Software Engineer Intern | Lincoln, NE | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nM) |
 | 2026-11-09 | 2026-10-02 | CACI | Software Development Intern | Ashburn, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nN) |
 | 2026-11-09 | 2026-10-02 | xAI | Software Engineer Co-op | Palo Alto, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1nQ) |
-| 2026-11-09 | 2026-10-02 | Affirm | Software Engineer Intern, Machine Learning | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nR) |
-| 2026-11-09 | 2026-10-05 | Atlassian | Data Engineer Intern | Seattle, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nT) |
-| 2026-11-09 | 2026-10-05 | General Dynamics Mission Systems | Software Engineer Intern, CWL | Manassas, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nV) |
-| 2026-11-09 | 2026-09-25 | onsemi | Validation Engineer Intern | Nampa, ID | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nW) |
-| 2026-11-09 | 2026-09-29 | Marvell | AI-Native Development Platform Engineer Intern | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1o3) |
-| 2026-11-09 | 2026-09-29 | Honeywell | Software Engineering Co-op | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1o4) |
-| 2026-11-09 | 2026-09-30 | Wellmark | Software Engineer Intern, Metadata Enablement Team | Des Moines, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1o8) |
-| 2026-11-09 | 2026-10-01 | The Federal Reserve System | Computer Science and Software Engineering Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1oa) |
-| 2026-11-09 | 2026-10-01 | The Federal Reserve System | Data Science Intern | Chicago, IL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1ob) |

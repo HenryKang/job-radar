@@ -1,9 +1,32 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-12 08:16 UTC · 5022 live & eligible postings (showing 400); 144 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-12 17:04 UTC · 5045 live & eligible postings (showing 400); 145 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-12 | 2026-11-12 | Bask Health | Creative Engineering Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1w8) |
+| 2026-11-12 | 2026-11-12 | Bask Health | Frontend Engineer Intern, Frontend Engineering | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1w9) |
+| 2026-11-12 | 2026-11-12 | Bask | Frontend Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wc) |
+| 2026-11-12 | 2026-11-12 | Microsoft | Data Scientist Intern, CoreAI | Redmond, WA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1wj) |
+| 2026-11-12 | 2026-08-28 | Honeywell Aerospace | Software Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wq) |
+| 2026-11-12 | 2026-08-28 | Honeywell Aerospace | Software AI Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wr) |
+| 2026-11-12 | 2026-08-28 | Honeywell Aerospace | Embedded Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ws) |
+| 2026-11-12 | 2026-11-12 | Argonne National Laboratory | Business Information Systems Intern, Enterprise Software Solutions | Lemont, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wt) |
+| 2026-11-12 | 2026-11-12 | SharkNinja | Data Science Intern | Needham, MA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1wu) |
+| 2026-11-12 | 2026-10-27 | Greystone | Full Stack Engineer Intern | Warrenton, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ww) |
+| 2026-11-12 | 2026-11-12 | Entegris | Embedded Software Engineering Intern | Bloomington, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wx) |
+| 2026-11-12 | 2026-11-12 | CareSource | Software Engineer Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wz) |
+| 2026-11-12 | 2026-09-30 | Illinois Tool Works | Software Engineer Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wD) |
+| 2026-11-12 | 2026-10-07 | Illinois Tool Works | Software Engineer Intern, Application Software | Eden Prairie, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wE) |
+| 2026-11-12 | 2026-10-27 | Trinity Life Sciences | Data Science Intern | Waltham, MA, New York, NY | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1wF) |
+| 2026-11-12 | 2026-11-12 | Cardinal Health | Technology Intern | Dublin, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wG) |
+| 2026-11-12 | 2026-11-12 | Cigna | Software Engineering Intern | St. Louis, MO, Austin, TX, Morris Plains, NJ, Bloomfield, CT | Summer | swe | unknown | [apply](https://go.vansh.nyc/1wH) |
+| 2026-11-12 | 2026-11-12 | Bask Health | New Grad: Frontend Engineer | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1wd) |
+| 2026-11-12 | 2026-11-12 | Bask Health | Junior Design Engineer | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1we) |
+| 2026-11-12 | 2026-11-12 | Bask | New Grad: Frontend Engineer | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1wf) |
+| 2026-11-12 | 2026-11-10 | JBT Marel | Software Engineer | Redmond, WA | — | swe | unknown | [apply](https://go.vansh.nyc/1wA) |
+| 2026-11-12 | 2026-11-12 | Dillards | COBOL Developer | Little Rock, AR | — | swe | unknown | [apply](https://go.vansh.nyc/1wB) |
+| 2026-11-12 | 2026-11-12 | Johns Hopkins Applied Physics Laboratory | New Grad: Mission Modeling, Simulation & Software Engineer | Laurel, MD | — | swe | unknown | [apply](https://go.vansh.nyc/1wC) |
 | 2026-11-12 | 2026-11-12 | ServiceNow | Associate Security Engineering & Automation Intern | Santa Clara, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1vX) |
 | 2026-11-12 | 2026-11-12 | ServiceNow | Associate Information Security Engineer Intern | San Diego, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1vY) |
 | 2026-11-12 | 2026-11-12 | ServiceNow | Associate AI Engineering Intern, Cloud Security Automation | Santa Clara, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1vZ) |
@@ -381,26 +404,3 @@ _Last updated: 2026-11-12 08:16 UTC · 5022 live & eligible postings (showing 40
 | 2026-11-09 | 2026-11-09 | UiPath | Software Engineer Intern | Bellevue, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1oN) |
 | 2026-11-09 | 2026-11-09 | NBCUniversal | Data Science Intern, Advertising & Partnerships | New York, NY | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1oO) |
 | 2026-11-09 | 2026-11-09 | Johns Hopkins APL | Artificial Intelligence Intern, Information Fusion | Laurel, MD | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1oQ) |
-| 2026-11-09 | 2026-11-09 | Viavi Solutions | Digital Hardware Engineering Intern | Lenexa, KS | Summer | swe | unknown | [apply](https://go.vansh.nyc/1oU) |
-| 2026-11-09 | 2026-10-28 | SeatGeek | Security Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1oZ) |
-| 2026-11-09 | 2026-10-28 | SeatGeek | Software Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1p0) |
-| 2026-11-09 | 2026-11-09 | CSI | Software Engineer I, C#/.NET | Paducah, KY, Valparaiso, IN | — | swe | unknown | [apply](https://go.vansh.nyc/1oL) |
-| 2026-11-09 | 2026-11-09 | Wolverine Trading | New Grad: C++ Software Engineer | Chicago, IL | — | swe | unknown | [apply](https://go.vansh.nyc/1oT) |
-| 2026-11-09 | 2026-11-09 | SeatGeek | New Grad 2027: Software Engineer | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1p1) |
-| 2026-11-09 | 2026-11-09 | Adobe | New Grad 2027: Data Engineer | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1p4) |
-| 2026-11-09 | — | Adobe | 2027 University Graduate - Data Engineer | San Jose | — | swe | unknown | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) |
-| 2026-11-09 | 2026-10-13 | Garmin | Data Scientist Intern | Louisville, CO | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1nn) |
-| 2026-11-09 | 2026-10-14 | Indie | Applications Software Developer Intern | Aliso Viejo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nq) |
-| 2026-11-09 | 2026-10-08 | Leidos | Systems Integration and Software Engineer Intern | Atlantic City, NJ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ns) |
-| 2026-11-09 | 2026-10-08 | General Motors | Autonomous Driving Software Engineer Intern | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nt) |
-| 2026-11-09 | 2026-10-08 | IMC Trading | Machine Learning Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nv) |
-| 2026-11-09 | 2026-10-08 | Peraton | Software Development Intern | Topeka, KS | Summer | swe | ok | [apply](https://go.vansh.nyc/1nx) |
-| 2026-11-09 | 2026-10-09 | Aptiv | Linux Software Development Intern | San Antonio, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nz) |
-| 2026-11-09 | 2026-10-06 | Hewlett Packard Enterprise | Hardware Engineer Intern | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nA) |
-| 2026-11-09 | 2026-10-07 | Dow Jones | Marketing Data Science Intern | New York, NY | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1nD) |
-| 2026-11-09 | 2026-10-07 | Skyband Systems | Software Engineer Intern | Kirkland, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nF) |
-| 2026-11-09 | 2026-10-07 | Sigma Computing | Software Engineer Intern | San Francisco, CA, New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1nG) |
-| 2026-11-09 | 2026-10-01 | Varda Space Industries | Flight Software Intern | El Segundo, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1nI) |
-| 2026-11-09 | 2026-10-02 | Nelnet | IT Software Engineer Intern | Lincoln, NE | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nM) |
-| 2026-11-09 | 2026-10-02 | CACI | Software Development Intern | Ashburn, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1nN) |
-| 2026-11-09 | 2026-10-02 | xAI | Software Engineer Co-op | Palo Alto, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1nQ) |

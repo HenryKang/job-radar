@@ -1,9 +1,15 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-13 10:53 UTC · 5113 live & eligible postings (showing 400); 145 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-13 18:30 UTC · 5119 live & eligible postings (showing 400); 146 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-13 | 2026-11-13 | Valeo | Software Engineer Intern | Troy, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1yC) |
+| 2026-11-13 | 2026-11-13 | IPConfigure | Software Development Intern, Video Surveillance Software | Norfolk, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1yE) |
+| 2026-11-13 | 2026-11-13 | Verisk | Data Science/AI Intern | Lehi, UT | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1yF) |
+| 2026-11-13 | 2026-11-13 | Daimler Truck | IT Developer Analyst Intern | Mount Holly, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1yM) |
+| 2026-11-13 | 2026-11-13 | Peraton | Full Stack Engineer | Columbus, OH | — | swe | unknown | [apply](https://go.vansh.nyc/1yG) |
+| 2026-11-13 | 2026-11-13 | Cisco | Software Engineer Compiler I | Austin, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1yI) |
 | 2026-11-13 | 2026-11-13 | Bask | Machine Learning Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ys) |
 | 2026-11-13 | 2026-11-13 | Bask | AI Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1yt) |
 | 2026-11-13 | 2026-11-13 | Aurora Innovation | Software Engineer Intern, Vehicle Platforms | Mountain View, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1yu) |
@@ -398,9 +404,3 @@ _Last updated: 2026-11-13 10:53 UTC · 5113 live & eligible postings (showing 40
 | 2026-11-10 | 2026-11-10 | Vooma | Software Engineering Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1rA) |
 | 2026-11-10 | 2026-11-10 | Jabil | AI Agent Developer Intern, Supply Chain IT - AI & Enablement | St. Petersburg, FL, Tampa, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1rC) |
 | 2026-11-10 | 2026-11-10 | Echo | Software Engineering Intern | Chicago, IL, Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1rF) |
-| 2026-11-10 | 2026-11-10 | SambaNova | New Grad: Cloud Platform Engineer | Austin, TX, San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1qj) |
-| 2026-11-10 | 2026-11-10 | SambaNova | New Grad: Compiler Engineer | Austin, TX, San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1qk) |
-| 2026-11-10 | 2026-11-10 | SambaNova | New Grad: Design Verification Engineer | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1ql) |
-| 2026-11-10 | 2026-11-10 | SambaNova | New Grad: Machine Learning Engineer | Austin, TX, San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1qm) |
-| 2026-11-10 | 2026-11-10 | SambaNova | New Grad: ML Infrastructure Engineer | Austin, TX, San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1qn) |
-| 2026-11-10 | 2026-11-10 | SambaNova | New Grad: Physical Design Engineer | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1qo) |

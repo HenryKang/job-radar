@@ -1,9 +1,15 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-13 02:56 UTC · 5107 live & eligible postings (showing 400); 145 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-13 10:53 UTC · 5113 live & eligible postings (showing 400); 145 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-13 | 2026-11-13 | Bask | Machine Learning Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ys) |
+| 2026-11-13 | 2026-11-13 | Bask | AI Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1yt) |
+| 2026-11-13 | 2026-11-13 | Aurora Innovation | Software Engineer Intern, Vehicle Platforms | Mountain View, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1yu) |
+| 2026-11-13 | 2026-11-13 | Samsung Semiconductor | Compiler Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1yw) |
+| 2026-11-13 | 2026-11-13 | Shield AI | New Grad 2027: Engineer I, Software | Washington, DC | — | swe | ok | [apply](https://go.vansh.nyc/1yz) |
+| 2026-11-13 | 2026-11-13 | Shield | New Grad 2027: Engineer I, Software | Washington, DC | — | swe | unknown | [apply](https://go.vansh.nyc/1yA) |
 | 2026-11-13 | 2026-11-12 | VITAL LYFE | Software Engineering Intern | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1xy) |
 | 2026-11-13 | 2026-11-12 | CACI | Embedded Software Development Intern | Denver, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1xA) |
 | 2026-11-13 | 2026-11-12 | Entegris | Data Engineering Intern | Aurora, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1xB) |
@@ -398,9 +404,3 @@ _Last updated: 2026-11-13 02:56 UTC · 5107 live & eligible postings (showing 40
 | 2026-11-10 | 2026-11-10 | SambaNova | New Grad: Machine Learning Engineer | Austin, TX, San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1qm) |
 | 2026-11-10 | 2026-11-10 | SambaNova | New Grad: ML Infrastructure Engineer | Austin, TX, San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1qn) |
 | 2026-11-10 | 2026-11-10 | SambaNova | New Grad: Physical Design Engineer | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1qo) |
-| 2026-11-10 | 2026-11-10 | SambaNova | New Grad: Runtime Engineer | Austin, TX, San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1qp) |
-| 2026-11-10 | 2026-11-10 | Natoma | New Grad: Software Engineer | Boston, MA | — | swe | unknown | [apply](https://go.vansh.nyc/1rp) |
-| 2026-11-10 | 2026-11-10 | Natoma | New Grad: Software Engineer | Boston, MA | — | swe | unknown | [apply](https://go.vansh.nyc/1rq) |
-| 2026-11-10 | 2026-11-10 | Xperteez Technology | New Grad: Software Engineer | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1rD) |
-| 2026-11-10 | 2026-11-10 | Zingage | New Grad: Software Engineer | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1rE) |
-| 2026-11-10 | 2026-11-10 | Wellmark | Data Science Associate - FEP | Des Moines, IA | — | ml_data | ok | [apply](https://go.vansh.nyc/1rG) |

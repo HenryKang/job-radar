@@ -1,23 +1,5 @@
 [
   {
-    "dedup_key": "new grad|hyannis port research|platform software engineer i",
-    "id": "2555244b225238d7",
-    "company": "Hyannis Port Research",
-    "title": "Platform Software Engineer I",
-    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7985899003",
-    "role_type": "new_grad",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "season": "",
-    "category": "swe",
-    "locations": [
-      "Needham, MA"
-    ],
-    "date_posted": 1788547306,
-    "date_discovered": 1792780994,
-    "last_checked": 1794594642,
-    "fail_reason": "greenhouse api: job not found"
-  },
-  {
     "dedup_key": "intern|docusign|ai platform engineer intern",
     "id": "9e1d4a4be4c4099d",
     "company": "DocuSign",
@@ -32,7 +14,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -50,7 +32,7 @@
     ],
     "date_posted": 1792728000,
     "date_discovered": 1793019152,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -68,7 +50,7 @@
     ],
     "date_posted": 1793131299,
     "date_discovered": 1793131398,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "greenhouse api: job not found"
   },
   {
@@ -86,7 +68,7 @@
     ],
     "date_posted": 1793322383,
     "date_discovered": 1793367132,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -105,7 +87,7 @@
     ],
     "date_posted": 1793750400,
     "date_discovered": 1793843247,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 410"
   },
   {
@@ -123,7 +105,7 @@
     ],
     "date_posted": 1793923616,
     "date_discovered": 1794021146,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -141,7 +123,7 @@
     ],
     "date_posted": 1793934463,
     "date_discovered": 1794045833,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -159,7 +141,7 @@
     ],
     "date_posted": 1794273212,
     "date_discovered": 1794306423,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 404"
   },
   {
@@ -177,7 +159,7 @@
     ],
     "date_posted": 1791488345,
     "date_discovered": 1794394125,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 404"
   },
   {
@@ -195,7 +177,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 404"
   },
   {
@@ -213,7 +195,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 404"
   },
   {
@@ -231,7 +213,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 404"
   },
   {
@@ -249,7 +231,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 404"
   },
   {
@@ -267,7 +249,7 @@
     ],
     "date_posted": 1791928801,
     "date_discovered": 1794394125,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 404"
   },
   {
@@ -285,7 +267,7 @@
     ],
     "date_posted": 1787878716,
     "date_discovered": 1794445189,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 404"
   },
   {
@@ -303,7 +285,7 @@
     ],
     "date_posted": 1794358716,
     "date_discovered": 1794445189,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "http 410"
   },
   {
@@ -321,7 +303,7 @@
     ],
     "date_posted": 1793753916,
     "date_discovered": 1794445189,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -339,7 +321,7 @@
     ],
     "date_posted": 1793753916,
     "date_discovered": 1794445189,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -357,7 +339,7 @@
     ],
     "date_posted": 1793753916,
     "date_discovered": 1794445189,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -375,7 +357,7 @@
     ],
     "date_posted": 1792544316,
     "date_discovered": 1794445189,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -393,7 +375,7 @@
     ],
     "date_posted": 1790297916,
     "date_discovered": 1794445189,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -411,7 +393,7 @@
     ],
     "date_posted": 1788915516,
     "date_discovered": 1794445189,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -429,7 +411,7 @@
     ],
     "date_posted": 1785805116,
     "date_discovered": 1794445189,
-    "last_checked": 1794594642,
+    "last_checked": 1794613904,
     "fail_reason": "js-rendered 404 (no title)"
   }
 ]

@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-14 06:11 UTC · 5195 live & eligible postings (showing 400); 149 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-14 13:28 UTC · 5198 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-14 | 2026-11-13 | NextEra Energy | Software Engineering Intern, Technical | St Paul, MN | Summer | swe | ok | [apply](https://go.vansh.nyc/1zq) |
+| 2026-11-14 | 2026-11-13 | Huntington Ingalls Industries | Software Development Engineer 1 | Newport News, VA | — | swe | ok | [apply](https://go.vansh.nyc/1zm) |
+| 2026-11-14 | 2026-11-14 | Ericsson | AI Software Engineer Intern | Plano, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zB) |
 | 2026-11-14 | 2026-11-14 | NetApp | Software Engineer Intern, Cloud | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zr) |
 | 2026-11-14 | 2026-11-14 | NetApp | Software Engineer Intern, Systems | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zs) |
 | 2026-11-14 | 2026-11-14 | KBR Wyle Services | Image Processing Software Engineer Intern | Sioux Falls, SD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zx) |
@@ -401,6 +404,3 @@ _Last updated: 2026-11-14 06:11 UTC · 5195 live & eligible postings (showing 40
 | 2026-11-10 | 2026-11-10 | Addepar | Software Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1rW) |
 | 2026-11-10 | 2026-11-10 | Addepar | AI Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1rX) |
 | 2026-11-10 | 2026-11-10 | Addepar | Data Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1rY) |
-| 2026-11-10 | 2026-11-10 | Hunt Oil Company | Application Developer Intern | Dallas, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1s2) |
-| 2026-11-10 | 2026-11-10 | ByteDance | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1s7) |
-| 2026-11-10 | 2026-11-10 | Western Digital | Software Engineering Intern | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1s8) |

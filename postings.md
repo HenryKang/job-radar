@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-14 18:51 UTC · 5221 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-14 22:57 UTC · 5225 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-14 | 2026-11-13 | Cintas | OT Software Engineer Intern, IT | United States | Summer | swe | ok | [apply](https://go.vansh.nyc/1zH) |
+| 2026-11-14 | 2026-11-13 | State of Maryland | Quantitative Analyst Intern | Baltimore, MD | Summer | quant | unknown | [apply](https://go.vansh.nyc/1zI) |
+| 2026-11-14 | 2026-11-13 | Owl Cyber Defense | Software Engineering Intern | Columbia, MD | Summer | swe | ok | [apply](https://go.vansh.nyc/1zK) |
+| 2026-11-14 | 2026-11-14 | USAA | Technology Intern | San Antonio, TX, Plano, TX, Phoenix, AZ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zL) |
 | 2026-11-14 | 2026-11-14 | SAS | Software Developer Intern, Go/Golang | Cary, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zC) |
 | 2026-11-14 | 2026-11-13 | Capital Group | Global Technology Associate Intern | Irvine, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zD) |
 | 2026-11-14 | 2026-11-13 | Camping World | Software Engineer Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zE) |
@@ -400,7 +404,3 @@ _Last updated: 2026-11-14 18:51 UTC · 5221 live & eligible postings (showing 40
 | 2026-11-11 | 2026-10-05 | Atlassian | New Grad 2027: Data Engineer | Seattle, WA | — | swe | unknown | [apply](https://go.vansh.nyc/1u2) |
 | 2026-11-11 | 2026-10-09 | GE Aerospace | Entry Level FPGA Design/Verification Engineer | Grand Rapids, MI | — | swe | unknown | [apply](https://go.vansh.nyc/1u3) |
 | 2026-11-11 | 2026-10-16 | Planview | Software Engineer 1 | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1u4) |
-| 2026-11-11 | 2026-10-19 | C3.ai | New Grad: Forward Deployed Engineer - Federal | Tysons, VA | — | swe | ok | [apply](https://go.vansh.nyc/1u6) |
-| 2026-11-11 | 2026-10-28 | Oxbridge Health | AI Engineer | Norwalk, CT | — | swe | ok | [apply](https://go.vansh.nyc/1u9) |
-| 2026-11-11 | 2026-10-19 | Nuro | New Grad: Software Engineer, AI Platform | Mountain View, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1ul) |
-| 2026-11-11 | 2026-11-10 | Walmart | Data Science & Data Analytics Intern, Last Mile Delivery | Bentonville, AR | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1sh) |

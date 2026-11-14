@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-13 23:52 UTC · 5186 live & eligible postings (showing 400); 146 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-14 06:11 UTC · 5195 live & eligible postings (showing 400); 149 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-14 | 2026-11-14 | NetApp | Software Engineer Intern, Cloud | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zr) |
+| 2026-11-14 | 2026-11-14 | NetApp | Software Engineer Intern, Systems | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zs) |
+| 2026-11-14 | 2026-11-14 | KBR Wyle Services | Image Processing Software Engineer Intern | Sioux Falls, SD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zx) |
+| 2026-11-14 | 2026-11-14 | KBR Wyle Services | Software Engineering Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI, Lexington, MA, Kihei, HI, Beavercreek, OH, Lexington Park, MD, King of Prussia, PA, Colorado Springs, CO, Huntsville, AL, El Segundo, CA, Orlando, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zz) |
+| 2026-11-14 | 2026-11-13 | Empire State Realty Trust | Applied AI Engineer 1 | New York, NY | — | swe | ok | [apply](https://go.vansh.nyc/1zo) |
+| 2026-11-14 | 2026-11-13 | Cummins | New Grad 2027: Systems Engineer | Seymour, IN | — | swe | unknown | [apply](https://go.vansh.nyc/1zp) |
+| 2026-11-14 | 2026-11-14 | Aerospace | Embedded Software Engineer I - Flight Management System | Phoenix, AZ | — | swe | unknown | [apply](https://go.vansh.nyc/1zw) |
+| 2026-11-14 | 2026-11-14 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | US, VA, Herndon | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) |
+| 2026-11-14 | 2026-11-14 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | US, OR, Umatilla | Summer 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) |
 | 2026-11-13 | 2026-11-13 | Bloomberg Industry Group | Engineering Intern | Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1yW) |
 | 2026-11-13 | 2026-11-12 | PODS | Operations Data Science Intern | Clearwater, FL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1yX) |
 | 2026-11-13 | 2026-11-12 | Punch Through Design | Cloud Software Engineer Intern | Minneapolis, MN | Summer | swe | ok | [apply](https://go.vansh.nyc/1yY) |
@@ -395,12 +404,3 @@ _Last updated: 2026-11-13 23:52 UTC · 5186 live & eligible postings (showing 40
 | 2026-11-10 | 2026-11-10 | Hunt Oil Company | Application Developer Intern | Dallas, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1s2) |
 | 2026-11-10 | 2026-11-10 | ByteDance | Site Reliability Engineer Intern, Data Platform, Computer Platform | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1s7) |
 | 2026-11-10 | 2026-11-10 | Western Digital | Software Engineering Intern | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1s8) |
-| 2026-11-10 | 2026-11-10 | Skydio | Middleware Software Engineer Intern | San Mateo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1s9) |
-| 2026-11-10 | 2026-11-10 | Western Digital | Hardware Engineering Intern | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1sa) |
-| 2026-11-10 | 2026-11-10 | REGENT | Embedded Software Engineering Intern | North Kingstown, RI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sb) |
-| 2026-11-10 | 2026-11-10 | Hook Music | Machine Learning Engineering Intern, Recommendation Systems | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sf) |
-| 2026-11-10 | 2026-11-10 | SAIC | Software Engineer | Huntsville, AL | — | swe | unknown | [apply](https://go.vansh.nyc/1rM) |
-| 2026-11-10 | 2026-11-09 | AECOM | Digital Solutions Software Developer I | Tallahassee, FL | — | swe | unknown | [apply](https://go.vansh.nyc/1rN) |
-| 2026-11-10 | 2026-11-10 | Aerospace | Software Engineer I, Web Applications | Phoenix, AZ | — | swe | unknown | [apply](https://go.vansh.nyc/1rV) |
-| 2026-11-10 | 2026-11-09 | Apple | Tools & Automation Engineer | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1s1) |
-| 2026-11-10 | 2026-11-10 | Anduril | New Grad 2027: Information Security Engineer | Costa Mesa, CA | — | swe | ok | [apply](https://go.vansh.nyc/1s4) |

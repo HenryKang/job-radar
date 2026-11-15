@@ -1,9 +1,14 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-15 17:03 UTC · 5228 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-15 21:44 UTC · 5233 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-15 | 2026-10-29 | Sallie Mae | Data Science and Engineering Intern | Newark, DE, Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zR) |
+| 2026-11-15 | 2026-11-15 | Rodriguez Services | Software Engineer Intern | San Francisco, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1zS) |
+| 2026-11-15 | 2026-11-15 | SpaceX | Full Stack Software Engineer (Starlink) | Palo Alto, CA | — | swe | ok | [apply](https://go.vansh.nyc/1zZ) |
+| 2026-11-15 | 2026-11-14 | Ingalls Shipbuilding | Software Development Engineer 1 | Newport News, VA | — | swe | ok | [apply](https://go.vansh.nyc/1A0) |
+| 2026-11-15 | 2026-11-11 | Bask | Junior Backend Engineer - Platform | USA | — | swe | unknown | [apply](https://apply.workable.com/bask-health-1/j/1A2C5E6D86/) |
 | 2026-11-15 | 2026-11-13 | Blizzard Entertainment | Animation & Cinematic Tools Engineering Intern | Irvine, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zQ) |
 | 2026-11-15 | 2026-11-13 | Johnson Controls | New Grad: Nextgen Software Engineer | Milwaukee, WI, Westford, MA, Glendale, WI | — | swe | unknown | [apply](https://go.vansh.nyc/1zN) |
 | 2026-11-15 | 2026-11-15 | NVIDIA | Deep Learning Framework Communications Engineer | Santa Clara, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1zO) |
@@ -399,8 +404,3 @@ _Last updated: 2026-11-15 17:03 UTC · 5228 live & eligible postings (showing 40
 | 2026-11-11 | 2026-09-09 | Navy Federal | Associate Data Engineer Intern | Vienna, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1up) |
 | 2026-11-11 | 2026-09-09 | Navy Federal | Associate Product Security Engineer Intern | Vienna, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ur) |
 | 2026-11-11 | 2026-09-09 | Navy Federal | Associate Data Scientist Intern | Vienna, VA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1ux) |
-| 2026-11-11 | 2026-11-10 | RTX | Software Engineer 1 | Richardson, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1sR) |
-| 2026-11-11 | 2026-09-15 | Cerebras | Software Engineer - Kernel Reliability | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1tV) |
-| 2026-11-11 | 2026-09-24 | Atlassian | New Grad 2027: Machine Learning Engineer | Seattle, WA | — | swe | unknown | [apply](https://go.vansh.nyc/1tW) |
-| 2026-11-11 | 2026-09-29 | Infinitive | Technology Consultant | McLean, VA | — | swe | unknown | [apply](https://go.vansh.nyc/1tX) |
-| 2026-11-11 | 2026-10-01 | Pinterest | University Grad Software Engineer | San Francisco, CA, Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1u0) |

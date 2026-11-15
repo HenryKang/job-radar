@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-15 02:37 UTC · 5227 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-15 09:54 UTC · 5228 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-15 | 2026-11-13 | Blizzard Entertainment | Animation & Cinematic Tools Engineering Intern | Irvine, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zQ) |
 | 2026-11-15 | 2026-11-13 | Johnson Controls | New Grad: Nextgen Software Engineer | Milwaukee, WI, Westford, MA, Glendale, WI | — | swe | unknown | [apply](https://go.vansh.nyc/1zN) |
 | 2026-11-15 | 2026-11-15 | NVIDIA | Deep Learning Framework Communications Engineer | Santa Clara, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1zO) |
 | 2026-11-14 | 2026-11-13 | Cintas | OT Software Engineer Intern, IT | United States | Summer | swe | ok | [apply](https://go.vansh.nyc/1zH) |
@@ -403,4 +404,3 @@ _Last updated: 2026-11-15 02:37 UTC · 5227 live & eligible postings (showing 40
 | 2026-11-11 | 2026-09-24 | Atlassian | New Grad 2027: Machine Learning Engineer | Seattle, WA | — | swe | unknown | [apply](https://go.vansh.nyc/1tW) |
 | 2026-11-11 | 2026-09-29 | Infinitive | Technology Consultant | McLean, VA | — | swe | unknown | [apply](https://go.vansh.nyc/1tX) |
 | 2026-11-11 | 2026-10-01 | Pinterest | University Grad Software Engineer | San Francisco, CA, Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1u0) |
-| 2026-11-11 | 2026-10-05 | Atlassian | New Grad 2027: Data Engineer | Seattle, WA | — | swe | unknown | [apply](https://go.vansh.nyc/1u2) |

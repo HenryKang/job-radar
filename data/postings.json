@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794697055,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,10 +34,10 @@
     "category": "ml_data",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793923616,
-    "date_found": 1794697055,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
-    "elig_reason": "closed: 'no longer available'"
+    "elig_reason": "http 410"
   },
   {
     "id": "604ff341ad3e5fea",
@@ -54,7 +54,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794697055,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -74,7 +74,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1794697055,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794697055,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794697055,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794697055,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -154,7 +154,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794697055,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -174,7 +174,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1794697055,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793746595,
-    "date_found": 1794697055,
+    "date_posted": 1793759788,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793746595,
-    "date_found": 1794697055,
+    "date_posted": 1793759788,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793746595,
-    "date_found": 1794697055,
+    "date_posted": 1793759788,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -253,8 +253,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792536995,
-    "date_found": 1794697055,
+    "date_posted": 1792550188,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -273,8 +273,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791500195,
-    "date_found": 1794697055,
+    "date_posted": 1791513388,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -293,8 +293,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790290595,
-    "date_found": 1794697055,
+    "date_posted": 1790303788,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -313,8 +313,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789080995,
-    "date_found": 1794697055,
+    "date_posted": 1789094188,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -333,8 +333,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1788908195,
-    "date_found": 1794697055,
+    "date_posted": 1788921388,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -353,11 +353,53 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785797795,
-    "date_found": 1794697055,
+    "date_posted": 1785810988,
+    "date_found": 1794710264,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "1a2dc51e0dd93f6b",
+    "dedup_key": "new grad|johnson controls|new grad nextgen software engineer",
+    "company": "Johnson Controls",
+    "title": "New Grad: Nextgen Software Engineer",
+    "locations": [
+      "Milwaukee, WI",
+      "Westford, MA",
+      "Glendale, WI"
+    ],
+    "url": "https://go.vansh.nyc/1zN",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1794528000,
+    "date_found": 1794710264,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "6fe92da8d636a8a6",
+    "dedup_key": "new grad|nvidia|deep learning framework communications engineer",
+    "company": "NVIDIA",
+    "title": "Deep Learning Framework Communications Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/1zO",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794704678,
+    "date_found": 1794710264,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "6fe26950fb71ca1a",

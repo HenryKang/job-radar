@@ -1,9 +1,11 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-14 22:57 UTC · 5225 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-15 02:37 UTC · 5227 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-15 | 2026-11-13 | Johnson Controls | New Grad: Nextgen Software Engineer | Milwaukee, WI, Westford, MA, Glendale, WI | — | swe | unknown | [apply](https://go.vansh.nyc/1zN) |
+| 2026-11-15 | 2026-11-15 | NVIDIA | Deep Learning Framework Communications Engineer | Santa Clara, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1zO) |
 | 2026-11-14 | 2026-11-13 | Cintas | OT Software Engineer Intern, IT | United States | Summer | swe | ok | [apply](https://go.vansh.nyc/1zH) |
 | 2026-11-14 | 2026-11-13 | State of Maryland | Quantitative Analyst Intern | Baltimore, MD | Summer | quant | unknown | [apply](https://go.vansh.nyc/1zI) |
 | 2026-11-14 | 2026-11-13 | Owl Cyber Defense | Software Engineering Intern | Columbia, MD | Summer | swe | ok | [apply](https://go.vansh.nyc/1zK) |
@@ -402,5 +404,3 @@ _Last updated: 2026-11-14 22:57 UTC · 5225 live & eligible postings (showing 40
 | 2026-11-11 | 2026-09-29 | Infinitive | Technology Consultant | McLean, VA | — | swe | unknown | [apply](https://go.vansh.nyc/1tX) |
 | 2026-11-11 | 2026-10-01 | Pinterest | University Grad Software Engineer | San Francisco, CA, Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1u0) |
 | 2026-11-11 | 2026-10-05 | Atlassian | New Grad 2027: Data Engineer | Seattle, WA | — | swe | unknown | [apply](https://go.vansh.nyc/1u2) |
-| 2026-11-11 | 2026-10-09 | GE Aerospace | Entry Level FPGA Design/Verification Engineer | Grand Rapids, MI | — | swe | unknown | [apply](https://go.vansh.nyc/1u3) |
-| 2026-11-11 | 2026-10-16 | Planview | Software Engineer 1 | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1u4) |

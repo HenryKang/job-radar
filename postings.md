@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-16 01:59 UTC · 5233 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-16 09:32 UTC · 5234 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-16 | 2026-10-05 | Hudson River Trading | Data Scientist Intern | New York, NY | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1A5) |
 | 2026-11-15 | 2026-10-29 | Sallie Mae | Data Science and Engineering Intern | Newark, DE, Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zR) |
 | 2026-11-15 | 2026-11-15 | Rodriguez Services | Software Engineer Intern | San Francisco, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1zS) |
 | 2026-11-15 | 2026-11-15 | SpaceX | Full Stack Software Engineer (Starlink) | Palo Alto, CA | — | swe | ok | [apply](https://go.vansh.nyc/1zZ) |
@@ -403,4 +404,3 @@ _Last updated: 2026-11-16 01:59 UTC · 5233 live & eligible postings (showing 40
 | 2026-11-11 | 2026-10-28 | Intuitive | Robotics Engineering Intern | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1tN) |
 | 2026-11-11 | 2026-09-09 | Navy Federal | Associate Data Engineer Intern | Vienna, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1up) |
 | 2026-11-11 | 2026-09-09 | Navy Federal | Associate Product Security Engineer Intern | Vienna, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ur) |
-| 2026-11-11 | 2026-09-09 | Navy Federal | Associate Data Scientist Intern | Vienna, VA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1ux) |

@@ -1,9 +1,15 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-16 09:32 UTC · 5234 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-16 19:51 UTC · 5240 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-16 | 2026-11-16 | Octaura | Data Engineer Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1A6) |
+| 2026-11-16 | 2026-11-16 | Boston Scientific | AI Engineering Intern, Generative and Agentic AI | Marlborough, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1A8) |
+| 2026-11-16 | 2026-11-16 | i3 | Embedded Systems Reverse Engineer Intern | Washington, DC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Af) |
+| 2026-11-16 | 2026-11-16 | Carnival Corporation | Revenue Data Science Intern | Miami, FL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Ah) |
+| 2026-11-16 | 2026-10-15 | Quest Analytics | Software Engineer Intern, C#, ASP.NET | Overland Park, KS | Summer | swe | ok | [apply](https://go.vansh.nyc/1Al) |
+| 2026-11-16 | 2026-11-16 | M3 USA | Quality Engineering Intern, SDET | Lawrenceville, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1An) |
 | 2026-11-16 | 2026-10-05 | Hudson River Trading | Data Scientist Intern | New York, NY | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1A5) |
 | 2026-11-15 | 2026-10-29 | Sallie Mae | Data Science and Engineering Intern | Newark, DE, Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zR) |
 | 2026-11-15 | 2026-11-15 | Rodriguez Services | Software Engineer Intern | San Francisco, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1zS) |
@@ -398,9 +404,3 @@ _Last updated: 2026-11-16 09:32 UTC · 5234 live & eligible postings (showing 40
 | 2026-11-11 | 2026-09-28 | Wellmark | Software Engineer Intern - Marketing and Digital Team | Des Moines, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1tx) |
 | 2026-11-11 | 2026-10-07 | Versant3 | Technology, Product, Design & Engineering Intern | Orlando, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1tz) |
 | 2026-11-11 | 2026-10-07 | Versant3 | Technology, Product, Design & Engineering Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1tA) |
-| 2026-11-11 | 2026-10-12 | Versant3 | Technology, Product, Design & Engineering Intern | North Hollywood, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1tC) |
-| 2026-11-11 | 2026-10-19 | Nintendo | IT Software Engineer Intern | Redmond, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1tJ) |
-| 2026-11-11 | 2026-10-19 | Bosch | Embedded AI Software Engineering Co-op | Fountain Inn, SC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1tK) |
-| 2026-11-11 | 2026-10-28 | Intuitive | Robotics Engineering Intern | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1tN) |
-| 2026-11-11 | 2026-09-09 | Navy Federal | Associate Data Engineer Intern | Vienna, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1up) |
-| 2026-11-11 | 2026-09-09 | Navy Federal | Associate Product Security Engineer Intern | Vienna, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ur) |

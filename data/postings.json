@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794884078,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794884078,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1794884078,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794884078,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794884078,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794884078,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1794884078,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793760822,
-    "date_found": 1794884078,
+    "date_posted": 1793792663,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793760822,
-    "date_found": 1794884078,
+    "date_posted": 1793792663,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793760822,
-    "date_found": 1794884078,
+    "date_posted": 1793792663,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792551222,
-    "date_found": 1794884078,
+    "date_posted": 1792583063,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791428022,
-    "date_found": 1794884078,
+    "date_posted": 1791459863,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -253,8 +253,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790304822,
-    "date_found": 1794884078,
+    "date_posted": 1790336663,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -273,8 +273,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789095222,
-    "date_found": 1794884078,
+    "date_posted": 1789127063,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -293,8 +293,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1788922422,
-    "date_found": 1794884078,
+    "date_posted": 1788954263,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -313,11 +313,191 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785812022,
-    "date_found": 1794884078,
+    "date_posted": 1785843863,
+    "date_found": 1794915912,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "b49cfe89e34c4604",
+    "dedup_key": "intern|hexarmor|software engineer intern",
+    "company": "HexArmor",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "url": "https://go.vansh.nyc/1AQ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794875463,
+    "date_found": 1794915912,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "89006fab9ea41dcb",
+    "dedup_key": "intern|soros fund management|trading intern middle and back office dev",
+    "company": "Soros Fund Management",
+    "title": "Trading Intern, Middle and Back Office Dev",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1AR",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1794581212,
+    "date_found": 1794915912,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3636e7c1aee64674",
+    "dedup_key": "intern|fiserv|technology intern cybersecurity",
+    "company": "Fiserv",
+    "title": "Technology Intern, Cybersecurity",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "url": "https://go.vansh.nyc/1AS",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794885048,
+    "date_found": 1794915912,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "94d5c7c12dec4019",
+    "dedup_key": "intern|fiserv|technology intern cybersecurity",
+    "company": "Fiserv",
+    "title": "Technology Intern, Cybersecurity",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://go.vansh.nyc/1AT",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794885048,
+    "date_found": 1794915912,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "24f8f011c7d8224a",
+    "dedup_key": "intern|analog devices|software engineering intern medical device healthcare integration",
+    "company": "Analog Devices",
+    "title": "Software Engineering Intern, Medical Device & Healthcare Integration",
+    "locations": [
+      "Wilmington, MA"
+    ],
+    "url": "https://go.vansh.nyc/1AV",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794892329,
+    "date_found": 1794915912,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2b4d34b66078f1f0",
+    "dedup_key": "intern|sedaro|software engineer intern",
+    "company": "Sedaro",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "url": "https://go.vansh.nyc/1Bb",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794910061,
+    "date_found": 1794915912,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f80d3e7c687e47ab",
+    "dedup_key": "intern|globalfoundries|tapeout engineering business products engineering intern",
+    "company": "GlobalFoundries",
+    "title": "Tapeout Engineering Business Products & Engineering Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/1Bc",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794885036,
+    "date_found": 1794915912,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e4d7b4eb2aa048e1",
+    "dedup_key": "new grad|all options|new grad 2027 quantitative researcher",
+    "company": "All Options",
+    "title": "New Grad 2027: Quantitative Researcher",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/1B3",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1794899057,
+    "date_found": 1794915912,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3024cf2d00a51a00",
+    "dedup_key": "new grad|jobgether|new grad 2027 software engineer open source and linux",
+    "company": "Jobgether",
+    "title": "New Grad 2027: Software Engineer, Open Source and Linux",
+    "locations": [
+      "Remote"
+    ],
+    "url": "https://go.vansh.nyc/1B9",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794906950,
+    "date_found": 1794915912,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "ed8d86683e611591",

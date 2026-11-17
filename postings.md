@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-17 02:54 UTC · 5261 live & eligible postings (showing 400); 148 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-17 11:45 UTC · 5270 live & eligible postings (showing 400); 148 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-17 | 2026-11-17 | HexArmor | Software Engineer Intern | Atlanta, GA | Summer | swe | ok | [apply](https://go.vansh.nyc/1AQ) |
+| 2026-11-17 | 2026-11-13 | Soros Fund Management | Trading Intern, Middle and Back Office Dev | New York, NY | Summer | quant | ok | [apply](https://go.vansh.nyc/1AR) |
+| 2026-11-17 | 2026-11-17 | Fiserv | Technology Intern, Cybersecurity | Berkeley Heights, NJ | Summer | swe | unknown | [apply](https://go.vansh.nyc/1AS) |
+| 2026-11-17 | 2026-11-17 | Fiserv | Technology Intern, Cybersecurity | Columbus, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1AT) |
+| 2026-11-17 | 2026-11-17 | Analog Devices | Software Engineering Intern, Medical Device & Healthcare Integration | Wilmington, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1AV) |
+| 2026-11-17 | 2026-11-17 | Sedaro | Software Engineer Intern | Arlington, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bb) |
+| 2026-11-17 | 2026-11-17 | GlobalFoundries | Tapeout Engineering Business Products & Engineering Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bc) |
+| 2026-11-17 | 2026-11-17 | All Options | New Grad 2027: Quantitative Researcher | Austin, TX | — | quant | unknown | [apply](https://go.vansh.nyc/1B3) |
+| 2026-11-17 | 2026-11-17 | Jobgether | New Grad 2027: Software Engineer, Open Source and Linux | Remote | — | swe | unknown | [apply](https://go.vansh.nyc/1B9) |
 | 2026-11-17 | 2026-11-16 | Pacific Fusion | HPC/DevOps Engineering Intern | San Leandro, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ao) |
 | 2026-11-17 | 2026-11-16 | Micron Technology | Data Science Intern, SMAI | Boise, ID | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Ap) |
 | 2026-11-17 | 2026-11-16 | Schonfeld | Platform Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Aw) |
@@ -395,12 +404,3 @@ _Last updated: 2026-11-17 02:54 UTC · 5261 live & eligible postings (showing 40
 | 2026-11-11 | 2026-11-11 | Maven Securities | Floor Trader | Chicago, IL | — | quant | unknown | [apply](https://go.vansh.nyc/1uK) |
 | 2026-11-11 | 2026-11-11 | RTX | Software Engineer I | Cedar Rapids, IA | — | swe | unknown | [apply](https://go.vansh.nyc/1uL) |
 | 2026-11-11 | 2026-11-11 | Symbotic | New Grad: Robotics Software Engineer | Wilmington, MA | — | swe | unknown | [apply](https://go.vansh.nyc/1uP) |
-| 2026-11-11 | 2026-11-11 | Brex | Software Engineer, Intern  (Summer 2027) | San Francisco, California, United States | Summer 2027 | swe | unknown | [apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) |
-| 2026-11-11 | 2026-11-08 | Formulary Financial | Software Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sP) |
-| 2026-11-11 | 2026-11-11 | Riot Games | Data Engineering Intern | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sS) |
-| 2026-11-11 | 2026-11-11 | Astranis | Embedded Software Developer Intern, Network/Payload | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sT) |
-| 2026-11-11 | 2026-09-15 | F&G | IT Software Engineer Intern | Des Moines, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sU) |
-| 2026-11-11 | 2026-09-15 | Elire | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Remote, United States, Minneapolis, MN | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1sV) |
-| 2026-11-11 | 2026-09-15 | Lunar Outpost | Simulation Engineering Intern | Golden, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sW) |
-| 2026-11-11 | 2026-09-15 | Lunar Outpost | Robotics Engineer Intern | Golden, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1sX) |
-| 2026-11-11 | 2026-09-16 | V2X | Artificial Intelligence Intern | Indianapolis, IN | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1sY) |

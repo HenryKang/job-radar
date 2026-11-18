@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1794970343,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1794970343,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1794970343,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794970343,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794970343,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1794970343,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1794970343,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793760699,
-    "date_found": 1794970343,
+    "date_posted": 1793791901,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793760699,
-    "date_found": 1794970343,
+    "date_posted": 1793791901,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793760699,
-    "date_found": 1794970343,
+    "date_posted": 1793791901,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792551099,
-    "date_found": 1794970343,
+    "date_posted": 1792582301,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791514299,
-    "date_found": 1794970343,
+    "date_posted": 1791545501,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -253,8 +253,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790304699,
-    "date_found": 1794970343,
+    "date_posted": 1790335901,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -273,8 +273,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789095099,
-    "date_found": 1794970343,
+    "date_posted": 1789126301,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -293,8 +293,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1788922299,
-    "date_found": 1794970343,
+    "date_posted": 1788953501,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -313,11 +313,112 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785811899,
-    "date_found": 1794970343,
+    "date_posted": 1785843101,
+    "date_found": 1795001534,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "158ec15bb0dd7f35",
+    "dedup_key": "intern|sallie mae|software engineer intern",
+    "company": "Sallie Mae",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "url": "https://go.vansh.nyc/1C4",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794873600,
+    "date_found": 1795001534,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f10f8ac4d314ac56",
+    "dedup_key": "intern|airbnb|software engineering intern",
+    "company": "Airbnb",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1C6",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794978623,
+    "date_found": 1795001534,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "d2afc306648852a0",
+    "dedup_key": "intern|s p global|machine learning engineer intern",
+    "company": "S&P Global",
+    "title": "Machine Learning Engineer Intern",
+    "locations": [
+      "Cambridge, MA",
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1C7",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794978608,
+    "date_found": 1795001534,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5d68c913796e5919",
+    "dedup_key": "intern|nightwing|vulnerability researcher intern",
+    "company": "Nightwing",
+    "title": "Vulnerability Researcher Intern",
+    "locations": [
+      "Palm Bay, FL"
+    ],
+    "url": "https://go.vansh.nyc/1C8",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1794906593,
+    "date_found": 1795001534,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2cbdee09b716aecb",
+    "dedup_key": "intern|airbnb|software engineering intern bs ms",
+    "company": "Airbnb",
+    "title": "Software Engineering Intern (BS/MS)",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+    "season": "",
+    "source": "ats:greenhouse:airbnb",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794978014,
+    "date_found": 1795001534,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
   },
   {
     "id": "f5dc08330fd8da80",

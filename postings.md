@@ -1,9 +1,14 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-18 02:52 UTC · 5328 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-18 11:32 UTC · 5333 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-18 | 2026-11-17 | Sallie Mae | Software Engineer Intern | Indianapolis, IN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1C4) |
+| 2026-11-18 | 2026-11-18 | Airbnb | Software Engineering Intern | San Francisco, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1C6) |
+| 2026-11-18 | 2026-11-18 | S&P Global | Machine Learning Engineer Intern | Cambridge, MA, New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1C7) |
+| 2026-11-18 | 2026-11-17 | Nightwing | Vulnerability Researcher Intern | Palm Bay, FL | Summer | quant | unknown | [apply](https://go.vansh.nyc/1C8) |
+| 2026-11-18 | 2026-11-18 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | — | swe | ok | [apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
 | 2026-11-18 | 2026-11-17 | Garmin | Software Engineer Intern, Real Time Aviation Data | Chanhassen, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bs) |
 | 2026-11-18 | 2026-11-16 | T-Mobile | Software Engineering AI Intern | Atlanta, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bx) |
 | 2026-11-18 | 2026-11-16 | Bread Financial | Software Engineering Intern | Columbus, OH, Chadds Ford, PA, Frisco, TX, Draper, UT, Wilmington, DE | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bz) |
@@ -399,8 +404,3 @@ _Last updated: 2026-11-18 02:52 UTC · 5328 live & eligible postings (showing 40
 | 2026-11-12 | 2026-10-10 | Amazon | ADC Engineer I - Amazon Dedicated Cloud Engineering - Support Engineering | Arlington, VA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10585333/apply) |
 | 2026-11-12 | 2026-10-10 | Amazon | Software Dev Engineer III - AMZ10564147 | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10574813/apply) |
 | 2026-11-12 | 2026-10-09 | Amazon | Front-End Engineer | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10573988/apply) |
-| 2026-11-12 | 2026-10-03 | Amazon | Software Dev Engineer III - AMZ10430678 | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10569592/apply) |
-| 2026-11-12 | 2026-10-03 | Apple | Software Engineer - Cloud Services ASE | Austin, TX | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200674218-0157) |
-| 2026-11-12 | 2026-10-01 | Amazon | Software Dev Engineer II - AMZ26314.2 | San Francisco, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10565826/apply) |
-| 2026-11-12 | 2026-10-01 | Amazon | Software Dev Engineer II - AMZ27166.1 | Santa Monica, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10565741/apply) |
-| 2026-11-12 | 2026-09-25 | Amazon | Software Development Engineer I - Annapurna Labs - Early Career - 2027 | Cupertino, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10558915/apply) |

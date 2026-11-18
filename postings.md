@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-18 11:32 UTC · 5333 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-18 19:34 UTC · 5337 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-18 | 2026-11-18 | Bristol Myers Squibb | Undergrad Data Science Intern | Remote, United States | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Ck) |
+| 2026-11-18 | 2026-11-17 | Motorola Solutions | RFIC Design Engineer Intern | Plantation, FL, Schaumburg, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Cl) |
+| 2026-11-18 | 2026-11-18 | Adyen | Junior Full-Stack Developer, Docs Experience Engineering Team | Chicago, IL | — | swe | unknown | [apply](https://go.vansh.nyc/1Cc) |
+| 2026-11-18 | 2026-11-18 | Cummins | New Grad 2027: Electronic Systems Engineer - Software | Galesburg, MI | — | swe | unknown | [apply](https://go.vansh.nyc/1Ce) |
 | 2026-11-18 | 2026-11-17 | Sallie Mae | Software Engineer Intern | Indianapolis, IN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1C4) |
 | 2026-11-18 | 2026-11-18 | Airbnb | Software Engineering Intern | San Francisco, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1C6) |
 | 2026-11-18 | 2026-11-18 | S&P Global | Machine Learning Engineer Intern | Cambridge, MA, New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1C7) |
@@ -400,7 +404,3 @@ _Last updated: 2026-11-18 11:32 UTC · 5333 live & eligible postings (showing 40
 | 2026-11-12 | 2026-10-23 | Apple | Site Reliability Engineer - Apple Data Platform - ADP | Austin, TX | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200690733-0157) |
 | 2026-11-12 | 2026-10-21 | Amazon | Front End Engineer - Workforce Solutions - Talent Mobility | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10594584/apply) |
 | 2026-11-12 | 2026-10-21 | Amazon | Software Dev Engineer II - AMZ10587319 | New York City, NY | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10584370/apply) |
-| 2026-11-12 | 2026-10-15 | Apple | Software Engineer - ASE Commerce Engineering | New York City, NY | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200688902-2459) |
-| 2026-11-12 | 2026-10-10 | Amazon | ADC Engineer I - Amazon Dedicated Cloud Engineering - Support Engineering | Arlington, VA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10585333/apply) |
-| 2026-11-12 | 2026-10-10 | Amazon | Software Dev Engineer III - AMZ10564147 | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10574813/apply) |
-| 2026-11-12 | 2026-10-09 | Amazon | Front-End Engineer | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10573988/apply) |

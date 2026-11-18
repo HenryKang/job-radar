@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795001534,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795001534,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795001534,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795001534,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795001534,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795001534,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795001534,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793791901,
-    "date_found": 1795001534,
+    "date_posted": 1793820826,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793791901,
-    "date_found": 1795001534,
+    "date_posted": 1793820826,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793791901,
-    "date_found": 1795001534,
+    "date_posted": 1793820826,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792582301,
-    "date_found": 1795001534,
+    "date_posted": 1792611226,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791545501,
-    "date_found": 1795001534,
+    "date_posted": 1791574426,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -253,8 +253,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790335901,
-    "date_found": 1795001534,
+    "date_posted": 1790364826,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -273,8 +273,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789126301,
-    "date_found": 1795001534,
+    "date_posted": 1789155226,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -293,11 +293,11 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1788953501,
-    "date_found": 1795001534,
+    "date_posted": 1788982426,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
-    "elig_reason": "js-rendered 404 (no title)"
+    "elig_reason": "http 410"
   },
   {
     "id": "6f9a4ca9a7728771",
@@ -313,11 +313,93 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785843101,
-    "date_found": 1795001534,
+    "date_posted": 1785872026,
+    "date_found": 1795030479,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "a13e08b1866200bc",
+    "dedup_key": "intern|bristol myers squibb|undergrad data science intern",
+    "company": "Bristol Myers Squibb",
+    "title": "Undergrad Data Science Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1Ck",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1795027532,
+    "date_found": 1795030479,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e407705e5b7cd8ba",
+    "dedup_key": "intern|motorola solutions|rfic design engineer intern",
+    "company": "Motorola Solutions",
+    "title": "RFIC Design Engineer Intern",
+    "locations": [
+      "Plantation, FL",
+      "Schaumburg, IL"
+    ],
+    "url": "https://go.vansh.nyc/1Cl",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1794942632,
+    "date_found": 1795030479,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "aa4082f71ff54ab5",
+    "dedup_key": "new grad|adyen|junior full stack developer docs experience engineering team",
+    "company": "Adyen",
+    "title": "Junior Full-Stack Developer, Docs Experience Engineering Team",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/1Cc",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1794960000,
+    "date_found": 1795030479,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "780936d6e65945c2",
+    "dedup_key": "new grad|cummins|new grad 2027 electronic systems engineer software",
+    "company": "Cummins",
+    "title": "New Grad 2027: Electronic Systems Engineer - Software",
+    "locations": [
+      "Galesburg, MI"
+    ],
+    "url": "https://go.vansh.nyc/1Ce",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795015832,
+    "date_found": 1795030479,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "158ec15bb0dd7f35",

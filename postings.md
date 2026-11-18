@@ -1,9 +1,31 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-17 20:50 UTC · 5306 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-18 02:52 UTC · 5328 live & eligible postings (showing 400); 147 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-18 | 2026-11-17 | Garmin | Software Engineer Intern, Real Time Aviation Data | Chanhassen, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bs) |
+| 2026-11-18 | 2026-11-16 | T-Mobile | Software Engineering AI Intern | Atlanta, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bx) |
+| 2026-11-18 | 2026-11-16 | Bread Financial | Software Engineering Intern | Columbus, OH, Chadds Ford, PA, Frisco, TX, Draper, UT, Wilmington, DE | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bz) |
+| 2026-11-18 | 2026-11-17 | Lumentum | SW Developer Support Intern, Program Management Office | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BA) |
+| 2026-11-18 | 2026-11-17 | Pathlabs | Software and AI Engineering Intern | Missoula, MT | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BC) |
+| 2026-11-18 | 2026-11-17 | Draper | Software Engineering & DevOps Intern | Cambridge, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BD) |
+| 2026-11-18 | 2026-11-17 | Lean TECHniques | Software Engineer Intern | Johnston, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BI) |
+| 2026-11-18 | 2026-11-17 | Starwood Capital Group | Agentic Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BL) |
+| 2026-11-18 | 2026-11-17 | GEI Consultants | Web Developer Intern | Rancho Cordova, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BP) |
+| 2026-11-18 | 2026-11-17 | Paccar | Data Scientist Intern | Denton, TX | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1BQ) |
+| 2026-11-18 | 2026-11-18 | State Street | Data Scientist Intern | Boston, MA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1C1) |
+| 2026-11-18 | 2026-11-16 | Canonical | New Grad 2027: Graduate Software Engineer - Open Source and Linux | Remote | — | swe | ok | [apply](https://go.vansh.nyc/1Bw) |
+| 2026-11-18 | 2026-11-17 | CDM Smith | Artificial Intelligence/Machine Learning Developer | Fairfax, VA | — | swe | unknown | [apply](https://go.vansh.nyc/1BG) |
+| 2026-11-18 | 2026-11-17 | Microchip Technology | Engineer 1 - Verification | Chandler, AZ | — | swe | unknown | [apply](https://go.vansh.nyc/1BS) |
+| 2026-11-18 | 2026-11-17 | Utilidata | Embedded Firmware Engineer | Remote | — | swe | ok | [apply](https://go.vansh.nyc/1BT) |
+| 2026-11-18 | 2026-11-17 | Atoms | New Grad: AI Researcher | San Francisco, CA, Mountain View, CA | — | quant | ok | [apply](https://go.vansh.nyc/1BU) |
+| 2026-11-18 | 2026-11-17 | Mirantis | New Grad: Software Engineer - Backend - Go | Raleigh, NC | — | swe | ok | [apply](https://go.vansh.nyc/1BV) |
+| 2026-11-18 | 2026-11-17 | Atoms | New Grad: AI Researcher | San Francisco, CA, Mountain View, CA | — | quant | ok | [apply](https://go.vansh.nyc/1BW) |
+| 2026-11-18 | 2026-11-18 | HPE | AI Automation Engineer | Spring, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1BX) |
+| 2026-11-18 | 2026-11-18 | General Matter | New Grad: Automation & Controls Engineer | Los Angeles, CA | — | swe | ok | [apply](https://go.vansh.nyc/1BY) |
+| 2026-11-18 | 2026-09-08 | Amazon | Operations Engineering MHE Lifecycle Intern Spring and Summer 2027 (Bellevue, WA) | US, WA, Bellevue | Spring 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532296/operations-engineering-mhe-lifecycle-intern-spring-and-summer-2027-bellevue-wa) |
+| 2026-11-18 | 2026-09-08 | Amazon | Operations Engineering (Business Strategy & Execution) Intern Spring and Summer 2027 (Bellevue, WA) | US, WA, Bellevue | Spring 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532290/operations-engineering-business-strategy-execution-intern-spring-and-summer-2027-bellevue-wa) |
 | 2026-11-17 | 2026-10-21 | Esri | Software Development Engineer in Test I - SDET - ArcGIS Enterprise | Redlands, CA | — | swe | ok | [apply](https://www.esri.com/careers/5269847007?gh_jid=5269847007) |
 | 2026-11-17 | 2026-11-16 | PTC | Onshape Performance Engineering Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bl) |
 | 2026-11-17 | 2026-11-17 | Anduril | Machine Learning Engineer Intern | Santa Ana, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1Bo) |
@@ -382,25 +404,3 @@ _Last updated: 2026-11-17 20:50 UTC · 5306 live & eligible postings (showing 40
 | 2026-11-12 | 2026-10-01 | Amazon | Software Dev Engineer II - AMZ26314.2 | San Francisco, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10565826/apply) |
 | 2026-11-12 | 2026-10-01 | Amazon | Software Dev Engineer II - AMZ27166.1 | Santa Monica, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10565741/apply) |
 | 2026-11-12 | 2026-09-25 | Amazon | Software Development Engineer I - Annapurna Labs - Early Career - 2027 | Cupertino, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10558915/apply) |
-| 2026-11-12 | 2026-09-25 | Amazon | Cloud Hardware Development Engineer I - Annapurna Labs - Early Career - 2027 | Austin, TX | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10558923/apply) |
-| 2026-11-12 | 2026-09-01 | Amazon | Cloud Hardware Development Engineer - Network Product Development | Cupertino, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10522481/apply) |
-| 2026-11-12 | 2026-08-29 | Amazon | Software Dev Engineer II - AMZ27762.1 | San Luis Obispo, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10518025/apply) |
-| 2026-11-12 | 2026-08-29 | Amazon | Software Dev Engineer II - AMZ27978.1 | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10518474/apply) |
-| 2026-11-12 | 2026-08-28 | Amazon | Software Dev Engineer II - AMZ27747.1 | San Francisco, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10516976/apply) |
-| 2026-11-12 | 2026-08-14 | Amazon | Software Development Engineer - Amazon Leo Network Services | Redmond, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10507326/apply) |
-| 2026-11-12 | 2026-08-06 | TikTok | Backend Software Engineer - Offense & Defense - PDPO | San Jose, CA | — | swe | unknown | [apply](https://lifeattiktok.com/search/7670384219637664053) |
-| 2026-11-12 | 2026-08-04 | Amazon | Network Deployment Engineer - Amazon Dedicated Cloud - NIDD | Culpeper, VA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10490620/apply) |
-| 2026-11-12 | 2026-08-04 | Amazon | Network Deployment Engineer - Amazon Dedicated Cloud - NIDD | Culpeper, VA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10490600/apply) |
-| 2026-11-12 | 2026-07-30 | Amazon | Software Dev Engineer II - AMZ10254945 | Carrollton, TX | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10487670/apply) |
-| 2026-11-12 | 2026-07-29 | Amazon | Software Dev Engineer II - AMZ26488.2 | New York City, NY | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10485277/apply) |
-| 2026-11-12 | 2026-07-24 | Amazon | Systems Development Engineer - AI/ML Amazon Dedicated Cloud | Herndon, VA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10499158/apply) |
-| 2026-11-12 | 2026-11-12 | Adaption | Developer Community Associate - 6 Month Contract | USA +3 | — | swe | unknown | [apply](https://jobs.ashbyhq.com/adaption/eee53240-14d0-4309-ad84-d87a4d29221f) |
-| 2026-11-12 | 2026-11-12 | BioIntelliSense | Android Engineer | Redwood City, CA | — | swe | ok | [apply](https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28) |
-| 2026-11-12 | 2026-11-12 | City of San Francisco | Salesforce Developer - Office of the Assessor-Recorder - 1042 | San Francisco, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016774675-salesforce-developer-office-of-the-assessor-recorder-1042-?oga=true) |
-| 2026-11-12 | 2026-11-12 | Spring Venture Group | DevOps Engineer I | Kansas City, MO | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000160958169-devops-engineer-i?oga=true) |
-| 2026-11-12 | 2026-11-11 | Applied Medical | Software Test Engineer I | Rancho Santa Margarita, CA | — | swe | unknown | [apply](https://engineering-appliedmedical.icims.com/jobs/15385/job) |
-| 2026-11-12 | 2026-11-11 | Berkley Insurance | AI Developer | Manassas, VA | — | swe | unknown | [apply](https://careers-berkley.icims.com/jobs/14593/ai-developer/job) |
-| 2026-11-12 | 2026-11-11 | Garmin | Software Engineer - Garmin Health | Olathe, KS | — | swe | unknown | [apply](https://careers-garmin.icims.com/jobs/22181/job) |
-| 2026-11-12 | 2026-11-11 | InteLogix | Customer Service Representative - Tax Software | El Paso, TX | — | swe | unknown | [apply](https://intelogix.wd108.myworkdayjobs.com/en-US/external/job/El-Paso-TX/Customer-Service-Representative---Tax-Software_JR101837) |
-| 2026-11-12 | 2026-11-11 | Marel | Software Engineer | Redmond, WA | — | swe | unknown | [apply](https://jbtm.wd108.myworkdayjobs.com/en-US/jbt_marel_career_site/job/US---Redmond-WA/Software-Engineer_25394) |
-| 2026-11-12 | 2026-11-11 | Noblis | Software Tester | Merrifield, VA | — | swe | unknown | [apply](https://jobs-noblis.icims.com/jobs/28112/job) |

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795080562,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795080562,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795080562,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795080562,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795080562,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795080562,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795080562,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793784524,
-    "date_found": 1795080562,
+    "date_posted": 1793817556,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793784524,
-    "date_found": 1795080562,
+    "date_posted": 1793817556,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792574924,
-    "date_found": 1795080562,
+    "date_posted": 1792607956,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791538124,
-    "date_found": 1795080562,
+    "date_posted": 1791571156,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790328524,
-    "date_found": 1795080562,
+    "date_posted": 1790361556,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -253,8 +253,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789118924,
-    "date_found": 1795080562,
+    "date_posted": 1789151956,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -273,8 +273,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1788946124,
-    "date_found": 1795080562,
+    "date_posted": 1788979156,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -293,11 +293,193 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785835724,
-    "date_found": 1795080562,
+    "date_posted": 1785868756,
+    "date_found": 1795113593,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "6ed9a394ab7ce63c",
+    "dedup_key": "intern|garmin|software engineering intern",
+    "company": "Garmin",
+    "title": "Software Engineering Intern",
+    "locations": [
+      "Manhattan, KS"
+    ],
+    "url": "https://go.vansh.nyc/1CN",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795099234,
+    "date_found": 1795113593,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "143d5d421da185f6",
+    "dedup_key": "intern|scout space|computer vision engineer intern ai ml",
+    "company": "Scout Space",
+    "title": "Computer Vision Engineer Intern, AI/ML",
+    "locations": [
+      "Reston, VA"
+    ],
+    "url": "https://go.vansh.nyc/1CQ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795086663,
+    "date_found": 1795113593,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "2465d764abc0b76d",
+    "dedup_key": "intern|rtx|software security intern",
+    "company": "RTX",
+    "title": "Software Security Intern",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "url": "https://go.vansh.nyc/1CS",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1795046400,
+    "date_found": 1795113593,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "103305ec40b17732",
+    "dedup_key": "intern|leidos|software developer intern ai project",
+    "company": "Leidos",
+    "title": "Software Developer Intern, AI Project",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "url": "https://go.vansh.nyc/1CT",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1795018474,
+    "date_found": 1795113593,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ed3b9b719a640779",
+    "dedup_key": "intern|scout space|embedded firmware engineering intern",
+    "company": "Scout Space",
+    "title": "Embedded Firmware Engineering Intern",
+    "locations": [
+      "Reston, VA",
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1CU",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1795046400,
+    "date_found": 1795113593,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "adcbe2e93df029c1",
+    "dedup_key": "new grad|segment|software engineer platform engineering",
+    "company": "Segment",
+    "title": "Software Engineer, Platform Engineering",
+    "locations": [
+      "Remote"
+    ],
+    "url": "https://go.vansh.nyc/1CK",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795087501,
+    "date_found": 1795113593,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "128b7a4662dc50b8",
+    "dedup_key": "new grad|hpe simplivity|linux software engineer",
+    "company": "Hpe Simplivity",
+    "title": "Linux Software Engineer",
+    "locations": [
+      "Roseville, CA"
+    ],
+    "url": "https://go.vansh.nyc/1CL",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795086052,
+    "date_found": 1795113593,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "344a25a3ff731f2a",
+    "dedup_key": "new grad|eight sleep|new grad engineering",
+    "company": "Eight Sleep",
+    "title": "New Grad: Engineering",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1CM",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795094131,
+    "date_found": 1795113593,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9e43ec02b20336f7",
+    "dedup_key": "new grad|globalfoundries|new grad 2027 design for test engineer",
+    "company": "GlobalFoundries",
+    "title": "New Grad 2027: Design-for-Test Engineer",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "url": "https://go.vansh.nyc/1CO",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795100297,
+    "date_found": 1795113593,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "f411f8e95f5330e8",

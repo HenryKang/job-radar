@@ -1,9 +1,18 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-19 09:29 UTC · 5407 live & eligible postings (showing 400); 149 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-19 18:40 UTC · 5416 live & eligible postings (showing 400); 149 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-19 | 2026-11-19 | Garmin | Software Engineering Intern | Manhattan, KS | Summer | swe | unknown | [apply](https://go.vansh.nyc/1CN) |
+| 2026-11-19 | 2026-11-19 | Scout Space | Computer Vision Engineer Intern, AI/ML | Reston, VA | Summer | swe | ok | [apply](https://go.vansh.nyc/1CQ) |
+| 2026-11-19 | 2026-11-19 | RTX | Software Security Intern | Cedar Rapids, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1CS) |
+| 2026-11-19 | 2026-11-18 | Leidos | Software Developer Intern, AI Project | Colorado Springs, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1CT) |
+| 2026-11-19 | 2026-11-19 | Scout Space | Embedded Firmware Engineering Intern | Reston, VA, Remote, United States | Summer | swe | ok | [apply](https://go.vansh.nyc/1CU) |
+| 2026-11-19 | 2026-11-19 | Segment | Software Engineer, Platform Engineering | Remote | — | swe | ok | [apply](https://go.vansh.nyc/1CK) |
+| 2026-11-19 | 2026-11-19 | Hpe Simplivity | Linux Software Engineer | Roseville, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1CL) |
+| 2026-11-19 | 2026-11-19 | Eight Sleep | New Grad: Engineering | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1CM) |
+| 2026-11-19 | 2026-11-19 | GlobalFoundries | New Grad 2027: Design-for-Test Engineer | Richardson, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1CO) |
 | 2026-11-19 | 2026-11-19 | Lockheed Martin | Embedded Software Engineer | Littleton, CO | — | swe | unknown | [apply](https://go.vansh.nyc/1CH) |
 | 2026-11-19 | 2026-11-19 | Lockheed Martin | Embedded Software Engineer | Littleton, CO | — | swe | unknown | [apply](https://go.vansh.nyc/1CI) |
 | 2026-11-19 | 2026-11-19 | CACI | Flight Software Development Engineer, NASA Space Reactor – 1 Freedom | Houston, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1CJ) |
@@ -395,12 +404,3 @@ _Last updated: 2026-11-19 09:29 UTC · 5407 live & eligible postings (showing 40
 | 2026-11-12 | 2026-11-12 | ServiceNow | Associate Detection Engineering Intern | Kirkland, WA | Summer | swe | ok | [apply](https://go.vansh.nyc/1w0) |
 | 2026-11-12 | 2026-11-12 | RTX | Associate Software Engineer I, CDS / Engine System Software | Etc, CT | — | swe | unknown | [apply](https://go.vansh.nyc/1w2) |
 | 2026-11-12 | 2026-11-12 | GlobalFoundries | New Grad 2027: Tapeout Biz Products & Engineering | Austin, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1w3) |
-| 2026-11-12 | 2026-11-10 | MITRE | Associate Software Engineer | Clarksburg, WV | — | swe | unknown | [apply](https://go.vansh.nyc/1w5) |
-| 2026-11-12 | 2026-11-11 | MITRE | Associate Data Scientist | Clarksburg, WV | — | ml_data | unknown | [apply](https://go.vansh.nyc/1w6) |
-| 2026-11-12 | 2026-10-19 | MITRE | Associate Data Scientist | McLean, VA | — | ml_data | unknown | [apply](https://go.vansh.nyc/1w7) |
-| 2026-11-12 | 2026-11-10 | 7-Eleven | Enterprise Technology Intern | Irving, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1uR) |
-| 2026-11-12 | 2026-10-28 | Astera Labs | Firmware Engineer Intern, SCO2 | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1uT) |
-| 2026-11-12 | 2026-10-28 | Astera Labs | Firmware Engineer Intern, Leo | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1uU) |
-| 2026-11-12 | 2026-10-28 | Astera Labs | Firmware Engineer Intern, DevSecOps | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1uV) |
-| 2026-11-12 | 2026-10-28 | Astera Labs | Cybersecurity Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1uY) |
-| 2026-11-12 | 2026-11-10 | New York Life Insurance | IBM i Developer Intern | Tampa, FL | Summer | swe | ok | [apply](https://go.vansh.nyc/1v1) |

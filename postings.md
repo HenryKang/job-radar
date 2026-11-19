@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-19 01:29 UTC · 5404 live & eligible postings (showing 400); 149 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-19 09:29 UTC · 5407 live & eligible postings (showing 400); 149 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-19 | 2026-11-19 | Lockheed Martin | Embedded Software Engineer | Littleton, CO | — | swe | unknown | [apply](https://go.vansh.nyc/1CH) |
+| 2026-11-19 | 2026-11-19 | Lockheed Martin | Embedded Software Engineer | Littleton, CO | — | swe | unknown | [apply](https://go.vansh.nyc/1CI) |
+| 2026-11-19 | 2026-11-19 | CACI | Flight Software Development Engineer, NASA Space Reactor – 1 Freedom | Houston, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1CJ) |
 | 2026-11-19 | 2026-11-18 | Syngenta Group | Data Science Intern | Greensboro, NC | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1Co) |
 | 2026-11-19 | 2026-11-17 | Marvell | MS AI Infrastructure Engineer Intern | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Cp) |
 | 2026-11-19 | 2026-11-18 | Samsung Semiconductor | SSD Firmware Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Cu) |
@@ -401,6 +404,3 @@ _Last updated: 2026-11-19 01:29 UTC · 5404 live & eligible postings (showing 40
 | 2026-11-12 | 2026-10-28 | Astera Labs | Firmware Engineer Intern, DevSecOps | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1uV) |
 | 2026-11-12 | 2026-10-28 | Astera Labs | Cybersecurity Engineer Intern | San Jose, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1uY) |
 | 2026-11-12 | 2026-11-10 | New York Life Insurance | IBM i Developer Intern | Tampa, FL | Summer | swe | ok | [apply](https://go.vansh.nyc/1v1) |
-| 2026-11-12 | 2026-11-10 | BETA Technologies Summer 2027 | Software, Controls & Autonomy Intern | South Burlington, VT | Summer | swe | ok | [apply](https://go.vansh.nyc/1v3) |
-| 2026-11-12 | 2026-11-11 | PTC | Creo Graphics Engineering Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ve) |
-| 2026-11-12 | 2026-11-11 | Securitymetrics | Software Engineer Intern | Orem, UT | Summer | swe | unknown | [apply](https://go.vansh.nyc/1vg) |

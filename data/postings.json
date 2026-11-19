@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795051716,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795051716,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795051716,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795051716,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795051716,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795051716,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795051716,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793755671,
-    "date_found": 1795051716,
+    "date_posted": 1793784524,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793755671,
-    "date_found": 1795051716,
+    "date_posted": 1793784524,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792546071,
-    "date_found": 1795051716,
+    "date_posted": 1792574924,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791509271,
-    "date_found": 1795051716,
+    "date_posted": 1791538124,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790299671,
-    "date_found": 1795051716,
+    "date_posted": 1790328524,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -253,8 +253,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789090071,
-    "date_found": 1795051716,
+    "date_posted": 1789118924,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -273,8 +273,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1788917271,
-    "date_found": 1795051716,
+    "date_posted": 1788946124,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 410"
@@ -293,11 +293,71 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785806871,
-    "date_found": 1795051716,
+    "date_posted": 1785835724,
+    "date_found": 1795080562,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "f411f8e95f5330e8",
+    "dedup_key": "new grad|lockheed martin|embedded software engineer",
+    "company": "Lockheed Martin",
+    "title": "Embedded Software Engineer",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "url": "https://go.vansh.nyc/1CH",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1795061910,
+    "date_found": 1795080562,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "d313fcb78e1f2f43",
+    "dedup_key": "new grad|lockheed martin|embedded software engineer",
+    "company": "Lockheed Martin",
+    "title": "Embedded Software Engineer",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "url": "https://go.vansh.nyc/1CI",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1795061910,
+    "date_found": 1795080562,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2052aa448eec0010",
+    "dedup_key": "new grad|caci|flight software development engineer nasa space reactor 1 freedom",
+    "company": "CACI",
+    "title": "Flight Software Development Engineer, NASA Space Reactor – 1 Freedom",
+    "locations": [
+      "Houston, TX"
+    ],
+    "url": "https://go.vansh.nyc/1CJ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1795058350,
+    "date_found": 1795080562,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "d6935ef61f9a8387",

@@ -1,9 +1,53 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-20 17:16 UTC · 5527 live & eligible postings (showing 400); 153 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-20 23:20 UTC · 5571 live & eligible postings (showing 400); 153 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-20 | 2026-11-20 | Cadence | Software Engineering Intern, Circuit Simulation Infrastructure | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1EP) |
+| 2026-11-20 | 2026-11-19 | Hewlett Packard Enterprise | AI Engineering Technical Intern | Sunnyvale, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ER) |
+| 2026-11-20 | 2026-11-20 | Renesas Electronics | Firmware Engineering Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1ET) |
+| 2026-11-20 | 2026-11-20 | Ralliant | Software Engineering Intern, AI Building | Beaverton, OR | Summer | swe | unknown | [apply](https://go.vansh.nyc/1EU) |
+| 2026-11-20 | 2026-11-19 | PTC | Full-Stack Engineering Intern, Cloud Data Management (CAD) | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1EX) |
+| 2026-11-20 | 2026-11-20 | Sierra Space | Software Engineering Intern | Centennial, CO, Louisville, CO, Durham, NC, Madison, WI, Broomfield, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1EY) |
+| 2026-11-20 | 2026-11-20 | Cisco | Data Science Analyst II Intern | San Jose, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1F1) |
+| 2026-11-20 | 2026-11-20 | Rivian | Software Engineering Intern, AI Platform, Autonomy | Palo Alto, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1F3) |
+| 2026-11-20 | 2026-11-11 | EP Wealth Advisors | Data AI Engineering Intern | Torrance, CA, Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1F4) |
+| 2026-11-20 | 2026-11-20 | Rolls-Royce | New Grad 2027: Junior Machine Learning Engineering | Indianapolis, IN | — | swe | unknown | [apply](https://go.vansh.nyc/1EL) |
+| 2026-11-20 | 2026-11-20 | OPOWER | New Grad 2027: Software Engineer, Oracle Cloud Infrastructure (OCI) | Nashville, TN | — | swe | unknown | [apply](https://go.vansh.nyc/1EQ) |
+| 2026-11-20 | 2026-11-20 | CPI Card Group | DevOps Engineer I | Nashville, TN | — | swe | unknown | [apply](https://go.vansh.nyc/1EV) |
+| 2026-11-20 | 2026-11-20 | Logan A/C & Heat Services | Junior Business Systems & Automation Developer | Vandalia, OH | — | swe | ok | [apply](https://go.vansh.nyc/1EW) |
+| 2026-11-20 | 2026-11-20 | Boeing | Software Engineer – Test & Verification | Tinker AFB, OK | — | swe | unknown | [apply](https://go.vansh.nyc/1EZ) |
+| 2026-11-20 | 2026-11-20 | NVIDIA | New Grad 2027: Software Engineer, DL Kernel Libraries | Santa Clara, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1F0) |
+| 2026-11-20 | 2026-11-20 | Amazon | New Grad 2027: Security Engineer | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/1F6) |
+| 2026-11-20 | 2026-11-19 | Amazon | Software Dev Engineer III - AMZ10564025 | New York City, NY | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10608789/apply) |
+| 2026-11-20 | 2026-11-17 | Amazon | Software Dev Engineer III - AMZ10593751 | Herndon, VA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10607992/apply) |
+| 2026-11-20 | 2026-11-16 | Amazon | Software Development Engineer - Test - Amazon Fuse and MBD | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10608536/apply) |
+| 2026-11-20 | 2026-11-16 | Amazon | Software Dev Engineer II - AMZ10587268 | Austin, TX | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10608038/apply) |
+| 2026-11-20 | 2026-11-16 | Amazon | Software Dev Engineer II - AMZ10563956 - AWS Field Experience | Dallas, TX | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10608035/apply) |
+| 2026-11-20 | 2026-11-20 | Arva Intelligence | Junior DevOps Engineer | Houston, TX +1 | — | swe | unknown | [apply](https://job-boards.greenhouse.io/arvaintelligence/jobs/5484006008) |
+| 2026-11-20 | 2026-11-20 | Confluence Technologies | Software Engineer - Data Team | Pittsburgh, PA | — | swe | unknown | [apply](https://confluence.pinpointhq.com/en/postings/c7fe935e-f408-4892-a204-dfd7fd2f70d8) |
+| 2026-11-20 | 2026-11-20 | CPI Card Group | DevOps Engineer I | Nashville, TN | — | swe | unknown | [apply](https://careers-cpicardgroup.icims.com/jobs/11619/devops-engineer-i/job) |
+| 2026-11-20 | 2026-11-20 | Logan A/C & Heat Services | Junior Business Systems & Automation Developer | Vandalia, OH | — | swe | ok | [apply](https://logan-a-c-heat-services-b29ac6f9712d.breezy.hr/p/dcaae58041cb-junior-business-systems-automation-developer) |
+| 2026-11-20 | 2026-11-20 | OKX | Software Engineer - Card | San Jose, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/okx/jobs/8209722003) |
+| 2026-11-20 | 2026-11-19 | Abbott | Software Development Quality Engineer I | Sylmar, CA | — | swe | unknown | [apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---California---Sylmar/Software-Development-Quality-Engineer-I_31168052) |
+| 2026-11-20 | 2026-11-19 | Abbott | Software Development Quality Engineer I | Sylmar, CA | — | swe | unknown | [apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Development-Quality-Engineer-I_31168052-1) |
+| 2026-11-20 | 2026-11-19 | Applied Materials | Software Engineer II | Santa Clara, CA | — | swe | unknown | [apply](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Software-Engineer-II_R2634157) |
+| 2026-11-20 | 2026-11-19 | Booz Allen | Software Developer | Arlington, VA | — | swe | unknown | [apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Arlington-VA/Software-Developer_R0253855) |
+| 2026-11-20 | 2026-11-19 | Bracco | Software Engineer I - Bracco Medical Technologies | Eden Prairie, MN | — | swe | unknown | [apply](https://bracco.wd103.myworkdayjobs.com/en-US/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineer-I---Bracco-Medical-Technologies_JR100481) |
+| 2026-11-20 | 2026-11-19 | Chamberlain Group | Software Engineer 2 - Front End | Oak Brook, IL | — | swe | unknown | [apply](https://chamberlain.wd1.myworkdayjobs.com/en-US/chamberlain_group/job/Oak-Brook-IL/Software-Engineer-2--Front-End_JR32037) |
+| 2026-11-20 | 2026-11-19 | Formlabs | Embedded Software Engineer - Entry Level | Somerville, MA +1 | — | swe | unknown | [apply](https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093) |
+| 2026-11-20 | 2026-11-19 | Frost Bank | Engineer I - DevOps | San Antonio, TX +1 | — | swe | unknown | [apply](https://frostbank.wd5.myworkdayjobs.com/en-US/external/job/San-Antonio-TX---One-Frost/Engineer-I---DevOps_R262343) |
+| 2026-11-20 | 2026-11-19 | GE Vernova | GE Vernova Embedded Software Engineer | Roanoke, VA | — | swe | unknown | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Roanoke-US-VA-3/Embedded-Software-Engineer_R5059206-1) |
+| 2026-11-20 | 2026-11-19 | GE Vernova | GE Vernova Embedded Software Engineer | Roanoke, VA | — | swe | unknown | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Roanoke-US-VA-3/Embedded-Software-Engineer_R5059206-2) |
+| 2026-11-20 | 2026-11-19 | MiniMed | Software Test Engineer I | Northridge, CA | — | swe | unknown | [apply](https://mdtkangaroo.wd108.myworkdayjobs.com/en-US/minimedcareers/job/Northridge-California-United-States-of-America/Software-Test-Engineer-I_R-802522) |
+| 2026-11-20 | 2026-11-19 | Northrop Grumman | 2027 Associate Software Digital Engineer - Rolling Meadows IL - Rolling Meadows IL | Rolling Meadows, IL | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Software-Digital-Engineer---Rolling-Meadows-IL----Rolling-Meadows-IL_R10261310) |
+| 2026-11-20 | 2026-11-19 | Peraton | Web/Portal Developer - EagleVIEW | Honolulu, HI | — | swe | unknown | [apply](https://careers-peraton.icims.com/jobs/175858/web-portal-developer-%28eagleview%29/job) |
+| 2026-11-20 | 2026-11-19 | RAND Corporation | Research Software Engineer | Santa Monica, CA +3 | — | swe | unknown | [apply](https://rand.wd5.myworkdayjobs.com/en-US/external_career_site/job/Santa-Monica-CA-Greater-Los-Angeles-Area/Research-Software-Engineer_R3694) |
+| 2026-11-20 | 2026-11-19 | Sopra Steria I2S | Embedded Software Verification Engineer - Entry Level | Platteville, WI | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/SopraSteria1/744000162564518-embedded-software-verification-engineer-entry-level-?oga=true) |
+| 2026-11-20 | 2026-11-19 | Target | Associate Technical Developer - Owned Brands - Intimates/Sleep | Minneapolis, MN | — | swe | unknown | [apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Technical-Developer--Owned-Brands---Intimates-Sleep_R0000481357) |
+| 2026-11-20 | 2026-11-19 | Viasat | Associate Software Engineer - Early Career | Carlsbad, CA | — | swe | unknown | [apply](https://careers-viasat.icims.com/jobs/7077/job) |
+| 2026-11-20 | 2026-11-19 | Xfinity | Entry Level C++ Software Engineer- Reston - VA- ONSITE 2X Week- FreeWheel | Reston, VA | — | swe | unknown | [apply](https://comcast.wd115.myworkdayjobs.com/en-US/comcast_careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Entry-Level-C---Software-Engineer--Reston--VA--ONSITE-2X-Week--FreeWheel_R449189) |
 | 2026-11-20 | 2026-11-19 | NVIDIA | Finance AI Engineering Intern | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Eh) |
 | 2026-11-20 | 2026-11-20 | Marias Technology | Software Tester Intern | Covington, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ei) |
 | 2026-11-20 | 2026-11-20 | CAS | Infrastructure Engineer Intern, Technology | Columbus, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ej) |
@@ -360,47 +404,3 @@ _Last updated: 2026-11-20 17:16 UTC · 5527 live & eligible postings (showing 40
 | 2026-11-13 | 2026-11-13 | IDEMIA North America | Software Engineering Intern, Enrollment and Credentialing Services | Brentwood, TN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zd) |
 | 2026-11-13 | 2026-11-13 | Martin Marietta | Data Scientist Intern | Raleigh, NC | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1ze) |
 | 2026-11-13 | 2026-11-13 | Martin Marietta | Software Data Integration Engineer Intern | Raleigh, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zf) |
-| 2026-11-13 | 2026-10-01 | Aurora Innovation | Embedded Software Engineer Intern, Lidar | Bozeman, MT | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zg) |
-| 2026-11-13 | 2026-11-13 | TC Energy | Intelligent Operations Technology Intern | Spokane, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zi) |
-| 2026-11-13 | 2026-11-13 | Activision Blizzard | Game Systems Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1zl) |
-| 2026-11-13 | 2026-11-13 | Micron Technology | Design Engineer | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1yS) |
-| 2026-11-13 | 2026-11-12 | Oracle | New Grad 2027: Site Reliability Engineer, OCI | Nashville, TN | — | swe | unknown | [apply](https://go.vansh.nyc/1yT) |
-| 2026-11-13 | 2026-11-12 | Amazon | Amazon Dedicated Cloud Engineer - Region Reliability Engineering | Denver, CO | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10603260/apply) |
-| 2026-11-13 | 2026-11-12 | Amazon | Software Dev Engineer II - AMZ003914 | Madison, WI | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10603151/apply) |
-| 2026-11-13 | 2026-11-11 | Amazon | Software Dev Engineer II - AMZ27726.1 | Bellevue, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10602688/apply) |
-| 2026-11-13 | 2026-11-11 | Twitch | Software Engineer I - Commerce | San Francisco, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/twitch/jobs/8934067002) |
-| 2026-11-13 | 2026-11-10 | Amazon | Frontend Engineer II - Ground Control Console | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10602619/apply) |
-| 2026-11-13 | 2026-11-10 | Amazon | Frontend Engineer II - Ground Control Console | Redmond, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10602616/apply) |
-| 2026-11-13 | 2026-11-10 | Amazon | Software Dev Engineer II - AMZ26535.2 | Herndon, VA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10600522/apply) |
-| 2026-11-13 | 2026-10-31 | Amazon | Software Development Engineer I - Inference models optimization - AWS Neuron Inference | Cupertino, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10598223/apply) |
-| 2026-11-13 | 2026-10-23 | Amazon | Front-End Engineer II - AWS Agentic WorkSpaces - WorkSpaces Admin and Builder CX | Seattle, WA | — | swe | unknown | [apply](https://www.amazon.jobs/jobs/10601883/apply) |
-| 2026-11-13 | 2026-10-20 | Amazon | Software Development Engineer - Creator Marketplace | Culver City, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10599970/apply) |
-| 2026-11-13 | 2026-09-02 | Apple | Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems | Sunnyvale, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200681316-3956) |
-| 2026-11-13 | 2026-09-01 | Apple | Software Engineer - Commerce Segments and Platform - ASE | Cupertino, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200681256-0836) |
-| 2026-11-13 | 2026-08-11 | Apple | Frontend Engineer - EE&P - IS&T Early Career | Austin, TX | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200676168-0157) |
-| 2026-11-13 | 2026-11-13 | Andrew Morgan Consulting | Federal OneStream Developer | Tampa, FL | — | swe | unknown | [apply](https://andrew-morgan.com/current-openings/?gh_jid=5480834008) |
-| 2026-11-13 | 2026-11-13 | Anduril | Software Engineer - AI | Costa Mesa, CA | — | swe | unknown | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007) |
-| 2026-11-13 | 2026-11-13 | Skyryse | Junior Software Engineer | El Segundo, CA | — | swe | ok | [apply](https://job-boards.greenhouse.io/skyryse/jobs/8384242) |
-| 2026-11-13 | 2026-11-13 | SpaceX | RF Software Engineer - Starshield | Hawthorne, CA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8937195002?gh_jid=8937195002) |
-| 2026-11-13 | 2026-11-12 | Bask | Frontend Engineer - New Grad | USA | — | swe | unknown | [apply](https://apply.workable.com/bask-health-1/j/95FB1074E4/) |
-| 2026-11-13 | 2026-11-12 | CliftonLarsonAllen | Marketing Technology Developer - Remote | Tempe, AZ +14 | — | swe | unknown | [apply](https://cliftonlarsonallen.wd115.myworkdayjobs.com/en-US/cla/job/Connection-Center-TempeAZ/Marketing-Technology-Developer--Remote-_R18462) |
-| 2026-11-13 | 2026-11-12 | Deckers Brands | Associate Materials Developer - UGG Apparel & Accessories | Goleta, CA | — | swe | unknown | [apply](https://deckers.wd5.myworkdayjobs.com/en-US/deckers/job/Goleta-California/Associate-Materials-Developer---UGG-Apparel---Accessories_22046) |
-| 2026-11-13 | 2026-11-12 | Foxconn Industrial Internet - FII | Site Reliability Engineer - G-Project | Houston, TX | — | swe | unknown | [apply](https://foxconnassemblyllc.applytojob.com/apply/R2s19hSWdZ/Site-Reliability-Engineer-GProject) |
-| 2026-11-13 | 2026-11-12 | Jamf | Associate Software Engineer - Full Stack | Remote - USA | — | swe | unknown | [apply](https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004&gh_jid=6254227004) |
-| 2026-11-13 | 2026-11-12 | Jamf | Associate Software Engineer | Remote - USA | — | swe | unknown | [apply](https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004&gh_jid=6253670004) |
-| 2026-11-13 | 2026-11-12 | Micron Technology | New College Grad - Software Engineer | Boise, ID | — | swe | unknown | [apply](https://micron.wd1.myworkdayjobs.com/en-US/external/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692) |
-| 2026-11-13 | 2026-11-12 | Oracle | Site Reliability Engineer - OCI - Start Date: Feb 2027 | Nashville, TN | — | swe | unknown | [apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350510) |
-| 2026-11-13 | 2026-11-12 | Redhorse Corporation | Cloud Software Engineer - Full-Stack and AI - Junior Level | Gainesville, VA | — | swe | ok | [apply](https://jobs.lever.co/redhorsecorp/be90f883-2ec0-460f-8d20-241e4c54951f) |
-| 2026-11-13 | 2026-11-12 | RLI | Associate Software Engineer - .Net - Peoria - IL or Tempe - AZ | Peoria, IL +1 | — | swe | unknown | [apply](https://rlicorp.wd1.myworkdayjobs.com/en-US/rli_corp_careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864) |
-| 2026-11-13 | 2026-11-12 | Self Financial | Associate Software Engineer | Austin, TX | — | swe | ok | [apply](https://job-boards.greenhouse.io/selffinancial/jobs/6255478004) |
-| 2026-11-13 | 2026-11-12 | SpaceX | Aerospace Software Engineer - Starfall | Hawthorne, CA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8939698002?gh_jid=8939698002) |
-| 2026-11-13 | 2026-11-12 | SpaceX | New Graduate Engineer - Aerospace Software - Starfall | Hawthorne, CA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002) |
-| 2026-11-13 | 2026-11-12 | Trane Technologies | Embedded SW Engineer | La Crosse, WI | — | swe | unknown | [apply](https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/La-Crosse-Wisconsin/Embedded-SW-Engineer_JR-19805-1) |
-| 2026-11-13 | 2026-11-11 | Aerospace | Jr. Data Solutions and Software Engineer | El Segundo, CA | — | swe | unknown | [apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/Jr-Data-Solutions-and-Software-Engineer_R017107) |
-| 2026-11-13 | 2026-11-11 | Allegion | Full Stack Software Engineer | Carmel, IN | — | swe | unknown | [apply](https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Full-Stack-Software-Engineer_JR38204) |
-| 2026-11-13 | 2026-11-11 | Bask | Software Engineer - Early Career | USA | — | swe | unknown | [apply](https://apply.workable.com/bask-health-1/j/3AC4353728/) |
-| 2026-11-13 | 2026-11-11 | Bask | Junior Backend Engineer | USA | — | swe | unknown | [apply](https://apply.workable.com/bask-health-1/j/007CBE9F1D/) |
-| 2026-11-13 | 2026-11-11 | Bask | Junior Full Stack Engineer | USA | — | swe | unknown | [apply](https://apply.workable.com/bask-health-1/j/DFC51193B4/) |
-| 2026-11-13 | 2026-11-11 | Bask | Junior Full Stack Engineer - Merchant Tools | USA | — | swe | unknown | [apply](https://apply.workable.com/bask-health-1/j/A48E0F40EA/) |
-| 2026-11-13 | 2026-11-11 | Corpay | Junior Full Stack Software Developer | Peachtree Corners, GA | — | swe | unknown | [apply](https://jobs.dayforcehcm.com/en-US/corpay/candidateportal/jobs/57640) |
-| 2026-11-13 | 2026-11-11 | GlobalFoundries | AI Processor Hardware/Software Integration Engineer - 2027 New College Graduate | Richardson, TX | — | swe | unknown | [apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093) |

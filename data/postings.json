@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795136102,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795136102,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795136102,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795136102,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795136102,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -114,7 +114,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795136102,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795136102,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793753661,
-    "date_found": 1795136102,
+    "date_posted": 1793780893,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793753661,
-    "date_found": 1795136102,
+    "date_posted": 1793780893,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792544061,
-    "date_found": 1795136102,
+    "date_posted": 1792571293,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791507261,
-    "date_found": 1795136102,
+    "date_posted": 1791534493,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790297661,
-    "date_found": 1795136102,
+    "date_posted": 1790324893,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -253,8 +253,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789088061,
-    "date_found": 1795136102,
+    "date_posted": 1789115293,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -273,11 +273,392 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785804861,
-    "date_found": 1795136102,
+    "date_posted": 1785832093,
+    "date_found": 1795163337,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "60325bfda1e6f52e",
+    "dedup_key": "intern|docusign|product data science intern",
+    "company": "DocuSign",
+    "title": "Product Data Science Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1D2",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1795119035,
+    "date_found": 1795163337,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "c5c10d1c1700a99a",
+    "dedup_key": "new grad|amazon|software engineer commerce",
+    "company": "Amazon",
+    "title": "Software Engineer - Commerce",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10607724/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795076893,
+    "date_found": 1795163337,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "http 404"
+  },
+  {
+    "id": "9fa590e9e8c071cb",
+    "dedup_key": "intern|engen|data engineer analyst undergraduate intern",
+    "company": "enGen",
+    "title": "Data Engineer & Analyst Undergraduate Intern",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "url": "https://go.vansh.nyc/1DQ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795140952,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "458245acf5de83c8",
+    "dedup_key": "intern|lucid motors|embedded software intern bsp platform adas autonomous driving",
+    "company": "Lucid Motors",
+    "title": "Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving",
+    "locations": [
+      "Newark, CA"
+    ],
+    "url": "https://go.vansh.nyc/1DT",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795135259,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a15e046db0dc140f",
+    "dedup_key": "intern|lucid motors|infotainment software intern",
+    "company": "Lucid Motors",
+    "title": "Infotainment Software Intern",
+    "locations": [
+      "Newark, CA"
+    ],
+    "url": "https://go.vansh.nyc/1DU",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795138046,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1531a3b44edec7ba",
+    "dedup_key": "intern|lucid motors|product security engineering intern",
+    "company": "Lucid Motors",
+    "title": "Product Security Engineering Intern",
+    "locations": [
+      "Newark, CA"
+    ],
+    "url": "https://go.vansh.nyc/1DW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795137123,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "c2710809045003e2",
+    "dedup_key": "intern|constellation brands|data science intern",
+    "company": "Constellation Brands",
+    "title": "Data Science Intern",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "url": "https://go.vansh.nyc/1DX",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1795147849,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "242010b267d41290",
+    "dedup_key": "intern|centene corporation|undergraduate analytics engineering intern",
+    "company": "Centene Corporation",
+    "title": "Undergraduate Analytics Engineering Intern",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1DY",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795147849,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7fc77f6403b9f868",
+    "dedup_key": "intern|honeywell aerospace|semiconductor engineer intern",
+    "company": "Honeywell Aerospace",
+    "title": "Semiconductor Engineer Intern",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1E3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795159700,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e20013e9812eb60f",
+    "dedup_key": "intern|marias technology|software developer intern",
+    "company": "Marias Technology",
+    "title": "Software Developer Intern",
+    "locations": [
+      "Covington, OH"
+    ],
+    "url": "https://go.vansh.nyc/1E4",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795159863,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "88793ab15a4b98e6",
+    "dedup_key": "intern|cas|technology intern business data governance",
+    "company": "CAS",
+    "title": "Technology Intern, Business Data Governance",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://go.vansh.nyc/1E6",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795160574,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e94c5f7b8ec14fd3",
+    "dedup_key": "intern|cas|technology intern application technology",
+    "company": "CAS",
+    "title": "Technology Intern, Application Technology",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://go.vansh.nyc/1E7",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795160574,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5c74a9c5229b0c7a",
+    "dedup_key": "intern|cas|technology intern databases",
+    "company": "CAS",
+    "title": "Technology Intern, Databases",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://go.vansh.nyc/1E8",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795160574,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7642e21b10969d36",
+    "dedup_key": "intern|cas|technology intern software engineering",
+    "company": "CAS",
+    "title": "Technology Intern, Software Engineering",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "url": "https://go.vansh.nyc/1E9",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795160574,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c5d42a3590b77d28",
+    "dedup_key": "intern|transunion|data science analytics intern",
+    "company": "TransUnion",
+    "title": "Data Science & Analytics Intern",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "url": "https://go.vansh.nyc/1Ea",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1795160810,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9fd5596cd0f45d89",
+    "dedup_key": "intern|cisco|ai researcher ii intern",
+    "company": "Cisco",
+    "title": "AI Researcher II Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1Eb",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1795158950,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bf3fe3d966045b76",
+    "dedup_key": "new grad|blue cross blue shield of michigan|data science analyst i",
+    "company": "Blue Cross Blue Shield of Michigan",
+    "title": "Data Science Analyst I",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "url": "https://go.vansh.nyc/1DR",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1794960000,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cbdb0fdd994663b5",
+    "dedup_key": "new grad|hpe|systems software engineer i",
+    "company": "HPE",
+    "title": "Systems / Software Engineer I",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://go.vansh.nyc/1E0",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795150559,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "5dd55cc99d03d4c3",
+    "dedup_key": "new grad|micron technology|ai innovation research engineer master s",
+    "company": "Micron Technology",
+    "title": "AI Innovation Research Engineer (Master's)",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/1E1",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795144859,
+    "date_found": 1795163337,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
     "id": "872fe3e24b9e0b74",
@@ -358,26 +739,6 @@
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "60325bfda1e6f52e",
-    "dedup_key": "intern|docusign|product data science intern",
-    "company": "DocuSign",
-    "title": "Product Data Science Intern",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "url": "https://go.vansh.nyc/1D2",
-    "season": "Summer",
-    "source": "agg:vanshb03-summer2027",
-    "role_type": "intern",
-    "category": "ml_data",
-    "sponsorship": "Does Not Offer Sponsorship",
-    "date_posted": 1795119035,
-    "date_found": 1795136102,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "js-rendered 404 (no title)"
   },
   {
     "id": "6129da9dda95c0c0",
@@ -1142,26 +1503,6 @@
     "alive": true,
     "eligibility": "ok",
     "elig_reason": "undergrad markers"
-  },
-  {
-    "id": "c5c10d1c1700a99a",
-    "dedup_key": "new grad|amazon|software engineer commerce",
-    "company": "Amazon",
-    "title": "Software Engineer - Commerce",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "url": "https://www.amazon.jobs/jobs/10607724/apply",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1795049661,
-    "date_found": 1795136102,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
   },
   {
     "id": "082807f850847d1e",

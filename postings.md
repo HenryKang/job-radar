@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-21 04:16 UTC · 5607 live & eligible postings (showing 400); 154 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-21 12:59 UTC · 5608 live & eligible postings (showing 400); 154 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-21 | 2026-11-20 | Cisco | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1G5) |
 | 2026-11-21 | 2026-11-20 | Microchip Technology | ASIC Verification Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1F9) |
 | 2026-11-21 | 2026-11-20 | Garmin | Software Engineer Intern, Web/Mobile | Yarmouth, ME | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Fa) |
 | 2026-11-21 | 2026-11-20 | Jewelers Mutual Group | Data Science Intern | Neenah, WI | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Fe) |
@@ -403,4 +404,3 @@ _Last updated: 2026-11-21 04:16 UTC · 5607 live & eligible postings (showing 40
 | 2026-11-14 | 2026-11-14 | RTI | Early-Career Platform Engineer - Cloud Engineering - DevOps - Systems Architecture | Durham, NC | — | swe | unknown | [apply](https://uscareers-rtiinc.icims.com/jobs/14131/job) |
 | 2026-11-14 | 2026-11-14 | Valiant Solutions | Associate Software Engineer | Remote - USA | — | swe | unknown | [apply](https://careers-valiantsolutions.icims.com/jobs/7844/associate-software-engineer/job) |
 | 2026-11-14 | 2026-11-13 | Abnormal Security | Software Engineer I - Data Platforms | Remote - USA | — | swe | unknown | [apply](https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003) |
-| 2026-11-14 | 2026-11-13 | Cambridge Mobile Telematics | Software Engineer I - Cloud | Cambridge, MA | — | swe | ok | [apply](https://job-boards.greenhouse.io/cmt/jobs/8385978) |

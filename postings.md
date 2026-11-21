@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-21 12:59 UTC · 5608 live & eligible postings (showing 400); 154 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-21 20:04 UTC · 5611 live & eligible postings (showing 400); 154 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-21 | 2026-11-21 | NVIDIA | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Gd) |
+| 2026-11-21 | 2026-11-21 | Activision Blizzard | Data Platform Engineering Intern | Irvine, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ge) |
+| 2026-11-21 | 2026-11-21 | Secureframe | New Grad 2027: Software Engineer | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1Gh) |
 | 2026-11-21 | 2026-11-20 | Cisco | AI Cybersecurity Engineer I Intern | Research Triangle Park, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1G5) |
 | 2026-11-21 | 2026-11-20 | Microchip Technology | ASIC Verification Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1F9) |
 | 2026-11-21 | 2026-11-20 | Garmin | Software Engineer Intern, Web/Mobile | Yarmouth, ME | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Fa) |
@@ -401,6 +404,3 @@ _Last updated: 2026-11-21 12:59 UTC · 5608 live & eligible postings (showing 40
 | 2026-11-14 | 2026-11-12 | Amazon | Software Dev Engineer III - AMZ10563967 | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10603658/apply) |
 | 2026-11-14 | 2026-11-03 | Amazon | Software Development Engineer - Bespoke Solutions; ADC Hardware & Software Team | Arlington, VA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10601925/apply) |
 | 2026-11-14 | 2026-11-14 | Keysight Technologies | IT Engineer -Software -Entry | Colorado Springs, CO | — | swe | unknown | [apply](https://careers-keysight.icims.com/jobs/56558/job) |
-| 2026-11-14 | 2026-11-14 | RTI | Early-Career Platform Engineer - Cloud Engineering - DevOps - Systems Architecture | Durham, NC | — | swe | unknown | [apply](https://uscareers-rtiinc.icims.com/jobs/14131/job) |
-| 2026-11-14 | 2026-11-14 | Valiant Solutions | Associate Software Engineer | Remote - USA | — | swe | unknown | [apply](https://careers-valiantsolutions.icims.com/jobs/7844/associate-software-engineer/job) |
-| 2026-11-14 | 2026-11-13 | Abnormal Security | Software Engineer I - Data Platforms | Remote - USA | — | swe | unknown | [apply](https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003) |

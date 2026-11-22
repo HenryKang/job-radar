@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-21 20:04 UTC · 5611 live & eligible postings (showing 400); 154 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-22 00:19 UTC · 5612 live & eligible postings (showing 400); 154 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-22 | 2026-11-21 | Advance Auto Parts | Data Science Intern | Raleigh, NC | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Gi) |
 | 2026-11-21 | 2026-11-21 | NVIDIA | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Gd) |
 | 2026-11-21 | 2026-11-21 | Activision Blizzard | Data Platform Engineering Intern | Irvine, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ge) |
 | 2026-11-21 | 2026-11-21 | Secureframe | New Grad 2027: Software Engineer | New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1Gh) |
@@ -403,4 +404,3 @@ _Last updated: 2026-11-21 20:04 UTC · 5611 live & eligible postings (showing 40
 | 2026-11-14 | 2026-11-13 | Apple | Software Engineer - Apple Ads | Cupertino, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200694842-0836) |
 | 2026-11-14 | 2026-11-12 | Amazon | Software Dev Engineer III - AMZ10563967 | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10603658/apply) |
 | 2026-11-14 | 2026-11-03 | Amazon | Software Development Engineer - Bespoke Solutions; ADC Hardware & Software Team | Arlington, VA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10601925/apply) |
-| 2026-11-14 | 2026-11-14 | Keysight Technologies | IT Engineer -Software -Entry | Colorado Springs, CO | — | swe | unknown | [apply](https://careers-keysight.icims.com/jobs/56558/job) |

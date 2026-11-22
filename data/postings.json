@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795362016,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795362016,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795362016,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795362016,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795362016,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -114,10 +114,10 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795362016,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "http 404"
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "fetch failed: (\"Connection broken: BrokenPipeError(32, 'Broken pipe')\", BrokenPipeError(32, 'Broken pipe'))"
   },
   {
     "id": "9de36fa298f468a8",
@@ -134,7 +134,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795362016,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793806767,
-    "date_found": 1795362016,
+    "date_posted": 1793740510,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793806767,
-    "date_found": 1795362016,
+    "date_posted": 1793740510,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792597167,
-    "date_found": 1795362016,
+    "date_posted": 1792530910,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791560367,
-    "date_found": 1795362016,
+    "date_posted": 1791494110,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790350767,
-    "date_found": 1795362016,
+    "date_posted": 1790284510,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -253,8 +253,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789141167,
-    "date_found": 1795362016,
+    "date_posted": 1789074910,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -273,8 +273,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785857967,
-    "date_found": 1795362016,
+    "date_posted": 1785791710,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -294,10 +294,590 @@
     "category": "ml_data",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1795119035,
-    "date_found": 1795362016,
+    "date_found": 1795382149,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "5d471ac6d5c36473",
+    "dedup_key": "intern|neogen|embedded systems engineer intern",
+    "company": "Neogen",
+    "title": "Embedded Systems Engineer Intern",
+    "locations": [
+      "Oakdale, MN"
+    ],
+    "url": "https://go.vansh.nyc/1Gp",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795360645,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ff02f6fd2076b243",
+    "dedup_key": "new grad|apple|ar vr software engineer spatial system ui vision products software",
+    "company": "Apple",
+    "title": "AR/VR Software Engineer - Spatial System UI - Vision Products Software",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "url": "https://jobs.apple.com/en-us/details/200696147-3956",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c046796ba50152e9",
+    "dedup_key": "new grad|apple|ar vr software engineer spatial system ui vision products software",
+    "company": "Apple",
+    "title": "AR/VR Software Engineer - Spatial System UI - Vision Products Software",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "url": "https://jobs.apple.com/en-us/details/200696147-0365",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fe22bd1dfc8d6730",
+    "dedup_key": "new grad|amazon|software dev engineer ii amz10563969",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II - AMZ10563969",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10608026/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794950110,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e2512707c4895b38",
+    "dedup_key": "new grad|amazon|software development engineer amazon customer service",
+    "company": "Amazon",
+    "title": "Software Development Engineer - Amazon Customer Service",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10607027/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794950110,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "de53270f0a07c9c6",
+    "dedup_key": "new grad|amazon|software dev engineer ii amz10564009",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II - AMZ10564009",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10607995/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794950110,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "1b4440d81d1bbbd0",
+    "dedup_key": "new grad|amazon|software dev engineer ii amz10564002",
+    "company": "Amazon",
+    "title": "Software Dev Engineer II - AMZ10564002",
+    "locations": [
+      "Herndon, VA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10608034/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794863710,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "0b719316b4a34afa",
+    "dedup_key": "new grad|amazon|software dev engineer in test amazon leo payload",
+    "company": "Amazon",
+    "title": "Software Dev Engineer in Test - Amazon Leo Payload",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "url": "https://www.amazon.jobs/jobs/10610933/apply",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794518110,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3c7ba9f70974e4db",
+    "dedup_key": "new grad|meta|software engineer product",
+    "company": "Meta",
+    "title": "Software Engineer - Product",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "url": "https://www.metacareers.com/jobs/1613643980303295",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1790975710,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de8f7648ac4ffdd9",
+    "dedup_key": "new grad|garmin|software engineer 1",
+    "company": "Garmin",
+    "title": "Software Engineer 1",
+    "locations": [
+      "Salem, OR"
+    ],
+    "url": "https://careers-garmin.icims.com/jobs/21486/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795295710,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "23672e036917dd1e",
+    "dedup_key": "new grad|garmin|software engineer 2 computer vision machine learning",
+    "company": "Garmin",
+    "title": "Software Engineer 2 - Computer Vision/Machine Learning",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "url": "https://careers-garmin.icims.com/jobs/20133/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795295710,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "542e597ab826587d",
+    "dedup_key": "new grad|servicenow|assoc software engineer",
+    "company": "ServiceNow",
+    "title": "Assoc Software Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer?oga=true",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795295710,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "27be55e2c94a2761",
+    "dedup_key": "new grad|american family insurance|associate technical engineer cloud technologies",
+    "company": "American Family Insurance",
+    "title": "Associate Technical Engineer - Cloud Technologies",
+    "locations": [
+      "Boston, MA +1"
+    ],
+    "url": "https://amfam.wd1.myworkdayjobs.com/en-US/careers/job/MA-Boston/Associate-Technical-Engineer---Cloud-Technologies_R39872",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e61d50bb5ffc1625",
+    "dedup_key": "new grad|baxter|software engineer",
+    "company": "Baxter",
+    "title": "Software Engineer",
+    "locations": [
+      "Skaneateles, NY"
+    ],
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Software-Engineer_JR-208289-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f8c1f7335f843b94",
+    "dedup_key": "new grad|booz allen|ai software developer mid",
+    "company": "Booz Allen",
+    "title": "AI Software Developer - Mid",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/AI-Software-Developer--Mid_R0253885",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "26d8a8d739b05ac8",
+    "dedup_key": "new grad|diversified services network|1121223 embedded software engineer entry level role",
+    "company": "Diversified Services Network",
+    "title": "1121223 Embedded Software Engineer- Entry Level role",
+    "locations": [
+      "Mossville, IL"
+    ],
+    "url": "https://apply.workable.com/dsn/j/AAF21352DA/",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "07792d9964dc8bd6",
+    "dedup_key": "new grad|further|graduate program entry level developer 2027",
+    "company": "Further",
+    "title": "Graduate Program: Entry Level Developer 2027",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "15810baf3858963c",
+    "dedup_key": "new grad|further|graduate program entry level analytics developer 2027",
+    "company": "Further",
+    "title": "Graduate Program: Entry Level Analytics Developer 2027",
+    "locations": [
+      "Cleveland, OH"
+    ],
+    "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "a1656dfa898d90c2",
+    "dedup_key": "new grad|home depot|software engineer ii salesforce engineering remote",
+    "company": "Home Depot",
+    "title": "Software Engineer II - Salesforce Engineering - Remote",
+    "locations": [
+      "Remote - Georgia, USA"
+    ],
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II---Salesforce-Engineering--Remote-_Req199265",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "af7f84be90cdd823",
+    "dedup_key": "new grad|inmar intelligence|software engineer",
+    "company": "Inmar Intelligence",
+    "title": "Software Engineer",
+    "locations": [
+      "Winston-Salem, NC"
+    ],
+    "url": "https://inmar.wd1.myworkdayjobs.com/en-US/inmarcareers/job/Headquarters-Winston-Salem-NC/Software-Engineer_JY2627775",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ed42693b6302b4ac",
+    "dedup_key": "new grad|katmai|information management specialist sharepoint developer jr",
+    "company": "Katmai",
+    "title": "Information Management Specialist - Sharepoint Developer Jr.",
+    "locations": [
+      "Virginia, MN"
+    ],
+    "url": "https://apply.workable.com/katmai/j/312A07C272/",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c68ff7816052005e",
+    "dedup_key": "new grad|medtronic|software engineer i crm",
+    "company": "Medtronic",
+    "title": "Software Engineer I - CRM",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R82448",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b1b77d82ed9dcec0",
+    "dedup_key": "new grad|medtronic|software engineer i crm",
+    "company": "Medtronic",
+    "title": "Software Engineer I - CRM",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R82448-2",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c4bb36caee2bb709",
+    "dedup_key": "new grad|parsons|associate software engineer",
+    "company": "Parsons",
+    "title": "Associate Software Engineer",
+    "locations": [
+      "Remote - USA"
+    ],
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Associate-Software-Engineer_R188926-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8a0210d7492cf753",
+    "dedup_key": "new grad|parsons|devops engineer",
+    "company": "Parsons",
+    "title": "DevOps Engineer",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Chantilly/DevOps-Engineer_R188937",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "198624e3f47ee5a1",
+    "dedup_key": "new grad|spacex|full stack software engineer build reliability",
+    "company": "SpaceX",
+    "title": "Full Stack Software Engineer - Build Reliability",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8955898002?gh_jid=8955898002",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "greenhouse api: undergrad markers"
+  },
+  {
+    "id": "bd0743030898f8c7",
+    "dedup_key": "new grad|xfinity|entry level software engineer reston va onsite 2 days per week freewheel",
+    "company": "Xfinity",
+    "title": "Entry Level Software Engineer- Reston - VA- ONSITE 2 Days per Week- FreeWheel",
+    "locations": [
+      "Englewood, CO +1"
+    ],
+    "url": "https://comcast.wd115.myworkdayjobs.com/en-US/comcast_careers/job/CO---Englewood-183-Inverness-Dr-West/Entry-Level-Software-Engineer--Englewood--CO--ONSITE-4-Days-per-Week--FreeWheel_R445138",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "138dd22449647b32",
+    "dedup_key": "new grad|xfinity|junior c software engineer 2 days onsite reston va freewheel",
+    "company": "Xfinity",
+    "title": "Junior C++ Software Engineer - 2 Days ONSITE - Reston - VA - FreeWheel",
+    "locations": [
+      "Reston, VA"
+    ],
+    "url": "https://comcast.wd115.myworkdayjobs.com/en-US/comcast_careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Junior-C---Software-Engineer---2-Days-ONSITE---Reston--VA---FreeWheel_R449188-1",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "8bd8382112b97bc7",
+    "dedup_key": "new grad|zscaler|software development engineer",
+    "company": "Zscaler",
+    "title": "Software Development Engineer",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795209310,
+    "date_found": 1795382149,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "greenhouse api: no clear disqualifier"
   },
   {
     "id": "baa70d606ba9cefb",

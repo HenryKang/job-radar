@@ -1,9 +1,15 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-23 01:58 UTC · 5648 live & eligible postings (showing 400); 153 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-23 10:41 UTC · 5654 live & eligible postings (showing 400); 153 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-23 | 2026-11-23 | Artefact | AI Engineer Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1Gz) |
+| 2026-11-23 | 2026-11-20 | Northrop Grumman | AI/ML Engineering Intern | Morrisville, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1GD) |
+| 2026-11-23 | 2026-11-23 | First Resonance | Software Engineering Intern, Platform | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1GE) |
+| 2026-11-23 | 2026-11-23 | First Resonance | Forward Deployed Engineering Intern | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1GF) |
+| 2026-11-23 | 2026-11-23 | CAS | Technology Intern, Development Operations | Columbus, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1GH) |
+| 2026-11-23 | 2026-11-23 | All Options | New Grad 2027: Quantitative Trader | Austin, TX | — | quant | unknown | [apply](https://go.vansh.nyc/1GJ) |
 | 2026-11-23 | 2026-11-17 | T.D. Williamson | Engineering Intern | Tulsa, OK | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Gy) |
 | 2026-11-23 | 2026-11-22 | Sierra | New Grad 2027: Software Engineer, Agent | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Gs) |
 | 2026-11-23 | 2026-11-22 | Applied Intuition | New Grad 2027: Forward Deployed Engineer | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Gu) |
@@ -398,9 +404,3 @@ _Last updated: 2026-11-23 01:58 UTC · 5648 live & eligible postings (showing 40
 | 2026-11-17 | 2026-11-16 | Impulse Space | Digital Design Engineering Intern, FPGA/ASIC | Redondo Beach, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ay) |
 | 2026-11-17 | 2026-11-16 | Carnegie Mellon University | AI Engineer Intern, Mission Innovation Lab | Pittsburgh, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Az) |
 | 2026-11-17 | 2026-11-16 | Reliable Robotics Corporation | Displays Software Engineer Intern | Mountain View, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1AA) |
-| 2026-11-17 | 2026-11-16 | Integration Innovation (i3) | Embedded Systems Reverse Engineer Intern | Washington, DC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1AB) |
-| 2026-11-17 | 2026-11-16 | ServiceNow | Associate Forward Deployed Solution Engineer Intern | Santa Clara, CA, New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1AC) |
-| 2026-11-17 | 2026-11-17 | Disney | Data Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1AL) |
-| 2026-11-17 | 2026-11-17 | Clera | Full-Stack Software Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1AN) |
-| 2026-11-17 | 2026-11-17 | Lumentum | Data Science & Analytics Intern | San Jose, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1AP) |
-| 2026-11-17 | 2026-11-12 | Nuro | New Grad 2027: Systems Engineering | Mountain View, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Aq) |

@@ -1,9 +1,14 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-22 21:16 UTC · 5643 live & eligible postings (showing 400); 153 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-23 01:58 UTC · 5648 live & eligible postings (showing 400); 153 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-23 | 2026-11-17 | T.D. Williamson | Engineering Intern | Tulsa, OK | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Gy) |
+| 2026-11-23 | 2026-11-22 | Sierra | New Grad 2027: Software Engineer, Agent | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Gs) |
+| 2026-11-23 | 2026-11-22 | Applied Intuition | New Grad 2027: Forward Deployed Engineer | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Gu) |
+| 2026-11-23 | 2026-11-22 | Old Mission Capital | New Grad 2027: Trading Production Engineer | Chicago, IL | — | swe | unknown | [apply](https://go.vansh.nyc/1Gv) |
+| 2026-11-23 | 2026-11-22 | RoadRunner | New Grad: Forward Deployed Engineer | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Gw) |
 | 2026-11-22 | 2026-10-13 | Wing | Execution & Topology Software Engineering Intern | Palo Alto, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1tF) |
 | 2026-11-22 | 2026-11-22 | Neogen | Embedded Systems Engineer Intern | Oakdale, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Gp) |
 | 2026-11-22 | 2026-11-20 | Apple | AR/VR Software Engineer - Spatial System UI - Vision Products Software | Sunnyvale, CA | — | swe | unknown | [apply](https://jobs.apple.com/en-us/details/200696147-3956) |
@@ -399,8 +404,3 @@ _Last updated: 2026-11-22 21:16 UTC · 5643 live & eligible postings (showing 40
 | 2026-11-17 | 2026-11-17 | Clera | Full-Stack Software Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1AN) |
 | 2026-11-17 | 2026-11-17 | Lumentum | Data Science & Analytics Intern | San Jose, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1AP) |
 | 2026-11-17 | 2026-11-12 | Nuro | New Grad 2027: Systems Engineering | Mountain View, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Aq) |
-| 2026-11-17 | 2026-11-15 | AlphaOne Robotics | Junior Robotics Software Engineer | Dallas, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1Ar) |
-| 2026-11-17 | 2026-11-15 | Velocity Explorations | Software Engineer | Patrick AFB, FL | — | swe | unknown | [apply](https://go.vansh.nyc/1As) |
-| 2026-11-17 | 2026-11-16 | CrossCountry Consulting | New Grad 2027: Junior Forward Deployed Software Engineer | Philadelphia, PA | — | swe | unknown | [apply](https://go.vansh.nyc/1AH) |
-| 2026-11-17 | 2026-11-16 | CrossCountry Consulting | Junior Forward Deployed Software Engineer | McLean, VA | — | swe | unknown | [apply](https://go.vansh.nyc/1AI) |
-| 2026-11-17 | 2026-11-14 | Fidelity Investments | Full Stack Engineer - backend API - AWS | Durham, NC | — | swe | unknown | [apply](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Durham-NC/Full-Stack-Engineer--backend-API--AWS-_2137360) |

@@ -1,9 +1,15 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-24 06:22 UTC · 5701 live & eligible postings (showing 400); 155 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-24 18:16 UTC · 5707 live & eligible postings (showing 400); 155 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-24 | 2026-11-05 | Esri | Software Engineer Intern | St. Louis, MO | Summer | swe | ok | [apply](https://go.vansh.nyc/1I3) |
+| 2026-11-24 | 2026-11-23 | Artefact | AI Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1I4) |
+| 2026-11-24 | 2026-11-24 | Trimble | AI Software Developer Engineer in Test Intern | Lake Oswego, OR | Summer | swe | unknown | [apply](https://go.vansh.nyc/1I5) |
+| 2026-11-24 | 2026-11-24 | RF-SMART | Software Developer Intern | Highlands Ranch, CO, Jacksonville, FL | Summer | swe | ok | [apply](https://go.vansh.nyc/1Id) |
+| 2026-11-24 | 2026-11-24 | Pismo | Software Engineer, Agentic Developer | Denver, CO | — | swe | unknown | [apply](https://go.vansh.nyc/1I7) |
+| 2026-11-24 | 2026-11-24 | Peraton | New Grad 2027: Software Engineering, Ignite Innovator Pgm | Blacksburg, VA | — | swe | ok | [apply](https://go.vansh.nyc/1I8) |
 | 2026-11-24 | 2026-11-23 | Contoro Robotics | Robotics Software Engineer Intern, Autonomy & Automation | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Hp) |
 | 2026-11-24 | 2026-11-23 | Capital Technology Group | Software Development Intern | Silver Spring, MD | Summer | swe | ok | [apply](https://go.vansh.nyc/1Ht) |
 | 2026-11-24 | 2026-11-23 | Capital Technology Group | Data Engineering and Data Science Intern | Silver Spring, MD | Summer | swe | ok | [apply](https://go.vansh.nyc/1Hu) |
@@ -398,9 +404,3 @@ _Last updated: 2026-11-24 06:22 UTC · 5701 live & eligible postings (showing 40
 | 2026-11-18 | 2026-11-18 | HPE | AI Automation Engineer | Spring, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1BX) |
 | 2026-11-18 | 2026-11-18 | General Matter | New Grad: Automation & Controls Engineer | Los Angeles, CA | — | swe | ok | [apply](https://go.vansh.nyc/1BY) |
 | 2026-11-18 | 2026-09-08 | Amazon | Operations Engineering MHE Lifecycle Intern Spring and Summer 2027 (Bellevue, WA) | US, WA, Bellevue | Spring 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532296/operations-engineering-mhe-lifecycle-intern-spring-and-summer-2027-bellevue-wa) |
-| 2026-11-18 | 2026-09-08 | Amazon | Operations Engineering (Business Strategy & Execution) Intern Spring and Summer 2027 (Bellevue, WA) | US, WA, Bellevue | Spring 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532290/operations-engineering-business-strategy-execution-intern-spring-and-summer-2027-bellevue-wa) |
-| 2026-11-17 | 2026-10-21 | Esri | Software Development Engineer in Test I - SDET - ArcGIS Enterprise | Redlands, CA | — | swe | ok | [apply](https://www.esri.com/careers/5269847007?gh_jid=5269847007) |
-| 2026-11-17 | 2026-11-16 | PTC | Onshape Performance Engineering Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bl) |
-| 2026-11-17 | 2026-11-17 | Anduril | Machine Learning Engineer Intern | Santa Ana, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1Bo) |
-| 2026-11-17 | 2026-11-17 | Peraton | New Grad 2027: Entry-Level Software Engineer - Ignite Innovator Program | Blacksburg, VA | — | swe | ok | [apply](https://go.vansh.nyc/1Bi) |
-| 2026-11-17 | 2026-11-13 | Amazon | Software Dev Engineer II - AMZ24203.2 | Boulder, CO | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10604291/apply) |

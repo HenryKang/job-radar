@@ -1,9 +1,29 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-25 12:43 UTC · 5751 live & eligible postings (showing 400); 156 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-25 21:59 UTC · 5771 live & eligible postings (showing 400); 156 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-25 | 2026-11-24 | Aerospace Corporation | Embedded Software Engineering Undergrad Intern | El Segundo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1J8) |
+| 2026-11-25 | 2026-11-24 | Draper | Simulation Engineering Intern | Cambridge, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1J9) |
+| 2026-11-25 | 2026-11-24 | Analog Devices | Embedded Software Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jb) |
+| 2026-11-25 | 2026-11-25 | Apex Technology, Inc. | Software Engineering Intern, Operating Systems | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jf) |
+| 2026-11-25 | 2026-11-25 | Apex Technology, Inc. | Flight Software Engineering Intern | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jg) |
+| 2026-11-25 | 2026-11-24 | Aerospace Corporation | Machine Learning Engineer Undergrad Intern | El Segundo, CA, Chantilly, VA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jh) |
+| 2026-11-25 | 2026-11-25 | SambaNova | AI Performance Engineer Intern | Austin, TX, San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jj) |
+| 2026-11-25 | 2026-11-25 | SambaNova | Compiler Engineer Intern | Austin, TX, San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jk) |
+| 2026-11-25 | 2026-11-24 | Nasdaq | Data Engineering Intern | Denver, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jl) |
+| 2026-11-25 | 2026-11-25 | Jabil | Data Scientist Intern | St. Petersburg, FL, Tampa, FL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Jo) |
+| 2026-11-25 | 2026-11-25 | SambaNova | ML Infrastructure Engineer Intern | Austin, TX, San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jp) |
+| 2026-11-25 | 2026-11-25 | SambaNova | Cloud Platform Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jq) |
+| 2026-11-25 | 2026-11-25 | SambaNova | Machine Learning Engineer Intern | Austin, TX, San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jr) |
+| 2026-11-25 | 2026-11-25 | Carrier Global | Software & Controls Engineering Intern | Charlotte, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Js) |
+| 2026-11-25 | 2026-11-25 | Coinbase | Security Engineer Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ju) |
+| 2026-11-25 | 2026-11-25 | Draper | Cyber Effects Engineering Intern | Cambridge, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jv) |
+| 2026-11-25 | 2026-11-25 | Cantor Fitzgerald | Technology Intern, Development | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jw) |
+| 2026-11-25 | 2026-11-25 | Nimble Storage | Embedded Software Developer | Spring, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1J7) |
+| 2026-11-25 | 2026-11-25 | XPENG Motors | New Grad: Software Engineer - Computing Platform | Santa Clara, CA | — | swe | ok | [apply](https://go.vansh.nyc/1Jt) |
+| 2026-11-25 | 2026-11-25 | Coinbase | Security Engineer Intern | Hybrid - New York, NY | — | swe | unknown | [apply](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) |
 | 2026-11-25 | 2026-11-25 | NVIDIA | Software Engineering Intern, Simulation Technology | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1J0) |
 | 2026-11-25 | 2026-11-24 | PatientPoint | Data Engineer Intern | Cincinnati, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/1J3) |
 | 2026-11-25 | 2026-11-25 | Johns Hopkins Applied Physics Laboratory | New Grad 2027: Reverse Engineer - Systems Exploitation | Laurel, MD | — | swe | unknown | [apply](https://go.vansh.nyc/1IZ) |
@@ -384,23 +404,3 @@ _Last updated: 2026-11-25 12:43 UTC · 5751 live & eligible postings (showing 40
 | 2026-11-19 | 2026-11-18 | Benchling | Software Engineer - CDC | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) |
 | 2026-11-19 | 2026-11-18 | Cisco | Software Engineer II - Full Time - United States CX Engineering | San Jose, CA +1 | — | swe | unknown | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-II--Full-Time----United-States-CX-Engineering_2032332) |
 | 2026-11-19 | 2026-11-18 | MetaPhase Consulting | Junior ServiceNow Developer | USA | — | swe | ok | [apply](https://jobs.jobvite.com/metaphaseconsulting/job/o077Afwy) |
-| 2026-11-19 | 2026-11-18 | Peraton | Software Engineering - Ignite Innovator Pgm - Associate- Blacksburg - VA | Herndon, VA | — | swe | unknown | [apply](https://careers-peraton.icims.com/jobs/173920/software-engineering-%28ignite-innovator-pgm%29%2c-associate--blacksburg%2c-va/job) |
-| 2026-11-19 | 2026-11-18 | SharkNinja | Associate Product Developer - Robots | Needham, MA | — | swe | ok | [apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4729918006) |
-| 2026-11-19 | 2026-11-18 | Tandem Diabetes Care | Embedded Software Engineer I | Remote - San Diego, CA | — | swe | unknown | [apply](https://tandemdiabetes.wd12.myworkdayjobs.com/en-US/tandemdiabetes/job/Remote---San-Diego-CA/Embedded-Software-Engineer-I_JR101708-1) |
-| 2026-11-19 | 2026-11-18 | Torch Technologies | Entry-Level Modeling & Simulation Software Engineer | Huntsville, AL | — | swe | unknown | [apply](https://starfish.wd501.myworkdayjobs.com/en-US/careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1) |
-| 2026-11-19 | 2026-11-17 | Nemetschek | Software Trainer II | Pasadena, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/NemetschekSE2/744000161868109-software-trainer-ii?oga=true) |
-| 2026-11-19 | 2026-11-14 | Accenture | Front End UI Engineer - Part-Time - 6592431 | New York City, NY | — | swe | unknown | [apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/New-York-One-Manhattan-West-Corp/Front-End-UI-Engineer---Part-Time---6592431_14906605) |
-| 2026-11-19 | 2026-11-13 | Accenture | Application engineering Analyst - Java Backend - BQ | Bentonville, AR | — | swe | unknown | [apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/AR---Bentonville/Application-engineering-Analyst---Java-Backend--BQ_R00371820) |
-| 2026-11-19 | 2026-11-13 | Bitdeer | SRE Monitoring Platform Software Engineer | San Jose, CA +1 | — | swe | unknown | [apply](https://bitdeer.breezy.hr/p/ed6314823d0c-sre-monitoring-platform-software-engineer) |
-| 2026-11-19 | 2026-11-12 | Accenture | Custom Software Engineer - 6588434 | Nashville, TN | — | swe | unknown | [apply](https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Nashville-4101-Charlotte-Ave-Corp/Custom-Software-Engineer---6588434_14900001) |
-| 2026-11-19 | 2026-11-12 | AxisCare | Software Support Specialist | Waco, TX | — | swe | unknown | [apply](https://axiscare.bamboohr.com/careers/182) |
-| 2026-11-19 | 2026-11-12 | Rectangle Health | Junior Power BI Developer | White Plains, NY | — | swe | ok | [apply](https://job-boards.greenhouse.io/rectanglehealth/jobs/5478680008) |
-| 2026-11-19 | 2026-11-08 | Ande | Software Engineer - AI - Early Career | New York City, NY | — | swe | unknown | [apply](https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1) |
-| 2026-11-19 | 2026-11-06 | Phoenix Technical Solutions | Software Quality & Process Architect - Emerging PM | Huntsville, AL | — | swe | unknown | [apply](https://phoenixtechsol.bamboohr.com/careers/477) |
-| 2026-11-19 | 2026-11-06 | Phoenix Technical Solutions | Software Quality & Process Architect - Emerging PM | Atlanta, GA | — | swe | unknown | [apply](https://phoenixtechsol.bamboohr.com/careers/476) |
-| 2026-11-19 | 2026-11-05 | Phoenix Technical Solutions | Software Quality & Process Architect - Emerging PM | Pittsburgh, PA | — | swe | unknown | [apply](https://phoenixtechsol.bamboohr.com/careers/475) |
-| 2026-11-19 | 2026-11-05 | Phoenix Technical Solutions | Software Quality & Process Architect - Emerging PM | Erie, PA | — | swe | unknown | [apply](https://phoenixtechsol.bamboohr.com/careers/473) |
-| 2026-11-19 | 2026-11-05 | Phoenix Technical Solutions | Software Quality & Process Architect - Emerging PM | Fort Worth, TX | — | swe | unknown | [apply](https://phoenixtechsol.bamboohr.com/careers/474) |
-| 2026-11-19 | 2026-11-04 | Bitdeer | AI & Cloud Infra Software Engineer - Fresh Grad | Austin, TX +2 | — | swe | ok | [apply](https://bitdeer.breezy.hr/p/611f14be34db-ai-cloud-infra-software-engineer-fresh-grad) |
-| 2026-11-19 | 2026-11-04 | Machina Cognita Technologies | Software Engineer - Android | Lafayette, IN | — | swe | unknown | [apply](https://jobs.ashbyhq.com/machinacognita/f57f918b-bf81-43c0-b57d-bc113f02796c) |
-| 2026-11-19 | 2026-11-04 | Machina Cognita Technologies | Software Engineer - Android | Virginia, MN | — | swe | unknown | [apply](https://jobs.ashbyhq.com/machinacognita/aecc82b1-2c7a-4bf8-b999-666646bfc0b5) |

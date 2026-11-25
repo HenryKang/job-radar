@@ -1,9 +1,12 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-25 02:47 UTC · 5748 live & eligible postings (showing 400); 155 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-25 12:43 UTC · 5751 live & eligible postings (showing 400); 156 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-25 | 2026-11-25 | NVIDIA | Software Engineering Intern, Simulation Technology | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1J0) |
+| 2026-11-25 | 2026-11-24 | PatientPoint | Data Engineer Intern | Cincinnati, OH | Summer | swe | ok | [apply](https://go.vansh.nyc/1J3) |
+| 2026-11-25 | 2026-11-25 | Johns Hopkins Applied Physics Laboratory | New Grad 2027: Reverse Engineer - Systems Exploitation | Laurel, MD | — | swe | unknown | [apply](https://go.vansh.nyc/1IZ) |
 | 2026-11-25 | 2026-11-23 | Philips | Embedded Software Development Intern, AI-Agentic | Bothell, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ij) |
 | 2026-11-25 | 2026-11-23 | T-Mobile | Site Reliability Engineering (SRE) Intern, Database Platform Engineering | Atlanta, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ik) |
 | 2026-11-25 | 2026-11-24 | NVIDIA | Developer Technology Intern, AI | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Im) |
@@ -401,6 +404,3 @@ _Last updated: 2026-11-25 02:47 UTC · 5748 live & eligible postings (showing 40
 | 2026-11-19 | 2026-11-04 | Bitdeer | AI & Cloud Infra Software Engineer - Fresh Grad | Austin, TX +2 | — | swe | ok | [apply](https://bitdeer.breezy.hr/p/611f14be34db-ai-cloud-infra-software-engineer-fresh-grad) |
 | 2026-11-19 | 2026-11-04 | Machina Cognita Technologies | Software Engineer - Android | Lafayette, IN | — | swe | unknown | [apply](https://jobs.ashbyhq.com/machinacognita/f57f918b-bf81-43c0-b57d-bc113f02796c) |
 | 2026-11-19 | 2026-11-04 | Machina Cognita Technologies | Software Engineer - Android | Virginia, MN | — | swe | unknown | [apply](https://jobs.ashbyhq.com/machinacognita/aecc82b1-2c7a-4bf8-b999-666646bfc0b5) |
-| 2026-11-19 | 2026-11-04 | Machina Cognita Technologies | Software Engineer - Android | Carlsbad, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/machinacognita/efe36c55-85ad-45f2-af02-3d0c029d8f97) |
-| 2026-11-19 | 2026-10-30 | WWEX Group | Software Engineer | Dallas, TX | — | swe | unknown | [apply](https://jobs.dayforcehcm.com/en-US/wwex/candidateportal/jobs/6565) |
-| 2026-11-19 | 2026-10-29 | Pennsylvania Lumbermens Mutual Insurance Company | IT Application Developer I | Philadelphia, PA | — | swe | unknown | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3831823) |

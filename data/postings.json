@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795574814,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795574814,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795574814,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795574814,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795574814,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793760365,
-    "date_found": 1795574814,
+    "date_posted": 1793796181,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -133,8 +133,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793760365,
-    "date_found": 1795574814,
+    "date_posted": 1793796181,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792550765,
-    "date_found": 1795574814,
+    "date_posted": 1792586581,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791427565,
-    "date_found": 1795574814,
+    "date_posted": 1791463381,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790304365,
-    "date_found": 1795574814,
+    "date_posted": 1790340181,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789094765,
-    "date_found": 1795574814,
+    "date_posted": 1789130581,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785811565,
-    "date_found": 1795574814,
+    "date_posted": 1785847381,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -254,7 +254,7 @@
     "category": "ml_data",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1795119035,
-    "date_found": 1795574814,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -274,10 +274,90 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1795410616,
-    "date_found": 1795574814,
+    "date_found": 1795610618,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "fff8fda0a52714f3",
+    "dedup_key": "intern|nvidia|software engineering intern simulation technology",
+    "company": "NVIDIA",
+    "title": "Software Engineering Intern, Simulation Technology",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/1J0",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795583465,
+    "date_found": 1795610618,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "2c3aebb956711e4a",
+    "dedup_key": "intern|patientpoint|data engineer intern",
+    "company": "PatientPoint",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "url": "https://go.vansh.nyc/1J3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795551972,
+    "date_found": 1795610618,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "50e37a63a28dcd03",
+    "dedup_key": "new grad|johns hopkins applied physics laboratory|new grad 2027 reverse engineer systems exploitation",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "New Grad 2027: Reverse Engineer - Systems Exploitation",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "url": "https://go.vansh.nyc/1IZ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795564800,
+    "date_found": 1795610618,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c5f415b117518a1b",
+    "dedup_key": "new grad|applied materials|software engineer ii master s",
+    "company": "Applied Materials",
+    "title": "Software Engineer II (Master's)",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "url": "https://go.vansh.nyc/1J6",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795580362,
+    "date_found": 1795610618,
+    "alive": true,
+    "eligibility": "grad_only",
+    "elig_reason": "grad-level title"
   },
   {
     "id": "b3d92c9c4957f1e8",

@@ -1,9 +1,50 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-24 18:16 UTC · 5707 live & eligible postings (showing 400); 155 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-25 02:47 UTC · 5748 live & eligible postings (showing 400); 155 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-25 | 2026-11-23 | Philips | Embedded Software Development Intern, AI-Agentic | Bothell, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ij) |
+| 2026-11-25 | 2026-11-23 | T-Mobile | Site Reliability Engineering (SRE) Intern, Database Platform Engineering | Atlanta, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ik) |
+| 2026-11-25 | 2026-11-24 | NVIDIA | Developer Technology Intern, AI | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Im) |
+| 2026-11-25 | 2026-11-24 | QinetiQ | Software Engineer Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ip) |
+| 2026-11-25 | 2026-11-24 | General Motors | Software Verification Engineer Intern, AV/AI Platform | Warren, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ir) |
+| 2026-11-25 | 2026-11-24 | Aptima Inc. (All Jobs) | Software Engineer Intern | Fairborn, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Is) |
+| 2026-11-25 | 2026-11-24 | Apex Technology, Inc. | Software Engineer Intern, Test Automation | Los Angeles, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1It) |
+| 2026-11-25 | 2026-11-24 | Ameren | Robotics, AI, OT, Software Development Intern | St. Louis, MO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Iz) |
+| 2026-11-25 | 2026-11-24 | Johns Hopkins Applied Physics Laboratory | Artificial Intelligence and Complex Systems Intern | Laurel, MD | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1IE) |
+| 2026-11-25 | 2026-11-07 | Shield | Software Test Automation Intern | Dallas, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1IK) |
+| 2026-11-25 | 2026-11-24 | Kimley-Horn | Data Science Intern | Mesa, AZ | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1IN) |
+| 2026-11-25 | 2026-11-24 | SambaNova | Runtime Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1IR) |
+| 2026-11-25 | 2026-11-25 | Bandwidth Inc. | Software Engineer Intern | Raleigh, NC | Summer | swe | ok | [apply](https://go.vansh.nyc/1IS) |
+| 2026-11-25 | 2026-11-24 | PayPal | New Grad 2027: Software Engineer | San Jose, CA, Chicago, IL, Austin, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1Io) |
+| 2026-11-25 | 2026-11-24 | Amazon | New Grad 2027: Front-End Engineer | Seattle, WA | — | swe | ok | [apply](https://go.vansh.nyc/1Iv) |
+| 2026-11-25 | 2026-11-24 | Analog Devices | Associate Engineer, Quality Engineering | Wilmington, MA | — | swe | unknown | [apply](https://go.vansh.nyc/1Iw) |
+| 2026-11-25 | 2026-11-24 | Boeing | ASIC/FPGA Design Verification Engineer | El Segundo, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Ix) |
+| 2026-11-25 | 2026-11-25 | Deloitte | Software Engineer | Nashville, TN | — | swe | ok | [apply](https://go.vansh.nyc/1IT) |
+| 2026-11-25 | 2026-11-24 | Amazon | Software Dev Engineer II - AMZ10628341 | Detroit, MI | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10611628/apply) |
+| 2026-11-25 | 2026-11-24 | Roblox | Software Engineer - Data Tooling | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8395051?gh_jid=8395051) |
+| 2026-11-25 | 2026-11-20 | Amazon | Robotics Software Engineer - Data Center Robotics | Seattle, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10612129/apply) |
+| 2026-11-25 | 2026-11-14 | Amazon | Software Development Engineer - Data | Newark, NJ | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10611635/apply) |
+| 2026-11-25 | 2026-11-25 | GDIT | UiPath Robotic Process Automation Developer | USA | — | swe | unknown | [apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer_RQ232614-2) |
+| 2026-11-25 | 2026-11-25 | Genpact | Developer - Enterprise Applications 5B | Phoenix, AZ | — | swe | unknown | [apply](https://genpact.wd108.myworkdayjobs.com/en-US/external_careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Developer--Enterprise-Applications-5B_JR10035469) |
+| 2026-11-25 | 2026-11-25 | Iridium Satellite Communications | Software Test Engineer I | Chandler, AZ | — | swe | unknown | [apply](https://careers-iridium.icims.com/jobs/5154/software-test-engineer-i/job) |
+| 2026-11-25 | 2026-11-25 | Northwest Bank | Software Engineer II | Buffalo, NY | — | swe | unknown | [apply](https://northwest.wd1.myworkdayjobs.com/en-US/northwest_careers/job/Buffalo-NY/Software-Engineer-II_R-102561) |
+| 2026-11-25 | 2026-11-25 | Northwestern Mutual | Software Engineer | Milwaukee, WI | — | swe | unknown | [apply](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer_JR-46291) |
+| 2026-11-25 | 2026-11-25 | Ryan | Full Stack AI Engineer - May 2027 Grads | Plano, TX +3 | — | swe | unknown | [apply](https://ryan.wd1.myworkdayjobs.com/en-US/ryancareers/job/Plano/Full-Stack-AI-Engineer_R0019979-1) |
+| 2026-11-25 | 2026-11-25 | Serko | Software Engineer 1 | Seattle, WA +2 | — | swe | unknown | [apply](https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/) |
+| 2026-11-25 | 2026-11-24 | AbilityPath | Job Developer I Job Placement Specialist | San Jose, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/abilitypath/jobs/5299101007) |
+| 2026-11-25 | 2026-11-24 | AMERICAN SYSTEMS | Software Tester I | Indian Head, MD | — | swe | unknown | [apply](https://careers-americansystems.icims.com/jobs/5851/software-tester-i/job) |
+| 2026-11-25 | 2026-11-24 | Enterprise | Engineer 1 - Software - Revenue Management | St. Louis, MO | — | swe | unknown | [apply](https://us-erac.icims.com/jobs/598218/engineer-1%2c-software---revenue-management/job) |
+| 2026-11-25 | 2026-11-24 | Evertz | Embedded Software Engineer - Pittsburgh | Pittsburgh, PA | — | swe | unknown | [apply](https://evertz.applytojob.com/apply/wTfwS5pJdj/Embedded-Software-Engineer-Pittsburgh) |
+| 2026-11-25 | 2026-11-24 | Inductive Automation | Software Solutions Engineer I - Hybrid | Folsom, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/inductive-automation-llc/1942308d-84ac-4feb-83f0-5d16a1f2c0bf) |
+| 2026-11-25 | 2026-11-24 | Kodiak Robotics | Software Quality Simulation Specialist | Mountain View, CA | — | swe | unknown | [apply](https://job-boards.greenhouse.io/kodiak/jobs/4518079009) |
+| 2026-11-25 | 2026-11-24 | Northrop Grumman | 2027 Associate/Software Engineer Pathways Linthicum MD | Linthicum, MD | — | swe | unknown | [apply](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499) |
+| 2026-11-25 | 2026-11-24 | Sierra Nevada Corporation | Software Engineer I - Current Military Fellows Only | Southern Pines, NC | — | swe | unknown | [apply](https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1) |
+| 2026-11-25 | 2026-11-24 | SpaceX | Software Engineer - Ground Network - Starlink | Redmond, WA | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8958880002?gh_jid=8958880002) |
+| 2026-11-25 | 2026-11-24 | webAI | Jr Software Developer | Austin, TX | — | swe | unknown | [apply](https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df) |
+| 2026-11-25 | 2026-11-24 | Wonder | Associate Software Engineer - Robotics | Boston, MA | — | swe | unknown | [apply](https://wonder.wd1.myworkdayjobs.com/en-US/wg/job/Spyce/Associate-Software-Engineer--Robotics_JR101475) |
+| 2026-11-25 | 2026-11-20 | Amazon | Front-End Engineer Internship – 2027 (US) | US, WA, Seattle | — | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) |
 | 2026-11-24 | 2026-11-05 | Esri | Software Engineer Intern | St. Louis, MO | Summer | swe | ok | [apply](https://go.vansh.nyc/1I3) |
 | 2026-11-24 | 2026-11-23 | Artefact | AI Engineering Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1I4) |
 | 2026-11-24 | 2026-11-24 | Trimble | AI Software Developer Engineer in Test Intern | Lake Oswego, OR | Summer | swe | unknown | [apply](https://go.vansh.nyc/1I5) |
@@ -363,44 +404,3 @@ _Last updated: 2026-11-24 18:16 UTC · 5707 live & eligible postings (showing 40
 | 2026-11-19 | 2026-11-04 | Machina Cognita Technologies | Software Engineer - Android | Carlsbad, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/machinacognita/efe36c55-85ad-45f2-af02-3d0c029d8f97) |
 | 2026-11-19 | 2026-10-30 | WWEX Group | Software Engineer | Dallas, TX | — | swe | unknown | [apply](https://jobs.dayforcehcm.com/en-US/wwex/candidateportal/jobs/6565) |
 | 2026-11-19 | 2026-10-29 | Pennsylvania Lumbermens Mutual Insurance Company | IT Application Developer I | Philadelphia, PA | — | swe | unknown | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3831823) |
-| 2026-11-19 | 2026-10-28 | Arctic Slope Regional Corporation | Software Engineer I | Tempe, AZ | — | swe | unknown | [apply](https://careers-asrc.icims.com/jobs/6636/job) |
-| 2026-11-19 | 2026-10-24 | Mercury | Software Engineer - AI Experiences | Remote - San Francisco, CA +2 | — | swe | unknown | [apply](https://job-boards.greenhouse.io/mercury/jobs/6233238004) |
-| 2026-11-19 | 2026-10-17 | The Bernard Group | Associate Product Developer | Chanhassen, MN | — | swe | unknown | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&jobId=604477) |
-| 2026-11-19 | 2026-10-15 | Journal Technologies | Junior Software Implementation Specialist | Logan, UT | — | swe | ok | [apply](https://ats.rippling.com/journaltech/jobs/82b2ba96-537d-4a40-bcd4-ef7a95920f19) |
-| 2026-11-19 | 2026-10-15 | ZigTale | Founding Software Engineer | Lancaster, PA | — | swe | unknown | [apply](https://zigtale.applytojob.com/apply/i0YPoDNPkx/Founding-Software-Engineer) |
-| 2026-11-19 | 2026-09-27 | Karman | Embedded Firmware Engineer | Ann Arbor, MI | — | swe | ok | [apply](https://karman.applytojob.com/apply/ZATv9CJjd9/Embedded-Firmware-Engineer) |
-| 2026-11-19 | 2026-08-28 | Metron | Software Development Engineer in Test - SDET | Reston, VA | — | swe | ok | [apply](https://job-boards.greenhouse.io/metron/jobs/5222417007) |
-| 2026-11-19 | 2026-08-26 | Inadev | Junior Database Developer | Reston, VA | — | swe | unknown | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4447745) |
-| 2026-11-19 | 2026-08-18 | GRVTY | iOS-Savvy CNO Developer | Fort Meade, MD | — | swe | ok | [apply](https://job-boards.greenhouse.io/grvty/jobs/4371868009) |
-| 2026-11-19 | 2026-08-09 | Inadev | Junior Database Developer | Reston, VA | — | swe | unknown | [apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402556) |
-| 2026-11-19 | 2026-08-02 | Tank Payments | Software Engineer | Austin, TX | — | swe | unknown | [apply](https://jobs.ashbyhq.com/tank-payments/8987c748-ded7-4fc1-9353-19e98153642d) |
-| 2026-11-18 | 2026-11-18 | Bristol Myers Squibb | Undergrad Data Science Intern | Remote, United States | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Ck) |
-| 2026-11-18 | 2026-11-17 | Motorola Solutions | RFIC Design Engineer Intern | Plantation, FL, Schaumburg, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Cl) |
-| 2026-11-18 | 2026-11-18 | Adyen | Junior Full-Stack Developer, Docs Experience Engineering Team | Chicago, IL | — | swe | unknown | [apply](https://go.vansh.nyc/1Cc) |
-| 2026-11-18 | 2026-11-18 | Cummins | New Grad 2027: Electronic Systems Engineer - Software | Galesburg, MI | — | swe | unknown | [apply](https://go.vansh.nyc/1Ce) |
-| 2026-11-18 | 2026-11-17 | Sallie Mae | Software Engineer Intern | Indianapolis, IN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1C4) |
-| 2026-11-18 | 2026-11-18 | Airbnb | Software Engineering Intern | San Francisco, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1C6) |
-| 2026-11-18 | 2026-11-18 | S&P Global | Machine Learning Engineer Intern | Cambridge, MA, New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1C7) |
-| 2026-11-18 | 2026-11-17 | Nightwing | Vulnerability Researcher Intern | Palm Bay, FL | Summer | quant | unknown | [apply](https://go.vansh.nyc/1C8) |
-| 2026-11-18 | 2026-11-18 | Airbnb | Software Engineering Intern (BS/MS) | San Francisco, California | — | swe | ok | [apply](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) |
-| 2026-11-18 | 2026-11-17 | Garmin | Software Engineer Intern, Real Time Aviation Data | Chanhassen, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bs) |
-| 2026-11-18 | 2026-11-16 | T-Mobile | Software Engineering AI Intern | Atlanta, GA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bx) |
-| 2026-11-18 | 2026-11-16 | Bread Financial | Software Engineering Intern | Columbus, OH, Chadds Ford, PA, Frisco, TX, Draper, UT, Wilmington, DE | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Bz) |
-| 2026-11-18 | 2026-11-17 | Lumentum | SW Developer Support Intern, Program Management Office | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BA) |
-| 2026-11-18 | 2026-11-17 | Pathlabs | Software and AI Engineering Intern | Missoula, MT | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BC) |
-| 2026-11-18 | 2026-11-17 | Draper | Software Engineering & DevOps Intern | Cambridge, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BD) |
-| 2026-11-18 | 2026-11-17 | Lean TECHniques | Software Engineer Intern | Johnston, IA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BI) |
-| 2026-11-18 | 2026-11-17 | Starwood Capital Group | Agentic Engineering Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BL) |
-| 2026-11-18 | 2026-11-17 | GEI Consultants | Web Developer Intern | Rancho Cordova, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1BP) |
-| 2026-11-18 | 2026-11-17 | Paccar | Data Scientist Intern | Denton, TX | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1BQ) |
-| 2026-11-18 | 2026-11-18 | State Street | Data Scientist Intern | Boston, MA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1C1) |
-| 2026-11-18 | 2026-11-16 | Canonical | New Grad 2027: Graduate Software Engineer - Open Source and Linux | Remote | — | swe | ok | [apply](https://go.vansh.nyc/1Bw) |
-| 2026-11-18 | 2026-11-17 | CDM Smith | Artificial Intelligence/Machine Learning Developer | Fairfax, VA | — | swe | unknown | [apply](https://go.vansh.nyc/1BG) |
-| 2026-11-18 | 2026-11-17 | Microchip Technology | Engineer 1 - Verification | Chandler, AZ | — | swe | unknown | [apply](https://go.vansh.nyc/1BS) |
-| 2026-11-18 | 2026-11-17 | Utilidata | Embedded Firmware Engineer | Remote | — | swe | ok | [apply](https://go.vansh.nyc/1BT) |
-| 2026-11-18 | 2026-11-17 | Atoms | New Grad: AI Researcher | San Francisco, CA, Mountain View, CA | — | quant | ok | [apply](https://go.vansh.nyc/1BU) |
-| 2026-11-18 | 2026-11-17 | Mirantis | New Grad: Software Engineer - Backend - Go | Raleigh, NC | — | swe | ok | [apply](https://go.vansh.nyc/1BV) |
-| 2026-11-18 | 2026-11-17 | Atoms | New Grad: AI Researcher | San Francisco, CA, Mountain View, CA | — | quant | ok | [apply](https://go.vansh.nyc/1BW) |
-| 2026-11-18 | 2026-11-18 | HPE | AI Automation Engineer | Spring, TX | — | swe | unknown | [apply](https://go.vansh.nyc/1BX) |
-| 2026-11-18 | 2026-11-18 | General Matter | New Grad: Automation & Controls Engineer | Los Angeles, CA | — | swe | ok | [apply](https://go.vansh.nyc/1BY) |
-| 2026-11-18 | 2026-09-08 | Amazon | Operations Engineering MHE Lifecycle Intern Spring and Summer 2027 (Bellevue, WA) | US, WA, Bellevue | Spring 2027 | swe | ok | [apply](https://www.amazon.jobs/en/jobs/10532296/operations-engineering-mhe-lifecycle-intern-spring-and-summer-2027-bellevue-wa) |

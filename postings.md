@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-26 04:07 UTC · 5796 live & eligible postings (showing 400); 158 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-26 13:50 UTC · 5800 live & eligible postings (showing 400); 158 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-26 | 2026-11-25 | Signet Jewelers | Software Engineering Intern, Digital Commerce | Irving, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1K8) |
+| 2026-11-26 | 2026-11-25 | Lockheed Martin | FPGA Engineer Intern, Security Focus | Owego, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ke) |
+| 2026-11-26 | 2026-11-23 | MITRE | Associate Wireless Security Engineer | Bedford, MA | — | swe | unknown | [apply](https://go.vansh.nyc/1Kb) |
+| 2026-11-26 | 2026-11-23 | Apple | New Grad 2027: Engineer Evolve Services Rotation Program | Cupertino, CA, New York, NY, Seattle, WA | — | swe | unknown | [apply](https://go.vansh.nyc/1Kc) |
 | 2026-11-26 | 2026-11-25 | Xona Space | Software Engineering Intern, Engineering Productivity | Burlingame, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jx) |
 | 2026-11-26 | 2026-11-25 | Danaher Corporation | Software Engineering Intern | Chaska, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jy) |
 | 2026-11-26 | 2026-11-25 | Cisco | Security Engineer I Intern | Research Triangle Park, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1JA) |
@@ -400,7 +404,3 @@ _Last updated: 2026-11-26 04:07 UTC · 5796 live & eligible postings (showing 40
 | 2026-11-19 | 2026-11-17 | Marvell | MS AI Infrastructure Engineer Intern | Santa Clara, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Cp) |
 | 2026-11-19 | 2026-11-18 | Samsung Semiconductor | SSD Firmware Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Cu) |
 | 2026-11-19 | 2026-11-18 | Microsoft | Research Intern, Computer Vision and Deep Learning | Redmond, WA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Cv) |
-| 2026-11-19 | 2026-11-18 | Camping World | Junior AI Engineering Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1CA) |
-| 2026-11-19 | 2026-11-19 | HERE Technologies | Data Science Intern | Chicago, IL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1CB) |
-| 2026-11-19 | 2026-11-19 | HERE Technologies | Software Engineer Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1CC) |
-| 2026-11-19 | 2026-11-17 | Raytheon Technologies | Embedded Software Developer I | El Segundo, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Cs) |

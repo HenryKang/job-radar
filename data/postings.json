@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795666055,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795666055,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795666055,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795666055,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795666055,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793765215,
-    "date_found": 1795666055,
+    "date_posted": 1793800161,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -133,8 +133,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793765215,
-    "date_found": 1795666055,
+    "date_posted": 1793800161,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792555615,
-    "date_found": 1795666055,
+    "date_posted": 1792590561,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791518815,
-    "date_found": 1795666055,
+    "date_posted": 1791553761,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790309215,
-    "date_found": 1795666055,
+    "date_posted": 1790344161,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789099615,
-    "date_found": 1795666055,
+    "date_posted": 1789134561,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785816415,
-    "date_found": 1795666055,
+    "date_posted": 1785851361,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -254,7 +254,7 @@
     "category": "ml_data",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1795119035,
-    "date_found": 1795666055,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -274,10 +274,92 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1795410616,
-    "date_found": 1795666055,
+    "date_found": 1795700998,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "2097d15392775c7c",
+    "dedup_key": "intern|signet jewelers|software engineering intern digital commerce",
+    "company": "Signet Jewelers",
+    "title": "Software Engineering Intern, Digital Commerce",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://go.vansh.nyc/1K8",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795564800,
+    "date_found": 1795700998,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e7251e8afd593c55",
+    "dedup_key": "intern|lockheed martin|fpga engineer intern security focus",
+    "company": "Lockheed Martin",
+    "title": "FPGA Engineer Intern, Security Focus",
+    "locations": [
+      "Owego, NY"
+    ],
+    "url": "https://go.vansh.nyc/1Ke",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1795630154,
+    "date_found": 1795700998,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "766345e7318f16ef",
+    "dedup_key": "new grad|mitre|associate wireless security engineer",
+    "company": "MITRE",
+    "title": "Associate Wireless Security Engineer",
+    "locations": [
+      "Bedford, MA"
+    ],
+    "url": "https://go.vansh.nyc/1Kb",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795392000,
+    "date_found": 1795700998,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1f6cab58d68ee6b8",
+    "dedup_key": "new grad|apple|new grad 2027 engineer evolve services rotation program",
+    "company": "Apple",
+    "title": "New Grad 2027: Engineer Evolve Services Rotation Program",
+    "locations": [
+      "Cupertino, CA",
+      "New York, NY",
+      "Seattle, WA"
+    ],
+    "url": "https://go.vansh.nyc/1Kc",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795454100,
+    "date_found": 1795700998,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "a9124ad16dbf0665",

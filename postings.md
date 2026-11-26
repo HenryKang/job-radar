@@ -1,9 +1,34 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-25 21:59 UTC · 5771 live & eligible postings (showing 400); 156 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-26 04:07 UTC · 5796 live & eligible postings (showing 400); 158 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-26 | 2026-11-25 | Xona Space | Software Engineering Intern, Engineering Productivity | Burlingame, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jx) |
+| 2026-11-26 | 2026-11-25 | Danaher Corporation | Software Engineering Intern | Chaska, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jy) |
+| 2026-11-26 | 2026-11-25 | Cisco | Security Engineer I Intern | Research Triangle Park, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1JA) |
+| 2026-11-26 | 2026-11-25 | Harvard Companies | AI Engineering Intern | Miami, FL | Summer | swe | ok | [apply](https://go.vansh.nyc/1JB) |
+| 2026-11-26 | 2026-11-25 | ManTech | Developer Intern, C++ | Lexington Park, MD | Summer | swe | unknown | [apply](https://go.vansh.nyc/1JD) |
+| 2026-11-26 | 2026-11-25 | CodeRabbit | Software Engineer Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1JE) |
+| 2026-11-26 | 2026-11-25 | Best Egg | Software Engineering Intern | Wilmington, DE | Summer | swe | ok | [apply](https://go.vansh.nyc/1JF) |
+| 2026-11-26 | 2026-11-25 | SambaNova | Post-Silicon Validation Engineer Intern | Austin, TX, San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1JJ) |
+| 2026-11-26 | 2026-11-25 | SambaNova | Physical Design Engineer Intern | Austin, TX, San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1JK) |
+| 2026-11-26 | 2026-11-25 | SambaNova | DFT Engineer Intern | Austin, TX, San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1JL) |
+| 2026-11-26 | 2026-11-25 | Veeva Systems | Software Engineer Intern | Boston, MA | Summer | swe | ok | [apply](https://go.vansh.nyc/1JM) |
+| 2026-11-26 | 2026-11-25 | Veeva Systems | Software Engineer Intern | Pleasanton, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1JN) |
+| 2026-11-26 | 2026-11-25 | Digital Control | Software Engineer Intern | Kent, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1JO) |
+| 2026-11-26 | 2026-11-25 | Total Quality Logistics | Data Science & Analytics Intern | Cincinnati, OH | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1JP) |
+| 2026-11-26 | 2026-11-25 | Total Quality Logistics | Software Development Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1JQ) |
+| 2026-11-26 | 2026-11-26 | Digital Control | Software Engineering Intern | Kent, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1K0) |
+| 2026-11-26 | 2026-11-24 | FormFactor | AI/ML Engineering Intern | Livermore, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1K1) |
+| 2026-11-26 | 2026-11-25 | Cantor Fitzgerald | Technology Infrastructure & Automation Intern | New York, NY | Summer | swe | unknown | [apply](https://go.vansh.nyc/1K2) |
+| 2026-11-26 | 2026-11-26 | OpenSesame | Software Engineering Intern | Remote, United States | Summer | swe | ok | [apply](https://go.vansh.nyc/1K5) |
+| 2026-11-26 | 2026-11-26 | ManTech | Developer Intern, C++ | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1K6) |
+| 2026-11-26 | 2026-11-25 | Parallel Web Systems | Software Engineer - Developer Experience | Palo Alto, CA, San Francisco, CA, New York, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1JH) |
+| 2026-11-26 | 2026-11-25 | Two Sigma | Quantitative Trader | New York, NY | — | quant | unknown | [apply](https://go.vansh.nyc/1JI) |
+| 2026-11-26 | 2026-11-25 | CodeRabbit | New Grad: Software Engineer | San Francisco, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1JS) |
+| 2026-11-26 | 2026-11-26 | Scout AI | New Grad 2027: AI Engineer, AI/ML and Agent Harnessing | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1K3) |
+| 2026-11-26 | 2026-11-26 | Scout AI | New Grad 2027: Software Engineer, Core Systems | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1K4) |
 | 2026-11-25 | 2026-11-24 | Aerospace Corporation | Embedded Software Engineering Undergrad Intern | El Segundo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1J8) |
 | 2026-11-25 | 2026-11-24 | Draper | Simulation Engineering Intern | Cambridge, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1J9) |
 | 2026-11-25 | 2026-11-24 | Analog Devices | Embedded Software Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Jb) |
@@ -379,28 +404,3 @@ _Last updated: 2026-11-25 21:59 UTC · 5771 live & eligible postings (showing 40
 | 2026-11-19 | 2026-11-19 | HERE Technologies | Data Science Intern | Chicago, IL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1CB) |
 | 2026-11-19 | 2026-11-19 | HERE Technologies | Software Engineer Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1CC) |
 | 2026-11-19 | 2026-11-17 | Raytheon Technologies | Embedded Software Developer I | El Segundo, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Cs) |
-| 2026-11-19 | 2026-11-18 | CWILL | AI Agent R&D Trainee - Full-Stack Engineer | Cary, NC | — | swe | unknown | [apply](https://go.vansh.nyc/1CD) |
-| 2026-11-19 | 2026-11-19 | Amazon | Software Development Engineer - ROBOTICS - 2027 | Austin, TX | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10607764/apply) |
-| 2026-11-19 | 2026-11-18 | Amazon | Software Dev Engineer II - AMZ10587293 | Mountain View, CA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10607403/apply) |
-| 2026-11-19 | 2026-11-18 | Amazon | Software Dev Engineer II - Satellites Communications Platform - SCP - Amazon LEO | Redmond, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10607230/apply) |
-| 2026-11-19 | 2026-11-18 | Roblox | Software Engineer - Communication Safety | San Mateo, CA | — | swe | unknown | [apply](https://careers.roblox.com/jobs/8386848?gh_jid=8386848) |
-| 2026-11-19 | 2026-11-14 | Amazon | Software Development Engineer - VirtSat Team | Redmond, WA | — | swe | ok | [apply](https://www.amazon.jobs/jobs/10607218/apply) |
-| 2026-11-19 | 2026-11-19 | BBY App | Founding Software Engineer | Lehi, UT | — | swe | unknown | [apply](https://app.dover.io/apply/job/71c7c225-7f0a-4307-8258-17bc3b443267/) |
-| 2026-11-19 | 2026-11-19 | Co-Intelligence Labs | Junior Full Stack Engineer | Austin, TX | — | swe | unknown | [apply](https://app.dover.io/apply/job/4ef34030-cd76-4c84-9a34-dbfa58993e6f/) |
-| 2026-11-19 | 2026-11-19 | CoreIntel | Software Engineer - New Grad | New York City, NY | — | swe | unknown | [apply](https://app.dover.io/apply/job/2d471cb2-d4d8-4e46-8dc8-95be2dcfbb6d/) |
-| 2026-11-19 | 2026-11-19 | Garmin | Software Engineer 2 - iOS or Web Development | Chanhassen, MN | — | swe | unknown | [apply](https://careers-garmin.icims.com/jobs/19740/job) |
-| 2026-11-19 | 2026-11-19 | LiteLLM | Backend LLM Engineer | Berkeley, CA +17 | — | swe | unknown | [apply](https://app.dover.io/apply/job/33874c7d-3ffb-415c-a200-46f7ac246bd1/) |
-| 2026-11-19 | 2026-11-19 | RECAP | Full Stack Developer | Clifton, NJ +1 | — | swe | unknown | [apply](https://app.dover.io/apply/job/f595d9f1-2470-4c80-b0b8-c1eb053fc620/) |
-| 2026-11-19 | 2026-11-19 | RECAP | Junior Full Stack Developer | Clifton, NJ +1 | — | swe | unknown | [apply](https://app.dover.io/apply/job/5cde11c6-8609-48c7-841a-80017831517e/) |
-| 2026-11-19 | 2026-11-19 | ServiceNow | Software Engineer - Agentic Systems - Moveworks | Mountain View, CA | — | swe | unknown | [apply](https://jobs.smartrecruiters.com/ServiceNow/744000162190099-software-engineer-agentic-systems-moveworks?oga=true) |
-| 2026-11-19 | 2026-11-19 | Smile Digital Health | Associate Cloud Engineer | Remote - USA | — | swe | unknown | [apply](https://jobs.lever.co/smiledigitalhealth/57ebcfd3-40f3-478a-ab91-878b59fb0ad7) |
-| 2026-11-19 | 2026-11-19 | SpaceX | Site Reliability Engineer - Kubernetes | Bastrop, TX +3 | — | swe | ok | [apply](https://boards.greenhouse.io/spacex/jobs/8930994002?gh_jid=8930994002) |
-| 2026-11-19 | 2026-11-19 | VTS3 | Jr. Full Stack Engineer - AI Agent Developer | New York City, NY | — | swe | ok | [apply](https://vts3.applytojob.com/apply/xOvvAAw5Yo/Jr-Full-Stack-Engineer-AI-Agent-Developer) |
-| 2026-11-19 | 2026-11-19 | Xpert Development | Junior Software Engineer | USA | — | swe | unknown | [apply](https://app.dover.io/apply/job/a95b5d7d-1ae5-4b12-bbad-6b859a86a6ee/) |
-| 2026-11-19 | 2026-11-19 | Xperteez Technology | Software Engineer - Data Platforms - Remote | USA | — | swe | unknown | [apply](https://app.dover.io/apply/job/dd167a36-3446-492a-8bd3-4bed3fbd21f0/) |
-| 2026-11-19 | 2026-11-19 | Xperteez Technology | Software Engineer - New Grad - Remote - Full-time | USA | — | swe | unknown | [apply](https://app.dover.io/apply/job/83c0b1f0-eee8-4436-9258-3aa58f59f963/) |
-| 2026-11-19 | 2026-11-18 | Bank of Montreal | Software Developer - New or Recent Graduate | Berkeley Heights, NJ | — | swe | unknown | [apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733) |
-| 2026-11-19 | 2026-11-18 | Benchling | Software Engineer - Big Data Infrastructure | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) |
-| 2026-11-19 | 2026-11-18 | Benchling | Software Engineer - CDC | San Francisco, CA | — | swe | unknown | [apply](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) |
-| 2026-11-19 | 2026-11-18 | Cisco | Software Engineer II - Full Time - United States CX Engineering | San Jose, CA +1 | — | swe | unknown | [apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-II--Full-Time----United-States-CX-Engineering_2032332) |
-| 2026-11-19 | 2026-11-18 | MetaPhase Consulting | Junior ServiceNow Developer | USA | — | swe | ok | [apply](https://jobs.jobvite.com/metaphaseconsulting/job/o077Afwy) |

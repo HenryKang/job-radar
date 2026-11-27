@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795791514,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795791514,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795791514,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795791514,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795791514,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793804274,
-    "date_found": 1795791514,
+    "date_posted": 1793748240,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -133,8 +133,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793804274,
-    "date_found": 1795791514,
+    "date_posted": 1793748240,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792594674,
-    "date_found": 1795791514,
+    "date_posted": 1792538640,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791557874,
-    "date_found": 1795791514,
+    "date_posted": 1791501840,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790348274,
-    "date_found": 1795791514,
+    "date_posted": 1790292240,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789138674,
-    "date_found": 1795791514,
+    "date_posted": 1789082640,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785855474,
-    "date_found": 1795791514,
+    "date_posted": 1785799440,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -254,7 +254,7 @@
     "category": "ml_data",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1795119035,
-    "date_found": 1795791514,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -274,7 +274,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1795410616,
-    "date_found": 1795791514,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -293,11 +293,331 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1795705074,
-    "date_found": 1795791514,
+    "date_posted": 1795649040,
+    "date_found": 1795821889,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "b45979063d638037",
+    "dedup_key": "intern|clera|product engineer intern mobile",
+    "company": "Clera",
+    "title": "Product Engineer Intern, Mobile",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1Lw",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795701754,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0d76e7b5e4afe2c6",
+    "dedup_key": "new grad|applied materials|ai engineer data scientist",
+    "company": "Applied Materials",
+    "title": "AI Engineer/Data Scientist",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/1Lx",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795478400,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e798948763177cd6",
+    "dedup_key": "new grad|microsoft|software solution engineer",
+    "company": "Microsoft",
+    "title": "Software Solution Engineer",
+    "locations": [
+      "USA"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557050055",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793229840,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "94d4219dd0000bd6",
+    "dedup_key": "new grad|omegahires|network devops engineer",
+    "company": "OmegaHires",
+    "title": "Network DevOps Engineer",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://omegahires.applytojob.com/apply/H84tSQWoX4/Network-DevOps-Engineer",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795821840,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "de5e3a7b82498494",
+    "dedup_key": "new grad|omegahires|gcp cloud operations engineer",
+    "company": "OmegaHires",
+    "title": "GCP Cloud Operations Engineer",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://omegahires.applytojob.com/apply/NP9thoqhRR/GCP-Cloud-Operations-Engineer",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795821840,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "49dab890184e7b6e",
+    "dedup_key": "new grad|synectic solutions|software developer iii",
+    "company": "Synectic Solutions",
+    "title": "Software Developer III",
+    "locations": [
+      "Norco, CA"
+    ],
+    "url": "https://synecsolu.applytojob.com/apply/bYBTaGZvZg/Software-Developer-III",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795821840,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "a46102e4760c55fe",
+    "dedup_key": "new grad|synectic solutions|software engineer i",
+    "company": "Synectic Solutions",
+    "title": "Software Engineer I",
+    "locations": [
+      "Norco, CA"
+    ],
+    "url": "https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795821840,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "b6243e25b1b3216f",
+    "dedup_key": "new grad|synectic solutions|software developer ii",
+    "company": "Synectic Solutions",
+    "title": "Software Developer II",
+    "locations": [
+      "Norco, CA"
+    ],
+    "url": "https://synecsolu.applytojob.com/apply/iEkrgj9sWZ/Software-Developer-II",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795821840,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "f641bcadbcf2fa2f",
+    "dedup_key": "new grad|lockheed martin|software engineer early career",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "King of Prussia, PA"
+    ],
+    "url": "https://lockheedmartin.eightfold.ai/careers/job/996478132136",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795476240,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "23d0611ed365a5dc",
+    "dedup_key": "new grad|lockheed martin|software engineer early career",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "Owego, NY"
+    ],
+    "url": "https://lockheedmartin.eightfold.ai/careers/job/996478126701",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795476240,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b7d88298b85af3d4",
+    "dedup_key": "new grad|lockheed martin|software engineer early career",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "King of Prussia, PA"
+    ],
+    "url": "https://lockheedmartin.eightfold.ai/careers/job/996478043233",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795217040,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "54d6548aad731d2f",
+    "dedup_key": "new grad|lockheed martin|software engineer early career",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "url": "https://lockheedmartin.eightfold.ai/careers/job/996478015124",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795130640,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e0f27f9fd86272b2",
+    "dedup_key": "new grad|lockheed martin|software engineer early career",
+    "company": "Lockheed Martin",
+    "title": "Software Engineer - Early Career",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "url": "https://lockheedmartin.eightfold.ai/careers/job/996478015115",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795130640,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fdb1974ef0ce5cb8",
+    "dedup_key": "new grad|qualcomm|dsp applications software engineer",
+    "company": "Qualcomm",
+    "title": "DSP Applications Software Engineer",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://careers.qualcomm.com/careers/job/446722230518",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795130640,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "547698bdf90fa265",
+    "dedup_key": "new grad|qualcomm|embedded audio software engineer",
+    "company": "Qualcomm",
+    "title": "#Embedded Audio Software Engineer",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://careers.qualcomm.com/careers/job/446722197774",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1794957840,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "dc6a7f4b0367045b",
+    "dedup_key": "new grad|qualcomm|automation developer engineer",
+    "company": "Qualcomm",
+    "title": "Automation Developer Engineer",
+    "locations": [
+      "San Diego, CA +1"
+    ],
+    "url": "https://careers.qualcomm.com/careers/job/446721803210",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1793057040,
+    "date_found": 1795821889,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "3cdc54b1051c27f3",

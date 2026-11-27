@@ -1,9 +1,25 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-27 14:58 UTC · 5871 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-27 23:25 UTC · 5887 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-27 | 2026-11-26 | Clera | Product Engineer Intern, Mobile | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Lw) |
+| 2026-11-27 | 2026-11-24 | Applied Materials | AI Engineer/Data Scientist | Santa Clara, CA | — | swe | ok | [apply](https://go.vansh.nyc/1Lx) |
+| 2026-11-27 | 2026-10-28 | Microsoft | Software Solution Engineer | USA | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557050055) |
+| 2026-11-27 | 2026-11-27 | OmegaHires | Network DevOps Engineer | Palo Alto, CA | — | swe | unknown | [apply](https://omegahires.applytojob.com/apply/H84tSQWoX4/Network-DevOps-Engineer) |
+| 2026-11-27 | 2026-11-27 | OmegaHires | GCP Cloud Operations Engineer | Palo Alto, CA | — | swe | unknown | [apply](https://omegahires.applytojob.com/apply/NP9thoqhRR/GCP-Cloud-Operations-Engineer) |
+| 2026-11-27 | 2026-11-27 | Synectic Solutions | Software Developer III | Norco, CA | — | swe | ok | [apply](https://synecsolu.applytojob.com/apply/bYBTaGZvZg/Software-Developer-III) |
+| 2026-11-27 | 2026-11-27 | Synectic Solutions | Software Engineer I | Norco, CA | — | swe | ok | [apply](https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I) |
+| 2026-11-27 | 2026-11-27 | Synectic Solutions | Software Developer II | Norco, CA | — | swe | ok | [apply](https://synecsolu.applytojob.com/apply/iEkrgj9sWZ/Software-Developer-II) |
+| 2026-11-27 | 2026-11-23 | Lockheed Martin | Software Engineer - Early Career | King of Prussia, PA | — | swe | unknown | [apply](https://lockheedmartin.eightfold.ai/careers/job/996478132136) |
+| 2026-11-27 | 2026-11-23 | Lockheed Martin | Software Engineer - Early Career | Owego, NY | — | swe | unknown | [apply](https://lockheedmartin.eightfold.ai/careers/job/996478126701) |
+| 2026-11-27 | 2026-11-20 | Lockheed Martin | Software Engineer - Early Career | King of Prussia, PA | — | swe | unknown | [apply](https://lockheedmartin.eightfold.ai/careers/job/996478043233) |
+| 2026-11-27 | 2026-11-19 | Lockheed Martin | Software Engineer - Early Career | Littleton, CO | — | swe | unknown | [apply](https://lockheedmartin.eightfold.ai/careers/job/996478015124) |
+| 2026-11-27 | 2026-11-19 | Lockheed Martin | Software Engineer - Early Career | Littleton, CO | — | swe | unknown | [apply](https://lockheedmartin.eightfold.ai/careers/job/996478015115) |
+| 2026-11-27 | 2026-11-19 | Qualcomm | DSP Applications Software Engineer | Austin, TX | — | swe | unknown | [apply](https://careers.qualcomm.com/careers/job/446722230518) |
+| 2026-11-27 | 2026-11-17 | Qualcomm | #Embedded Audio Software Engineer | San Diego, CA | — | swe | unknown | [apply](https://careers.qualcomm.com/careers/job/446722197774) |
+| 2026-11-27 | 2026-10-26 | Qualcomm | Automation Developer Engineer | San Diego, CA +1 | — | swe | unknown | [apply](https://careers.qualcomm.com/careers/job/446721803210) |
 | 2026-11-27 | 2026-11-20 | Highmark Health | Network Cybersecurity Engineer Undergraduate Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Lg) |
 | 2026-11-27 | 2026-11-26 | Siemens | Software Engineer Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Lk) |
 | 2026-11-27 | 2026-11-26 | M&T Bank | New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development) | Buffalo, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1Lm) |
@@ -388,19 +404,3 @@ _Last updated: 2026-11-27 14:58 UTC · 5871 live & eligible postings (showing 40
 | 2026-11-20 | 2026-11-20 | TransUnion | Data Science & Analytics Intern | Chicago, IL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Ea) |
 | 2026-11-20 | 2026-11-20 | Cisco | AI Researcher II Intern | San Francisco, CA | Summer | quant | unknown | [apply](https://go.vansh.nyc/1Eb) |
 | 2026-11-20 | 2026-11-18 | Blue Cross Blue Shield of Michigan | Data Science Analyst I | Detroit, MI | — | ml_data | unknown | [apply](https://go.vansh.nyc/1DR) |
-| 2026-11-20 | 2026-11-20 | HPE | Systems / Software Engineer I | Sunnyvale, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1E0) |
-| 2026-11-20 | 2026-11-19 | Carnival Corporation | BI Report Developer Intern, Crew Operations | Seattle, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1CV) |
-| 2026-11-20 | 2026-11-19 | Ralliant | Software Engineering Intern | Beaverton, OR | Summer | swe | unknown | [apply](https://go.vansh.nyc/1CW) |
-| 2026-11-20 | 2026-11-19 | Amperity | Software Development Engineer Intern | Seattle, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1CY) |
-| 2026-11-20 | 2026-11-19 | Allied Consultants | AI/ML Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1D1) |
-| 2026-11-20 | 2026-11-19 | Idaho National Laboratory | Software Engineering Intern, Java/API Development for Neutronics Code | Idaho Falls, ID | Summer | swe | unknown | [apply](https://go.vansh.nyc/1D6) |
-| 2026-11-20 | 2026-11-19 | Piper Sandler | Data Engineering Intern | Minneapolis, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1D8) |
-| 2026-11-20 | 2026-11-19 | Lutron | Embedded Firmware Engineering Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Db) |
-| 2026-11-20 | 2026-11-19 | Lutron | Embedded Firmware Engineering Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dc) |
-| 2026-11-20 | 2026-11-19 | Lutron | Embedded Firmware Engineering Intern | Boynton Beach, FL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dd) |
-| 2026-11-20 | 2026-11-19 | Lutron | Embedded Software Engineering Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1De) |
-| 2026-11-20 | 2026-11-19 | Lutron | Software Engineering Intern | Coopersburg, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Df) |
-| 2026-11-20 | 2026-11-19 | Lutron | Software Engineering Intern | Philadelphia, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dg) |
-| 2026-11-20 | 2026-11-19 | Lutron | Software Engineering Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dh) |
-| 2026-11-20 | 2026-11-19 | Lutron | Software Engineering Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Di) |
-| 2026-11-20 | 2026-11-19 | Lutron | Software Engineering Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dj) |

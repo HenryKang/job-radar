@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795755511,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795755511,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795755511,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795755511,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795755511,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793768274,
-    "date_found": 1795755511,
+    "date_posted": 1793804274,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -133,8 +133,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793768274,
-    "date_found": 1795755511,
+    "date_posted": 1793804274,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792558674,
-    "date_found": 1795755511,
+    "date_posted": 1792594674,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791521874,
-    "date_found": 1795755511,
+    "date_posted": 1791557874,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790312274,
-    "date_found": 1795755511,
+    "date_posted": 1790348274,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789102674,
-    "date_found": 1795755511,
+    "date_posted": 1789138674,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785819474,
-    "date_found": 1795755511,
+    "date_posted": 1785855474,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -254,7 +254,7 @@
     "category": "ml_data",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1795119035,
-    "date_found": 1795755511,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -274,7 +274,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1795410616,
-    "date_found": 1795755511,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -293,11 +293,91 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1795669074,
-    "date_found": 1795755511,
+    "date_posted": 1795705074,
+    "date_found": 1795791514,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "3cdc54b1051c27f3",
+    "dedup_key": "intern|highmark health|network cybersecurity engineer undergraduate intern",
+    "company": "Highmark Health",
+    "title": "Network Cybersecurity Engineer Undergraduate Intern",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1Lg",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795139104,
+    "date_found": 1795791514,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bbb73007617800b4",
+    "dedup_key": "intern|siemens|software engineer intern",
+    "company": "Siemens",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1Lk",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795653879,
+    "date_found": 1795791514,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f27d8f812cc1addc",
+    "dedup_key": "new grad|m t bank|new grad 2027 technology development program software engineering commercial application development",
+    "company": "M&T Bank",
+    "title": "New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development)",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "url": "https://go.vansh.nyc/1Lm",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795657627,
+    "date_found": 1795791514,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0aed89f795d32166",
+    "dedup_key": "new grad|m t bank|new grad 2027 technology development program software engineering ai engineering platforms",
+    "company": "M&T Bank",
+    "title": "New Grad 2027: Technology Development Program - Software Engineering (AI & Engineering Platforms)",
+    "locations": [
+      "Buffalo, NY"
+    ],
+    "url": "https://go.vansh.nyc/1Ln",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795657627,
+    "date_found": 1795791514,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "defd9d3b0ecbf849",

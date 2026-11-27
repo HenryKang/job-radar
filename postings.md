@@ -1,9 +1,13 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-27 04:58 UTC · 5867 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-27 14:58 UTC · 5871 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-27 | 2026-11-20 | Highmark Health | Network Cybersecurity Engineer Undergraduate Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Lg) |
+| 2026-11-27 | 2026-11-26 | Siemens | Software Engineer Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Lk) |
+| 2026-11-27 | 2026-11-26 | M&T Bank | New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development) | Buffalo, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1Lm) |
+| 2026-11-27 | 2026-11-26 | M&T Bank | New Grad 2027: Technology Development Program - Software Engineering (AI & Engineering Platforms) | Buffalo, NY | — | swe | unknown | [apply](https://go.vansh.nyc/1Ln) |
 | 2026-11-27 | 2026-11-13 | ICONIQ Capital | AI Engineer Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1KM) |
 | 2026-11-27 | 2026-11-16 | ICONIQ Capital | Data Science Intern | San Francisco, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1KN) |
 | 2026-11-27 | 2026-11-16 | ICONIQ Capital | Engineering Intern | San Francisco, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1KP) |
@@ -400,7 +404,3 @@ _Last updated: 2026-11-27 04:58 UTC · 5867 live & eligible postings (showing 40
 | 2026-11-20 | 2026-11-19 | Lutron | Software Engineering Intern | Boston, MA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dh) |
 | 2026-11-20 | 2026-11-19 | Lutron | Software Engineering Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Di) |
 | 2026-11-20 | 2026-11-19 | Lutron | Software Engineering Intern | Cincinnati, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dj) |
-| 2026-11-20 | 2026-11-19 | Lutron | Data Engineering Intern | Philadelphia, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dk) |
-| 2026-11-20 | 2026-11-19 | Lutron | Data Science and Machine Learning Intern | Philadelphia, PA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Dl) |
-| 2026-11-20 | 2026-11-19 | Lutron | Data Engineering Intern | Coopersburg, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dm) |
-| 2026-11-20 | 2026-11-19 | Lutron | Data Science and Machine Learning Intern | Boston, MA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Dn) |

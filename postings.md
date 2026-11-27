@@ -1,9 +1,23 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-26 22:57 UTC · 5853 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-27 04:58 UTC · 5867 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-27 | 2026-11-13 | ICONIQ Capital | AI Engineer Intern | New York, NY | Summer | swe | ok | [apply](https://go.vansh.nyc/1KM) |
+| 2026-11-27 | 2026-11-16 | ICONIQ Capital | Data Science Intern | San Francisco, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1KN) |
+| 2026-11-27 | 2026-11-16 | ICONIQ Capital | Engineering Intern | San Francisco, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1KP) |
+| 2026-11-27 | 2026-11-26 | ASML | Software Engineer Intern | San Diego, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1KQ) |
+| 2026-11-27 | 2026-11-26 | Revvity | Software Engineering Intern, In Vivo Imaging | Morrisville, NC | Summer | swe | unknown | [apply](https://go.vansh.nyc/1KR) |
+| 2026-11-27 | 2026-11-24 | Genentech | Software Engineer Intern, Robotics Lab Automation | South San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1KV) |
+| 2026-11-27 | 2026-11-25 | RTX | FPGA Electrical Engineer Intern | El Segundo, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1KX) |
+| 2026-11-27 | 2026-11-26 | ASML | Timing and Energy Software Intern | San Diego, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1KY) |
+| 2026-11-27 | 2026-11-24 | RTX | Embedded System Engineering Intern | Windsor Locks, CT | Summer | swe | unknown | [apply](https://go.vansh.nyc/1L2) |
+| 2026-11-27 | 2026-11-24 | Samsung | Data Engineer Intern | Plano, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1L3) |
+| 2026-11-27 | 2026-11-24 | Samsung | Software Development Engineer Intern | Mountain View, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1L4) |
+| 2026-11-27 | 2026-11-24 | The Toro Company | Data Science Intern | Bloomington, MN | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1L5) |
+| 2026-11-27 | 2026-11-24 | PricewaterhouseCoopers (PwC) | Software Engineering Intern, Tax Innovation Delivery Experience (TIDE) | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1L7) |
+| 2026-11-27 | 2026-11-25 | UMB | IT Quantum Intern | Kansas City, MO | Summer | quant | unknown | [apply](https://go.vansh.nyc/1L8) |
 | 2026-11-26 | 2026-11-19 | NinjaHoldings | Data Science Intern | Chicago, IL | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1Kf) |
 | 2026-11-26 | 2026-11-19 | NinjaHoldings | Software Engineer Intern | Chicago, IL | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Kg) |
 | 2026-11-26 | 2026-11-24 | Toshiba America Electronic Components | Firmware Engineer Intern | San Jose, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Kk) |
@@ -390,17 +404,3 @@ _Last updated: 2026-11-26 22:57 UTC · 5853 live & eligible postings (showing 40
 | 2026-11-20 | 2026-11-19 | Lutron | Data Science and Machine Learning Intern | Philadelphia, PA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Dl) |
 | 2026-11-20 | 2026-11-19 | Lutron | Data Engineering Intern | Coopersburg, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dm) |
 | 2026-11-20 | 2026-11-19 | Lutron | Data Science and Machine Learning Intern | Boston, MA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Dn) |
-| 2026-11-20 | 2026-11-19 | Snowflake | Software Engineer Intern, Database Engineering | Menlo Park, CA, Bellevue, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dp) |
-| 2026-11-20 | 2026-11-19 | Snowflake | Software Engineer Intern, Core Infrastructure & Security | Menlo Park, CA, Bellevue, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dq) |
-| 2026-11-20 | 2026-11-19 | Snowflake | Software Engineer Intern, AI/ML | Menlo Park, CA, Bellevue, WA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Dr) |
-| 2026-11-20 | 2026-11-19 | HeartFlow | Platform Engineering Intern | San Francisco, CA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Ds) |
-| 2026-11-20 | 2026-11-19 | Ralliant | Software Engineer Intern | Beaverton, OR | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Du) |
-| 2026-11-20 | 2026-11-19 | Lucid Motors | Embedded Software Intern | Newark, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1Dv) |
-| 2026-11-20 | 2026-11-19 | Lucid Motors | Software Engineer Intern, SDET | Newark, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1Dw) |
-| 2026-11-20 | 2026-11-19 | Microsoft | Research Intern, AI/Machine Learning Numerics & Efficiency | Redmond, WA, Mountain View, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Dx) |
-| 2026-11-20 | 2026-11-19 | Compassion International | Data and Software Engineering Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1DA) |
-| 2026-11-20 | 2026-11-19 | Blue Cross Blue Shield of Michigan | Object Oriented Programming Intern | Detroit, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1DG) |
-| 2026-11-20 | 2026-11-20 | Lucid Motors | AI & Data Intern, Applied AI/Machine Learning | Newark, CA | Summer | ml_data | ok | [apply](https://go.vansh.nyc/1DI) |
-| 2026-11-20 | 2026-11-20 | Lucid Motors | Software QA Engineer Intern, Infotainment | Newark, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1DK) |
-| 2026-11-20 | 2026-11-19 | Ford Motor Company | Vehicle Access System Engineering Intern, Advanced EV | Allen Park, MI | Summer | swe | unknown | [apply](https://go.vansh.nyc/1DN) |
-| 2026-11-20 | 2026-11-18 | DEKA | Junior Android Developer | Manchester, NH | — | swe | ok | [apply](https://go.vansh.nyc/1D0) |

@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795733842,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795733842,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795733842,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795733842,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795733842,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793746602,
-    "date_found": 1795733842,
+    "date_posted": 1793768274,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -133,8 +133,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793746602,
-    "date_found": 1795733842,
+    "date_posted": 1793768274,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792537002,
-    "date_found": 1795733842,
+    "date_posted": 1792558674,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791500202,
-    "date_found": 1795733842,
+    "date_posted": 1791521874,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790290602,
-    "date_found": 1795733842,
+    "date_posted": 1790312274,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789081002,
-    "date_found": 1795733842,
+    "date_posted": 1789102674,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785797802,
-    "date_found": 1795733842,
+    "date_posted": 1785819474,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -254,7 +254,7 @@
     "category": "ml_data",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1795119035,
-    "date_found": 1795733842,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -274,10 +274,310 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1795410616,
-    "date_found": 1795733842,
+    "date_found": 1795755511,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
+  },
+  {
+    "id": "57c92915e0677b60",
+    "dedup_key": "new grad|arcfield|software engineer i",
+    "company": "Arcfield",
+    "title": "Software Engineer I",
+    "locations": [
+      "Rome, NY"
+    ],
+    "url": "https://careers-arcfield1.icims.com/jobs/8780/job",
+    "season": "",
+    "source": "agg:speedyapply-newgrad2027-usa",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "",
+    "date_posted": 1795669074,
+    "date_found": 1795755511,
+    "alive": false,
+    "eligibility": "na",
+    "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "defd9d3b0ecbf849",
+    "dedup_key": "intern|iconiq capital|ai engineer intern",
+    "company": "ICONIQ Capital",
+    "title": "AI Engineer Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1KM",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794601419,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "e70668e307c152e1",
+    "dedup_key": "intern|iconiq capital|data science intern",
+    "company": "ICONIQ Capital",
+    "title": "Data Science Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1KN",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1794798134,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "3f28d2afdf4eb358",
+    "dedup_key": "intern|iconiq capital|engineering intern",
+    "company": "ICONIQ Capital",
+    "title": "Engineering Intern",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1KP",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794860319,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "ok",
+    "elig_reason": "undergrad markers"
+  },
+  {
+    "id": "36f0dbdd8b36134c",
+    "dedup_key": "intern|asml|software engineer intern",
+    "company": "ASML",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/1KQ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795662687,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ebb52b0470a35b4e",
+    "dedup_key": "intern|revvity|software engineering intern in vivo imaging",
+    "company": "Revvity",
+    "title": "Software Engineering Intern, In Vivo Imaging",
+    "locations": [
+      "Morrisville, NC"
+    ],
+    "url": "https://go.vansh.nyc/1KR",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795662687,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "4a51bd19062d23dc",
+    "dedup_key": "intern|genentech|software engineer intern robotics lab automation",
+    "company": "Genentech",
+    "title": "Software Engineer Intern, Robotics Lab Automation",
+    "locations": [
+      "South San Francisco, CA"
+    ],
+    "url": "https://go.vansh.nyc/1KV",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795489887,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "9080d3b6634bd8dd",
+    "dedup_key": "intern|rtx|fpga electrical engineer intern",
+    "company": "RTX",
+    "title": "FPGA Electrical Engineer Intern",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "url": "https://go.vansh.nyc/1KX",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1795576287,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ca94726b30e86728",
+    "dedup_key": "intern|asml|timing and energy software intern",
+    "company": "ASML",
+    "title": "Timing and Energy Software Intern",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "url": "https://go.vansh.nyc/1KY",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795662687,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "c90fb464d94c81ec",
+    "dedup_key": "intern|rtx|embedded system engineering intern",
+    "company": "RTX",
+    "title": "Embedded System Engineering Intern",
+    "locations": [
+      "Windsor Locks, CT"
+    ],
+    "url": "https://go.vansh.nyc/1L2",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "U.S. Citizenship is Required",
+    "date_posted": 1795519853,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7af625b0be8a3965",
+    "dedup_key": "intern|samsung|data engineer intern",
+    "company": "Samsung",
+    "title": "Data Engineer Intern",
+    "locations": [
+      "Plano, TX"
+    ],
+    "url": "https://go.vansh.nyc/1L3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795525886,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "e72b4f4f4bce84ae",
+    "dedup_key": "intern|samsung|software development engineer intern",
+    "company": "Samsung",
+    "title": "Software Development Engineer Intern",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "url": "https://go.vansh.nyc/1L4",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795526081,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "fbdc6c2a92d5f386",
+    "dedup_key": "intern|the toro company|data science intern",
+    "company": "The Toro Company",
+    "title": "Data Science Intern",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "url": "https://go.vansh.nyc/1L5",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "date_posted": 1795527403,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "58cbda39beaf6083",
+    "dedup_key": "intern|pricewaterhousecoopers pwc|software engineering intern tax innovation delivery experience tide",
+    "company": "PricewaterhouseCoopers (PwC)",
+    "title": "Software Engineering Intern, Tax Innovation Delivery Experience (TIDE)",
+    "locations": [
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1L7",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795534749,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "f01877d1d13ab422",
+    "dedup_key": "intern|umb|it quantum intern",
+    "company": "UMB",
+    "title": "IT Quantum Intern",
+    "locations": [
+      "Kansas City, MO"
+    ],
+    "url": "https://go.vansh.nyc/1L8",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1795584732,
+    "date_found": 1795755511,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "7151d416b0ccf273",
@@ -858,26 +1158,6 @@
     "alive": true,
     "eligibility": "unknown",
     "elig_reason": "no clear disqualifier"
-  },
-  {
-    "id": "57c92915e0677b60",
-    "dedup_key": "new grad|arcfield|software engineer i",
-    "company": "Arcfield",
-    "title": "Software Engineer I",
-    "locations": [
-      "Rome, NY"
-    ],
-    "url": "https://careers-arcfield1.icims.com/jobs/8780/job",
-    "season": "",
-    "source": "agg:speedyapply-newgrad2027-usa",
-    "role_type": "new_grad",
-    "category": "swe",
-    "sponsorship": "",
-    "date_posted": 1795647402,
-    "date_found": 1795733842,
-    "alive": false,
-    "eligibility": "na",
-    "elig_reason": "js-rendered 404 (no title)"
   },
   {
     "id": "907c28c316e674fa",

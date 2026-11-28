@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795821889,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795821889,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795821889,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795821889,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795821889,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793748240,
-    "date_found": 1795821889,
+    "date_posted": 1793768188,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -133,8 +133,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793748240,
-    "date_found": 1795821889,
+    "date_posted": 1793768188,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792538640,
-    "date_found": 1795821889,
+    "date_posted": 1792558588,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791501840,
-    "date_found": 1795821889,
+    "date_posted": 1791521788,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790292240,
-    "date_found": 1795821889,
+    "date_posted": 1790312188,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789082640,
-    "date_found": 1795821889,
+    "date_posted": 1789102588,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785799440,
-    "date_found": 1795821889,
+    "date_posted": 1785819388,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -254,7 +254,7 @@
     "category": "ml_data",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1795119035,
-    "date_found": 1795821889,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -274,7 +274,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1795410616,
-    "date_found": 1795821889,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -293,11 +293,315 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1795649040,
-    "date_found": 1795821889,
+    "date_posted": 1795668988,
+    "date_found": 1795841824,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "d29921e888a33b36",
+    "dedup_key": "intern|general dynamics information technology|artificial intelligence machine learning software development and engineer intern",
+    "company": "General Dynamics Information Technology",
+    "title": "Artificial Intelligence/Machine Learning Software Development and Engineer Intern",
+    "locations": [
+      "Bossier City, LA"
+    ],
+    "url": "https://go.vansh.nyc/1LA",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795478400,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "3e6ba53ec3650fce",
+    "dedup_key": "intern|state street|quantitative analyst intern",
+    "company": "State Street",
+    "title": "Quantitative Analyst Intern",
+    "locations": [
+      "Boston, MA"
+    ],
+    "url": "https://go.vansh.nyc/1LF",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1795132800,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "b477efddc67eb6ae",
+    "dedup_key": "intern|nvidia|software engineer intern simulation technology",
+    "company": "NVIDIA",
+    "title": "Software Engineer Intern, Simulation Technology",
+    "locations": [
+      "Santa Clara, CA",
+      "Canada",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1LG",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795564800,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "bd9ecbfd8319836f",
+    "dedup_key": "intern|nvidia|developer technology intern",
+    "company": "NVIDIA",
+    "title": "Developer Technology Intern",
+    "locations": [
+      "Santa Clara, CA",
+      "Canada",
+      "United States"
+    ],
+    "url": "https://go.vansh.nyc/1LH",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795564800,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "0f185b6deb9a86ae",
+    "dedup_key": "intern|citi|markets analyst intern quantitative analysis",
+    "company": "Citi",
+    "title": "Markets Analyst Intern, Quantitative Analysis",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1LL",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1795828299,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "38933a8073be9676",
+    "dedup_key": "intern|asml|artificial intelligence intern integrate gui and llm",
+    "company": "ASML",
+    "title": "Artificial Intelligence Intern, Integrate GUI and LLM",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "url": "https://go.vansh.nyc/1LN",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "ml_data",
+    "sponsorship": "Other",
+    "date_posted": 1794787200,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "7ed72b33ad0ca63b",
+    "dedup_key": "intern|globalfoundries|tapeout engineering business products engineer intern",
+    "company": "GlobalFoundries",
+    "title": "Tapeout Engineering Business Products & Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/1LO",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794787200,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "36e61126b0d8e881",
+    "dedup_key": "intern|michaels stores|digital software engineer intern",
+    "company": "Michaels Stores",
+    "title": "Digital Software Engineer Intern",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://go.vansh.nyc/1LP",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794787200,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "90cd1704061504b3",
+    "dedup_key": "intern|michaels stores|software engineer intern",
+    "company": "Michaels Stores",
+    "title": "Software Engineer Intern",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://go.vansh.nyc/1LQ",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794787200,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "cf86f738d7585b9e",
+    "dedup_key": "intern|colliers|information technology application development intern",
+    "company": "Colliers",
+    "title": "Information Technology/Application Development Intern",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "url": "https://go.vansh.nyc/1LR",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794787200,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ae35362099df4cb5",
+    "dedup_key": "intern|analog devices|digital design engineer intern",
+    "company": "Analog Devices",
+    "title": "Digital Design Engineer Intern",
+    "locations": [
+      "Austin, TX"
+    ],
+    "url": "https://go.vansh.nyc/1LT",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1794960000,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "10d89f6b6ac44264",
+    "dedup_key": "intern|barclays|markets quantitative analyst intern",
+    "company": "Barclays",
+    "title": "Markets Quantitative Analyst Intern",
+    "locations": [
+      "New York, NY"
+    ],
+    "url": "https://go.vansh.nyc/1LV",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "quant",
+    "sponsorship": "Other",
+    "date_posted": 1795392000,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "ef53d3bac2698b76",
+    "dedup_key": "intern|signet jewelers|software engineer intern digital commerce",
+    "company": "Signet Jewelers",
+    "title": "Software Engineer Intern, Digital Commerce",
+    "locations": [
+      "Irving, TX"
+    ],
+    "url": "https://go.vansh.nyc/1LW",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795564800,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "1d87f88b84189bc9",
+    "dedup_key": "new grad|bank of montreal|new grad software developer",
+    "company": "Bank of Montreal",
+    "title": "New Grad: Software Developer",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "url": "https://go.vansh.nyc/1LY",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795828601,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
+  },
+  {
+    "id": "561916e0f901d4cc",
+    "dedup_key": "new grad|chep|software developer applications",
+    "company": "CHEP",
+    "title": "Software Developer - Applications",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "url": "https://go.vansh.nyc/1LZ",
+    "season": "",
+    "source": "agg:vanshb03-newgrad2027",
+    "role_type": "new_grad",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795737600,
+    "date_found": 1795841824,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "b45979063d638037",

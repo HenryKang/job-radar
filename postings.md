@@ -1,9 +1,24 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-27 23:25 UTC · 5887 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-28 04:57 UTC · 5902 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-28 | 2026-11-24 | General Dynamics Information Technology | Artificial Intelligence/Machine Learning Software Development and Engineer Intern | Bossier City, LA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LA) |
+| 2026-11-28 | 2026-11-20 | State Street | Quantitative Analyst Intern | Boston, MA | Summer | quant | unknown | [apply](https://go.vansh.nyc/1LF) |
+| 2026-11-28 | 2026-11-25 | NVIDIA | Software Engineer Intern, Simulation Technology | Santa Clara, CA, Canada, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LG) |
+| 2026-11-28 | 2026-11-25 | NVIDIA | Developer Technology Intern | Santa Clara, CA, Canada, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LH) |
+| 2026-11-28 | 2026-11-28 | Citi | Markets Analyst Intern, Quantitative Analysis | New York, NY | Summer | quant | unknown | [apply](https://go.vansh.nyc/1LL) |
+| 2026-11-28 | 2026-11-16 | ASML | Artificial Intelligence Intern, Integrate GUI and LLM | San Jose, CA | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1LN) |
+| 2026-11-28 | 2026-11-16 | GlobalFoundries | Tapeout Engineering Business Products & Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LO) |
+| 2026-11-28 | 2026-11-16 | Michaels Stores | Digital Software Engineer Intern | Irving, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LP) |
+| 2026-11-28 | 2026-11-16 | Michaels Stores | Software Engineer Intern | Irving, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LQ) |
+| 2026-11-28 | 2026-11-16 | Colliers | Information Technology/Application Development Intern | Minneapolis, MN | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LR) |
+| 2026-11-28 | 2026-11-18 | Analog Devices | Digital Design Engineer Intern | Austin, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LT) |
+| 2026-11-28 | 2026-11-23 | Barclays | Markets Quantitative Analyst Intern | New York, NY | Summer | quant | unknown | [apply](https://go.vansh.nyc/1LV) |
+| 2026-11-28 | 2026-11-25 | Signet Jewelers | Software Engineer Intern, Digital Commerce | Irving, TX | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LW) |
+| 2026-11-28 | 2026-11-28 | Bank of Montreal | New Grad: Software Developer | Berkeley Heights, NJ | — | swe | unknown | [apply](https://go.vansh.nyc/1LY) |
+| 2026-11-28 | 2026-11-27 | CHEP | Software Developer - Applications | Santa Clara, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1LZ) |
 | 2026-11-27 | 2026-11-26 | Clera | Product Engineer Intern, Mobile | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1Lw) |
 | 2026-11-27 | 2026-11-24 | Applied Materials | AI Engineer/Data Scientist | Santa Clara, CA | — | swe | ok | [apply](https://go.vansh.nyc/1Lx) |
 | 2026-11-27 | 2026-10-28 | Microsoft | Software Solution Engineer | USA | — | swe | unknown | [apply](https://apply.careers.microsoft.com/careers/job/1970393557050055) |
@@ -389,18 +404,3 @@ _Last updated: 2026-11-27 23:25 UTC · 5887 live & eligible postings (showing 40
 | 2026-11-20 | 2026-11-20 | L3Harris Technologies | Associate, FPGA Firmware Electrical Engineering | Fort Wayne, IN | — | swe | ok | [apply](https://go.vansh.nyc/1EI) |
 | 2026-11-20 | 2026-11-20 | L3Harris Technologies | Associate, FPGA Firmware Electrical Engineering | Fort Wayne, IN | — | swe | ok | [apply](https://go.vansh.nyc/1EJ) |
 | 2026-11-20 | 2026-11-20 | L3Harris Technologies | Associate, Embedded Software Engineer | Fort Wayne, IN | — | swe | ok | [apply](https://go.vansh.nyc/1EK) |
-| 2026-11-20 | 2026-11-20 | enGen | Data Engineer & Analyst Undergraduate Intern | Pittsburgh, PA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1DQ) |
-| 2026-11-20 | 2026-11-20 | Lucid Motors | Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving | Newark, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1DT) |
-| 2026-11-20 | 2026-11-20 | Lucid Motors | Infotainment Software Intern | Newark, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1DU) |
-| 2026-11-20 | 2026-11-20 | Lucid Motors | Product Security Engineering Intern | Newark, CA | Summer | swe | ok | [apply](https://go.vansh.nyc/1DW) |
-| 2026-11-20 | 2026-11-20 | Constellation Brands | Data Science Intern | Rochester, NY | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1DX) |
-| 2026-11-20 | 2026-11-20 | Centene Corporation | Undergraduate Analytics Engineering Intern | Remote, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1DY) |
-| 2026-11-20 | 2026-11-20 | Honeywell Aerospace | Semiconductor Engineer Intern | United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1E3) |
-| 2026-11-20 | 2026-11-20 | Marias Technology | Software Developer Intern | Covington, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1E4) |
-| 2026-11-20 | 2026-11-20 | CAS | Technology Intern, Business Data Governance | Columbus, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1E6) |
-| 2026-11-20 | 2026-11-20 | CAS | Technology Intern, Application Technology | Columbus, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1E7) |
-| 2026-11-20 | 2026-11-20 | CAS | Technology Intern, Databases | Columbus, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1E8) |
-| 2026-11-20 | 2026-11-20 | CAS | Technology Intern, Software Engineering | Columbus, OH | Summer | swe | unknown | [apply](https://go.vansh.nyc/1E9) |
-| 2026-11-20 | 2026-11-20 | TransUnion | Data Science & Analytics Intern | Chicago, IL | Summer | ml_data | unknown | [apply](https://go.vansh.nyc/1Ea) |
-| 2026-11-20 | 2026-11-20 | Cisco | AI Researcher II Intern | San Francisco, CA | Summer | quant | unknown | [apply](https://go.vansh.nyc/1Eb) |
-| 2026-11-20 | 2026-11-18 | Blue Cross Blue Shield of Michigan | Data Science Analyst I | Detroit, MI | — | ml_data | unknown | [apply](https://go.vansh.nyc/1DR) |

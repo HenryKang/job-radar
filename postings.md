@@ -1,9 +1,10 @@
 # 📡 job-radar — tracked postings
 
-_Last updated: 2026-11-28 04:57 UTC · 5902 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
+_Last updated: 2026-11-28 14:08 UTC · 5903 live & eligible postings (showing 400); 162 hidden (dead links / PhD / grad / underclassmen)._
 
 | Found | Posted | Company | Role | Location | Season | Category | Fit | Apply |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-28 | 2026-11-24 | Intel | Design Verification Engineer Intern | Austin, TX, Santa Clara, CA, Hillsboro, OR, Fort Collins, CO | Summer | swe | unknown | [apply](https://go.vansh.nyc/1M3) |
 | 2026-11-28 | 2026-11-24 | General Dynamics Information Technology | Artificial Intelligence/Machine Learning Software Development and Engineer Intern | Bossier City, LA | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LA) |
 | 2026-11-28 | 2026-11-20 | State Street | Quantitative Analyst Intern | Boston, MA | Summer | quant | unknown | [apply](https://go.vansh.nyc/1LF) |
 | 2026-11-28 | 2026-11-25 | NVIDIA | Software Engineer Intern, Simulation Technology | Santa Clara, CA, Canada, United States | Summer | swe | unknown | [apply](https://go.vansh.nyc/1LG) |
@@ -403,4 +404,3 @@ _Last updated: 2026-11-28 04:57 UTC · 5902 live & eligible postings (showing 40
 | 2026-11-20 | 2026-11-20 | Cadence Design Systems | Software Engineering, Verification IP Team | San Jose, CA | — | swe | unknown | [apply](https://go.vansh.nyc/1Eq) |
 | 2026-11-20 | 2026-11-20 | L3Harris Technologies | Associate, FPGA Firmware Electrical Engineering | Fort Wayne, IN | — | swe | ok | [apply](https://go.vansh.nyc/1EI) |
 | 2026-11-20 | 2026-11-20 | L3Harris Technologies | Associate, FPGA Firmware Electrical Engineering | Fort Wayne, IN | — | swe | ok | [apply](https://go.vansh.nyc/1EJ) |
-| 2026-11-20 | 2026-11-20 | L3Harris Technologies | Associate, Embedded Software Engineer | Fort Wayne, IN | — | swe | ok | [apply](https://go.vansh.nyc/1EK) |

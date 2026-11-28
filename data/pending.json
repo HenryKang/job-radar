@@ -1,23 +1,5 @@
 [
   {
-    "dedup_key": "intern|mitre|computer science or software engineering intern",
-    "id": "604ff341ad3e5fea",
-    "company": "MITRE",
-    "title": "Computer Science or Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1lX",
-    "role_type": "intern",
-    "source": "agg:vanshb03-summer2027",
-    "season": "Summer",
-    "category": "swe",
-    "locations": [
-      "McLean, VA"
-    ],
-    "date_posted": 1793934463,
-    "date_discovered": 1794045833,
-    "last_checked": 1795841824,
-    "fail_reason": "closed: 'no longer available'"
-  },
-  {
     "dedup_key": "new grad|cursor|new grad 2027 software engineer",
     "id": "ef1382240518a416",
     "company": "Cursor",
@@ -32,7 +14,7 @@
     ],
     "date_posted": 1794273212,
     "date_discovered": 1794306423,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -50,7 +32,7 @@
     ],
     "date_posted": 1791488345,
     "date_discovered": 1794394125,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -68,7 +50,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -86,7 +68,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -104,7 +86,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -122,7 +104,7 @@
     ],
     "date_posted": 1791849600,
     "date_discovered": 1794394125,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -140,7 +122,7 @@
     ],
     "date_posted": 1791928801,
     "date_discovered": 1794394125,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -158,7 +140,7 @@
     ],
     "date_posted": 1787878716,
     "date_discovered": 1794445189,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -176,7 +158,7 @@
     ],
     "date_posted": 1794358716,
     "date_discovered": 1794445189,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 410"
   },
   {
@@ -194,7 +176,7 @@
     ],
     "date_posted": 1793753916,
     "date_discovered": 1794445189,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -212,7 +194,7 @@
     ],
     "date_posted": 1793753916,
     "date_discovered": 1794445189,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -230,7 +212,7 @@
     ],
     "date_posted": 1793753916,
     "date_discovered": 1794445189,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 410"
   },
   {
@@ -248,7 +230,7 @@
     ],
     "date_posted": 1792544316,
     "date_discovered": 1794445189,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -266,7 +248,7 @@
     ],
     "date_posted": 1790297916,
     "date_discovered": 1794445189,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -284,7 +266,7 @@
     ],
     "date_posted": 1788915516,
     "date_discovered": 1794445189,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 410"
   },
   {
@@ -302,7 +284,7 @@
     ],
     "date_posted": 1785805116,
     "date_discovered": 1794445189,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -320,7 +302,7 @@
     ],
     "date_posted": 1794965271,
     "date_discovered": 1795051716,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -338,7 +320,7 @@
     ],
     "date_posted": 1795119035,
     "date_discovered": 1795136102,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "js-rendered 404 (no title)"
   },
   {
@@ -356,7 +338,7 @@
     ],
     "date_posted": 1795049661,
     "date_discovered": 1795136102,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "http 404"
   },
   {
@@ -374,7 +356,7 @@
     ],
     "date_posted": 1793322383,
     "date_discovered": 1795194962,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -392,7 +374,7 @@
     ],
     "date_posted": 1795410616,
     "date_discovered": 1795501364,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "closed: 'no longer available'"
   },
   {
@@ -410,7 +392,25 @@
     ],
     "date_posted": 1795647402,
     "date_discovered": 1795733842,
-    "last_checked": 1795841824,
+    "last_checked": 1795874867,
     "fail_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "dedup_key": "intern|mitre|computer science or software engineering intern",
+    "id": "604ff341ad3e5fea",
+    "company": "MITRE",
+    "title": "Computer Science or Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1lX",
+    "role_type": "intern",
+    "source": "agg:vanshb03-summer2027",
+    "season": "Summer",
+    "category": "swe",
+    "locations": [
+      "McLean, VA"
+    ],
+    "date_posted": 1793934463,
+    "date_discovered": 1795874867,
+    "last_checked": 1795874867,
+    "fail_reason": "closed: 'no longer available'"
   }
 ]

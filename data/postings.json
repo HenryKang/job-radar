@@ -14,7 +14,7 @@
     "category": "swe",
     "sponsorship": "U.S. Citizenship is Required",
     "date_posted": 1793322383,
-    "date_found": 1795841824,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -34,7 +34,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1793934463,
-    "date_found": 1795841824,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -54,7 +54,7 @@
     "category": "ml_data",
     "sponsorship": "Other",
     "date_posted": 1791488345,
-    "date_found": 1795841824,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -74,7 +74,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791849600,
-    "date_found": 1795841824,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -94,7 +94,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1791928801,
-    "date_found": 1795841824,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "http 404"
@@ -113,8 +113,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793768188,
-    "date_found": 1795841824,
+    "date_posted": 1793801234,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -133,8 +133,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1793768188,
-    "date_found": 1795841824,
+    "date_posted": 1793801234,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -153,8 +153,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1792558588,
-    "date_found": 1795841824,
+    "date_posted": 1792591634,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -173,8 +173,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1791521788,
-    "date_found": 1795841824,
+    "date_posted": 1791554834,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -193,8 +193,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1790312188,
-    "date_found": 1795841824,
+    "date_posted": 1790345234,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -213,8 +213,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1789102588,
-    "date_found": 1795841824,
+    "date_posted": 1789135634,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -233,8 +233,8 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1785819388,
-    "date_found": 1795841824,
+    "date_posted": 1785852434,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -254,7 +254,7 @@
     "category": "ml_data",
     "sponsorship": "Does Not Offer Sponsorship",
     "date_posted": 1795119035,
-    "date_found": 1795841824,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
@@ -274,7 +274,7 @@
     "category": "swe",
     "sponsorship": "Other",
     "date_posted": 1795410616,
-    "date_found": 1795841824,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "closed: 'no longer available'"
@@ -293,11 +293,34 @@
     "role_type": "new_grad",
     "category": "swe",
     "sponsorship": "",
-    "date_posted": 1795668988,
-    "date_found": 1795841824,
+    "date_posted": 1795702034,
+    "date_found": 1795874867,
     "alive": false,
     "eligibility": "na",
     "elig_reason": "js-rendered 404 (no title)"
+  },
+  {
+    "id": "d90badf2ad96ea85",
+    "dedup_key": "intern|intel|design verification engineer intern",
+    "company": "Intel",
+    "title": "Design Verification Engineer Intern",
+    "locations": [
+      "Austin, TX",
+      "Santa Clara, CA",
+      "Hillsboro, OR",
+      "Fort Collins, CO"
+    ],
+    "url": "https://go.vansh.nyc/1M3",
+    "season": "Summer",
+    "source": "agg:vanshb03-summer2027",
+    "role_type": "intern",
+    "category": "swe",
+    "sponsorship": "Other",
+    "date_posted": 1795478400,
+    "date_found": 1795874867,
+    "alive": true,
+    "eligibility": "unknown",
+    "elig_reason": "no clear disqualifier"
   },
   {
     "id": "d29921e888a33b36",
